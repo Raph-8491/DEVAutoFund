@@ -1,9 +1,10 @@
 """
-Fahrzeug-Watcher v1.2 (Haendler-Profil VW/Audi/BMW/Mercedes): 3 Plattformen + Marken-/BJ-/KM-/Limousinen-Filter + Karosserie-Feld (b) + Content-Dedup (gleiches Auto an Marke+Modell+BJ+km+Preis) + Cross-Push-Dedup + Block-Warnung + Template + Preis-Drop + Link-Check + Marktwert-DB + Header-Rotation.
+Fahrzeug-Watcher v1.3 (Haendler-Profil VW/Audi/BMW/Mercedes): 3 Plattformen + Marken-/BJ-/KM-/Limousinen-Filter (akzent-unempfindlich: Coupe=Coupé) + Karosserie-Feld (b) + Content-Dedup (gleiches Auto an Marke+Modell+BJ+km+Preis) + Cross-Push-Dedup + Block-Warnung + Template + Preis-Drop + Link-Check + Marktwert-DB + Header-Rotation.
 """
 import os
 import json
 import re
+import unicodedata
 import sys
 import time
 import random
@@ -1011,7 +1012,7 @@ DEALER_BRANDS = {"VW", "Audi", "BMW", "Mercedes-Benz"}
 
 LIMO_POS = ["limousine", "limo", "sedan", "stufenheck"]
 LIMO_NEG = ["kombi", "avant", "touring", "variant", "sportback", "gran coupe",
-            "gran coupe", "gran turismo", "shooting brake", "suv", "coupe", "coupe",
+            "gran coupe", "gran turismo", "shooting brake", "suv", "coupe", "sportwagen",
             "cabrio", "roadster", "van", "kompakt", "schraegheck", "fliessheck",
             "t-modell", "tourer", "allroad", "cross country", "kasten", "bus",
             "hatchback", "fastback", "liftback", "active tourer", "gran tourer", "scenic"]
@@ -1032,8 +1033,13 @@ def wh_body(ad):
             or get_wh_attr(ad, "BODY_DYNAMIC") or "")
 
 
+def _strip_accents(s):
+    # macht Akzente egal: "Coupé" -> "coupe", "Geländewagen" -> "gelandewagen"
+    return "".join(c for c in unicodedata.normalize("NFKD", s) if not unicodedata.combining(c))
+
+
 def is_limousine(body, title):
-    t = ((body or "") + " " + (title or "")).lower()
+    t = _strip_accents(((body or "") + " " + (title or "")).lower())
     if any(k in t for k in LIMO_NEG):
         return False
     if any(k in t for k in LIMO_POS):
