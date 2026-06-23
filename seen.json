@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2026620746": {
+    "p": 13600,
+    "f": "2026-06-23T20:25:32.009304+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x5-e-70-3-0-d-2026620746/",
+    "t": "BMW X5 E 70 3.0 d",
+    "ts": "2026-06-23T20:25:32.009304+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X5",
+    "y": 2010,
+    "km": 248000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "as:38c4ac5f-2e1f-44e9-ba91-be216edbbc96": {
     "p": null,
     "f": "2026-06-23T20:24:30.501315+00:00",
@@ -144042,18 +144055,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1860742880": {
-    "p": 5000,
-    "f": "2026-06-15T17:09:26.964508+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-jetta-tausch-gegen-kombi-1860742880/",
-    "t": "VW Jetta Tausch gegen kombi",
-    "ts": "2026-06-15T17:09:26.964508+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Jetta",
-    "y": 2011,
-    "km": 230000
   },
   "__health__": {
     "wh": 0,
