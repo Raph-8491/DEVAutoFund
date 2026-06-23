@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "as:bda5fc63-cf70-4994-9c58-49bfc3166e41": {
+    "p": 4900,
+    "f": "2026-06-23T20:56:30.030656+00:00",
+    "u": "https://www.autoscout24.at/angebote/citroen-c4-picasso-c4-picasso-2-0-hdi-fap-exclusive-diesel-grau-cat_ma21mo18915-bda5fc63-cf70-4994-9c58-49bfc3166e41",
+    "t": "Citroen C4 Picasso",
+    "ts": "2026-06-23T20:56:30.030656+00:00",
+    "ch": null,
+    "ma": "Citroen",
+    "mo": "C4 Picasso",
+    "y": 2012,
+    "km": 159000,
+    "b": ""
+  },
+  "wh:1948264748": {
+    "p": 3000,
+    "f": "2026-06-23T20:56:27.932024+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-sharan-tdi-business-4motion-1948264748/",
+    "t": "VW Sharan TDI Business 4motion",
+    "ts": "2026-06-23T20:56:27.932024+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Sharan",
+    "y": 2008,
+    "km": 414725,
+    "b": "Kombi / Family Van"
+  },
   "as:8d2e6396-8d2a-4d12-9afd-4b2d57970c14": {
     "p": 13300,
     "f": "2026-06-23T20:54:29.771484+00:00",
@@ -144068,30 +144094,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:1c563c4e-ea68-4eb1-ab61-6b6fc2119c64": {
-    "p": 9500,
-    "f": "2026-06-15T17:35:48.757852+00:00",
-    "u": "https://www.autoscout24.at/angebote/fiat-ducato-fiat-ducato-2-3-multi-jet-diesel-cat_ma28mo14783-1c563c4e-ea68-4eb1-ab61-6b6fc2119c64",
-    "t": "Fiat Ducato",
-    "ts": "2026-06-15T17:35:48.757852+00:00",
-    "ch": "alive",
-    "ma": "Fiat",
-    "mo": "Ducato",
-    "y": 2015,
-    "km": 260000
-  },
-  "as:a58ad05f-e960-4e48-b7b3-a1cc052c809a": {
-    "p": 6900,
-    "f": "2026-06-15T17:35:48.757852+00:00",
-    "u": "https://www.autoscout24.at/angebote/toyota-auris-1-6-touring-sports-edition-benzin-cat_ma70mo18992-a58ad05f-e960-4e48-b7b3-a1cc052c809a",
-    "t": "Toyota Auris",
-    "ts": "2026-06-15T17:35:48.757852+00:00",
-    "ch": "alive",
-    "ma": "Toyota",
-    "mo": "Auris",
-    "y": 2015,
-    "km": 180000
   },
   "__health__": {
     "wh": 0,
