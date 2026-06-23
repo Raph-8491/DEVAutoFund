@@ -147,6 +147,30 @@
     "y": 2009,
     "km": 235000
   },
+  "as:b29cbc2f-37dd-4734-a74c-114d90504798": {
+    "p": null,
+    "f": "2026-06-23T20:10:45.418282+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1789181790": {
+    "p": 7700,
+    "f": "2026-06-23T20:10:43.383973+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-talisman-1-6-dci-1789181790/",
+    "t": "Renault Talisman 1.6 dCi",
+    "ts": "2026-06-23T20:10:43.383973+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2017,
+    "km": 179000
+  },
   "gw:a66674da-13dd-41a0-8997-8225509add12": {
     "p": 11800,
     "f": "2026-06-23T20:09:51.260284+00:00",
@@ -213,7 +237,7 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-630-630i-benzin-cat_ma13mo18491/a78283cb-8384-497e-88fc-f252ab1cd8b6",
     "t": "BMW 630",
     "ts": "2026-06-23T20:07:42.136163+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "630",
     "y": 2008,
@@ -225,7 +249,7 @@
     "u": "https://www.autoscout24.at/angebote/bmw-630-630i-benzin-cat_ma13mo18491-a78283cb-8384-497e-88fc-f252ab1cd8b6",
     "t": "BMW 630",
     "ts": "2026-06-23T20:07:30.737100+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "630",
     "y": 2008,
@@ -143978,30 +144002,6 @@
     "mo": "Fabia",
     "y": 2009,
     "km": 167904
-  },
-  "gw:6cd7d465-a76a-4f7d-b3f3-ab2c3dca3dee": {
-    "p": 2500,
-    "f": "2026-06-15T17:06:42.643006+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/renault-modus-1-5-dci-dynamique-diesel-cat_ma60mo18522/6cd7d465-a76a-4f7d-b3f3-ab2c3dca3dee",
-    "t": "Renault Modus",
-    "ts": "2026-06-15T17:06:42.643006+00:00",
-    "ch": "alive",
-    "ma": "Renault",
-    "mo": "Modus",
-    "y": 2008,
-    "km": 189922
-  },
-  "as:23c3b7be-abea-4c09-b73b-ae764fc8612c": {
-    "p": null,
-    "f": "2026-06-15T17:06:33.424915+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
