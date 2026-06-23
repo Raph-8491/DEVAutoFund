@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1463441822": {
+    "p": 5900,
+    "f": "2026-06-23T20:13:28.334897+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-2-0-tdi-kombi-1463441822/",
+    "t": "Audi A6 2.0 TDI Kombi",
+    "ts": "2026-06-23T20:13:28.334897+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A6",
+    "y": 2010,
+    "km": 261000
+  },
   "as:b29cbc2f-37dd-4734-a74c-114d90504798": {
     "p": null,
     "f": "2026-06-23T20:10:45.418282+00:00",
@@ -177,7 +189,7 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/opel-crossland-x-crossland-x-1-2-turbo-direct-injection-ultimate-st-st-aut-ultimate-benzin-weiss-cat_ma54mo74532/a66674da-13dd-41a0-8997-8225509add12",
     "t": "Opel Crossland X",
     "ts": "2026-06-23T20:09:51.260284+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Opel",
     "mo": "Crossland X",
     "y": 2018,
@@ -201,7 +213,7 @@
     "u": "https://www.autoscout24.at/angebote/opel-crossland-x-crossland-x-1-2-turbo-direct-injection-ultimate-st-st-aut-ultimate-benzin-weiss-cat_ma54mo74532-a66674da-13dd-41a0-8997-8225509add12",
     "t": "Opel Crossland X",
     "ts": "2026-06-23T20:09:45.552141+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Opel",
     "mo": "Crossland X",
     "y": 2018,
@@ -213,7 +225,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-500c-cabrio-1-2l-51kw-1518887441/",
     "t": "Fiat 500C Cabrio 1,2l 51kW",
     "ts": "2026-06-23T20:09:44.555987+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2016,
@@ -225,7 +237,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-volkswagen-cc-2-0-tdi-2051914941/",
     "t": "VW Volkswagen CC 2.0 tdi",
     "ts": "2026-06-23T20:09:44.555987+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Volkswagen",
     "y": 2012,
@@ -143990,18 +144002,6 @@
     "mo": null,
     "y": 2008,
     "km": 325250
-  },
-  "wh:1853848439": {
-    "p": 1800,
-    "f": "2026-06-15T17:07:25.079382+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-fabia-1-2-benzin-1853848439/",
-    "t": "Skoda Fabia 1.2 benzin",
-    "ts": "2026-06-15T17:07:25.079382+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Fabia",
-    "y": 2009,
-    "km": 167904
   },
   "__health__": {
     "wh": 0,
