@@ -1,5 +1,5 @@
 """
-Fahrzeug-Watcher v1.1 (Haendler-Profil VW/Audi/BMW/Mercedes): 3 Plattformen + Marken-/BJ-/KM-/Limousinen-Filter + Karosserie-Feld (b) + Cross-Push-Dedup + Block-Warnung + Template + Preis-Drop + Link-Check + Marktwert-DB + Header-Rotation.
+Fahrzeug-Watcher v1.2 (Haendler-Profil VW/Audi/BMW/Mercedes): 3 Plattformen + Marken-/BJ-/KM-/Limousinen-Filter + Karosserie-Feld (b) + Content-Dedup (gleiches Auto an Marke+Modell+BJ+km+Preis) + Cross-Push-Dedup + Block-Warnung + Template + Preis-Drop + Link-Check + Marktwert-DB + Header-Rotation.
 """
 import os
 import json
@@ -1072,7 +1072,19 @@ def dealer_decision(meta, title):
     return car_passes_dealer_rules(make, meta.get("body"), title, meta.get("y"), meta.get("km"))
 
 
-def process_listings(listings, prefix, seen, first_run, format_func, photo_func, ooe_check, region_check, url_func, price_func, title_func, meta_func, sibling_prefix=None):
+def car_fingerprint(meta, price):
+    # Erkennt dasselbe Auto plattform-/ID-unabhaengig. Nur wenn alle Werte da sind
+    # (sonst zu unspezifisch -> kein Dedup, lieber pushen).
+    ma = (meta.get("ma") or "").strip().lower()
+    mo = re.sub(r"[^a-z0-9]", "", (meta.get("mo") or "").lower())
+    y = meta.get("y")
+    km = meta.get("km")
+    if not ma or not mo or y is None or km is None or not price:
+        return None
+    return f"{ma}|{mo}|{y}|{km}|{price}"
+
+
+def process_listings(listings, prefix, seen, first_run, format_func, photo_func, ooe_check, region_check, url_func, price_func, title_func, meta_func, sibling_prefix=None, run_pushed_fps=None):
     new_count = 0
     new_ooe = 0
     price_drops = 0
@@ -1080,6 +1092,7 @@ def process_listings(listings, prefix, seen, first_run, format_func, photo_func,
     skipped_region = 0
     cross_dupes = 0
     dealer_skipped = 0
+    content_dupes = 0
     now = now_iso()
 
     def is_cross_dupe(raw_id):
@@ -1136,10 +1149,18 @@ def process_listings(listings, prefix, seen, first_run, format_func, photo_func,
                         print(f"  ⏭️ Dealer-Filter raus (Zombie): {ad_id} {meta.get('ma')} BJ{meta.get('y')} {meta.get('km')}km body='{meta.get('body')}'")
                     continue
 
+                fp = car_fingerprint(meta, current_price)
+                if run_pushed_fps is not None and fp and fp in run_pushed_fps:
+                    content_dupes += 1
+                    print(f"  ⏭️ Content-Dedup: {ad_id} gleiches Auto schon gepusht (Zombie, {fp})")
+                    continue
+
                 send_telegram(format_func(ad), photo_func(ad))
                 zombie_count += 1
                 if ooe_check(ad):
                     new_ooe += 1
+                if run_pushed_fps is not None and fp:
+                    run_pushed_fps.add(fp)
                 print(f"  🧟 Zombie-Push: {ad_id} - {current_title[:50]}")
                 continue
 
@@ -1200,10 +1221,18 @@ def process_listings(listings, prefix, seen, first_run, format_func, photo_func,
                 print(f"  ⏭️ Dealer-Filter raus: {ad_id} {meta.get('ma')} BJ{meta.get('y')} {meta.get('km')}km body='{meta.get('body')}'")
             continue
 
+        fp = car_fingerprint(meta, current_price)
+        if run_pushed_fps is not None and fp and fp in run_pushed_fps:
+            content_dupes += 1
+            print(f"  ⏭️ Content-Dedup: {ad_id} gleiches Auto schon gepusht ({fp})")
+            continue
+
         send_telegram(format_func(ad), photo_func(ad))
         new_count += 1
         if ooe_check(ad):
             new_ooe += 1
+        if run_pushed_fps is not None and fp:
+            run_pushed_fps.add(fp)
         print(f"  Gemeldet: {ad_id}")
 
     if skipped_region:
@@ -1212,6 +1241,8 @@ def process_listings(listings, prefix, seen, first_run, format_func, photo_func,
         print(f"  ⏭️ Cross-Dedup übersprungen: {cross_dupes}")
     if dealer_skipped:
         print(f"  ⏭️ Dealer-Filter raus (Zielmarken): {dealer_skipped}")
+    if content_dupes:
+        print(f"  ⏭️ Content-Dedup (gleiches Auto): {content_dupes}")
     if zombie_count:
         print(f"  🧟 Zombies reaktiviert: {zombie_count}")
     return new_count + zombie_count, new_ooe, price_drops
@@ -1275,6 +1306,7 @@ def main():
     total_drops = 0
     total_listings = 0
     found_counts = {"wh": 0, "as": 0, "gw": 0}
+    run_pushed_fps = set()  # gepushte Auto-Fingerprints dieses Laufs (Content-Dedup)
 
     print("\n=== willhaben ===")
     try:
@@ -1287,7 +1319,8 @@ def main():
         n, o, d = process_listings(listings, "wh", seen, first_run,
                                    format_willhaben, get_photo_willhaben,
                                    is_ooe_willhaben, is_target_willhaben,
-                                   wh_url, wh_price, wh_title, wh_meta)
+                                   wh_url, wh_price, wh_title, wh_meta,
+                                   run_pushed_fps=run_pushed_fps)
         total_new += n
         total_ooe += o
         total_drops += d
@@ -1308,7 +1341,8 @@ def main():
                 n, o, d = process_listings(listings, "as", seen, first_run,
                                            format_autoscout, get_photo_as_engine,
                                            is_ooe_as_engine, is_target_autoscout,
-                                           autoscout_url, as_engine_price, as_engine_title, as_engine_meta)
+                                           autoscout_url, as_engine_price, as_engine_title, as_engine_meta,
+                                           run_pushed_fps=run_pushed_fps)
                 total_new += n
                 total_ooe += o
                 total_drops += d
@@ -1338,7 +1372,7 @@ def main():
                                            format_gebrauchtwagen, get_photo_as_engine,
                                            is_ooe_as_engine, is_target_gebrauchtwagen,
                                            gebrauchtwagen_url, as_engine_price, as_engine_title, as_engine_meta,
-                                           sibling_prefix="as")
+                                           sibling_prefix="as", run_pushed_fps=run_pushed_fps)
                 total_new += n
                 total_ooe += o
                 total_drops += d
