@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:618929df-c387-4a99-87aa-e16a575d2efd": {
+    "p": 5500,
+    "f": "2026-06-23T20:35:56.027303+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-golf-plus-golf-plus-comfortline-bmt-1-6-tdi-dpf-comfortline-diesel-schwarz-cat_ma74mo20026/618929df-c387-4a99-87aa-e16a575d2efd",
+    "t": "Volkswagen Golf Plus",
+    "ts": "2026-06-23T20:35:56.027303+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf Plus",
+    "y": 2010,
+    "km": 165500,
+    "b": ""
+  },
+  "as:618929df-c387-4a99-87aa-e16a575d2efd": {
+    "p": 5500,
+    "f": "2026-06-23T20:35:42.931388+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-plus-golf-plus-comfortline-bmt-1-6-tdi-dpf-comfortline-diesel-schwarz-cat_ma74mo20026-618929df-c387-4a99-87aa-e16a575d2efd",
+    "t": "Volkswagen Golf Plus",
+    "ts": "2026-06-23T20:35:42.931388+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf Plus",
+    "y": 2010,
+    "km": 165500,
+    "b": ""
+  },
+  "wh:1826598446": {
+    "p": 7000,
+    "f": "2026-06-23T20:35:38.940788+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/land-rover-discovery-4-hse-1826598446/",
+    "t": "Land Rover Discovery 4 HSE",
+    "ts": "2026-06-23T20:35:38.940788+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 320000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "wh:2037857165": {
     "p": 3900,
     "f": "2026-06-23T20:33:26.116283+00:00",
@@ -230,7 +269,7 @@
     "u": "https://www.autoscout24.at/angebote/ford-focus-turnier-1-5-tdci-dpf-start-stopp-system-business-diesel-cat_ma29mo15537-ed7920fd-97d6-434f-8c41-211eee7257e3",
     "t": "Ford Focus",
     "ts": "2026-06-23T20:32:33.881953+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Ford",
     "mo": "Focus",
     "y": 2016,
@@ -144029,42 +144068,6 @@
     "mo": "Golf",
     "y": 2014,
     "km": 220800
-  },
-  "wh:1476408591": {
-    "p": 2500,
-    "f": "2026-06-15T17:15:41.551072+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-modus-1-5-dci-dynamique-1476408591/",
-    "t": "Renault Modus 1.5 dCi Dynamique",
-    "ts": "2026-06-15T17:15:41.551072+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 189822
-  },
-  "wh:1715704590": {
-    "p": 4500,
-    "f": "2026-06-15T17:15:41.551072+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-1-6-1715704590/",
-    "t": "BMW 1er-Reihe 1,6",
-    "ts": "2026-06-15T17:15:41.551072+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "1er-Reihe",
-    "y": 2010,
-    "km": 237000
-  },
-  "wh:1475074751": {
-    "p": 2400,
-    "f": "2026-06-15T17:15:41.551072+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-1475074751/",
-    "t": "Ford Galaxy",
-    "ts": "2026-06-15T17:15:41.551072+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 316000
   },
   "__health__": {
     "wh": 0,
