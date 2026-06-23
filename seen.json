@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1546103052": {
+    "p": 5500,
+    "f": "2026-06-23T20:49:24.786833+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-avant-1546103052/",
+    "t": "Audi A4 Avant",
+    "ts": "2026-06-23T20:49:24.786833+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2012,
+    "km": 329487,
+    "b": "Kombi / Family Van"
+  },
   "as:2e469ef4-c712-443a-8372-f1ee748f6922": {
     "p": null,
     "f": "2026-06-23T20:48:29.100123+00:00",
@@ -165,7 +178,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1446605156/",
     "t": "Seat Ibiza",
     "ts": "2026-06-23T20:46:30.117414+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Seat",
     "mo": "Ibiza",
     "y": 2020,
@@ -144072,18 +144085,6 @@
     "mo": "Golf",
     "y": 2010,
     "km": 451000
-  },
-  "gw:7cf8fcf9-3929-49ae-a282-59aa74e80449": {
-    "p": 7700,
-    "f": "2026-06-15T17:26:47.842498+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-116-116i-benzin-cat_ma13mo18480/7cf8fcf9-3929-49ae-a282-59aa74e80449",
-    "t": "BMW 116",
-    "ts": "2026-06-15T17:26:47.842498+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "116",
-    "y": 2012,
-    "km": 170000
   },
   "__health__": {
     "wh": 0,
