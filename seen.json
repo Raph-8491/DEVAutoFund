@@ -147,6 +147,57 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:aeef72e0-8181-4520-9cc9-5d50dd31c38d": {
+    "p": 10500,
+    "f": "2026-06-23T20:58:37.112751+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-x1-x1-xdrive20d-aut-diesel-weiss-cat_ma13mo19242/aeef72e0-8181-4520-9cc9-5d50dd31c38d",
+    "t": "BMW X1",
+    "ts": "2026-06-23T20:58:37.112751+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X1",
+    "y": 2012,
+    "km": 180000,
+    "b": ""
+  },
+  "as:aeef72e0-8181-4520-9cc9-5d50dd31c38d": {
+    "p": 10500,
+    "f": "2026-06-23T20:58:26.750126+00:00",
+    "u": "https://www.autoscout24.at/angebote/bmw-x1-x1-xdrive20d-aut-diesel-weiss-cat_ma13mo19242-aeef72e0-8181-4520-9cc9-5d50dd31c38d",
+    "t": "BMW X1",
+    "ts": "2026-06-23T20:58:26.750126+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X1",
+    "y": 2012,
+    "km": 180000,
+    "b": ""
+  },
+  "as:2d7a61e3-4277-4e2a-aa09-830eafe51c41": {
+    "p": null,
+    "f": "2026-06-23T20:58:26.750126+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1255924687": {
+    "p": 8000,
+    "f": "2026-06-23T20:58:25.222040+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i20-1-25-edition-25-1255924687/",
+    "t": "Hyundai i20 1 ,25 Edition 25",
+    "ts": "2026-06-23T20:58:25.222040+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2018,
+    "km": 103000,
+    "b": "Limousine"
+  },
   "as:bda5fc63-cf70-4994-9c58-49bfc3166e41": {
     "p": 4900,
     "f": "2026-06-23T20:56:30.030656+00:00",
@@ -144046,54 +144097,6 @@
     "mo": "B-Klasse",
     "y": 2013,
     "km": 181000
-  },
-  "as:a330eb4e-675e-4921-9db0-4eaa95f1eea8": {
-    "p": null,
-    "f": "2026-06-15T17:36:31.935561+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "gw:1c563c4e-ea68-4eb1-ab61-6b6fc2119c64": {
-    "p": 9500,
-    "f": "2026-06-15T17:35:57.678536+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/fiat-ducato-fiat-ducato-2-3-multi-jet-diesel-cat_ma28mo14783/1c563c4e-ea68-4eb1-ab61-6b6fc2119c64",
-    "t": "Fiat Ducato",
-    "ts": "2026-06-15T17:35:57.678536+00:00",
-    "ch": "alive",
-    "ma": "Fiat",
-    "mo": "Ducato",
-    "y": 2015,
-    "km": 260000
-  },
-  "as:a12db271-e9b6-4b37-a10e-63aeaa880494": {
-    "p": null,
-    "f": "2026-06-15T17:35:48.757852+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:92508729-ebbd-4667-a542-111078f0a95c": {
-    "p": null,
-    "f": "2026-06-15T17:35:48.757852+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
