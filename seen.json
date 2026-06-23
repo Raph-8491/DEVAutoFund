@@ -147,17 +147,30 @@
     "y": 2009,
     "km": 235000
   },
+  "as:fe901118-1855-41d9-ba87-b552a6872bf4": {
+    "p": null,
+    "f": "2026-06-23T20:20:51.908420+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1006294104": {
     "p": 4650,
     "f": "2026-06-23T20:17:24.881991+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-c-200-1006294104/",
     "t": "Mercedes-Benz C-Klasse C 200",
     "ts": "2026-06-23T20:17:24.881991+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Mercedes-Benz",
     "mo": "C-Klasse",
     "y": 2008,
-    "km": 240000
+    "km": 240000,
+    "b": "Limousine"
   },
   "wh:1489419774": {
     "p": 999,
@@ -165,11 +178,12 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-fabia-1-2-htp-pickerl-09-2026-1489419774/",
     "t": "Skoda Fabia 1,2 HTP Pickerl 09/2026",
     "ts": "2026-06-23T20:17:24.881991+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Skoda",
     "mo": "Fabia",
     "y": 2008,
-    "km": 253000
+    "km": 253000,
+    "b": "Kombi / Family Van"
   },
   "wh:1440970671": {
     "p": 3350,
@@ -177,11 +191,12 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-207-peugeot-207-sw-1-6-hdi-1440970671/",
     "t": "Peugeot 207 Peugeot 207 SW 1.6 HDI",
     "ts": "2026-06-23T20:17:24.881991+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2010,
-    "km": 140000
+    "km": 140000,
+    "b": "Kombi / Family Van"
   },
   "as:f7dbeb58-fde7-4a02-8ce4-7c667729f670": {
     "p": null,
@@ -217,7 +232,8 @@
     "ma": "Audi",
     "mo": "A6",
     "y": 2010,
-    "km": 261000
+    "km": 261000,
+    "b": "Kombi / Family Van"
   },
   "as:b29cbc2f-37dd-4734-a74c-114d90504798": {
     "p": null,
@@ -241,7 +257,8 @@
     "ma": null,
     "mo": null,
     "y": 2017,
-    "km": 179000
+    "km": 179000,
+    "b": "Limousine"
   },
   "gw:a66674da-13dd-41a0-8997-8225509add12": {
     "p": 11800,
@@ -289,7 +306,8 @@
     "ma": null,
     "mo": null,
     "y": 2016,
-    "km": 127567
+    "km": 127567,
+    "b": "Cabrio / Roadster"
   },
   "wh:2051914941": {
     "p": 3500,
@@ -301,7 +319,8 @@
     "ma": "VW",
     "mo": "Volkswagen",
     "y": 2012,
-    "km": 347000
+    "km": 347000,
+    "b": "Limousine"
   },
   "gw:a78283cb-8384-497e-88fc-f252ab1cd8b6": {
     "p": 13500,
@@ -361,7 +380,8 @@
     "ma": "Skoda",
     "mo": "Octavia",
     "y": 2013,
-    "km": 110000
+    "km": 110000,
+    "b": "Kombi / Family Van"
   },
   "wh:1800375275": {
     "p": 7800,
@@ -373,7 +393,8 @@
     "ma": "BMW",
     "mo": "1er-Reihe",
     "y": 2009,
-    "km": 139500
+    "km": 139500,
+    "b": "Klein-/ Kompaktwagen"
   },
   "as:227c6c6c-94b9-4f48-81bd-f390975872be": {
     "p": null,
@@ -397,7 +418,8 @@
     "ma": null,
     "mo": null,
     "y": 2019,
-    "km": 122000
+    "km": 122000,
+    "b": "Limousine"
   },
   "wh:1723771448": {
     "p": 8000,
@@ -409,7 +431,8 @@
     "ma": null,
     "mo": null,
     "y": 2016,
-    "km": 168559
+    "km": 168559,
+    "b": "Kombi / Family Van"
   },
   "wh:1512290661": {
     "p": 3000,
@@ -421,7 +444,8 @@
     "ma": "Skoda",
     "mo": "Octavia",
     "y": 2013,
-    "km": 288450
+    "km": 288450,
+    "b": "Kombi / Family Van"
   },
   "wh:1074944659": {
     "p": 10500,
@@ -433,7 +457,8 @@
     "ma": null,
     "mo": null,
     "y": 2012,
-    "km": 140000
+    "km": 140000,
+    "b": "Limousine"
   },
   "wh:1876021554": {
     "p": 2500,
@@ -445,7 +470,8 @@
     "ma": "BMW",
     "mo": "3er-Reihe",
     "y": 2010,
-    "km": 302280
+    "km": 302280,
+    "b": "Kombi / Family Van"
   },
   "gw:ebe94428-5494-4d12-ab8e-8f4dc8ee1086": {
     "p": 14800,
@@ -817,7 +843,8 @@
     "ma": "Audi",
     "mo": "A4",
     "y": 2012,
-    "km": 189000
+    "km": 189000,
+    "b": "Kombi / Family Van"
   },
   "wh:1860598170": {
     "p": 14490,
@@ -829,7 +856,8 @@
     "ma": "Audi",
     "mo": "A3",
     "y": 2018,
-    "km": 102900
+    "km": 102900,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:2123050856": {
     "p": 7700,
@@ -841,7 +869,8 @@
     "ma": "BMW",
     "mo": "5er-Reihe",
     "y": 2008,
-    "km": 278700
+    "km": 278700,
+    "b": "Kombi / Family Van"
   },
   "wh:1052822239": {
     "p": 10990,
@@ -853,7 +882,8 @@
     "ma": null,
     "mo": null,
     "y": 2010,
-    "km": 125000
+    "km": 125000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:1074074212": {
     "p": 10200,
@@ -865,7 +895,8 @@
     "ma": null,
     "mo": null,
     "y": 2020,
-    "km": 94000
+    "km": 94000,
+    "b": "Limousine"
   },
   "wh:1793741687": {
     "p": 4500,
@@ -877,7 +908,8 @@
     "ma": "Audi",
     "mo": "A4",
     "y": 2009,
-    "km": 271000
+    "km": 271000,
+    "b": "Kombi / Family Van"
   },
   "wh:1506053088": {
     "p": 7500,
@@ -889,7 +921,8 @@
     "ma": "VW",
     "mo": "Golf",
     "y": 2014,
-    "km": 208000
+    "km": 208000,
+    "b": "Limousine"
   },
   "wh:2077963064": {
     "p": 6000,
@@ -901,7 +934,8 @@
     "ma": "Audi",
     "mo": "A6",
     "y": 2012,
-    "km": 273725
+    "km": 273725,
+    "b": "Kombi / Family Van"
   },
   "wh:1433324296": {
     "p": 2490,
@@ -913,7 +947,8 @@
     "ma": "Skoda",
     "mo": "Octavia",
     "y": 2011,
-    "km": 314000
+    "km": 314000,
+    "b": "Kombi / Family Van"
   },
   "wh:1202274530": {
     "p": 9990,
@@ -925,7 +960,8 @@
     "ma": "VW",
     "mo": "Touran",
     "y": 2018,
-    "km": 153000
+    "km": 153000,
+    "b": "Kombi / Family Van"
   },
   "wh:1567076065": {
     "p": 6000,
@@ -937,7 +973,8 @@
     "ma": "BMW",
     "mo": "X5",
     "y": 2009,
-    "km": 557040
+    "km": 557040,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "wh:1535262913": {
     "p": 8350,
@@ -949,7 +986,8 @@
     "ma": "VW",
     "mo": "Passat",
     "y": 2014,
-    "km": 237000
+    "km": 237000,
+    "b": "Kombi / Family Van"
   },
   "wh:2015450846": {
     "p": 6999,
@@ -961,7 +999,8 @@
     "ma": "VW",
     "mo": "Sharan",
     "y": 2011,
-    "km": 233000
+    "km": 233000,
+    "b": "Kombi / Family Van"
   },
   "wh:1811085683": {
     "p": 12400,
@@ -973,7 +1012,8 @@
     "ma": null,
     "mo": null,
     "y": 2017,
-    "km": 202300
+    "km": 202300,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "wh:784052222": {
     "p": 5000,
@@ -985,7 +1025,8 @@
     "ma": null,
     "mo": null,
     "y": 2012,
-    "km": 155000
+    "km": 155000,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "wh:1104837329": {
     "p": 7800,
@@ -997,7 +1038,8 @@
     "ma": "VW",
     "mo": "Golf",
     "y": 2013,
-    "km": 104700
+    "km": 104700,
+    "b": "Cabrio / Roadster"
   },
   "wh:2012043135": {
     "p": 8500,
@@ -1009,7 +1051,8 @@
     "ma": null,
     "mo": null,
     "y": 2017,
-    "km": 100500
+    "km": 100500,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:1791133358": {
     "p": 7500,
@@ -1021,7 +1064,8 @@
     "ma": "BMW",
     "mo": "3er-Reihe",
     "y": 2013,
-    "km": 302000
+    "km": 302000,
+    "b": "Limousine"
   },
   "wh:782729425": {
     "p": 10000,
@@ -1033,7 +1077,8 @@
     "ma": "Skoda",
     "mo": "Fabia",
     "y": 2019,
-    "km": 88000
+    "km": 88000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:1294389512": {
     "p": 4000,
@@ -1045,7 +1090,8 @@
     "ma": null,
     "mo": null,
     "y": 2010,
-    "km": 238977
+    "km": 238977,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "wh:2059482894": {
     "p": 5000,
@@ -1057,7 +1103,8 @@
     "ma": "Seat",
     "mo": "Ibiza",
     "y": 2014,
-    "km": 201000
+    "km": 201000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:1061526062": {
     "p": 4800,
@@ -1069,7 +1116,8 @@
     "ma": null,
     "mo": null,
     "y": 2015,
-    "km": 238000
+    "km": 238000,
+    "b": "Kombi / Family Van"
   },
   "wh:1073897328": {
     "p": 1200,
@@ -1081,7 +1129,8 @@
     "ma": null,
     "mo": null,
     "y": 2010,
-    "km": 181134
+    "km": 181134,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:2120546973": {
     "p": 10500,
@@ -1093,7 +1142,8 @@
     "ma": "BMW",
     "mo": "1er-Reihe",
     "y": 2011,
-    "km": 293000
+    "km": 293000,
+    "b": "Limousine"
   },
   "wh:1948203489": {
     "p": 2200,
@@ -1105,7 +1155,8 @@
     "ma": null,
     "mo": null,
     "y": 2011,
-    "km": 235000
+    "km": 235000,
+    "b": "Kombi / Family Van"
   },
   "wh:795573452": {
     "p": 5700,
@@ -1117,7 +1168,8 @@
     "ma": "Skoda",
     "mo": "Octavia",
     "y": 2013,
-    "km": 225000
+    "km": 225000,
+    "b": "Kombi / Family Van"
   },
   "wh:2035486680": {
     "p": 1800,
@@ -1129,7 +1181,8 @@
     "ma": "Audi",
     "mo": "A4",
     "y": 2010,
-    "km": 315000
+    "km": 315000,
+    "b": "Limousine"
   },
   "wh:1087063438": {
     "p": 3200,
@@ -1141,7 +1194,8 @@
     "ma": "Audi",
     "mo": "A4",
     "y": 2008,
-    "km": 329000
+    "km": 329000,
+    "b": "Kombi / Family Van"
   },
   "wh:1142467189": {
     "p": 13500,
@@ -1189,7 +1243,8 @@
     "ma": null,
     "mo": null,
     "y": 2017,
-    "km": 48000
+    "km": 48000,
+    "b": "Limousine"
   },
   "wh:1159645766": {
     "p": 2000,
@@ -1201,7 +1256,8 @@
     "ma": null,
     "mo": null,
     "y": 2012,
-    "km": 179132
+    "km": 179132,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:2048758496": {
     "p": 4500,
@@ -119041,7 +119097,8 @@
     "ma": "VW",
     "mo": "Polo",
     "y": 2008,
-    "km": 195000
+    "km": 195000,
+    "b": "Limousine"
   },
   "as:2c76126e-0e00-43c4-80c9-09d7e8f47fe9": {
     "p": null,
@@ -119061,11 +119118,12 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mitsubishi-outlander-2-2-di-d-7-sitzer-automatik-export-1936733395/",
     "t": "Mitsubishi Outlander 2.2 DI-D *7 Sitzer/Automatik/Export*",
     "ts": "2026-06-23T20:17:24.881991+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2014,
-    "km": 175000
+    "km": 175000,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "wh:1790169677": {
     "p": 9980,
@@ -119281,7 +119339,8 @@
     "ma": "BMW",
     "mo": "5er-Reihe",
     "y": 2011,
-    "km": 417000
+    "km": 417000,
+    "b": "Kombi / Family Van"
   },
   "wh:1357982048": {
     "p": 6500,
@@ -119329,7 +119388,8 @@
     "ma": "Audi",
     "mo": "A3",
     "y": 2015,
-    "km": 188000
+    "km": 188000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "gw:0ddf1862-91c3-48f3-ac3f-8effea4c0e69": {
     "p": 8500,
@@ -119365,7 +119425,8 @@
     "ma": null,
     "mo": null,
     "y": 2008,
-    "km": 160000
+    "km": 160000,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "wh:1724498403": {
     "p": 1500,
@@ -119473,7 +119534,8 @@
     "ma": "VW",
     "mo": "Golf",
     "y": 2017,
-    "km": 126950
+    "km": 126950,
+    "b": "Kombi / Family Van"
   },
   "wh:999633735": {
     "p": 2000,
@@ -143990,18 +144052,6 @@
     "mo": null,
     "y": 2010,
     "km": 125000
-  },
-  "wh:1579889197": {
-    "p": 9000,
-    "f": "2026-06-15T17:09:26.964508+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mini-mini-one-1-6-1579889197/",
-    "t": "MINI Mini ONE 1,6",
-    "ts": "2026-06-15T17:09:26.964508+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 110600
   },
   "__health__": {
     "wh": 0,
