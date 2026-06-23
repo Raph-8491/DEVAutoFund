@@ -1,5 +1,5 @@
 """
-Fahrzeug-Watcher v1.0 (Haendler-Profil VW/Audi/BMW/Mercedes): 3 Plattformen + Marken-/BJ-/KM-/Limousinen-Filter + Cross-Push-Dedup + Block-Warnung + Template + Preis-Drop + Link-Check + Marktwert-DB + Header-Rotation.
+Fahrzeug-Watcher v1.1 (Haendler-Profil VW/Audi/BMW/Mercedes): 3 Plattformen + Marken-/BJ-/KM-/Limousinen-Filter + Karosserie-Feld (b) + Cross-Push-Dedup + Block-Warnung + Template + Preis-Drop + Link-Check + Marktwert-DB + Header-Rotation.
 """
 import os
 import json
@@ -1123,6 +1123,7 @@ def process_listings(listings, prefix, seen, first_run, format_func, photo_func,
                 info["mo"] = meta.get("mo")
                 info["y"] = meta.get("y")
                 info["km"] = meta.get("km")
+                info["b"] = meta.get("body")
 
                 if is_cross_dupe(raw_id):
                     cross_dupes += 1
@@ -1150,6 +1151,8 @@ def process_listings(listings, prefix, seen, first_run, format_func, photo_func,
                 info["y"] = meta["y"]
             if info.get("km") is None and meta.get("km") is not None:
                 info["km"] = meta["km"]
+            if not info.get("b") and meta.get("body"):
+                info["b"] = meta.get("body")
 
             old_price = info.get("p")
             if old_price and current_price and current_price < old_price:
@@ -1181,6 +1184,7 @@ def process_listings(listings, prefix, seen, first_run, format_func, photo_func,
             "mo": meta.get("mo"),
             "y": meta.get("y"),
             "km": meta.get("km"),
+            "b": meta.get("body"),
         }
         if first_run:
             continue
@@ -1364,7 +1368,7 @@ def main():
 
     if first_run and total_listings > 0:
         send_telegram(
-            f"✅ Fahrzeug-Watcher v1.0 (Haendler-Profil) ist aktiv!\n"
+            f"✅ Fahrzeug-Watcher v1.1 (Haendler-Profil) ist aktiv!\n"
             f"3 Plattformen + Cross-Push-Dedup + Block-Warnung + Template + Preis-Drop + Link-Check + Marktwert-DB + Zombie-Fix + Farb-Emojis + Anti-False-Positive + Header-Rotation.\n"
             f"Marken VW/Audi/BMW/Mercedes(nur Limo). Region: AT + DE/Bayern. Preis bis 15.000€.\n"
             f"{len(seen)} Inserate als 'bekannt' markiert.\n"
