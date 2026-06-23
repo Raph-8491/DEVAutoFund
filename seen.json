@@ -147,13 +147,63 @@
     "y": 2009,
     "km": 235000
   },
+  "as:bdf9085f-3abb-4ac0-a63b-5c425e6327a4": {
+    "p": null,
+    "f": "2026-06-23T20:31:28.344113+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:d774fb0a-da91-4042-9391-9b4df0c52777": {
+    "p": null,
+    "f": "2026-06-23T20:31:28.344113+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1856476351": {
+    "p": 5500,
+    "f": "2026-06-23T20:31:26.105555+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-clk-klasse-clk-350-1856476351/",
+    "t": "Mercedes-Benz CLK-Klasse Clk 350",
+    "ts": "2026-06-23T20:31:26.105555+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "CLK-Klasse",
+    "y": 2008,
+    "km": 147000,
+    "b": "Sportwagen / Coup\u00e9"
+  },
+  "wh:2126958628": {
+    "p": 10300,
+    "f": "2026-06-23T20:31:26.105555+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-2-0-facelift-avant-2126958628/",
+    "t": "Audi A4 2.0 Facelift Avant",
+    "ts": "2026-06-23T20:31:26.105555+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2012,
+    "km": 189000,
+    "b": "Kombi / Family Van"
+  },
   "wh:775937674": {
     "p": 10700,
     "f": "2026-06-23T20:27:23.663829+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x1-sdrive-18d-finanzierung-moeglich-775937674/",
     "t": "BMW X1 sDrive 18d - FINANZIERUNG M\u00d6GLICH!",
     "ts": "2026-06-23T20:27:23.663829+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "X1",
     "y": 2013,
@@ -118909,7 +118959,8 @@
     "ma": "BMW",
     "mo": "X5",
     "y": 2012,
-    "km": 240500
+    "km": 240500,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "wh:1149836796": {
     "p": 3500,
@@ -144008,54 +144059,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:34706636-4b20-44d6-b288-8070e1946835": {
-    "p": 2900,
-    "f": "2026-06-15T17:11:34.594042+00:00",
-    "u": "https://www.autoscout24.at/angebote/opel-insignia-insignia-1-8-edition-benzin-silber-cat_ma54mo19101-34706636-4b20-44d6-b288-8070e1946835",
-    "t": "Opel Insignia",
-    "ts": "2026-06-15T17:11:34.594042+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Insignia",
-    "y": 2008,
-    "km": 161000
-  },
-  "as:008003cc-18f9-4d4b-a23c-6513e4480425": {
-    "p": null,
-    "f": "2026-06-15T17:11:34.594042+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:c1473ad8-84ba-4aa3-8c6d-6d0c1c77b857": {
-    "p": 5200,
-    "f": "2026-06-15T17:11:34.594042+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-plus-trendline-benzin-cat_ma74mo20026-c1473ad8-84ba-4aa3-8c6d-6d0c1c77b857",
-    "t": "Volkswagen Golf Plus",
-    "ts": "2026-06-15T17:11:34.594042+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf Plus",
-    "y": 2009,
-    "km": 115310
-  },
-  "wh:1670419279": {
-    "p": 5290,
-    "f": "2026-06-15T17:11:29.481965+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-b-max-titanium-1-0-ecoboost-start-stop-1670419279/",
-    "t": "Ford B-MAX Titanium 1,0 EcoBoost Start/Stop",
-    "ts": "2026-06-15T17:11:29.481965+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2015,
-    "km": 133025
   },
   "__health__": {
     "wh": 0,
