@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "as:afac6880-1c10-4e12-9b61-fb79538e618b": {
+    "p": 4800,
+    "f": "2026-06-23T20:21:31.917278+00:00",
+    "u": "https://www.autoscout24.at/angebote/dacia-sandero-sce-75-comfort-benzin-cat_ma16360mo19129-afac6880-1c10-4e12-9b61-fb79538e618b",
+    "t": "Dacia Sandero",
+    "ts": "2026-06-23T20:21:31.917278+00:00",
+    "ch": null,
+    "ma": "Dacia",
+    "mo": "Sandero",
+    "y": 2018,
+    "km": 100084,
+    "b": ""
+  },
+  "wh:1765772756": {
+    "p": 14900,
+    "f": "2026-06-23T20:21:30.327441+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-tucson-1-7-crdi-start-stopp-edition-25-1765772756/",
+    "t": "Hyundai Tucson 1,7 CRDI Start-Stopp Edition 25",
+    "ts": "2026-06-23T20:21:30.327441+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2017,
+    "km": 68818,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "as:fe901118-1855-41d9-ba87-b552a6872bf4": {
     "p": null,
     "f": "2026-06-23T20:20:51.908420+00:00",
@@ -144028,30 +144054,6 @@
     "mo": null,
     "y": 2020,
     "km": 45100
-  },
-  "wh:1283646542": {
-    "p": 9000,
-    "f": "2026-06-15T17:09:26.964508+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touran-1283646542/",
-    "t": "VW Touran",
-    "ts": "2026-06-15T17:09:26.964508+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Touran",
-    "y": 2016,
-    "km": 219950
-  },
-  "wh:850692129": {
-    "p": 2950,
-    "f": "2026-06-15T17:09:26.964508+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-ka-trend-1-2l-ru8-850692129/",
-    "t": "Ford Ka Trend 1,2L RU8",
-    "ts": "2026-06-15T17:09:26.964508+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 125000
   },
   "__health__": {
     "wh": 0,
