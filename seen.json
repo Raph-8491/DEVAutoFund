@@ -147,13 +147,25 @@
     "y": 2009,
     "km": 235000
   },
+  "as:38c4ac5f-2e1f-44e9-ba91-be216edbbc96": {
+    "p": null,
+    "f": "2026-06-23T20:24:30.501315+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:afac6880-1c10-4e12-9b61-fb79538e618b": {
     "p": 4800,
     "f": "2026-06-23T20:21:31.917278+00:00",
     "u": "https://www.autoscout24.at/angebote/dacia-sandero-sce-75-comfort-benzin-cat_ma16360mo19129-afac6880-1c10-4e12-9b61-fb79538e618b",
     "t": "Dacia Sandero",
     "ts": "2026-06-23T20:21:31.917278+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Dacia",
     "mo": "Sandero",
     "y": 2018,
@@ -166,7 +178,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-tucson-1-7-crdi-start-stopp-edition-25-1765772756/",
     "t": "Hyundai Tucson 1,7 CRDI Start-Stopp Edition 25",
     "ts": "2026-06-23T20:21:30.327441+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2017,
@@ -144042,18 +144054,6 @@
     "mo": "Jetta",
     "y": 2011,
     "km": 230000
-  },
-  "wh:792944437": {
-    "p": 6200,
-    "f": "2026-06-15T17:09:26.964508+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-sandero-jubilaeum-sce-75-792944437/",
-    "t": "Dacia Sandero Jubil\u00e4um SCe 75",
-    "ts": "2026-06-15T17:09:26.964508+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2020,
-    "km": 45100
   },
   "__health__": {
     "wh": 0,
