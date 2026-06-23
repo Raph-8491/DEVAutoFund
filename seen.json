@@ -147,6 +147,43 @@
     "y": 2009,
     "km": 235000
   },
+  "as:42d47ae7-db37-4467-a925-661abecb21fa": {
+    "p": null,
+    "f": "2026-06-23T20:50:45.030333+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:0c80eb48-f2ee-4f00-8eb1-9cab7154a0ea": {
+    "p": null,
+    "f": "2026-06-23T20:50:45.030333+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1716951877": {
+    "p": 11800,
+    "f": "2026-06-23T20:50:43.008116+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-limousine-1716951877/",
+    "t": "Audi A3 Limousine",
+    "ts": "2026-06-23T20:50:43.008116+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A3",
+    "y": 2013,
+    "km": 251000,
+    "b": "Limousine"
+  },
   "wh:1546103052": {
     "p": 5500,
     "f": "2026-06-23T20:49:24.786833+00:00",
@@ -144049,42 +144086,6 @@
     "mo": "Tiguan",
     "y": 2012,
     "km": 165000
-  },
-  "wh:2087763708": {
-    "p": 6500,
-    "f": "2026-06-15T17:29:30.608993+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-sports-tourer-1-4l-turbo-2087763708/",
-    "t": "Opel Astra Sports Tourer, 1,4l, Turbo",
-    "ts": "2026-06-15T17:29:30.608993+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Astra",
-    "y": 2015,
-    "km": 134403
-  },
-  "wh:814415445": {
-    "p": 10800,
-    "f": "2026-06-15T17:27:32.731073+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-2-0-tfsi-cabriolet-oeamtc-pickerl-und-service-neu-814415445/",
-    "t": "Audi A5 2,0 TFSI CABRIOLET \u00d6AMTC PICKERL UND SERVICE NEU",
-    "ts": "2026-06-15T17:27:32.731073+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A5",
-    "y": 2009,
-    "km": 199000
-  },
-  "wh:1109483656": {
-    "p": 2200,
-    "f": "2026-06-15T17:27:32.731073+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-2-0-tdi-1109483656/",
-    "t": "VW Golf 2.0 TDI",
-    "ts": "2026-06-15T17:27:32.731073+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2010,
-    "km": 451000
   },
   "__health__": {
     "wh": 0,
