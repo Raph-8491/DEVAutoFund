@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:775937674": {
+    "p": 10700,
+    "f": "2026-06-23T20:27:23.663829+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x1-sdrive-18d-finanzierung-moeglich-775937674/",
+    "t": "BMW X1 sDrive 18d - FINANZIERUNG M\u00d6GLICH!",
+    "ts": "2026-06-23T20:27:23.663829+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X1",
+    "y": 2013,
+    "km": 199875,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "wh:2026620746": {
     "p": 13600,
     "f": "2026-06-23T20:25:32.009304+00:00",
@@ -144043,18 +144056,6 @@
     "mo": null,
     "y": 2015,
     "km": 133025
-  },
-  "as:b2b3b096-0ef5-418b-8aae-406f7bf4fe5c": {
-    "p": null,
-    "f": "2026-06-15T17:09:35.317774+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
