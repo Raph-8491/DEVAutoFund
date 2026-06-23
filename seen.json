@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:f7dbeb58-fde7-4a02-8ce4-7c667729f670": {
+    "p": null,
+    "f": "2026-06-23T20:16:36.067572+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:1001966a-41e4-4289-97e1-dfa3cefcd937": {
     "p": null,
     "f": "2026-06-23T20:15:50.906334+00:00",
@@ -165,7 +177,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-2-0-tdi-kombi-1463441822/",
     "t": "Audi A6 2.0 TDI Kombi",
     "ts": "2026-06-23T20:13:28.334897+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A6",
     "y": 2010,
@@ -143990,18 +144002,6 @@
     "mo": "Golf",
     "y": 2013,
     "km": 171951
-  },
-  "wh:860443626": {
-    "p": 2999,
-    "f": "2026-06-15T17:07:25.079382+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-partner-tepee-1-6-hdi-860443626/",
-    "t": "Peugeot Partner Tepee 1.6 HDI",
-    "ts": "2026-06-15T17:07:25.079382+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 355000
   },
   "__health__": {
     "wh": 0,
