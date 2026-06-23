@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:54ab6240-09a2-459a-8c26-3972e8695ba0": {
+    "p": null,
+    "f": "2026-06-23T20:45:41.692503+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:d26e5347-2f8e-4e92-b0b4-12381f062617": {
     "p": 13000,
     "f": "2026-06-23T20:43:26.231958+00:00",
@@ -192,7 +204,7 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/citroen-jumper-lieferbus-mit-3-sitze-und-glas-tuere-hinten-diesel-rot-cat_ma21mo14710/d6721daa-0662-4b9b-bf19-a17ef658b17a",
     "t": "Citroen Jumper",
     "ts": "2026-06-23T20:42:33.974974+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Citroen",
     "mo": "Jumper",
     "y": 2011,
@@ -205,7 +217,7 @@
     "u": "https://www.autoscout24.at/angebote/citroen-jumper-lieferbus-mit-3-sitze-und-glas-tuere-hinten-diesel-rot-cat_ma21mo14710-d6721daa-0662-4b9b-bf19-a17ef658b17a",
     "t": "Citroen Jumper",
     "ts": "2026-06-23T20:42:27.356851+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Citroen",
     "mo": "Jumper",
     "y": 2011,
@@ -144071,18 +144083,6 @@
     "mo": null,
     "y": 2016,
     "km": 201000
-  },
-  "as:63cb0cb3-1605-4700-b97b-e0acc898e1b4": {
-    "p": null,
-    "f": "2026-06-15T17:23:53.538715+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
