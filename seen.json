@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1506643101": {
+    "p": 4000,
+    "f": "2026-06-23T20:52:23.966456+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-2-0-1506643101/",
+    "t": "BMW 1er-Reihe 2.0",
+    "ts": "2026-06-23T20:52:23.966456+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "1er-Reihe",
+    "y": 2008,
+    "km": 225000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1450086361": {
+    "p": 3750,
+    "f": "2026-06-23T20:52:23.966456+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i30-1-4-cvvt-easy-1450086361/",
+    "t": "Hyundai i30 1,4 CVVT Easy",
+    "ts": "2026-06-23T20:52:23.966456+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 156254,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:3f1e4e82-11ea-4413-8ff1-13a012bd001b": {
     "p": 4900,
     "f": "2026-06-23T20:51:23.546899+00:00",
@@ -203,7 +229,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-avant-1546103052/",
     "t": "Audi A4 Avant",
     "ts": "2026-06-23T20:49:24.786833+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A4",
     "y": 2012,
@@ -144063,30 +144089,6 @@
     "mo": "A6",
     "y": 2009,
     "km": 255000
-  },
-  "as:b1f887d4-a502-4a25-9e5b-747414907a81": {
-    "p": 10500,
-    "f": "2026-06-15T17:32:33.468154+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-tiguan-2-0-tdi-bmt-4motion-trendfun-dpf-dsg-diesel-cat_ma74mo19063-b1f887d4-a502-4a25-9e5b-747414907a81",
-    "t": "Volkswagen Tiguan",
-    "ts": "2026-06-15T17:32:33.468154+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Tiguan",
-    "y": 2012,
-    "km": 165000
-  },
-  "wh:1154199140": {
-    "p": 2900,
-    "f": "2026-06-15T17:31:45.601348+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i20-cool-1-25-1154199140/",
-    "t": "Hyundai i20 Cool 1,25",
-    "ts": "2026-06-15T17:31:45.601348+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 79300
   },
   "__health__": {
     "wh": 0,
