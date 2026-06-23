@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1876021554": {
+    "p": 2500,
+    "f": "2026-06-23T20:01:05.177095+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-316d-touring-oesterreich-paket-1876021554/",
+    "t": "BMW 3er-Reihe 316d Touring \u00d6sterreich-Paket",
+    "ts": "2026-06-23T20:01:05.177095+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "3er-Reihe",
+    "y": 2010,
+    "km": 302280
+  },
   "gw:ebe94428-5494-4d12-ab8e-8f4dc8ee1086": {
     "p": 14800,
     "f": "2026-06-23T19:59:55.484025+00:00",
@@ -143990,18 +144002,6 @@
     "mo": "A6",
     "y": 2013,
     "km": 283350
-  },
-  "wh:820206204": {
-    "p": 8200,
-    "f": "2026-06-15T16:56:33.923623+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-7-5-rabbit-1-6-tdi-820206204/",
-    "t": "VW Golf 7.5 Rabbit 1.6 TDI",
-    "ts": "2026-06-15T16:56:33.923623+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2017,
-    "km": 206000
   },
   "__health__": {
     "wh": 0,
