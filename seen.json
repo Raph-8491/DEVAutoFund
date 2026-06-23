@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:d6721daa-0662-4b9b-bf19-a17ef658b17a": {
+    "p": 6490,
+    "f": "2026-06-23T20:42:33.974974+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/citroen-jumper-lieferbus-mit-3-sitze-und-glas-tuere-hinten-diesel-rot-cat_ma21mo14710/d6721daa-0662-4b9b-bf19-a17ef658b17a",
+    "t": "Citroen Jumper",
+    "ts": "2026-06-23T20:42:33.974974+00:00",
+    "ch": null,
+    "ma": "Citroen",
+    "mo": "Jumper",
+    "y": 2011,
+    "km": 127000,
+    "b": ""
+  },
+  "as:d6721daa-0662-4b9b-bf19-a17ef658b17a": {
+    "p": 6490,
+    "f": "2026-06-23T20:42:27.356851+00:00",
+    "u": "https://www.autoscout24.at/angebote/citroen-jumper-lieferbus-mit-3-sitze-und-glas-tuere-hinten-diesel-rot-cat_ma21mo14710-d6721daa-0662-4b9b-bf19-a17ef658b17a",
+    "t": "Citroen Jumper",
+    "ts": "2026-06-23T20:42:27.356851+00:00",
+    "ch": null,
+    "ma": "Citroen",
+    "mo": "Jumper",
+    "y": 2011,
+    "km": 127000,
+    "b": ""
+  },
   "gw:787b77da-8af5-43a1-a073-015fa2ee3814": {
     "p": 6800,
     "f": "2026-06-23T20:41:33.383597+00:00",
@@ -243,7 +269,7 @@
     "u": "https://www.autoscout24.at/angebote/volkswagen-golf-1-6-tdi-diesel-cat_ma74mo2084-1179a1c8-cf18-48c5-8c1a-775bf5a669cb",
     "t": "Volkswagen Golf",
     "ts": "2026-06-23T20:39:28.403982+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2019,
@@ -256,7 +282,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-2-0-avant-1489368403/",
     "t": "Audi A4 2.0 Avant",
     "ts": "2026-06-23T20:39:25.740912+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A4",
     "y": 2013,
@@ -144053,30 +144079,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:9515ae71-3fec-403a-b89d-d2357de5cf36": {
-    "p": null,
-    "f": "2026-06-15T17:23:53.538715+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1501353205": {
-    "p": 3000,
-    "f": "2026-06-15T17:22:31.656132+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-sandero-1-2-16v-75-1501353205/",
-    "t": "Dacia Sandero 1,2 16V 75",
-    "ts": "2026-06-15T17:22:31.656132+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 110000
   },
   "__health__": {
     "wh": 0,
