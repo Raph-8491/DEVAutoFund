@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:3f1e4e82-11ea-4413-8ff1-13a012bd001b": {
+    "p": 4900,
+    "f": "2026-06-23T20:51:23.546899+00:00",
+    "u": "https://www.autoscout24.at/angebote/citroen-c4-picasso-exklusive-diesel-grau-cat_ma21mo18915-3f1e4e82-11ea-4413-8ff1-13a012bd001b",
+    "t": "Citroen C4 Picasso",
+    "ts": "2026-06-23T20:51:23.546899+00:00",
+    "ch": null,
+    "ma": "Citroen",
+    "mo": "C4 Picasso",
+    "y": 2012,
+    "km": 159000,
+    "b": ""
+  },
   "as:42d47ae7-db37-4467-a925-661abecb21fa": {
     "p": null,
     "f": "2026-06-23T20:50:45.030333+00:00",
@@ -144074,18 +144087,6 @@
     "mo": null,
     "y": 2009,
     "km": 79300
-  },
-  "gw:b1f887d4-a502-4a25-9e5b-747414907a81": {
-    "p": 10500,
-    "f": "2026-06-15T17:29:38.329466+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-tiguan-2-0-tdi-bmt-4motion-trendfun-dpf-dsg-diesel-cat_ma74mo19063/b1f887d4-a502-4a25-9e5b-747414907a81",
-    "t": "Volkswagen Tiguan",
-    "ts": "2026-06-15T17:29:38.329466+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Tiguan",
-    "y": 2012,
-    "km": 165000
   },
   "__health__": {
     "wh": 0,
