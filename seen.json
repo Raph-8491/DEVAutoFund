@@ -147,6 +147,42 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:a78283cb-8384-497e-88fc-f252ab1cd8b6": {
+    "p": 13500,
+    "f": "2026-06-23T20:07:42.136163+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-630-630i-benzin-cat_ma13mo18491/a78283cb-8384-497e-88fc-f252ab1cd8b6",
+    "t": "BMW 630",
+    "ts": "2026-06-23T20:07:42.136163+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "630",
+    "y": 2008,
+    "km": 217000
+  },
+  "as:a78283cb-8384-497e-88fc-f252ab1cd8b6": {
+    "p": 13500,
+    "f": "2026-06-23T20:07:30.737100+00:00",
+    "u": "https://www.autoscout24.at/angebote/bmw-630-630i-benzin-cat_ma13mo18491-a78283cb-8384-497e-88fc-f252ab1cd8b6",
+    "t": "BMW 630",
+    "ts": "2026-06-23T20:07:30.737100+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "630",
+    "y": 2008,
+    "km": 217000
+  },
+  "as:6961c1d5-fe58-4b42-8f51-cc372949f4ae": {
+    "p": null,
+    "f": "2026-06-23T20:07:30.737100+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:73485a31-243b-4c97-9786-fcdc17649ba3": {
     "p": null,
     "f": "2026-06-23T20:05:44.571034+00:00",
@@ -165,7 +201,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-klima-wennig-km-1994744350/",
     "t": "Skoda Octavia *klima*wennig*km*",
     "ts": "2026-06-23T20:04:30.785099+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Skoda",
     "mo": "Octavia",
     "y": 2013,
@@ -177,7 +213,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-bmw-118d-advantage-nur-139-500km-sehr-gepflegt-1800375275/",
     "t": "BMW 1er-Reihe BMW 118d Advantage / Nur 139.500km / Sehr gepflegt",
     "ts": "2026-06-23T20:04:30.785099+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "1er-Reihe",
     "y": 2009,
@@ -143966,42 +144002,6 @@
     "mo": "5er-Reihe",
     "y": 2011,
     "km": 410000
-  },
-  "wh:1521271735": {
-    "p": 9200,
-    "f": "2026-06-15T17:03:26.755428+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-rapid-1521271735/",
-    "t": "Skoda Rapid",
-    "ts": "2026-06-15T17:03:26.755428+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Rapid",
-    "y": 2016,
-    "km": 157000
-  },
-  "as:48d0092a-27e4-491e-a7a4-222f9375d7ca": {
-    "p": null,
-    "f": "2026-06-15T17:01:46.252437+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:a1a81120-afa9-48aa-adb5-91ba8799a2d0": {
-    "p": 1234,
-    "f": "2026-06-15T17:01:46.252437+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-crafter-crafter-30-tdi-ecoprofi-diesel-weiss-cat_ma74mo18781-a1a81120-afa9-48aa-adb5-91ba8799a2d0",
-    "t": "Volkswagen Crafter",
-    "ts": "2026-06-15T17:01:46.252437+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Crafter",
-    "y": 2014,
-    "km": 120000
   },
   "__health__": {
     "wh": 0,
