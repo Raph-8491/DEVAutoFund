@@ -147,6 +147,66 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:a66674da-13dd-41a0-8997-8225509add12": {
+    "p": 11800,
+    "f": "2026-06-23T20:09:51.260284+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/opel-crossland-x-crossland-x-1-2-turbo-direct-injection-ultimate-st-st-aut-ultimate-benzin-weiss-cat_ma54mo74532/a66674da-13dd-41a0-8997-8225509add12",
+    "t": "Opel Crossland X",
+    "ts": "2026-06-23T20:09:51.260284+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Crossland X",
+    "y": 2018,
+    "km": 65000
+  },
+  "as:f8c9c210-86fe-4704-bacb-cc0abab2e3d9": {
+    "p": null,
+    "f": "2026-06-23T20:09:45.552141+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:a66674da-13dd-41a0-8997-8225509add12": {
+    "p": 11800,
+    "f": "2026-06-23T20:09:45.552141+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-crossland-x-crossland-x-1-2-turbo-direct-injection-ultimate-st-st-aut-ultimate-benzin-weiss-cat_ma54mo74532-a66674da-13dd-41a0-8997-8225509add12",
+    "t": "Opel Crossland X",
+    "ts": "2026-06-23T20:09:45.552141+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Crossland X",
+    "y": 2018,
+    "km": 65000
+  },
+  "wh:1518887441": {
+    "p": 8600,
+    "f": "2026-06-23T20:09:44.555987+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-500c-cabrio-1-2l-51kw-1518887441/",
+    "t": "Fiat 500C Cabrio 1,2l 51kW",
+    "ts": "2026-06-23T20:09:44.555987+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2016,
+    "km": 127567
+  },
+  "wh:2051914941": {
+    "p": 3500,
+    "f": "2026-06-23T20:09:44.555987+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-volkswagen-cc-2-0-tdi-2051914941/",
+    "t": "VW Volkswagen CC 2.0 tdi",
+    "ts": "2026-06-23T20:09:44.555987+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Volkswagen",
+    "y": 2012,
+    "km": 347000
+  },
   "gw:a78283cb-8384-497e-88fc-f252ab1cd8b6": {
     "p": 13500,
     "f": "2026-06-23T20:07:42.136163+00:00",
@@ -143942,66 +144002,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:6cd7d465-a76a-4f7d-b3f3-ab2c3dca3dee": {
-    "p": 2500,
-    "f": "2026-06-15T17:06:33.424915+00:00",
-    "u": "https://www.autoscout24.at/angebote/renault-modus-1-5-dci-dynamique-diesel-cat_ma60mo18522-6cd7d465-a76a-4f7d-b3f3-ab2c3dca3dee",
-    "t": "Renault Modus",
-    "ts": "2026-06-15T17:06:33.424915+00:00",
-    "ch": "alive",
-    "ma": "Renault",
-    "mo": "Modus",
-    "y": 2008,
-    "km": 189922
-  },
-  "as:afc4e6cc-b69f-4f4d-bac6-d510346fdb2f": {
-    "p": null,
-    "f": "2026-06-15T17:05:37.972105+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1215446747": {
-    "p": 6900,
-    "f": "2026-06-15T17:05:34.807579+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-scenic-1215446747/",
-    "t": "Renault Sc\u00e9nic",
-    "ts": "2026-06-15T17:05:34.807579+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 147457
-  },
-  "wh:1909024448": {
-    "p": 1450,
-    "f": "2026-06-15T17:03:26.755428+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-2-0-1909024448/",
-    "t": "Ford Galaxy 2.0",
-    "ts": "2026-06-15T17:05:34.807579+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 420000
-  },
-  "wh:1079595655": {
-    "p": 3499,
-    "f": "2026-06-15T17:03:26.755428+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-1079595655/",
-    "t": "BMW 5er-Reihe",
-    "ts": "2026-06-15T17:03:26.755428+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "5er-Reihe",
-    "y": 2011,
-    "km": 410000
   },
   "__health__": {
     "wh": 0,
