@@ -147,6 +147,56 @@
     "y": 2009,
     "km": 235000
   },
+  "as:d613ba6c-9a4e-485a-b6a7-562086e051ee": {
+    "p": null,
+    "f": "2026-06-24T18:45:40.398131+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:0f7860a5-0c2d-46fe-bb30-d6568a622dcd": {
+    "p": 3333,
+    "f": "2026-06-24T18:45:40.398131+00:00",
+    "u": "https://www.autoscout24.at/angebote/audi-a3-a3-1-8-tfsi-sportback-facelift-xenon-sportsitze-tuev-02-2027-benzin-schwarz-cat_ma9mo1624-0f7860a5-0c2d-46fe-bb30-d6568a622dcd",
+    "t": "Audi A3 A3 1.8 TFSI SPORTBACK*FACELIFT*XENON*SPORTSITZE*T\u00dcV 02.2027*",
+    "ts": "2026-06-24T18:45:40.398131+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A3",
+    "y": 2008,
+    "km": 249780,
+    "b": ""
+  },
+  "as:732149f6-cd82-4241-b22f-2b4ded48e6ad": {
+    "p": null,
+    "f": "2026-06-24T18:45:40.398131+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:852611333": {
+    "p": 3500,
+    "f": "2026-06-24T18:45:38.942044+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-ceed-1-6-852611333/",
+    "t": "KIA Ceed 1.6",
+    "ts": "2026-06-24T18:45:38.942044+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 185000,
+    "b": "Limousine"
+  },
   "as:277be92f-aab2-41be-8282-84a248037b18": {
     "p": null,
     "f": "2026-06-24T18:43:31.354428+00:00",
@@ -238,18 +288,18 @@
     "b": "Limousine"
   },
   "wh:1785092751": {
-    "p": 2500,
+    "p": 2000,
     "f": "2026-06-24T18:43:28.509817+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-export-fixpreis-1785092751/",
     "t": "VW Golf EXPORT FIXPREIS",
-    "ts": "2026-06-24T18:43:28.509817+00:00",
+    "ts": "2026-06-24T18:45:38.942044+00:00",
     "ch": null,
     "ma": "VW",
     "mo": "Golf",
     "y": 2012,
     "km": 167000,
     "b": "Klein-/ Kompaktwagen",
-    "pu": "2026-06-24T18:43:28.509817+00:00"
+    "pu": "2026-06-24T18:45:38.942044+00:00"
   },
   "wh:814229763": {
     "p": 10700,
@@ -145444,54 +145494,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:b758f9c7-7552-4e86-b0f5-16a2e5c648df": {
-    "p": null,
-    "f": "2026-06-16T15:24:35.692240+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:7d25e281-81d1-4653-8730-53a375ac55b0": {
-    "p": 4300,
-    "f": "2026-06-16T15:23:43.580983+00:00",
-    "u": "https://www.autoscout24.at/angebote/mazda-3-1-6-sport-active-benzin-grau-cat_ma46mo18388-7d25e281-81d1-4653-8730-53a375ac55b0",
-    "t": "Mazda 3",
-    "ts": "2026-06-16T15:23:43.580983+00:00",
-    "ch": "alive",
-    "ma": "Mazda",
-    "mo": "3",
-    "y": 2008,
-    "km": 165000
-  },
-  "as:df702e5d-21cf-47d8-a288-499163acbc00": {
-    "p": null,
-    "f": "2026-06-16T15:23:43.580983+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1927993123": {
-    "p": 2100,
-    "f": "2026-06-16T15:23:37.698684+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-fabia-1-9tdi-1927993123/",
-    "t": "Skoda Fabia 1.9TDI",
-    "ts": "2026-06-16T15:23:37.698684+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Fabia",
-    "y": 2008,
-    "km": 198696
   },
   "__health__": {
     "wh": 0,
