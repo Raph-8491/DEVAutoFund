@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1918786311": {
+    "p": 10500,
+    "f": "2026-06-24T09:32:25.798640+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-caddy-maxi-1918786311/",
+    "t": "VW Caddy Maxi",
+    "ts": "2026-06-24T09:32:25.798640+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Caddy",
+    "y": 2012,
+    "km": 225202,
+    "b": "Kombi / Family Van"
+  },
+  "wh:941558673": {
+    "p": 5000,
+    "f": "2026-06-24T09:32:25.798640+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-2-0-941558673/",
+    "t": "VW Tiguan 2,0",
+    "ts": "2026-06-24T09:32:25.798640+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Tiguan",
+    "y": 2022,
+    "km": 103200,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "wh:903885925": {
     "p": 5999,
     "f": "2026-06-24T09:30:54.577307+00:00",
@@ -191,7 +217,7 @@
     "u": "https://www.autoscout24.at/angebote/audi-a3-ambiente-2-0-tdi-diesel-cat_ma9mo1624-d60786c4-9fce-4364-a487-8917b332384e",
     "t": "Audi A3",
     "ts": "2026-06-24T09:29:29.068987+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A3",
     "y": 2013,
@@ -120935,7 +120961,8 @@
     "ma": "BMW",
     "mo": "1er-Reihe",
     "y": 2012,
-    "km": 93678
+    "km": 93678,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:1979803101": {
     "p": 10500,
@@ -144508,30 +144535,6 @@
     "km": null
   },
   "as:8d2beaf4-e229-4afc-a29e-67e6ea40465c": {
-    "p": null,
-    "f": "2026-06-16T01:01:56.267038+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:7f47701b-0144-4f1f-8cea-f479da1ed057": {
-    "p": null,
-    "f": "2026-06-16T01:01:56.267038+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:0bb91b77-ba83-4626-b69d-d127b8bb5aff": {
     "p": null,
     "f": "2026-06-16T01:01:56.267038+00:00",
     "u": null,
