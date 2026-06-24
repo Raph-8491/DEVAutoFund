@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1090381780": {
+    "p": 5000,
+    "f": "2026-06-24T03:22:22.590410+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-clio-renault-clio-grandtour-energy-tce-90-techrun-1090381780/",
+    "t": "Renault Clio Renault Clio Grandtour ENERGY TCe 90 Tech'Run",
+    "ts": "2026-06-24T03:22:22.590410+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 170000,
+    "b": "Kombi / Family Van"
+  },
   "wh:1399764755": {
     "p": 7800,
     "f": "2026-06-24T03:16:26.304202+00:00",
@@ -144161,18 +144174,6 @@
     "mo": "Touran",
     "y": 2011,
     "km": 199000
-  },
-  "wh:1131036155": {
-    "p": 2000,
-    "f": "2026-06-15T18:20:47.744749+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-206-generation-1-4-1131036155/",
-    "t": "Peugeot 206 + Generation 1,4",
-    "ts": "2026-06-15T18:20:47.744749+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 158000
   },
   "__health__": {
     "wh": 0,
