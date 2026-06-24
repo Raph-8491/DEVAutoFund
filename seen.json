@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:1a534701-fe2e-45d4-a0e1-7201c7697585": {
+    "p": 3500,
+    "f": "2026-06-24T07:53:36.887787+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-t5-transporter-fahrgestell-2-0-tdi-d-pf-diesel-weiss-cat_ma74mo75216/1a534701-fe2e-45d4-a0e1-7201c7697585",
+    "t": "Volkswagen T5 Transporter",
+    "ts": "2026-06-24T07:53:36.887787+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "T5 Transporter",
+    "y": 2012,
+    "km": 412000,
+    "b": ""
+  },
   "as:0317defc-2895-4213-a796-68272605162e": {
     "p": null,
     "f": "2026-06-24T07:52:24.323896+00:00",
@@ -215,7 +228,7 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/nissan-micra-micra-0-9-ig-t-90-tekna-tekna-benzin-weiss-cat_ma52mo1904/34f1253b-b3b2-4917-85cc-28afc09905f0",
     "t": "Nissan Micra",
     "ts": "2026-06-24T07:49:38.515427+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Nissan",
     "mo": "Micra",
     "y": 2019,
@@ -144369,18 +144382,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:f4aa34d0-b9ca-4190-a9db-47437c70cc44": {
-    "p": 9600,
-    "f": "2026-06-15T20:04:31.637707+00:00",
-    "u": "https://www.autoscout24.at/angebote/honda-cr-v-cr-v-diesel-1-6i-dtec-2wd-lifestyle-diesel-rot-cat_ma31mo1777-f4aa34d0-b9ca-4190-a9db-47437c70cc44",
-    "t": "Honda CR-V",
-    "ts": "2026-06-15T20:04:31.637707+00:00",
-    "ch": "alive",
-    "ma": "Honda",
-    "mo": "CR-V",
-    "y": 2014,
-    "km": 167000
   },
   "__health__": {
     "wh": 0,
