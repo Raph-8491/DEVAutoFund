@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:a6ed815f-1cbc-4e1b-bc9d-b172feeebbc3": {
+    "p": null,
+    "f": "2026-06-24T19:07:29.950302+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1096920943": {
     "p": 6300,
     "f": "2026-06-24T19:06:24.740423+00:00",
@@ -145529,18 +145541,6 @@
     "mo": "Roomster",
     "y": 2014,
     "km": 105000
-  },
-  "wh:1228949980": {
-    "p": 3900,
-    "f": "2026-06-16T15:44:33.029605+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-plus-1228949980/",
-    "t": "VW Golf plus",
-    "ts": "2026-06-16T15:44:33.029605+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2012,
-    "km": 149000
   },
   "__health__": {
     "wh": 0,
