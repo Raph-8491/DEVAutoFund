@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:c5779e96-7120-4da5-81bb-a1e711ea8e81": {
+    "p": 11500,
+    "f": "2026-06-24T17:16:38.647361+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/kia-ceed-cee-d-ceed-1-0-t-gdi-gpf-silber-silber-benzin-grau-cat_ma39mo18923/c5779e96-7120-4da5-81bb-a1e711ea8e81",
+    "t": "Kia Ceed / cee'd ceed 1,0 T-GDI GPF Silber Silber",
+    "ts": "2026-06-24T17:16:38.647361+00:00",
+    "ch": null,
+    "ma": "Kia",
+    "mo": "Ceed / cee'd",
+    "y": 2021,
+    "km": 107533,
+    "b": ""
+  },
+  "as:c5779e96-7120-4da5-81bb-a1e711ea8e81": {
+    "p": 11500,
+    "f": "2026-06-24T17:16:29.286404+00:00",
+    "u": "https://www.autoscout24.at/angebote/kia-ceed-cee-d-ceed-1-0-t-gdi-gpf-silber-silber-benzin-grau-cat_ma39mo18923-c5779e96-7120-4da5-81bb-a1e711ea8e81",
+    "t": "Kia Ceed / cee'd ceed 1,0 T-GDI GPF Silber Silber",
+    "ts": "2026-06-24T17:16:29.286404+00:00",
+    "ch": null,
+    "ma": "Kia",
+    "mo": "Ceed / cee'd",
+    "y": 2021,
+    "km": 107533,
+    "b": ""
+  },
   "wh:2000377878": {
     "p": 8990,
     "f": "2026-06-24T17:15:40.790287+00:00",
@@ -194,7 +220,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-q5-quattro-s-line-890617410/",
     "t": "Audi Q5 Quattro S-line",
     "ts": "2026-06-24T17:13:21.647126+00:00",
-    "ch": null,
+    "ch": "dead",
     "ma": "Audi",
     "mo": "Q5",
     "y": 2018,
@@ -234,7 +260,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-2-0-tdi-1671402603/",
     "t": "Audi A3 2.0 TDI",
     "ts": "2026-06-24T17:13:21.647126+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A3",
     "y": 2008,
@@ -145286,30 +145312,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1107720288": {
-    "p": 9900,
-    "f": "2026-06-16T13:48:29.490444+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1107720288/",
-    "t": "VW Golf",
-    "ts": "2026-06-23T13:51:39.777547+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2015,
-    "km": 152000
-  },
-  "wh:1502367244": {
-    "p": 8200,
-    "f": "2026-06-16T13:48:29.490444+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a7-3-0tdi-1502367244/",
-    "t": "Audi A7 3.0TDI",
-    "ts": "2026-06-16T13:48:29.490444+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A7",
-    "y": 2011,
-    "km": 331141
   },
   "__health__": {
     "wh": 0,
