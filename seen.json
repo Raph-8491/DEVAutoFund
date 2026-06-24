@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1513732239": {
+    "p": 3500,
+    "f": "2026-06-24T16:53:22.182665+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-208-c-cbh-6-1s-1513732239/",
+    "t": "Peugeot 208 C/CBH/6/1S",
+    "ts": "2026-06-24T16:53:22.182665+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2016,
+    "km": 100000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:2111499269": {
+    "p": 4000,
+    "f": "2026-06-24T16:53:22.182665+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-2111499269/",
+    "t": "Ford Galaxy",
+    "ts": "2026-06-24T16:53:22.182665+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 180000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:798988912": {
+    "p": 4000,
+    "f": "2026-06-24T16:53:22.182665+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-798988912/",
+    "t": "Ford Fiesta",
+    "ts": "2026-06-24T16:53:22.182665+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 180000,
+    "b": "Kombi / Family Van"
+  },
   "wh:1614216937": {
     "p": 3900,
     "f": "2026-06-24T16:51:24.141007+00:00",
@@ -123018,16 +123057,17 @@
     "km": 251000
   },
   "wh:1843676199": {
-    "p": 4750,
+    "p": 3850,
     "f": "2026-06-17T17:05:38.277968+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-2-0-1843676199/",
     "t": "Ford Galaxy 2.0",
-    "ts": "2026-06-17T17:05:38.277968+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T16:53:22.182665+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2017,
-    "km": 398
+    "km": 398,
+    "b": "Kombi / Family Van"
   },
   "wh:1204246918": {
     "p": 3300,
@@ -123387,7 +123427,8 @@
     "ma": null,
     "mo": null,
     "y": 2010,
-    "km": 188800
+    "km": 188800,
+    "b": "Kombi / Family Van"
   },
   "wh:1731398914": {
     "p": 11490,
@@ -145221,42 +145262,6 @@
     "mo": "3er-Reihe",
     "y": 2012,
     "km": 293000
-  },
-  "wh:1873760488": {
-    "p": 10990,
-    "f": "2026-06-16T13:29:33.793479+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-opel-astra-k-automatik-pickerl-02-27-8-fach-al-1873760488/",
-    "t": "Opel Astra Opel Astra K Automatik | Pickerl 02/27 | 8-fach Al",
-    "ts": "2026-06-23T13:26:32.906214+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Astra",
-    "y": 2018,
-    "km": 102500
-  },
-  "wh:1345808628": {
-    "p": 3499,
-    "f": "2026-06-16T13:27:27.704386+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/jeep-grand-cherokee-3-0crd-cdi-mercedes-motor-1345808628/",
-    "t": "Jeep Grand Cherokee 3,0CRD CDI Mercedes Motor",
-    "ts": "2026-06-16T13:27:27.704386+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 311243
-  },
-  "as:7b40b4db-d070-40ce-ae04-911eb562f67f": {
-    "p": null,
-    "f": "2026-06-16T13:26:36.277849+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
