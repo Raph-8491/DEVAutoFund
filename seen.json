@@ -147,6 +147,34 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1937162674": {
+    "p": 11900,
+    "f": "2026-06-24T16:57:26.265053+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-f10-1937162674/",
+    "t": "BMW 5er-Reihe F10",
+    "ts": "2026-06-24T16:57:26.265053+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "5er-Reihe",
+    "y": 2010,
+    "km": 251976,
+    "b": "Limousine",
+    "pu": "2026-06-24T16:57:26.265053+00:00"
+  },
+  "wh:1540466677": {
+    "p": 4700,
+    "f": "2026-06-24T16:57:26.265053+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-plus5-1540466677/",
+    "t": "VW Golf Plus5",
+    "ts": "2026-06-24T16:57:26.265053+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2008,
+    "km": 124580,
+    "b": "Limousine",
+    "pu": "2026-06-24T16:57:26.265053+00:00"
+  },
   "as:03efae33-b7d1-46cc-b677-f04976456289": {
     "p": null,
     "f": "2026-06-24T16:56:27.817434+00:00",
@@ -145240,30 +145268,6 @@
     "mo": "Golf",
     "y": 2013,
     "km": 159000
-  },
-  "as:a2508648-6019-4127-9446-96d8b009475c": {
-    "p": 8900,
-    "f": "2026-06-16T13:32:28.765667+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-comfortline-1-6-bmt-tdi-dpf-dsg-diesel-cat_ma74mo2084-a2508648-6019-4127-9446-96d8b009475c",
-    "t": "Volkswagen Golf",
-    "ts": "2026-06-16T13:32:28.765667+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2013,
-    "km": 159000
-  },
-  "as:31951c65-8840-48d5-900c-193cb1ab548f": {
-    "p": null,
-    "f": "2026-06-16T13:31:36.057428+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
