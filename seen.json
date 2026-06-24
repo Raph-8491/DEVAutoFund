@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:3a55d268-9b32-410f-aeae-8ec11f6d35b7": {
+    "p": 4500,
+    "f": "2026-06-24T18:28:39.928895+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/seat-altea-1-6-tdi-dpf-ecomotive-4you-diesel-cat_ma64mo18427/3a55d268-9b32-410f-aeae-8ec11f6d35b7",
+    "t": "SEAT Altea 1.6 TDI DPF Ecomotive 4You",
+    "ts": "2026-06-24T18:28:39.928895+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Altea",
+    "y": 2014,
+    "km": 218872,
+    "b": ""
+  },
+  "as:3a55d268-9b32-410f-aeae-8ec11f6d35b7": {
+    "p": 4500,
+    "f": "2026-06-24T18:28:30.500400+00:00",
+    "u": "https://www.autoscout24.at/angebote/seat-altea-1-6-tdi-dpf-ecomotive-4you-diesel-cat_ma64mo18427-3a55d268-9b32-410f-aeae-8ec11f6d35b7",
+    "t": "SEAT Altea 1.6 TDI DPF Ecomotive 4You",
+    "ts": "2026-06-24T18:28:30.500400+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Altea",
+    "y": 2014,
+    "km": 218872,
+    "b": ""
+  },
   "wh:2072564157": {
     "p": 6800,
     "f": "2026-06-24T18:27:25.827278+00:00",
@@ -145427,30 +145453,6 @@
     "mo": "XF",
     "y": 2010,
     "km": 330000
-  },
-  "as:b1f6d00c-0992-463f-beb0-8a85c22ad14c": {
-    "p": null,
-    "f": "2026-06-16T15:01:55.788888+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:d722430a-b94c-480d-9421-b9ac2f705b07": {
-    "p": null,
-    "f": "2026-06-16T15:01:55.788888+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
