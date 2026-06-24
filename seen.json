@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:69e2c73c-f4c3-4b19-b22d-dbd9d177f015": {
+    "p": null,
+    "f": "2026-06-24T20:50:46.463836+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:0d3775e8-6d51-4c08-827c-965bbd55d12c": {
     "p": null,
     "f": "2026-06-24T20:49:25.486944+00:00",
@@ -145675,18 +145687,6 @@
     "mo": "1er-Reihe",
     "y": 2013,
     "km": 201000
-  },
-  "wh:1949764288": {
-    "p": 3400,
-    "f": "2026-06-16T16:55:44.190780+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c4-picasso-grand-c4-picasso-1-6-16v-seduction-1949764288/",
-    "t": "Citro\u00ebn C4 Picasso Grand C4 Picasso 1,6 16V Seduction",
-    "ts": "2026-06-16T16:55:44.190780+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 165000
   },
   "__health__": {
     "wh": 0,
