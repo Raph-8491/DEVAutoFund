@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2072564157": {
+    "p": 6800,
+    "f": "2026-06-24T18:27:25.827278+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x1-xdrive-18d-2072564157/",
+    "t": "BMW X1 Xdrive 18d",
+    "ts": "2026-06-24T18:27:25.827278+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X1",
+    "y": 2012,
+    "km": 260000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:2147120572": {
+    "p": 13900,
+    "f": "2026-06-24T18:27:25.827278+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-sb-2-0-tdi-intense-aut-2147120572/",
+    "t": "Audi A5 SB 2,0 TDI Intense Aut.",
+    "ts": "2026-06-24T18:27:25.827278+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A5",
+    "y": 2016,
+    "km": 193000,
+    "b": "Limousine",
+    "pu": "2026-06-24T18:27:25.827278+00:00"
+  },
   "as:5079cdc2-4755-4876-a81c-66c42623f1f2": {
     "p": null,
     "f": "2026-06-24T18:25:42.376165+00:00",
@@ -191,7 +218,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-b7-highline-dsg-vollausstantung-1822647108/",
     "t": "VW Passat B7 Highline DSG| Vollausstantung",
     "ts": "2026-06-24T18:24:30.619849+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Passat",
     "y": 2011,
@@ -218,7 +245,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-0-tsi-facelift-1969489088/",
     "t": "VW Golf 1,0 TSI (Facelift)",
     "ts": "2026-06-24T18:24:30.619849+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2017,
@@ -1135,11 +1162,11 @@
     "km": null
   },
   "as:81bcc75f-0cdf-404d-9bfd-218fe9a3fd3a": {
-    "p": 3100,
+    "p": 2800,
     "f": "2026-06-24T17:47:23.148026+00:00",
     "u": "https://www.autoscout24.at/angebote/seat-ibiza-benzin-cat_ma64mo2006-81bcc75f-0cdf-404d-9bfd-218fe9a3fd3a",
     "t": "SEAT Ibiza",
-    "ts": "2026-06-24T17:47:23.148026+00:00",
+    "ts": "2026-06-24T18:27:31.963774+00:00",
     "ch": null,
     "ma": "Seat",
     "mo": "Ibiza",
@@ -145424,30 +145451,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:866522459": {
-    "p": 6500,
-    "f": "2026-06-16T15:01:52.848996+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-6-tdi-866522459/",
-    "t": "VW Golf 1.6 Tdi",
-    "ts": "2026-06-16T15:01:52.848996+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2010,
-    "km": 188000
-  },
-  "gw:f5d32fa4-4b9d-45e6-b4d6-772c79f46eaf": {
-    "p": 11500,
-    "f": "2026-06-16T14:59:56.980975+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volvo-xc60-d4-awd-geartronic-diesel-cat_ma73mo19124/f5d32fa4-4b9d-45e6-b4d6-772c79f46eaf",
-    "t": "Volvo XC60",
-    "ts": "2026-06-16T14:59:56.980975+00:00",
-    "ch": "alive",
-    "ma": "Volvo",
-    "mo": "XC60",
-    "y": 2015,
-    "km": 236000
   },
   "__health__": {
     "wh": 0,
