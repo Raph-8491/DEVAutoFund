@@ -147,6 +147,42 @@
     "y": 2009,
     "km": 235000
   },
+  "as:30bfbe62-9d5b-4969-8249-9d59aefab951": {
+    "p": null,
+    "f": "2026-06-24T08:19:24.626074+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:84610508-bf72-49fd-9632-9f05d49a82d0": {
+    "p": null,
+    "f": "2026-06-24T08:19:24.626074+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:ff81b65a-6b57-430a-a0fd-60cedb7a89a5": {
+    "p": null,
+    "f": "2026-06-24T08:19:24.626074+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:0ff8e8a3-1835-47a0-a092-a644412e03f1": {
     "p": 11500,
     "f": "2026-06-24T08:18:37.278236+00:00",
@@ -144390,42 +144426,6 @@
     "mo": "A6",
     "y": 2013,
     "km": 258330
-  },
-  "gw:99b39a28-1a5d-4320-8cd6-881e9db32285": {
-    "p": 9299,
-    "f": "2026-06-15T20:29:40.175659+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/mini-one-hatch-first-benzin-cat_ma16338mo16602/99b39a28-1a5d-4320-8cd6-881e9db32285",
-    "t": "MINI One",
-    "ts": "2026-06-15T20:29:40.175659+00:00",
-    "ch": "alive",
-    "ma": "MINI",
-    "mo": "One",
-    "y": 2016,
-    "km": 88000
-  },
-  "gw:46fcd3d9-c1d1-4785-abbd-5d8e4aea2e92": {
-    "p": 3400,
-    "f": "2026-06-15T20:29:40.175659+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/opel-insignia-2-0-cdti-dpf-ecotec-start-stop-system-diesel-cat_ma54mo19101/46fcd3d9-c1d1-4785-abbd-5d8e4aea2e92",
-    "t": "Opel Insignia",
-    "ts": "2026-06-15T20:29:40.175659+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Insignia",
-    "y": 2013,
-    "km": 248200
-  },
-  "as:99b39a28-1a5d-4320-8cd6-881e9db32285": {
-    "p": 9299,
-    "f": "2026-06-15T20:29:29.159845+00:00",
-    "u": "https://www.autoscout24.at/angebote/mini-one-hatch-first-benzin-cat_ma16338mo16602-99b39a28-1a5d-4320-8cd6-881e9db32285",
-    "t": "MINI One",
-    "ts": "2026-06-15T20:29:29.159845+00:00",
-    "ch": "alive",
-    "ma": "MINI",
-    "mo": "One",
-    "y": 2016,
-    "km": 88000
   },
   "__health__": {
     "wh": 0,
