@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1726090227": {
+    "p": 2600,
+    "f": "2026-06-24T05:22:28.915548+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-307-cc-cabrio-limousine-1726090227/",
+    "t": "Peugeot 307 CC Cabrio Limousine",
+    "ts": "2026-06-24T05:22:28.915548+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 194000,
+    "b": "Limousine"
+  },
+  "wh:1861706540": {
+    "p": 5599,
+    "f": "2026-06-24T05:22:28.915548+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-1861706540/",
+    "t": "Audi A3",
+    "ts": "2026-06-24T05:22:28.915548+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A3",
+    "y": 2008,
+    "km": 240000,
+    "b": "Cabrio / Roadster"
+  },
   "gw:31984d67-4130-4260-8fc1-59d3d8359dd9": {
     "p": 6200,
     "f": "2026-06-24T05:21:33.906523+00:00",
@@ -119928,7 +119954,8 @@
     "ma": "Audi",
     "mo": "A5",
     "y": 2010,
-    "km": 198000
+    "km": 198000,
+    "b": "Limousine"
   },
   "as:610dc199-557e-46f7-8103-6190b1fefaea": {
     "p": null,
@@ -144206,30 +144233,6 @@
     "mo": "Golf",
     "y": 2010,
     "km": 127000
-  },
-  "wh:1468334171": {
-    "p": 5000,
-    "f": "2026-06-15T18:44:36.384091+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-grand-scenic-1468334171/",
-    "t": "Renault Grand Sc\u00e9nic",
-    "ts": "2026-06-15T18:44:36.384091+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 113943
-  },
-  "wh:924572206": {
-    "p": 3700,
-    "f": "2026-06-15T18:44:36.384091+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-4-tsi-924572206/",
-    "t": "VW Golf 1.4 TSI",
-    "ts": "2026-06-15T18:44:36.384091+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2010,
-    "km": 173000
   },
   "__health__": {
     "wh": 0,
