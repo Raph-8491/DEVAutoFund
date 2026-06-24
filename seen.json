@@ -147,6 +147,57 @@
     "y": 2009,
     "km": 235000
   },
+  "as:5fa80e5f-0261-490c-affe-6411a09bfb93": {
+    "p": null,
+    "f": "2026-06-24T19:28:28.300921+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1906793813": {
+    "p": 1999,
+    "f": "2026-06-24T19:28:27.287297+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1-4-benzin-1906793813/",
+    "t": "Seat Ibiza 1.4 Benzin",
+    "ts": "2026-06-24T19:28:27.287297+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Ibiza",
+    "y": 2009,
+    "km": 233280,
+    "b": "Limousine"
+  },
+  "wh:1622384453": {
+    "p": 13500,
+    "f": "2026-06-24T19:28:27.287297+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-5008-1622384453/",
+    "t": "Peugeot 5008",
+    "ts": "2026-06-24T19:28:27.287297+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2017,
+    "km": 149400,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:825658407": {
+    "p": 14000,
+    "f": "2026-06-24T19:28:27.287297+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/suzuki-ignis-1-2-hybrid-825658407/",
+    "t": "Suzuki Ignis 1,2 Hybrid",
+    "ts": "2026-06-24T19:28:27.287297+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2020,
+    "km": 40260,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:2c47aa11-9a1c-4da6-a056-81fca047e24c": {
     "p": null,
     "f": "2026-06-24T19:26:25.007056+00:00",
@@ -145519,54 +145570,6 @@
     "mo": "Leon",
     "y": 2014,
     "km": 208000
-  },
-  "wh:2083653749": {
-    "p": 4800,
-    "f": "2026-06-16T16:03:26.551494+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x3-2-0d-e83-2083653749/",
-    "t": "BMW X3 2.0d E83",
-    "ts": "2026-06-16T16:03:26.551494+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "X3",
-    "y": 2008,
-    "km": 262388
-  },
-  "as:fb67e976-7e9d-4439-9e29-55f9a45daf0f": {
-    "p": null,
-    "f": "2026-06-16T16:02:37.356196+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "gw:50775c38-e908-4b43-aa9f-ca8d00f5af3a": {
-    "p": 8500,
-    "f": "2026-06-16T16:02:05.727992+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/audi-a3-1-6-tdi-sportback-top-zustand-diesel-schwarz-cat_ma9mo1624/50775c38-e908-4b43-aa9f-ca8d00f5af3a",
-    "t": "Audi A3",
-    "ts": "2026-06-16T16:02:05.727992+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A3",
-    "y": 2010,
-    "km": 118440
-  },
-  "gw:4292cc19-a783-4f02-84f3-f4ac993190cf": {
-    "p": 2200,
-    "f": "2026-06-16T16:02:05.727992+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/fiat-sedici-1-6-16v-120-mylife-benzin-cat_ma28mo18779/4292cc19-a783-4f02-84f3-f4ac993190cf",
-    "t": "Fiat Sedici",
-    "ts": "2026-06-16T16:02:05.727992+00:00",
-    "ch": "alive",
-    "ma": "Fiat",
-    "mo": "Sedici",
-    "y": 2013,
-    "km": 146000
   },
   "__health__": {
     "wh": 0,
