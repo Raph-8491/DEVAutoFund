@@ -147,6 +147,58 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:494d1f7a-afff-4caf-8aec-d5eb3da7b8f0": {
+    "p": 5990,
+    "f": "2026-06-24T16:38:34.816755+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/fiat-punto-grande-punto-benzin-weiss-cat_ma28mo1747/494d1f7a-afff-4caf-8aec-d5eb3da7b8f0",
+    "t": "Fiat Punto Grande Punto",
+    "ts": "2026-06-24T16:38:34.816755+00:00",
+    "ch": null,
+    "ma": "Fiat",
+    "mo": "Punto",
+    "y": 2014,
+    "km": 52200,
+    "b": ""
+  },
+  "as:f443c92e-5376-4e53-8ccb-3a6e01fece46": {
+    "p": 12990,
+    "f": "2026-06-24T16:38:27.363077+00:00",
+    "u": "https://www.autoscout24.at/angebote/mercedes-benz-e-200-e-200-cdi-dpf-blueefficiency-7g-tronic-diesel-grau-cat_ma47mo1862-f443c92e-5376-4e53-8ccb-3a6e01fece46",
+    "t": "Mercedes-Benz E 200 E 200 CDI DPF BlueEFFICIENCY 7G-TRONIC",
+    "ts": "2026-06-24T16:38:27.363077+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "E 200",
+    "y": 2012,
+    "km": 143000,
+    "b": ""
+  },
+  "as:494d1f7a-afff-4caf-8aec-d5eb3da7b8f0": {
+    "p": 5990,
+    "f": "2026-06-24T16:38:27.363077+00:00",
+    "u": "https://www.autoscout24.at/angebote/fiat-punto-grande-punto-benzin-weiss-cat_ma28mo1747-494d1f7a-afff-4caf-8aec-d5eb3da7b8f0",
+    "t": "Fiat Punto Grande Punto",
+    "ts": "2026-06-24T16:38:27.363077+00:00",
+    "ch": null,
+    "ma": "Fiat",
+    "mo": "Punto",
+    "y": 2014,
+    "km": 52200,
+    "b": ""
+  },
+  "wh:1908736754": {
+    "p": 12500,
+    "f": "2026-06-24T16:38:26.241782+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-500-1-2-fire-70-star-1908736754/",
+    "t": "Fiat 500 1,2 Fire 70 Star",
+    "ts": "2026-06-24T16:38:26.241782+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2020,
+    "km": 37665,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1455391733": {
     "p": 7800,
     "f": "2026-06-24T16:37:21.121749+00:00",
@@ -145187,54 +145239,6 @@
     "mo": "Mokka",
     "y": 2014,
     "km": 110000
-  },
-  "as:15a3114e-5d3e-43e2-9831-ad32cbac9fe5": {
-    "p": null,
-    "f": "2026-06-16T13:17:35.852955+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1905231891": {
-    "p": 9350,
-    "f": "2026-06-16T13:16:36.120247+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/volvo-v60-d4-volvo-ocean-race-geartronic-1905231891/",
-    "t": "Volvo V60 D4 Volvo Ocean Race Geartronic",
-    "ts": "2026-06-16T13:16:36.120247+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2015,
-    "km": 249000
-  },
-  "wh:991470078": {
-    "p": 3000,
-    "f": "2026-06-16T13:16:36.120247+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-jetta-1896ccm-991470078/",
-    "t": "VW Jetta 1896ccm",
-    "ts": "2026-06-16T13:16:36.120247+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Jetta",
-    "y": 2008,
-    "km": 150000
-  },
-  "wh:1539568728": {
-    "p": 5400,
-    "f": "2026-06-16T13:16:36.120247+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-clio-1539568728/",
-    "t": "Renault Clio",
-    "ts": "2026-06-16T13:16:36.120247+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2017,
-    "km": 165000
   },
   "__health__": {
     "wh": 0,
