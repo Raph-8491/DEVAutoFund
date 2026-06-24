@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "as:077aae08-cabb-4d5d-a705-8bdea9aa6efc": {
+    "p": null,
+    "f": "2026-06-24T15:50:42.688015+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1394146906": {
+    "p": 10700,
+    "f": "2026-06-24T15:50:40.863413+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-2er-reihe-216d-gran-tourer-advantage-aut-1394146906/",
+    "t": "BMW 2er-Reihe 216d Gran Tourer Advantage Aut.",
+    "ts": "2026-06-24T15:50:40.863413+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "2er-Reihe",
+    "y": 2016,
+    "km": 193000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T15:50:40.863413+00:00"
+  },
   "as:b4fe7d6e-53fb-4b24-bd12-a7728a7a2796": {
     "p": null,
     "f": "2026-06-24T15:49:25.414591+00:00",
@@ -145134,30 +145160,6 @@
     "mo": null,
     "y": 2019,
     "km": 109000
-  },
-  "wh:1245461257": {
-    "p": 3200,
-    "f": "2026-06-16T12:31:44.428156+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-2-7-tdi-1245461257/",
-    "t": "Audi A6 2.7 tdi",
-    "ts": "2026-06-16T12:31:44.428156+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A6",
-    "y": 2008,
-    "km": 419000
-  },
-  "gw:89bc8216-a50d-45c7-9714-f1c675c0bdd5": {
-    "p": 1500,
-    "f": "2026-06-16T12:29:43.530612+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/dacia-logan-logan-mcv-ambiance-dci-90-ambiance-diesel-weiss-cat_ma16360mo18498/89bc8216-a50d-45c7-9714-f1c675c0bdd5",
-    "t": "Dacia Logan",
-    "ts": "2026-06-16T12:29:43.530612+00:00",
-    "ch": "alive",
-    "ma": "Dacia",
-    "mo": "Logan",
-    "y": 2012,
-    "km": 267555
   },
   "__health__": {
     "wh": 0,
