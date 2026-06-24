@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:171ede85-aa57-4ceb-ba5d-26f2679cd06f": {
+    "p": 9990,
+    "f": "2026-06-24T11:24:43.595231+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/renault-clio-clio-grandtour-energy-tce-90-limited-limited-benzin-schwarz-cat_ma60mo1961/171ede85-aa57-4ceb-ba5d-26f2679cd06f",
+    "t": "Renault Clio",
+    "ts": "2026-06-24T11:24:43.595231+00:00",
+    "ch": null,
+    "ma": "Renault",
+    "mo": "Clio",
+    "y": 2018,
+    "km": 115000,
+    "b": ""
+  },
+  "as:171ede85-aa57-4ceb-ba5d-26f2679cd06f": {
+    "p": 9990,
+    "f": "2026-06-24T11:24:35.335691+00:00",
+    "u": "https://www.autoscout24.at/angebote/renault-clio-clio-grandtour-energy-tce-90-limited-limited-benzin-schwarz-cat_ma60mo1961-171ede85-aa57-4ceb-ba5d-26f2679cd06f",
+    "t": "Renault Clio",
+    "ts": "2026-06-24T11:24:35.335691+00:00",
+    "ch": null,
+    "ma": "Renault",
+    "mo": "Clio",
+    "y": 2018,
+    "km": 115000,
+    "b": ""
+  },
   "wh:990574774": {
     "p": 7999,
     "f": "2026-06-24T11:23:22.827408+00:00",
@@ -144689,30 +144715,6 @@
     "mo": null,
     "y": 2008,
     "km": 150000
-  },
-  "as:3e7ebb1e-8aea-417d-ad0d-87c4daa8de42": {
-    "p": null,
-    "f": "2026-06-16T07:11:23.680793+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:031011d1-cecf-47b4-82ab-1dbfa88338fb": {
-    "p": null,
-    "f": "2026-06-16T07:10:49.898392+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
