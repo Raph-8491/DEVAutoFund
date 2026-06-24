@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1899204931": {
+    "p": 8000,
+    "f": "2026-06-24T11:19:25.536146+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-trendline-bmt-1-6-tdi-1899204931/",
+    "t": "VW Golf Variant Trendline BMT 1,6 TDI",
+    "ts": "2026-06-24T11:19:25.536146+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2013,
+    "km": 207000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T11:19:25.536146+00:00"
+  },
+  "wh:905221596": {
+    "p": 3500,
+    "f": "2026-06-24T11:19:25.536146+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i20-1-25-life-905221596/",
+    "t": "Hyundai i20 1,25 Life",
+    "ts": "2026-06-24T11:19:25.536146+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 82300,
+    "b": "Limousine"
+  },
   "wh:1803538174": {
     "p": 4500,
     "f": "2026-06-24T11:17:25.764945+00:00",
@@ -203,7 +230,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touran-1-4-tfsi-1879501459/",
     "t": "VW Touran 1.4. tfsi",
     "ts": "2026-06-24T11:15:39.276563+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Touran",
     "y": 2009,
@@ -144681,30 +144708,6 @@
     "mo": "Fabia",
     "y": 2022,
     "km": 88000
-  },
-  "as:60e43603-9caf-4d24-b26c-d53300d0c4df": {
-    "p": null,
-    "f": "2026-06-16T07:06:32.965774+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1306915227": {
-    "p": 9200,
-    "f": "2026-06-16T07:05:40.501825+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x1-xdrive18d-oesterreich-paket-1306915227/",
-    "t": "BMW X1 xDrive18d \u00d6sterreich Paket",
-    "ts": "2026-06-16T07:05:40.501825+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "X1",
-    "y": 2014,
-    "km": 147000
   },
   "__health__": {
     "wh": 0,
