@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:05cda2d6-8b6b-4938-8af5-c561574aab4f": {
+    "p": 10200,
+    "f": "2026-06-24T13:41:32.392918+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/audi-a4-avant-2-0-tdi-dpf-diesel-schwarz-cat_ma9mo1626/05cda2d6-8b6b-4938-8af5-c561574aab4f",
+    "t": "Audi A4",
+    "ts": "2026-06-24T13:41:32.392918+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2010,
+    "km": 180000,
+    "b": "",
+    "pu": "2026-06-24T13:41:32.392918+00:00"
+  },
+  "as:5c66e8a4-7545-41c5-812b-05a666e24259": {
+    "p": null,
+    "f": "2026-06-24T13:41:26.580251+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1408978239": {
     "p": 1000,
     "f": "2026-06-24T13:40:46.482189+00:00",
@@ -243,7 +269,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-diesel-140-ps-4-x-4-910479941/",
     "t": "VW Tiguan Diesel 140 ps 4 x 4",
     "ts": "2026-06-24T13:38:29.286772+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Tiguan",
     "y": 2010,
@@ -144913,30 +144939,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:f2e4e27b-102c-4c18-874a-c3da4ce4ebe7": {
-    "p": null,
-    "f": "2026-06-16T09:51:26.346302+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:221314d0-cf36-403c-88fa-916bab09ebe4": {
-    "p": 5300,
-    "f": "2026-06-16T09:51:26.346302+00:00",
-    "u": "https://www.autoscout24.at/angebote/seat-toledo-style-1-2-tsi-benzin-braun-cat_ma64mo2010-221314d0-cf36-403c-88fa-916bab09ebe4",
-    "t": "SEAT Toledo",
-    "ts": "2026-06-16T09:51:26.346302+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Toledo",
-    "y": 2013,
-    "km": 172000
   },
   "__health__": {
     "wh": 0,
