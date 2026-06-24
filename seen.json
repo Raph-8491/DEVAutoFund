@@ -147,6 +147,20 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:990574774": {
+    "p": 7999,
+    "f": "2026-06-24T11:23:22.827408+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-990574774/",
+    "t": "VW Golf",
+    "ts": "2026-06-24T11:23:22.827408+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2019,
+    "km": 144000,
+    "b": "Limousine",
+    "pu": "2026-06-24T11:23:22.827408+00:00"
+  },
   "as:25353ab3-3398-4352-8def-e9183c2cd632": {
     "p": null,
     "f": "2026-06-24T11:22:25.788083+00:00",
@@ -121495,7 +121509,8 @@
     "ma": "VW",
     "mo": "Golf",
     "y": 2014,
-    "km": 126000
+    "km": 126000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:2084746442": {
     "p": 4990,
@@ -144698,18 +144713,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:862298343": {
-    "p": 3500,
-    "f": "2026-06-16T07:10:46.570884+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-punto-1-3-multijet-862298343/",
-    "t": "Fiat Punto 1.3 Multijet",
-    "ts": "2026-06-16T07:10:46.570884+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 240000
   },
   "__health__": {
     "wh": 0,
