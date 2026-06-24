@@ -147,6 +147,44 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:15e59127-88cd-43af-a497-643a17b30c4a": {
+    "p": 3890,
+    "f": "2026-06-24T14:49:32.369430+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/nissan-tiida-1-6-visia-benzin-cat_ma52mo19067/15e59127-88cd-43af-a497-643a17b30c4a",
+    "t": "Nissan Tiida 1.6 visia",
+    "ts": "2026-06-24T14:49:32.369430+00:00",
+    "ch": null,
+    "ma": "Nissan",
+    "mo": "Tiida",
+    "y": 2011,
+    "km": 110000,
+    "b": ""
+  },
+  "as:84db5267-507f-481a-a4a9-9914ccd06c78": {
+    "p": null,
+    "f": "2026-06-24T14:49:26.004992+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:15e59127-88cd-43af-a497-643a17b30c4a": {
+    "p": 3890,
+    "f": "2026-06-24T14:49:26.004992+00:00",
+    "u": "https://www.autoscout24.at/angebote/nissan-tiida-1-6-visia-benzin-cat_ma52mo19067-15e59127-88cd-43af-a497-643a17b30c4a",
+    "t": "Nissan Tiida 1.6 visia",
+    "ts": "2026-06-24T14:49:26.004992+00:00",
+    "ch": null,
+    "ma": "Nissan",
+    "mo": "Tiida",
+    "y": 2011,
+    "km": 110000,
+    "b": ""
+  },
   "as:fb747b5d-ca2e-4ca1-982c-5ab43d16787c": {
     "p": null,
     "f": "2026-06-24T14:48:27.978548+00:00",
@@ -145016,42 +145054,6 @@
     "mo": "TT",
     "y": 2008,
     "km": 199950
-  },
-  "as:94b1a784-69f0-47e8-9882-803f5b16f06f": {
-    "p": null,
-    "f": "2026-06-16T11:16:33.832569+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:4d246f96-9450-432d-b9e6-3218cd6343d0": {
-    "p": null,
-    "f": "2026-06-16T11:16:33.832569+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1590536423": {
-    "p": 7990,
-    "f": "2026-06-16T11:15:48.142170+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-variant-sky-bmt-tdi-4motion-dsg-1590536423/",
-    "t": "VW Passat Variant Sky BMT TDI 4Motion DSG",
-    "ts": "2026-06-16T11:15:48.142170+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2013,
-    "km": 251000
   },
   "__health__": {
     "wh": 0,
