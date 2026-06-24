@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:1294eb84-21d5-43a3-9b50-6d8db2dc87cd": {
+    "p": null,
+    "f": "2026-06-24T14:52:32.457593+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:f7fc0b49-7004-485e-8673-32b651100afa": {
     "p": 3400,
     "f": "2026-06-24T14:51:42.175736+00:00",
@@ -145048,18 +145060,6 @@
     "mo": "3er-Reihe",
     "y": 2011,
     "km": 280000
-  },
-  "wh:1506331953": {
-    "p": 10500,
-    "f": "2026-06-16T11:28:36.110072+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1-0-eco-tsi-fr-1506331953/",
-    "t": "Seat Ibiza 1,0 ECO TSI FR",
-    "ts": "2026-06-16T11:28:36.110072+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2017,
-    "km": 128840
   },
   "__health__": {
     "wh": 0,
