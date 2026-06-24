@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:905199380": {
+    "p": 11900,
+    "f": "2026-06-24T03:52:23.550400+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-mokka-x-1-6-905199380/",
+    "t": "Opel Mokka X 1,6",
+    "ts": "2026-06-24T03:52:23.550400+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Mokka",
+    "y": 2017,
+    "km": 128000,
+    "b": "Kombi / Family Van"
+  },
   "as:53d24a2a-cf52-40fa-b4d9-0f8e198333bb": {
     "p": null,
     "f": "2026-06-24T03:46:23.513822+00:00",
@@ -119686,16 +119699,17 @@
     "km": null
   },
   "wh:1365021431": {
-    "p": 10950,
+    "p": 10000,
     "f": "2026-06-17T03:54:31.457199+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-alhambra-allrad-2-0tdi-cr-4wd-mit-anhaengerkupplung-1365021431/",
     "t": "Seat Alhambra Allrad 2.0TDI CR 4WD mit Anh\u00e4ngerkupplung",
-    "ts": "2026-06-17T03:54:31.457199+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T03:52:23.550400+00:00",
+    "ch": null,
     "ma": "Seat",
     "mo": "Alhambra",
     "y": 2013,
-    "km": 155000
+    "km": 155000,
+    "b": "Kombi / Family Van"
   },
   "as:1bcd7613-80e9-4f7e-b132-c78043d41dbf": {
     "p": null,
@@ -144164,18 +144178,6 @@
     "mo": "Trafic",
     "y": 2015,
     "km": 160000
-  },
-  "wh:1661886425": {
-    "p": 10900,
-    "f": "2026-06-15T18:22:37.486101+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-sb-2-0-tdi-dpf-1661886425/",
-    "t": "Audi A5 SB 2,0 TDI DPF",
-    "ts": "2026-06-15T18:22:37.486101+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A5",
-    "y": 2011,
-    "km": 175000
   },
   "__health__": {
     "wh": 0,
