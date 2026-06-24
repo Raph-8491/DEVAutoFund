@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:3ba4711c-486c-4eb2-8cac-8341604d0bf1": {
+    "p": null,
+    "f": "2026-06-24T12:47:28.651868+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1890302274": {
     "p": 15000,
     "f": "2026-06-24T12:46:25.002582+00:00",
@@ -144831,18 +144843,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1679210335": {
-    "p": 7900,
-    "f": "2026-06-16T08:48:32.724429+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-2-tsi-bluemotion-1679210335/",
-    "t": "VW Golf 1.2 TSI Bluemotion",
-    "ts": "2026-06-16T08:48:32.724429+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2015,
-    "km": 163000
   },
   "__health__": {
     "wh": 0,
