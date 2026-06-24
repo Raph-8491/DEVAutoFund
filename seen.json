@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2143922573": {
+    "p": 4800,
+    "f": "2026-06-24T09:25:34.872792+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/nissan-qashqai-2-0-2143922573/",
+    "t": "Nissan Qashqai 2.0",
+    "ts": "2026-06-24T09:25:34.872792+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 298000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "gw:5c9f3039-88ff-41f0-93b7-4ed5eadf469a": {
     "p": 6999,
     "f": "2026-06-24T09:24:31.221648+00:00",
@@ -437,7 +450,7 @@
     "u": "https://www.autoscout24.at/angebote/fiat-500-500-0-9-8v-twinair-dualogic-start-benzin-rot-cat_ma28mo15160-253b28fb-0926-4867-80b4-db87ad1276b7",
     "t": "Fiat 500",
     "ts": "2026-06-24T09:22:30.643033+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Fiat",
     "mo": "500",
     "y": 2015,
@@ -144515,18 +144528,6 @@
     "mo": "Passat",
     "y": 2011,
     "km": 280000
-  },
-  "wh:1977366535": {
-    "p": 3200,
-    "f": "2026-06-16T01:01:41.148467+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-caddy-1977366535/",
-    "t": "VW Caddy",
-    "ts": "2026-06-16T01:01:41.148467+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Caddy",
-    "y": 2013,
-    "km": 206000
   },
   "__health__": {
     "wh": 0,
