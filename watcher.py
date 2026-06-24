@@ -1,5 +1,5 @@
 """
-Fahrzeug-Watcher v1.5 (Haendler-Profil VW/Audi/BMW/Mercedes): 3 Plattformen + Marken-/BJ-/KM-/Limousinen-Filter (akzent-unempfindlich: Coupe=Coupé) + Push-Marker (pu) + Link-Check NUR fuer echt gepushte Autos (keine Seed-Altlasten) + Karosserie-Feld (b) + Content-Dedup (gleiches Auto an Marke+Modell+BJ+km+Preis) + Cross-Push-Dedup + Block-Warnung + Template + Preis-Drop + Link-Check + Marktwert-DB + Header-Rotation.
+Fahrzeug-Watcher v1.7 (Haendler-Profil VW/Audi/BMW/Mercedes): 3 Plattformen + Marken-/BJ-/KM-/Limousinen-Filter (akzent-unempfindlich) + Push-Marker (pu) + Link-Check nur fuer echte Pushes + Content-Dedup LAUFUEBERGREIFEND (gleiches Auto auch in spaeteren Laeufen/anderer Plattform = kein 2. Push, via pu-Fingerprints letzte 7 Tage) + Karosserie-Feld (b) + Content-Dedup (gleiches Auto an Marke+Modell+BJ+km+Preis) + Cross-Push-Dedup + Block-Warnung + Template + Preis-Drop + Link-Check + Marktwert-DB + Header-Rotation.
 """
 import os
 import json
@@ -8,7 +8,7 @@ import unicodedata
 import sys
 import time
 import random
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
@@ -549,7 +549,11 @@ def as_engine_title(ad):
         tracking.get("model"), tracking.get("modelFormatted"),
         ad.get("model")
     ) or ""
-    return f"{make} {model}".strip() or "Auto"
+    version = _first_truthy(
+        vehicle.get("modelVersionInput"), vehicle.get("version"),
+        vehicle.get("modelVariant"), tracking.get("version")
+    ) or ""
+    return " ".join(filter(None, [str(make), str(model), str(version)])).strip() or "Auto"
 
 
 def as_engine_meta(ad):
@@ -835,12 +839,18 @@ def format_price_drop(title, old_price, new_price, ad_msg):
     return header + ad_msg
 
 
-def format_dead_listing(title, url):
+def format_dead_listing(title, url, price=None, km=None):
+    details = []
+    if price:
+        details.append(f"💶 € {_fmt_int(price)}")
+    if km is not None:
+        details.append(f"{_fmt_int(km)} km")
+    detail_line = (" | ".join(details) + "\n") if details else ""
     return (
         f"⚠️ *INSERAT VERSCHWUNDEN*\n"
         f"🚗 {escape_markdown(title)}\n"
+        f"{detail_line}"
         f"🚫 Anzeige nicht mehr verfügbar\n"
-        f"🤔 Möglicher Scam ODER sehr schnell verkauft\n"
         f"\n"
         f"👉 [INSERAT ANSEHEN]({url}) 👈"
     )
@@ -1000,7 +1010,7 @@ def check_dead_listings(seen):
         info["ch"] = "alive" if alive else "dead"
         if not alive:
             print(f"  💀 Tot bestätigt: {ad_id}")
-            send_telegram(format_dead_listing(title, url))
+            send_telegram(format_dead_listing(title, url, info.get("p"), info.get("km")))
             dead_count += 1
     if checks_done > 0:
         print(f"  Link-Check zusammenfassung: {checks_done} geprüft, {dead_count} tot")
@@ -1090,6 +1100,28 @@ def car_fingerprint(meta, price):
     if not ma or not mo or y is None or km is None or not price:
         return None
     return f"{ma}|{mo}|{y}|{km}|{price}"
+
+
+def recent_pushed_fingerprints(seen, days=7):
+    # Fingerprints aller ECHT gepushten Autos der letzten X Tage (Marker pu).
+    # Dient der laufuebergreifenden Doppel-Sperre. Seed-Autos (ohne pu) zaehlen NICHT.
+    cutoff = datetime.now(timezone.utc) - timedelta(days=days)
+    fps = set()
+    for ad_id, info in seen.items():
+        if ad_id == "__health__":
+            continue
+        pu = info.get("pu")
+        if not pu:
+            continue
+        try:
+            if datetime.fromisoformat(pu) < cutoff:
+                continue
+        except Exception:
+            continue
+        fp = car_fingerprint(info, info.get("p"))
+        if fp:
+            fps.add(fp)
+    return fps
 
 
 def process_listings(listings, prefix, seen, first_run, format_func, photo_func, ooe_check, region_check, url_func, price_func, title_func, meta_func, sibling_prefix=None, run_pushed_fps=None):
@@ -1317,7 +1349,8 @@ def main():
     total_drops = 0
     total_listings = 0
     found_counts = {"wh": 0, "as": 0, "gw": 0}
-    run_pushed_fps = set()  # gepushte Auto-Fingerprints dieses Laufs (Content-Dedup)
+    run_pushed_fps = recent_pushed_fingerprints(seen, days=7)  # Content-Dedup: dieser Lauf + echte Pushes der letzten 7 Tage (laufuebergreifend)
+    print(f"Content-Dedup vorgeladen: {len(run_pushed_fps)} Fingerprints aus echten Pushes der letzten 7 Tage")
 
     print("\n=== willhaben ===")
     try:
