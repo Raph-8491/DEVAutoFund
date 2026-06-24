@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:1cf9cf53-5d3d-4199-8674-ebba6692b02b": {
+    "p": null,
+    "f": "2026-06-24T13:11:24.811913+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:db026808-5383-4564-9039-666097b3c239": {
     "p": null,
     "f": "2026-06-24T13:10:45.408802+00:00",
@@ -262,11 +274,11 @@
     "b": "Klein-/ Kompaktwagen"
   },
   "as:8a7b9cfd-8af9-4ad5-8045-8e57b1fc55a1": {
-    "p": 14500,
+    "p": 14300,
     "f": "2026-06-24T13:04:32.930243+00:00",
     "u": "https://www.autoscout24.at/angebote/ford-focus-focus-turnier-1-5-ecoboost-start-stopp-system-st-line-benzin-blau-cat_ma29mo15537-8a7b9cfd-8af9-4ad5-8045-8e57b1fc55a1",
     "t": "Ford Focus",
-    "ts": "2026-06-24T13:04:32.930243+00:00",
+    "ts": "2026-06-24T13:11:24.811913+00:00",
     "ch": null,
     "ma": "Ford",
     "mo": "Focus",
@@ -121973,16 +121985,17 @@
     "km": 270000
   },
   "wh:1501188292": {
-    "p": 5900,
+    "p": 5300,
     "f": "2026-06-17T13:15:48.051928+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-3008-1-6-hdi-allure-1-besitz-ahk-top-zustand-1501188292/",
     "t": "Peugeot 3008 1,6 HDi Allure - 1.Besitz, Ahk, Top Zustand",
-    "ts": "2026-06-17T13:15:48.051928+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T13:11:23.676386+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2013,
-    "km": 185000
+    "km": 185000,
+    "b": "Kombi / Family Van"
   },
   "gw:3e589567-67ac-43eb-a98f-3e86355dfa2c": {
     "p": 9000,
@@ -144865,18 +144878,6 @@
     "mo": "Zafira",
     "y": 2009,
     "km": 240000
-  },
-  "wh:827345468": {
-    "p": 3700,
-    "f": "2026-06-16T09:11:33.988877+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1-4-16v-827345468/",
-    "t": "Seat Ibiza 1,4 16V",
-    "ts": "2026-06-23T09:13:29.096597+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2013,
-    "km": 164000
   },
   "__health__": {
     "wh": 0,
