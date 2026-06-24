@@ -204,7 +204,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x1-xdrive18d-xline-aut-top-zustand-8-fach-1000159554/",
     "t": "BMW X1 xDrive18d xLine Aut. | Top-Zustand | 8-fach",
     "ts": "2026-06-24T16:03:24.250040+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "X1",
     "y": 2016,
@@ -290,11 +290,11 @@
     "b": ""
   },
   "gw:8c97b132-e00e-4dd9-bf88-dc707b3b80de": {
-    "p": 3800,
+    "p": 3700,
     "f": "2026-06-24T15:59:39.354208+00:00",
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/kia-rio-1-2-cvvt-cool-benzin-cat_ma39mo16476/8c97b132-e00e-4dd9-bf88-dc707b3b80de",
     "t": "Kia Rio 1,2 CVVT Cool",
-    "ts": "2026-06-24T15:59:39.354208+00:00",
+    "ts": "2026-06-24T16:06:37.154713+00:00",
     "ch": null,
     "ma": "Kia",
     "mo": "Rio",
@@ -316,11 +316,11 @@
     "b": ""
   },
   "as:8c97b132-e00e-4dd9-bf88-dc707b3b80de": {
-    "p": 3800,
+    "p": 3700,
     "f": "2026-06-24T15:59:30.736864+00:00",
     "u": "https://www.autoscout24.at/angebote/kia-rio-1-2-cvvt-cool-benzin-cat_ma39mo16476-8c97b132-e00e-4dd9-bf88-dc707b3b80de",
     "t": "Kia Rio 1,2 CVVT Cool",
-    "ts": "2026-06-24T15:59:30.736864+00:00",
+    "ts": "2026-06-24T16:06:28.727778+00:00",
     "ch": null,
     "ma": "Kia",
     "mo": "Rio",
