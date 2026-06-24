@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1157774730": {
+    "p": 3000,
+    "f": "2026-06-24T06:56:29.381880+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/volvo-s80-1157774730/",
+    "t": "Volvo S80",
+    "ts": "2026-06-24T06:56:29.381880+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 38800,
+    "b": "Limousine"
+  },
   "as:f6540e62-b588-4c55-81b5-9ba7abd9c197": {
     "p": 5000,
     "f": "2026-06-24T06:55:33.337217+00:00",
@@ -192,7 +205,7 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/opel-zafira-tourer-innovation-diesel-grau-cat_ma54mo20381/4dea4074-c1bd-41dd-a366-1a01c538d61e",
     "t": "Opel Zafira Tourer",
     "ts": "2026-06-24T06:53:32.555402+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Opel",
     "mo": "Zafira Tourer",
     "y": 2012,
@@ -217,7 +230,7 @@
     "u": "https://www.autoscout24.at/angebote/opel-zafira-tourer-innovation-diesel-grau-cat_ma54mo20381-4dea4074-c1bd-41dd-a366-1a01c538d61e",
     "t": "Opel Zafira Tourer",
     "ts": "2026-06-24T06:53:24.210885+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Opel",
     "mo": "Zafira Tourer",
     "y": 2012,
@@ -144301,18 +144314,6 @@
     "mo": "Jumper",
     "y": 2012,
     "km": 128400
-  },
-  "as:bc9d9a70-5000-486f-a0ce-ef5f771fcadc": {
-    "p": 10000,
-    "f": "2026-06-15T19:20:50.669982+00:00",
-    "u": "https://www.autoscout24.at/angebote/bmw-120-120d-coupe-oesterreich-paket-diesel-cat_ma13mo18482-bc9d9a70-5000-486f-a0ce-ef5f771fcadc",
-    "t": "BMW 120",
-    "ts": "2026-06-15T19:20:50.669982+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "120",
-    "y": 2008,
-    "km": 143000
   },
   "__health__": {
     "wh": 0,
