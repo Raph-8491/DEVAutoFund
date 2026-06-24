@@ -147,6 +147,46 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:67ec2264-3730-4d80-8cb8-8bff1b812a77": {
+    "p": 6500,
+    "f": "2026-06-24T13:32:45.652609+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-golf-golf-trendline-bmt-1-6-tdi-dpf-trendline-diesel-schwarz-cat_ma74mo2084/67ec2264-3730-4d80-8cb8-8bff1b812a77",
+    "t": "Volkswagen Golf",
+    "ts": "2026-06-24T13:32:45.652609+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2009,
+    "km": 240000,
+    "b": ""
+  },
+  "as:67ec2264-3730-4d80-8cb8-8bff1b812a77": {
+    "p": 6500,
+    "f": "2026-06-24T13:32:37.756888+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-golf-trendline-bmt-1-6-tdi-dpf-trendline-diesel-schwarz-cat_ma74mo2084-67ec2264-3730-4d80-8cb8-8bff1b812a77",
+    "t": "Volkswagen Golf",
+    "ts": "2026-06-24T13:32:37.756888+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2009,
+    "km": 240000,
+    "b": "",
+    "pu": "2026-06-24T13:32:37.756888+00:00"
+  },
+  "as:4a211790-08c0-4d7a-bb2d-32c4b63cbd25": {
+    "p": 5000,
+    "f": "2026-06-24T13:32:37.756888+00:00",
+    "u": "https://www.autoscout24.at/angebote/land-rover-range-rover-sport-3-0-tdv6-hse-dpf-diesel-cat_ma15641mo18555-4a211790-08c0-4d7a-bb2d-32c4b63cbd25",
+    "t": "Land Rover Range Rover Sport",
+    "ts": "2026-06-24T13:32:37.756888+00:00",
+    "ch": null,
+    "ma": "Land Rover",
+    "mo": "Range Rover Sport",
+    "y": 2010,
+    "km": 447125,
+    "b": ""
+  },
   "gw:4a211790-08c0-4d7a-bb2d-32c4b63cbd25": {
     "p": 5000,
     "f": "2026-06-24T13:31:30.908418+00:00",
@@ -144881,42 +144921,6 @@
     "mo": "A4",
     "y": 2009,
     "km": 255000
-  },
-  "wh:1450919486": {
-    "p": 5000,
-    "f": "2026-06-16T09:36:38.877482+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-trend-1-2l-1450919486/",
-    "t": "Ford Fiesta Trend 1.2l",
-    "ts": "2026-06-16T09:36:38.877482+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2013,
-    "km": 33000
-  },
-  "wh:1928984820": {
-    "p": 3390,
-    "f": "2026-06-16T09:36:38.877482+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-karl-1-0-1928984820/",
-    "t": "Opel Karl 1.0",
-    "ts": "2026-06-16T09:36:38.877482+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Karl",
-    "y": 2016,
-    "km": 193000
-  },
-  "as:ac9efefb-359c-4d5a-b0d6-5f030f412631": {
-    "p": null,
-    "f": "2026-06-16T09:31:35.780355+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
