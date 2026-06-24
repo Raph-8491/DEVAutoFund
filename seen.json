@@ -762,12 +762,12 @@
     "b": "Limousine"
   },
   "wh:1916536810": {
-    "p": 5100,
+    "p": 4800,
     "f": "2026-06-24T03:06:23.218412+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-altea-1916536810/",
     "t": "Seat Altea",
-    "ts": "2026-06-24T03:06:23.218412+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T05:10:43.978072+00:00",
+    "ch": null,
     "ma": "Seat",
     "mo": "Altea",
     "y": 2012,
