@@ -147,6 +147,46 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1101954188": {
+    "p": 7000,
+    "f": "2026-06-24T19:30:54.883657+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/volvo-xc60-1101954188/",
+    "t": "Volvo XC60",
+    "ts": "2026-06-24T19:30:54.883657+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 320000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1654223366": {
+    "p": 10500,
+    "f": "2026-06-24T19:30:54.883657+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-sportpack-1654223366/",
+    "t": "Audi A3 Sportpack",
+    "ts": "2026-06-24T19:30:54.883657+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A3",
+    "y": 2013,
+    "km": 102000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-24T19:30:54.883657+00:00"
+  },
+  "wh:1022780110": {
+    "p": 500,
+    "f": "2026-06-24T19:30:54.883657+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-1022780110/",
+    "t": "Seat Leon",
+    "ts": "2026-06-24T19:30:54.883657+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2008,
+    "km": 186382,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:5fa80e5f-0261-490c-affe-6411a09bfb93": {
     "p": null,
     "f": "2026-06-24T19:28:28.300921+00:00",
@@ -145534,42 +145574,6 @@
     "mo": null,
     "y": 2008,
     "km": 199000
-  },
-  "wh:2057139071": {
-    "p": 2990,
-    "f": "2026-06-16T16:04:36.934469+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-4friends-1-2-einsteigerfahrzeug-2057139071/",
-    "t": "VW Polo 4FRIENDS 1,2 Einsteigerfahrzeug",
-    "ts": "2026-06-16T16:04:36.934469+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2012,
-    "km": 185000
-  },
-  "as:d79b833a-cbe5-42e0-8742-111e2652e3c8": {
-    "p": null,
-    "f": "2026-06-16T16:03:29.203127+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1393943951": {
-    "p": 8500,
-    "f": "2026-06-16T16:03:26.551494+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-st-fr-2-0-tdi-cr-start-stop-1393943951/",
-    "t": "Seat Leon ST FR 2,0 TDI CR Start-Stop",
-    "ts": "2026-06-16T16:03:26.551494+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Leon",
-    "y": 2014,
-    "km": 208000
   },
   "__health__": {
     "wh": 0,
