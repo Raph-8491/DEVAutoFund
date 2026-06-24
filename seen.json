@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1644766603": {
+    "p": 6999,
+    "f": "2026-06-24T19:04:31.416262+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-335xi-coupe-1644766603/",
+    "t": "BMW 3er-Reihe 335xi Coupe",
+    "ts": "2026-06-24T19:04:31.416262+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "3er-Reihe",
+    "y": 2008,
+    "km": 216105,
+    "b": "Sportwagen / Coup\u00e9"
+  },
+  "wh:1814034209": {
+    "p": 7000,
+    "f": "2026-06-24T19:04:31.416262+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/volvo-v50-1814034209/",
+    "t": "Volvo V50",
+    "ts": "2026-06-24T19:04:31.416262+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 161000,
+    "b": "Kombi / Family Van"
+  },
   "as:b73df653-dc1a-452e-a828-0a63267e7e44": {
     "p": null,
     "f": "2026-06-24T19:03:29.787849+00:00",
@@ -145510,30 +145536,6 @@
     "mo": "Ibiza",
     "y": 2017,
     "km": 153000
-  },
-  "wh:1001934238": {
-    "p": 6000,
-    "f": "2026-06-16T15:39:33.948081+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-alhambra-2-0-7n-1001934238/",
-    "t": "Seat Alhambra 2.0 7N",
-    "ts": "2026-06-16T15:39:33.948081+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Alhambra",
-    "y": 2012,
-    "km": 363000
-  },
-  "wh:1807697519": {
-    "p": 5000,
-    "f": "2026-06-16T15:39:33.948081+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-kuga-2-0-titanium-4x4-tdci-dpf-1807697519/",
-    "t": "Ford Kuga 2,0 Titanium 4x4 TDCI DPF",
-    "ts": "2026-06-16T15:39:33.948081+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 201500
   },
   "__health__": {
     "wh": 0,
