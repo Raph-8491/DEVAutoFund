@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:785132225": {
+    "p": 7200,
+    "f": "2026-06-24T15:57:24.694203+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-785132225/",
+    "t": "Audi A6",
+    "ts": "2026-06-24T15:57:24.694203+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A6",
+    "y": 2011,
+    "km": 342000,
+    "b": "Kombi / Family Van"
+  },
   "as:ab6261dd-0d8e-4222-a289-2c78d0e08e54": {
     "p": null,
     "f": "2026-06-24T15:54:38.702628+00:00",
@@ -232,7 +245,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-sportback-2-0-tdi-s-tronic-894605506/",
     "t": "Audi A3 Sportback 2.0 TDI S tronic",
     "ts": "2026-06-24T15:53:56.909834+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A3",
     "y": 2015,
@@ -145166,18 +145179,6 @@
     "mo": "Zafira",
     "y": 2010,
     "km": 211000
-  },
-  "as:50a9e32e-5266-4bed-a2b6-a3dc5ffb14fa": {
-    "p": 550,
-    "f": "2026-06-16T12:36:44.164279+00:00",
-    "u": "https://www.autoscout24.at/angebote/audi-a6-a6-avant-diesel-avant-2-7-tdi-tiptronic-quattro-diesel-silber-cat_ma9mo1628-50a9e32e-5266-4bed-a2b6-a3dc5ffb14fa",
-    "t": "Audi A6",
-    "ts": "2026-06-16T12:36:44.164279+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A6",
-    "y": 2017,
-    "km": 305750
   },
   "__health__": {
     "wh": 0,
