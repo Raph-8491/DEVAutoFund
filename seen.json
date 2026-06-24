@@ -147,6 +147,48 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1857414275": {
+    "p": 5050,
+    "f": "2026-06-24T17:08:33.050555+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-1-9-tdi-bluemotion-1857414275/",
+    "t": "VW Passat 1,9 TDI Bluemotion",
+    "ts": "2026-06-24T17:08:33.050555+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Passat",
+    "y": 2008,
+    "km": 207000,
+    "b": "Limousine",
+    "pu": "2026-06-24T17:08:33.050555+00:00"
+  },
+  "wh:1180462008": {
+    "p": 8500,
+    "f": "2026-06-24T17:08:33.050555+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-6-tdi-bluemotion-1180462008/",
+    "t": "VW Golf 1,6 TDI Bluemotion",
+    "ts": "2026-06-24T17:08:33.050555+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2014,
+    "km": 184000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-24T17:08:33.050555+00:00"
+  },
+  "wh:954854471": {
+    "p": 4500,
+    "f": "2026-06-24T17:08:33.050555+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-6r-954854471/",
+    "t": "VW Polo 6R",
+    "ts": "2026-06-24T17:08:33.050555+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Polo",
+    "y": 2011,
+    "km": 130000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-24T17:08:33.050555+00:00"
+  },
   "gw:125a4b6a-24d4-4627-80af-a51f58690422": {
     "p": 7300,
     "f": "2026-06-24T17:07:33.208403+00:00",
@@ -145246,42 +145288,6 @@
     "mo": "Golf",
     "y": 2014,
     "km": 220000
-  },
-  "wh:1459164281": {
-    "p": 2000,
-    "f": "2026-06-16T13:37:33.714616+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-2-besitz-nahezu-rostfrei-1459164281/",
-    "t": "(reserviert) Seat Ibiza 2 Besitz, nahezu Rostfrei",
-    "ts": "2026-06-16T13:37:33.714616+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 113000
-  },
-  "wh:1083967271": {
-    "p": 1900,
-    "f": "2026-06-16T13:37:33.714616+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-207-1-6-1083967271/",
-    "t": "Peugeot 207 1 6",
-    "ts": "2026-06-16T13:37:33.714616+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 220056
-  },
-  "wh:1392747946": {
-    "p": 1500,
-    "f": "2026-06-16T13:37:33.714616+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c4-picasso-1-6-1392747946/",
-    "t": "Citro\u00ebn C4 Picasso 1.6",
-    "ts": "2026-06-16T13:37:33.714616+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 260000
   },
   "__health__": {
     "wh": 0,
