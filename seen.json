@@ -147,6 +147,30 @@
     "y": 2009,
     "km": 235000
   },
+  "as:140f48bc-c8c9-479c-81ec-8060cad7425e": {
+    "p": null,
+    "f": "2026-06-24T17:40:42.601691+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:c9dff915-b9f9-42f0-a935-f171ad2ec61f": {
+    "p": null,
+    "f": "2026-06-24T17:40:42.601691+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:29a0656d-da2c-4417-bdae-d36061f925c0": {
     "p": null,
     "f": "2026-06-24T17:39:23.804565+00:00",
@@ -241,7 +265,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-7-lounge-1-6-bmt-tdi-dsg-1376966512/",
     "t": "VW Golf 7 Lounge 1,6 BMT TDI DSG",
     "ts": "2026-06-24T17:37:23.520815+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2015,
@@ -145334,30 +145358,6 @@
     "mo": "Q5",
     "y": 2010,
     "km": 326000
-  },
-  "as:4cee4a33-6665-4633-b95b-fbe4b5c89ca0": {
-    "p": 9000,
-    "f": "2026-06-16T14:18:40.445930+00:00",
-    "u": "https://www.autoscout24.at/angebote/ford-focus-titanium-1-6-tdci-dpf-diesel-cat_ma29mo15537-4cee4a33-6665-4633-b95b-fbe4b5c89ca0",
-    "t": "Ford Focus",
-    "ts": "2026-06-16T14:18:40.445930+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Focus",
-    "y": 2011,
-    "km": 94410
-  },
-  "as:41faa5c9-1879-45d6-9dbf-a8a316448ad7": {
-    "p": null,
-    "f": "2026-06-16T14:18:40.445930+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
