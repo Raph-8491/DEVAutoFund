@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:4a211790-08c0-4d7a-bb2d-32c4b63cbd25": {
+    "p": 5000,
+    "f": "2026-06-24T13:31:30.908418+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/land-rover-range-rover-sport-3-0-tdv6-hse-dpf-diesel-cat_ma15641mo18555/4a211790-08c0-4d7a-bb2d-32c4b63cbd25",
+    "t": "Land Rover Range Rover Sport",
+    "ts": "2026-06-24T13:31:30.908418+00:00",
+    "ch": null,
+    "ma": "Land Rover",
+    "mo": "Range Rover Sport",
+    "y": 2010,
+    "km": 447125,
+    "b": ""
+  },
+  "as:33b651dd-f146-416f-8e55-c859f92eaf3a": {
+    "p": 5000,
+    "f": "2026-06-24T13:31:24.207911+00:00",
+    "u": "https://www.autoscout24.at/angebote/audi-a6-avant-2-8-fsi-benzin-cat_ma9mo1628-33b651dd-f146-416f-8e55-c859f92eaf3a",
+    "t": "Audi A6",
+    "ts": "2026-06-24T13:31:24.207911+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A6",
+    "y": 2010,
+    "km": 280000,
+    "b": ""
+  },
   "wh:1866415839": {
     "p": 1000,
     "f": "2026-06-24T13:28:27.979795+00:00",
@@ -179,7 +205,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-2132624637/",
     "t": "VW Golf",
     "ts": "2026-06-24T13:28:27.979795+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2012,
@@ -144881,30 +144907,6 @@
     "km": 193000
   },
   "as:ac9efefb-359c-4d5a-b0d6-5f030f412631": {
-    "p": null,
-    "f": "2026-06-16T09:31:35.780355+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:e4e6a567-4821-4274-98b2-fabf38878506": {
-    "p": null,
-    "f": "2026-06-16T09:31:35.780355+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:403b6a14-0d65-4e76-98f7-ea0be52bb4a3": {
     "p": null,
     "f": "2026-06-16T09:31:35.780355+00:00",
     "u": null,
