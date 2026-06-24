@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1252473580": {
+    "p": 4500,
+    "f": "2026-06-24T03:12:27.812289+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/alfa-romeo-giulietta-2-0-jtd-neues-pickerl-1252473580/",
+    "t": "Alfa Romeo Giulietta 2.0 JTD * NEUES PICKERL *",
+    "ts": "2026-06-24T03:12:27.812289+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 190000,
+    "b": "Limousine"
+  },
   "wh:1916536810": {
     "p": 5100,
     "f": "2026-06-24T03:06:23.218412+00:00",
@@ -119314,7 +119327,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-kangoo-1-5dci-1588750672/",
     "t": "Renault Kangoo 1.5dCi",
     "ts": "2026-06-24T03:01:38.233191+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2009,
@@ -144159,18 +144172,6 @@
     "mo": null,
     "y": 2009,
     "km": 273000
-  },
-  "gw:25b06cec-e112-403f-b474-3a539dd6563a": {
-    "p": 8500,
-    "f": "2026-06-15T18:18:53.511987+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/audi-a4-allroad-2-0-tdi-quattro-dpf-diesel-cat_ma9mo20493/25b06cec-e112-403f-b474-3a539dd6563a",
-    "t": "Audi A4 allroad",
-    "ts": "2026-06-15T18:18:53.511987+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4 allroad",
-    "y": 2013,
-    "km": 276000
   },
   "__health__": {
     "wh": 0,
