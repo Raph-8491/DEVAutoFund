@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:4627b668-d46a-4c6e-b7ed-e8420fe81bd8": {
+    "p": 7995,
+    "f": "2026-06-24T18:42:34.241428+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/skoda-octavia-combi-1-6-tdi-style-4x4-diesel-cat_ma65mo15222/4627b668-d46a-4c6e-b7ed-e8420fe81bd8",
+    "t": "Skoda Octavia Combi 1,6 TDI Style 4x4",
+    "ts": "2026-06-24T18:42:34.241428+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Octavia",
+    "y": 2015,
+    "km": 247343,
+    "b": ""
+  },
+  "as:4627b668-d46a-4c6e-b7ed-e8420fe81bd8": {
+    "p": 7995,
+    "f": "2026-06-24T18:42:28.719333+00:00",
+    "u": "https://www.autoscout24.at/angebote/skoda-octavia-combi-1-6-tdi-style-4x4-diesel-cat_ma65mo15222-4627b668-d46a-4c6e-b7ed-e8420fe81bd8",
+    "t": "Skoda Octavia Combi 1,6 TDI Style 4x4",
+    "ts": "2026-06-24T18:42:28.719333+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Octavia",
+    "y": 2015,
+    "km": 247343,
+    "b": ""
+  },
   "as:6c461c6f-818c-4ab7-af06-416e48286d6e": {
     "p": null,
     "f": "2026-06-24T18:40:49.664752+00:00",
@@ -145457,30 +145483,6 @@
     "mo": "Golf",
     "y": 2010,
     "km": 66000
-  },
-  "wh:1315980756": {
-    "p": 6000,
-    "f": "2026-06-16T15:17:25.455222+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-caddy-2-0-tdi-1315980756/",
-    "t": "VW Caddy 2.0 TDI",
-    "ts": "2026-06-16T15:17:25.455222+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Caddy",
-    "y": 2013,
-    "km": 220707
-  },
-  "wh:1889041100": {
-    "p": 2500,
-    "f": "2026-06-16T15:17:25.455222+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-titanium-2-0-d-1889041100/",
-    "t": "Ford Galaxy Titanium 2,0 D",
-    "ts": "2026-06-16T15:17:25.455222+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 300000
   },
   "__health__": {
     "wh": 0,
