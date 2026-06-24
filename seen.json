@@ -147,6 +147,57 @@
     "y": 2009,
     "km": 235000
   },
+  "as:1a45a25b-6371-43dd-8f95-7e9ed724c1bb": {
+    "p": null,
+    "f": "2026-06-24T13:38:32.421697+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:0daf54f4-eb69-4750-9be5-5691d801dc35": {
+    "p": null,
+    "f": "2026-06-24T13:38:32.421697+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1746137644": {
+    "p": 11999,
+    "f": "2026-06-24T13:38:29.286772+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-mondeo-2-0-tdci-1746137644/",
+    "t": "Ford Mondeo 2.0 TDCi",
+    "ts": "2026-06-24T13:38:29.286772+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2016,
+    "km": 138277,
+    "b": "Kombi / Family Van"
+  },
+  "wh:910479941": {
+    "p": 9000,
+    "f": "2026-06-24T13:38:29.286772+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-diesel-140-ps-4-x-4-910479941/",
+    "t": "VW Tiguan Diesel 140 ps 4 x 4",
+    "ts": "2026-06-24T13:38:29.286772+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Tiguan",
+    "y": 2010,
+    "km": 116000,
+    "b": "SUV / Gel\u00e4ndewagen",
+    "pu": "2026-06-24T13:38:29.286772+00:00"
+  },
   "as:b0de271e-0b1b-4269-9245-ace58b0e26e0": {
     "p": null,
     "f": "2026-06-24T13:35:48.591992+00:00",
@@ -122380,16 +122431,17 @@
     "km": 119700
   },
   "wh:949389040": {
-    "p": 10500,
+    "p": 9800,
     "f": "2026-06-17T13:36:35.632559+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-pickerl-neu-1-6-tdi-style-949389040/",
     "t": "Skoda Octavia PICKERL NEU 1,6 TDI Style",
-    "ts": "2026-06-17T13:36:35.632559+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T13:38:29.286772+00:00",
+    "ch": null,
     "ma": "Skoda",
     "mo": "Octavia",
     "y": 2017,
-    "km": 176000
+    "km": 176000,
+    "b": "Kombi / Family Van"
   },
   "wh:1619990982": {
     "p": 4800,
@@ -144880,54 +144932,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:a1af2832-9c2f-4e3e-815d-4d585c14236c": {
-    "p": null,
-    "f": "2026-06-16T09:45:55.691806+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1192677928": {
-    "p": 2150,
-    "f": "2026-06-16T09:45:52.452168+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-berlingo-citroen-berlingo-1-6-hdi-92ps-1192677928/",
-    "t": "Citro\u00ebn Berlingo Citroen Berlingo 1.6 HDI 92ps",
-    "ts": "2026-06-16T10:22:32.309076+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2013,
-    "km": 260000
-  },
-  "wh:853234252": {
-    "p": 6990,
-    "f": "2026-06-16T09:42:36.997184+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mini-cooper-0-6-6-4-1-4-6-5-9-4-4-853234252/",
-    "t": "MINI Cooper 0.6.6.4/1.4.6.5.9.4.4",
-    "ts": "2026-06-16T09:42:36.997184+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2013,
-    "km": 266330
-  },
-  "wh:1205787056": {
-    "p": 10500,
-    "f": "2026-06-16T09:42:36.997184+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-captur-tce-90-limited-1205787056/",
-    "t": "Renault Captur TCe 90 Limited",
-    "ts": "2026-06-16T09:42:36.997184+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2019,
-    "km": 71000
   },
   "__health__": {
     "wh": 0,
