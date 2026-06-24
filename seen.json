@@ -149,7 +149,7 @@
   },
   "as:e5c12aae-e901-4fb1-bfcb-c31ef8b279f2": {
     "p": null,
-    "f": "2026-06-24T08:30:56.710054+00:00",
+    "f": "2026-06-24T08:31:27.341364+00:00",
     "u": null,
     "t": null,
     "ts": null,
@@ -161,16 +161,29 @@
   },
   "as:f5d13158-1905-4080-97ec-a82e95c9c466": {
     "p": 4100,
-    "f": "2026-06-24T08:30:56.710054+00:00",
+    "f": "2026-06-24T08:31:27.341364+00:00",
     "u": "https://www.autoscout24.at/angebote/toyota-auris-auris-1-4-vvt-i-benzin-grau-cat_ma70mo18992-f5d13158-1905-4080-97ec-a82e95c9c466",
     "t": "Toyota Auris",
-    "ts": "2026-06-24T08:30:56.710054+00:00",
+    "ts": "2026-06-24T08:31:27.341364+00:00",
     "ch": null,
     "ma": "Toyota",
     "mo": "Auris",
     "y": 2009,
     "km": 96000,
     "b": ""
+  },
+  "wh:1177110322": {
+    "p": 14999,
+    "f": "2026-06-24T08:31:25.621511+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/jaguar-e-pace-awd-d180-1177110322/",
+    "t": "Jaguar E-Pace AWD D180",
+    "ts": "2026-06-24T08:31:25.621511+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2017,
+    "km": 128000,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "as:2ff77686-3392-418f-a1d6-0a526b64fbc0": {
     "p": null,
@@ -203,7 +216,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/alfa-romeo-giulietta-veloce-1303464591/",
     "t": "Alfa Romeo Giulietta Veloce",
     "ts": "2026-06-24T08:28:25.513511+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2017,
@@ -216,7 +229,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-mit-pickerl-highline-1948581982/",
     "t": "VW Polo MIT PICKERL Highline",
     "ts": "2026-06-24T08:28:25.513511+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Polo",
     "y": 2010,
@@ -120358,7 +120371,8 @@
     "ma": null,
     "mo": null,
     "y": 2009,
-    "km": 335000
+    "km": 335000,
+    "b": "Limousine"
   },
   "wh:1681841246": {
     "p": 3200,
@@ -144428,18 +144442,6 @@
     "mo": "Touran",
     "y": 2026,
     "km": 25000
-  },
-  "gw:e7a2d09a-25da-4952-a296-733a6ab5a4bf": {
-    "p": 2600,
-    "f": "2026-06-15T20:40:57.158446+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/citroen-nemo-1-4-i-benzin-cat_ma21mo19117/e7a2d09a-25da-4952-a296-733a6ab5a4bf",
-    "t": "Citroen Nemo",
-    "ts": "2026-06-15T20:40:57.158446+00:00",
-    "ch": "alive",
-    "ma": "Citroen",
-    "mo": "Nemo",
-    "y": 2012,
-    "km": 65000
   },
   "__health__": {
     "wh": 0,
