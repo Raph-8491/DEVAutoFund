@@ -147,6 +147,57 @@
     "y": 2009,
     "km": 235000
   },
+  "as:b73df653-dc1a-452e-a828-0a63267e7e44": {
+    "p": null,
+    "f": "2026-06-24T19:03:29.787849+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:7c36b568-4c66-487e-b6fb-0124b264f1ff": {
+    "p": null,
+    "f": "2026-06-24T19:03:29.787849+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:867341215": {
+    "p": 6400,
+    "f": "2026-06-24T19:03:27.306668+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mini-cooper-john-cooper-works-r56-867341215/",
+    "t": "MINI Cooper John Cooper Works R56",
+    "ts": "2026-06-24T19:03:27.306668+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 198000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1522730820": {
+    "p": 8000,
+    "f": "2026-06-24T19:03:27.306668+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-1522730820/",
+    "t": "Audi A3",
+    "ts": "2026-06-24T19:03:27.306668+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A3",
+    "y": 2009,
+    "km": 239500,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-24T19:03:27.306668+00:00"
+  },
   "as:e6042931-d041-4536-a8da-f9047266d3a6": {
     "p": null,
     "f": "2026-06-24T19:02:29.266109+00:00",
@@ -123477,7 +123528,8 @@
     "ma": null,
     "mo": null,
     "y": 2015,
-    "km": 64749
+    "km": 64749,
+    "b": "Kombi / Family Van"
   },
   "wh:1195863805": {
     "p": 10000,
@@ -145482,54 +145534,6 @@
     "mo": null,
     "y": 2010,
     "km": 201500
-  },
-  "as:e470f633-265c-4d43-b57b-77278c6a577f": {
-    "p": null,
-    "f": "2026-06-16T15:36:41.394519+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:867832923": {
-    "p": 9990,
-    "f": "2026-06-16T15:36:35.631577+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-megane-limited-energy-tce-100-867832923/",
-    "t": "Renault M\u00e9gane Limited Energy TCe 100",
-    "ts": "2026-06-16T15:36:35.631577+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2018,
-    "km": 71000
-  },
-  "wh:2053507630": {
-    "p": 4690,
-    "f": "2026-06-16T15:36:35.631577+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-pickerl-06-2027-gepflegt-2053507630/",
-    "t": "Seat Ibiza | Pickerl 06/2027 | gepflegt",
-    "ts": "2026-06-16T15:36:35.631577+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2012,
-    "km": 128000
-  },
-  "wh:1317642014": {
-    "p": 1500,
-    "f": "2026-06-16T15:36:35.631577+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-1-2l-1317642014/",
-    "t": "Ford Fiesta 1,2l",
-    "ts": "2026-06-16T15:36:35.631577+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 187000
   },
   "__health__": {
     "wh": 0,
