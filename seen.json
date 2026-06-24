@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1571284676": {
+    "p": 10990,
+    "f": "2026-06-24T20:28:27.727757+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/suzuki-swift-1-2-dj-hybrid-shine-1571284676/",
+    "t": "Suzuki Swift 1.2 DJ Hybrid Shine",
+    "ts": "2026-06-24T20:28:27.727757+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2020,
+    "km": 21000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1765825759": {
+    "p": 6000,
+    "f": "2026-06-24T20:28:27.727757+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-trendline-2-0-4motion-tdi-dpf-1765825759/",
+    "t": "VW Golf Trendline 2,0 4MOTION TDI DPF",
+    "ts": "2026-06-24T20:28:27.727757+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2011,
+    "km": 160301,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-24T20:28:27.727757+00:00"
+  },
   "wh:1282166846": {
     "p": 4300,
     "f": "2026-06-24T20:25:34.365276+00:00",
@@ -145636,30 +145663,6 @@
     "mo": null,
     "y": 2011,
     "km": 63000
-  },
-  "wh:1639334194": {
-    "p": 9790,
-    "f": "2026-06-16T16:44:32.717294+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-rabbit-bmt-1-2-tsi-1639334194/",
-    "t": "VW Golf Variant Rabbit BMT 1,2 TSI",
-    "ts": "2026-06-16T16:44:32.717294+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2016,
-    "km": 108500
-  },
-  "as:5b2e59d7-606c-437d-97c5-8570e640059e": {
-    "p": null,
-    "f": "2026-06-16T16:43:33.083496+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
