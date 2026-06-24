@@ -119881,16 +119881,17 @@
     "km": 170000
   },
   "wh:1043828176": {
-    "p": 2350,
+    "p": 2300,
     "f": "2026-06-17T07:13:29.014248+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-skoda-octavia-combi-1-9-tdi-dpf-4x4-kombi-1043828176/",
     "t": "Skoda Octavia Skoda Octavia Combi 1,9 TDI DPF 4x4 Kombi",
-    "ts": "2026-06-17T07:13:29.014248+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T07:12:23.569209+00:00",
+    "ch": null,
     "ma": "Skoda",
     "mo": "Octavia",
     "y": 2008,
-    "km": 293000
+    "km": 293000,
+    "b": "Kombi / Family Van"
   },
   "as:1d2456b7-6760-46ca-915e-228cad371a9a": {
     "p": null,
