@@ -147,6 +147,30 @@
     "y": 2009,
     "km": 235000
   },
+  "as:1bc81c2a-9b1f-4d1b-bbc7-0f04dbe5b7b7": {
+    "p": null,
+    "f": "2026-06-24T07:37:24.751684+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:8d74551e-7abd-4067-a956-d6ed9aac3c78": {
+    "p": null,
+    "f": "2026-06-24T07:37:24.751684+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:8a37937d-b733-45f7-9a7a-ab59ed4c6c41": {
     "p": null,
     "f": "2026-06-24T07:36:33.133637+00:00",
@@ -215,7 +239,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-style-2020-export-1163307854/",
     "t": "Skoda Octavia Style 2020 ...Export...",
     "ts": "2026-06-24T07:34:27.129813+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Skoda",
     "mo": "Octavia",
     "y": 2020,
@@ -144341,30 +144365,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:cdd9b6f0-7dc5-4dc4-8450-4443873cac12": {
-    "p": null,
-    "f": "2026-06-15T19:48:42.441868+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:51871ab2-9826-4460-87c0-dc2cf02bab6d": {
-    "p": 12000,
-    "f": "2026-06-15T19:48:42.441868+00:00",
-    "u": "https://www.autoscout24.at/angebote/bmw-x1-xdrive18d-xline-diesel-cat_ma13mo19242-51871ab2-9826-4460-87c0-dc2cf02bab6d",
-    "t": "BMW X1",
-    "ts": "2026-06-15T19:48:42.441868+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "X1",
-    "y": 2014,
-    "km": 143000
   },
   "__health__": {
     "wh": 0,
