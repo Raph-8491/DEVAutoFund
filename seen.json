@@ -147,6 +147,58 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:672e3ef6-7374-4e54-ad83-c7986ac38c1c": {
+    "p": 14500,
+    "f": "2026-06-24T19:16:35.385757+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/skoda-fabia-fabia-ambition-1-0-ambition-benzin-grau-cat_ma65mo15878/672e3ef6-7374-4e54-ad83-c7986ac38c1c",
+    "t": "Skoda Fabia Fabia Ambition 1,0 Ambition",
+    "ts": "2026-06-24T19:16:35.385757+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Fabia",
+    "y": 2022,
+    "km": 33000,
+    "b": ""
+  },
+  "as:672e3ef6-7374-4e54-ad83-c7986ac38c1c": {
+    "p": 14500,
+    "f": "2026-06-24T19:16:27.066902+00:00",
+    "u": "https://www.autoscout24.at/angebote/skoda-fabia-fabia-ambition-1-0-ambition-benzin-grau-cat_ma65mo15878-672e3ef6-7374-4e54-ad83-c7986ac38c1c",
+    "t": "Skoda Fabia Fabia Ambition 1,0 Ambition",
+    "ts": "2026-06-24T19:16:27.066902+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Fabia",
+    "y": 2022,
+    "km": 33000,
+    "b": ""
+  },
+  "wh:1843781482": {
+    "p": 12100,
+    "f": "2026-06-24T19:16:25.614949+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-megane-intens-energy-tce-100-1843781482/",
+    "t": "Renault M\u00e9gane Intens Energy TCe 100",
+    "ts": "2026-06-24T19:16:25.614949+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2018,
+    "km": 87865,
+    "b": "Limousine"
+  },
+  "wh:1241862346": {
+    "p": 10100,
+    "f": "2026-06-24T19:16:25.614949+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-5-tuerer-style-start-stop-1241862346/",
+    "t": "Seat Ibiza 5 T\u00fcrer Style Start Stop",
+    "ts": "2026-06-24T19:16:25.614949+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Ibiza",
+    "y": 2018,
+    "km": 89000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:fa71a3dd-5083-420c-a69c-c02f84f236f5": {
     "p": null,
     "f": "2026-06-24T19:15:41.572791+00:00",
@@ -145500,54 +145552,6 @@
     "mo": "Golf",
     "y": 2011,
     "km": 157650
-  },
-  "wh:1801887401": {
-    "p": 7300,
-    "f": "2026-06-16T15:55:44.455191+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-combi-1-6-tdi-ambition-dsg-1801887401/",
-    "t": "Skoda Octavia Combi 1,6 TDI Ambition DSG",
-    "ts": "2026-06-16T15:55:44.455191+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2016,
-    "km": 215435
-  },
-  "as:31fcc0cb-c7d4-467f-88b6-868a3f429f3d": {
-    "p": null,
-    "f": "2026-06-16T15:53:34.149009+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1125926431": {
-    "p": 9690,
-    "f": "2026-06-16T15:52:36.578560+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-rapid-skoda-rapid-1-0-tsi-91tkm-service-gepflegt-s-1125926431/",
-    "t": "Skoda Rapid Skoda Rapid 1.0 TSI | 91tkm | Service gepflegt | s",
-    "ts": "2026-06-23T15:51:36.097755+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Rapid",
-    "y": 2018,
-    "km": 91000
-  },
-  "wh:1062141520": {
-    "p": 6500,
-    "f": "2026-06-16T15:52:36.578560+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1062141520/",
-    "t": "VW Golf",
-    "ts": "2026-06-16T15:52:36.578560+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2014,
-    "km": 180000
   },
   "__health__": {
     "wh": 0,
