@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:816794589": {
+    "p": 12500,
+    "f": "2026-06-24T20:53:26.314052+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-cls-klasse-cls-350cdi-4matic-816794589/",
+    "t": "Mercedes-Benz CLS-Klasse CLS 350CDI 4matic",
+    "ts": "2026-06-24T20:53:26.314052+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "CLS-Klasse",
+    "y": 2012,
+    "km": 285000,
+    "b": "Limousine"
+  },
+  "wh:1354366738": {
+    "p": 10500,
+    "f": "2026-06-24T20:53:26.314052+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-yeti-1-2-tsi-active-1354366738/",
+    "t": "Skoda Yeti 1,2 TSI Active",
+    "ts": "2026-06-24T20:53:26.314052+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Yeti",
+    "y": 2016,
+    "km": 108000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "as:fec3387c-fad4-4dec-a932-8968d9cc65ea": {
     "p": null,
     "f": "2026-06-24T20:51:28.506143+00:00",
@@ -234,11 +260,11 @@
     "b": ""
   },
   "wh:1867944094": {
-    "p": 4000,
+    "p": 3900,
     "f": "2026-06-24T20:47:22.741841+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-1-7-cdti-neues-oeamtc-pickel-bis-05-2027-4-monat-1867944094/",
     "t": "Opel Astra 1.7 cdti neues \u00d6AMTC Pickel bis 05.2027 + 4 Monat",
-    "ts": "2026-06-24T20:47:22.741841+00:00",
+    "ts": "2026-06-24T20:53:26.314052+00:00",
     "ch": null,
     "ma": "Opel",
     "mo": "Astra",
@@ -145663,30 +145689,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:f3f42741-c085-49d4-9d4b-d4984c13f44a": {
-    "p": 4600,
-    "f": "2026-06-16T16:57:40.393685+00:00",
-    "u": "https://www.autoscout24.at/angebote/skoda-octavia-combi-1-6-ambition-tdi-green-tec-diesel-cat_ma65mo15222-f3f42741-c085-49d4-9d4b-d4984c13f44a",
-    "t": "Skoda Octavia",
-    "ts": "2026-06-16T16:57:40.393685+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2015,
-    "km": 206000
-  },
-  "wh:1549173005": {
-    "p": 10500,
-    "f": "2026-06-16T16:57:34.858902+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-2-0-tdi-1549173005/",
-    "t": "VW Tiguan 2.0 TDI",
-    "ts": "2026-06-16T16:57:34.858902+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Tiguan",
-    "y": 2011,
-    "km": 164000
   },
   "__health__": {
     "wh": 0,
