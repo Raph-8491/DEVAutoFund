@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:f8ce069c-6996-4d4d-8e44-a784e4657f3b": {
+    "p": null,
+    "f": "2026-06-24T03:58:28.447462+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:905199380": {
     "p": 11900,
     "f": "2026-06-24T03:52:23.550400+00:00",
@@ -119684,7 +119696,8 @@
     "ma": "Audi",
     "mo": "A4",
     "y": 2013,
-    "km": 235000
+    "km": 235000,
+    "b": "Kombi / Family Van"
   },
   "as:985ff96d-edbd-4dc8-9664-e5a6e57ff018": {
     "p": null,
@@ -144161,18 +144174,6 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/renault-trafic-kombi-4-tueren-diesel-weiss-cat_ma60mo2096/b89aa116-ab8d-40de-8acd-21940c65724d",
     "t": "Renault Trafic",
     "ts": "2026-06-15T18:22:51.373158+00:00",
-    "ch": "alive",
-    "ma": "Renault",
-    "mo": "Trafic",
-    "y": 2015,
-    "km": 160000
-  },
-  "as:b89aa116-ab8d-40de-8acd-21940c65724d": {
-    "p": 8000,
-    "f": "2026-06-15T18:22:41.915992+00:00",
-    "u": "https://www.autoscout24.at/angebote/renault-trafic-kombi-4-tueren-diesel-weiss-cat_ma60mo2096-b89aa116-ab8d-40de-8acd-21940c65724d",
-    "t": "Renault Trafic",
-    "ts": "2026-06-15T18:22:41.915992+00:00",
     "ch": "alive",
     "ma": "Renault",
     "mo": "Trafic",
