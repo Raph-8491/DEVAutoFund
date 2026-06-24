@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:f3ef1081-fba9-411d-91fa-70ace6e21020": {
+    "p": 3000,
+    "f": "2026-06-24T08:03:28.227567+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-astra-1-4-ecoflex-start-stop-innovation-benzin-cat_ma54mo1916-f3ef1081-fba9-411d-91fa-70ace6e21020",
+    "t": "Opel Astra",
+    "ts": "2026-06-24T08:03:28.227567+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Astra",
+    "y": 2012,
+    "km": 200540,
+    "b": ""
+  },
   "as:72ad8aa8-b9c1-4898-8de8-44fa1af12dd6": {
     "p": null,
     "f": "2026-06-24T08:01:42.575128+00:00",
@@ -144389,18 +144402,6 @@
     "mo": "Polo",
     "y": 2010,
     "km": 120000
-  },
-  "as:d821771d-6bb6-46c2-bf99-471ee22b9eea": {
-    "p": null,
-    "f": "2026-06-15T20:12:38.019970+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
