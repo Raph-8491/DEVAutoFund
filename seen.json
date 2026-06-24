@@ -147,6 +147,46 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1789229164": {
+    "p": 5000,
+    "f": "2026-06-24T11:03:21.265662+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-318d-touring-f31-1789229164/",
+    "t": "BMW 3er-Reihe 318d Touring F31",
+    "ts": "2026-06-24T11:03:21.265662+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "3er-Reihe",
+    "y": 2013,
+    "km": 431584,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1901180565": {
+    "p": 5500,
+    "f": "2026-06-24T11:03:21.265662+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-320d-1901180565/",
+    "t": "BMW 3er-Reihe 320d",
+    "ts": "2026-06-24T11:03:21.265662+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "3er-Reihe",
+    "y": 2008,
+    "km": 330000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:2128166866": {
+    "p": 12980,
+    "f": "2026-06-24T11:03:21.265662+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touran-highline-1-6-tdi-dsg-7-gang-panoramadach-ahk-2128166866/",
+    "t": "VW Touran HIGHLINE 1,6 TDI DSG 7-Gang | PANORAMADACH | AHK |",
+    "ts": "2026-06-24T11:03:21.265662+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Touran",
+    "y": 2017,
+    "km": 199800,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T11:03:21.265662+00:00"
+  },
   "gw:132ec284-432f-4e09-bb77-b1c16cb0cb33": {
     "p": 12750,
     "f": "2026-06-24T11:02:40.586271+00:00",
@@ -144649,42 +144689,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1889881592": {
-    "p": 10900,
-    "f": "2026-06-16T06:45:49.428361+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-cx-3-cd105-revolution-1889881592/",
-    "t": "Mazda CX-3 CD105 Revolution",
-    "ts": "2026-06-16T06:45:49.428361+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2018,
-    "km": 167000
-  },
-  "wh:1401582495": {
-    "p": 7500,
-    "f": "2026-06-16T06:44:58.430725+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1401582495/",
-    "t": "Seat Ibiza",
-    "ts": "2026-06-16T06:44:58.430725+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2016,
-    "km": 102108
-  },
-  "wh:1402883828": {
-    "p": 1100,
-    "f": "2026-06-16T06:44:58.430725+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-trend-2-0-tdci-dpf-7-sitze-1402883828/",
-    "t": "Ford Galaxy Trend 2,0 TDCi DPF 7 Sitze",
-    "ts": "2026-06-16T06:44:58.430725+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 325000
   },
   "__health__": {
     "wh": 0,
