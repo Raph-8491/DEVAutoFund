@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1400114396": {
+    "p": 11500,
+    "f": "2026-06-24T16:01:32.809956+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-ecotec-d-1-6-cdti-1400114396/",
+    "t": "Opel Astra ECOTEC D, 1.6 CDTI",
+    "ts": "2026-06-24T16:01:32.809956+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Astra",
+    "y": 2019,
+    "km": 169000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "gw:89c35c86-b60e-4223-9a94-567e20c590c7": {
     "p": 5000,
     "f": "2026-06-24T15:59:39.354208+00:00",
@@ -145173,18 +145186,6 @@
     "mo": null,
     "y": 2008,
     "km": 186000
-  },
-  "gw:5d00af71-5079-46cb-8aaa-ad78fcbc2db1": {
-    "p": 5000,
-    "f": "2026-06-16T12:39:41.769685+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/audi-a3-sb-1-2-tfsi-ambiente-benzin-cat_ma9mo1624/5d00af71-5079-46cb-8aaa-ad78fcbc2db1",
-    "t": "Audi A3",
-    "ts": "2026-06-16T12:39:41.769685+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A3",
-    "y": 2012,
-    "km": 201600
   },
   "__health__": {
     "wh": 0,
