@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:009bda23-beb5-4a58-8a8b-031c1b89fdc5": {
+    "p": 13500,
+    "f": "2026-06-24T13:05:52.244454+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/opel-insignia-insignia-st-1-6-ecotec-exclusive-start-stop-system-exclusive-diesel-weiss-cat_ma54mo19101/009bda23-beb5-4a58-8a8b-031c1b89fdc5",
+    "t": "Opel Insignia",
+    "ts": "2026-06-24T13:05:52.244454+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Insignia",
+    "y": 2018,
+    "km": 186014,
+    "b": ""
+  },
+  "as:009bda23-beb5-4a58-8a8b-031c1b89fdc5": {
+    "p": 13500,
+    "f": "2026-06-24T13:05:41.606754+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-insignia-insignia-st-1-6-ecotec-exclusive-start-stop-system-exclusive-diesel-weiss-cat_ma54mo19101-009bda23-beb5-4a58-8a8b-031c1b89fdc5",
+    "t": "Opel Insignia",
+    "ts": "2026-06-24T13:05:41.606754+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Insignia",
+    "y": 2018,
+    "km": 186014,
+    "b": ""
+  },
+  "wh:793005351": {
+    "p": 3999,
+    "f": "2026-06-24T13:05:38.984949+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-208-793005351/",
+    "t": "Peugeot 208",
+    "ts": "2026-06-24T13:05:38.984949+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 62000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:8a7b9cfd-8af9-4ad5-8045-8e57b1fc55a1": {
     "p": 14500,
     "f": "2026-06-24T13:04:32.930243+00:00",
@@ -203,7 +242,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-1219216629/",
     "t": "VW Polo",
     "ts": "2026-06-24T13:01:49.913016+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Polo",
     "y": 2012,
@@ -144834,42 +144873,6 @@
     "mo": "Boxer",
     "y": 2011,
     "km": 182000
-  },
-  "as:e5127ab2-c097-4e63-8f5e-568bfadef1ba": {
-    "p": 11050,
-    "f": "2026-06-16T09:06:29.612741+00:00",
-    "u": "https://www.autoscout24.at/angebote/mercedes-benz-c-200-c-klasse-kompressor-elegance-benzin-schwarz-cat_ma47mo1860-e5127ab2-c097-4e63-8f5e-568bfadef1ba",
-    "t": "Mercedes-Benz C 200",
-    "ts": "2026-06-16T09:06:29.612741+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C 200",
-    "y": 2010,
-    "km": 91700
-  },
-  "as:8e4840cf-9ba9-4a14-90b4-4b149a7b590a": {
-    "p": 6900,
-    "f": "2026-06-16T09:06:29.612741+00:00",
-    "u": "https://www.autoscout24.at/angebote/peugeot-boxer-diesel-weiss-cat_ma55mo14821-8e4840cf-9ba9-4a14-90b4-4b149a7b590a",
-    "t": "Peugeot Boxer",
-    "ts": "2026-06-16T09:06:29.612741+00:00",
-    "ch": "alive",
-    "ma": "Peugeot",
-    "mo": "Boxer",
-    "y": 2011,
-    "km": 182000
-  },
-  "wh:784648492": {
-    "p": 2000,
-    "f": "2026-06-16T09:06:27.078851+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-2-0-tdi-784648492/",
-    "t": "VW Passat 2.0 TDI",
-    "ts": "2026-06-16T09:06:27.078851+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2012,
-    "km": 267968
   },
   "__health__": {
     "wh": 0,
