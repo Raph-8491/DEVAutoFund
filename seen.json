@@ -147,6 +147,30 @@
     "y": 2009,
     "km": 235000
   },
+  "as:718908b2-fd55-4bac-a1ac-c60f74fe6d26": {
+    "p": null,
+    "f": "2026-06-24T11:06:26.937732+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:24022442-733f-4538-a5eb-5d887b8813e5": {
+    "p": null,
+    "f": "2026-06-24T11:06:26.937732+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:6713d260-adca-4a72-81a6-ad75490bc951": {
     "p": 13500,
     "f": "2026-06-24T11:05:44.839044+00:00",
@@ -217,7 +241,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touran-highline-1-6-tdi-dsg-7-gang-panoramadach-ahk-2128166866/",
     "t": "VW Touran HIGHLINE 1,6 TDI DSG 7-Gang | PANORAMADACH | AHK |",
     "ts": "2026-06-24T11:03:21.265662+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Touran",
     "y": 2017,
@@ -144667,30 +144691,6 @@
     "mo": "Combo",
     "y": 2017,
     "km": 99500
-  },
-  "as:c3e1198f-f7c4-420e-b416-3ed4a7a8040d": {
-    "p": 9990,
-    "f": "2026-06-16T06:48:36.761963+00:00",
-    "u": "https://www.autoscout24.at/angebote/nissan-juke-juke-1-2-dig-t-n-connecta-benzin-rot-cat_ma52mo19542-c3e1198f-f7c4-420e-b416-3ed4a7a8040d",
-    "t": "Nissan Juke",
-    "ts": "2026-06-16T06:48:36.761963+00:00",
-    "ch": "alive",
-    "ma": "Nissan",
-    "mo": "Juke",
-    "y": 2018,
-    "km": 69500
-  },
-  "wh:1317348016": {
-    "p": 8500,
-    "f": "2026-06-16T06:48:29.716095+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-508-sw-1-6-blue-hdi-allure-1317348016/",
-    "t": "Peugeot 508 SW 1.6 Blue HDI Allure",
-    "ts": "2026-06-16T06:48:29.716095+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2018,
-    "km": 130000
   },
   "__health__": {
     "wh": 0,
