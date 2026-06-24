@@ -147,6 +147,43 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:98c4c030-d9a2-42b2-acb2-fa97da7702bd": {
+    "p": 13000,
+    "f": "2026-06-24T07:50:52.817808+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/ford-focus-focus-traveller-1-0-ecoboost-active-active-benzin-schwarz-cat_ma29mo15537/98c4c030-d9a2-42b2-acb2-fa97da7702bd",
+    "t": "Ford Focus",
+    "ts": "2026-06-24T07:50:52.817808+00:00",
+    "ch": null,
+    "ma": "Ford",
+    "mo": "Focus",
+    "y": 2019,
+    "km": 85500,
+    "b": ""
+  },
+  "as:336a2870-4129-4f5d-bc68-9c0bdb72e8cd": {
+    "p": null,
+    "f": "2026-06-24T07:50:42.513135+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:7879d347-fd32-4505-b895-7e4ea97a4161": {
+    "p": null,
+    "f": "2026-06-24T07:50:42.513135+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:34f1253b-b3b2-4917-85cc-28afc09905f0": {
     "p": 9444,
     "f": "2026-06-24T07:49:38.515427+00:00",
@@ -144343,42 +144380,6 @@
     "mo": "Adam",
     "y": 2015,
     "km": 71304
-  },
-  "as:ecb93011-19c6-42dd-9dcc-965f6be5b5bf": {
-    "p": 6990,
-    "f": "2026-06-15T20:02:38.913980+00:00",
-    "u": "https://www.autoscout24.at/angebote/opel-adam-1-2-benzin-cat_ma54mo20191-ecb93011-19c6-42dd-9dcc-965f6be5b5bf",
-    "t": "Opel Adam",
-    "ts": "2026-06-15T20:02:38.913980+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Adam",
-    "y": 2015,
-    "km": 71304
-  },
-  "wh:1528003661": {
-    "p": 6900,
-    "f": "2026-06-15T20:02:35.719463+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-1528003661/",
-    "t": "VW Passat",
-    "ts": "2026-06-15T20:02:35.719463+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2011,
-    "km": 247000
-  },
-  "wh:1820923534": {
-    "p": 4400,
-    "f": "2026-06-15T20:01:31.527587+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-plus-1820923534/",
-    "t": "VW Golf Plus",
-    "ts": "2026-06-15T20:01:31.527587+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2010,
-    "km": 95424
   },
   "__health__": {
     "wh": 0,
