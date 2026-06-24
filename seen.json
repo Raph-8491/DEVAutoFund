@@ -147,6 +147,58 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:86d3731b-0a75-4e65-ae9a-22c9e7f9e6e6": {
+    "p": 14300,
+    "f": "2026-06-24T13:22:38.286294+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/citroen-c3-c3-puretech-110-s-benzin-schwarz-cat_ma21mo18264/86d3731b-0a75-4e65-ae9a-22c9e7f9e6e6",
+    "t": "Citroen C3",
+    "ts": "2026-06-24T13:22:38.286294+00:00",
+    "ch": null,
+    "ma": "Citroen",
+    "mo": "C3",
+    "y": 2023,
+    "km": 72000,
+    "b": ""
+  },
+  "gw:6e21560c-629b-4eeb-b40c-fac1fb9fb015": {
+    "p": 2400,
+    "f": "2026-06-24T13:22:38.286294+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-caddy-caddy-kombi-1-6-tdi-dpf-diesel-weiss-cat_ma74mo15734/6e21560c-629b-4eeb-b40c-fac1fb9fb015",
+    "t": "Volkswagen Caddy",
+    "ts": "2026-06-24T13:22:38.286294+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Caddy",
+    "y": 2013,
+    "km": 780000,
+    "b": ""
+  },
+  "as:86d3731b-0a75-4e65-ae9a-22c9e7f9e6e6": {
+    "p": 14300,
+    "f": "2026-06-24T13:22:29.248374+00:00",
+    "u": "https://www.autoscout24.at/angebote/citroen-c3-c3-puretech-110-s-benzin-schwarz-cat_ma21mo18264-86d3731b-0a75-4e65-ae9a-22c9e7f9e6e6",
+    "t": "Citroen C3",
+    "ts": "2026-06-24T13:22:29.248374+00:00",
+    "ch": null,
+    "ma": "Citroen",
+    "mo": "C3",
+    "y": 2023,
+    "km": 72000,
+    "b": ""
+  },
+  "as:6e21560c-629b-4eeb-b40c-fac1fb9fb015": {
+    "p": 2400,
+    "f": "2026-06-24T13:22:29.248374+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-caddy-caddy-kombi-1-6-tdi-dpf-diesel-weiss-cat_ma74mo15734-6e21560c-629b-4eeb-b40c-fac1fb9fb015",
+    "t": "Volkswagen Caddy",
+    "ts": "2026-06-24T13:22:29.248374+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Caddy",
+    "y": 2013,
+    "km": 780000,
+    "b": ""
+  },
   "as:b92576f6-cead-471a-a469-b7bab768c6ac": {
     "p": null,
     "f": "2026-06-24T13:21:23.227094+00:00",
@@ -202,7 +254,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-caddy-kombi-trendline-2-0-tdi-1676374863/",
     "t": "VW Caddy Kombi Trendline 2,0 TDI",
     "ts": "2026-06-24T13:19:24.679239+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Caddy",
     "y": 2019,
@@ -216,7 +268,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-5-plus-1-2-tsi-1766280976/",
     "t": "VW Golf 5 plus 1.2 tsi",
     "ts": "2026-06-24T13:19:24.679239+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2012,
@@ -122155,7 +122207,8 @@
     "ma": "BMW",
     "mo": "1er-Reihe",
     "y": 2016,
-    "km": 182190
+    "km": 182190,
+    "b": "Limousine"
   },
   "wh:1528430633": {
     "p": 8900,
@@ -144847,54 +144900,6 @@
     "mo": "Freemont",
     "y": 2013,
     "km": 190000
-  },
-  "as:458e0a5f-0d85-48cb-be3e-128a37c1ffd4": {
-    "p": 7000,
-    "f": "2026-06-16T09:22:35.212425+00:00",
-    "u": "https://www.autoscout24.at/angebote/fiat-freemont-2-0-multijet-16v-dpf-diesel-cat_ma28mo19720-458e0a5f-0d85-48cb-be3e-128a37c1ffd4",
-    "t": "Fiat Freemont",
-    "ts": "2026-06-16T09:22:35.212425+00:00",
-    "ch": "alive",
-    "ma": "Fiat",
-    "mo": "Freemont",
-    "y": 2013,
-    "km": 190000
-  },
-  "gw:2191a0f0-e7fa-47ac-8948-c4d4da0f6821": {
-    "p": 5400,
-    "f": "2026-06-16T09:21:01.003924+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/ford-transit-transit-ft-280-k-variobus-4-36-startup-startup-diesel-blau-cat_ma29mo2160/2191a0f0-e7fa-47ac-8948-c4d4da0f6821",
-    "t": "Ford Transit",
-    "ts": "2026-06-16T09:21:01.003924+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Transit",
-    "y": 2013,
-    "km": 249000
-  },
-  "gw:fdab05b8-c11a-4b5e-8aee-e871b3f71a0f": {
-    "p": 2850,
-    "f": "2026-06-16T09:21:01.003924+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/audi-a1-1-4-tfsi-ambition-benzin-cat_ma9mo19083/fdab05b8-c11a-4b5e-8aee-e871b3f71a0f",
-    "t": "Audi A1",
-    "ts": "2026-06-16T09:21:01.003924+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A1",
-    "y": 2010,
-    "km": 270000
-  },
-  "as:2191a0f0-e7fa-47ac-8948-c4d4da0f6821": {
-    "p": 5400,
-    "f": "2026-06-16T09:20:51.224249+00:00",
-    "u": "https://www.autoscout24.at/angebote/ford-transit-transit-ft-280-k-variobus-4-36-startup-startup-diesel-blau-cat_ma29mo2160-2191a0f0-e7fa-47ac-8948-c4d4da0f6821",
-    "t": "Ford Transit",
-    "ts": "2026-06-16T09:20:51.224249+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Transit",
-    "y": 2013,
-    "km": 249000
   },
   "__health__": {
     "wh": 0,
