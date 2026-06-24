@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:27dc2d53-eddd-4102-b29f-8ca5aa7e0e32": {
+    "p": 9990,
+    "f": "2026-06-24T17:04:30.350886+00:00",
+    "u": "https://www.autoscout24.at/angebote/jeep-cherokee-2-2-multijet-active-drive-i-automatik-night-eagle-diesel-cat_ma38mo1803-27dc2d53-eddd-4102-b29f-8ca5aa7e0e32",
+    "t": "Jeep Cherokee 2.2 Multijet Active Drive I Automatik Night Eagle",
+    "ts": "2026-06-24T17:04:30.350886+00:00",
+    "ch": null,
+    "ma": "Jeep",
+    "mo": "Cherokee",
+    "y": 2015,
+    "km": 140000,
+    "b": ""
+  },
   "wh:1884342411": {
     "p": 990,
     "f": "2026-06-24T17:03:23.364955+00:00",
@@ -192,7 +205,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-vw-tiguan-2-0-tdi-1929058637/",
     "t": "VW Tiguan VW Tiguan 2.0 TDI",
     "ts": "2026-06-24T17:01:25.988165+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Tiguan",
     "y": 2014,
@@ -206,7 +219,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-variant-2-0l-tdi-4motion-sky-sth-ahk-kombi-1624843309/",
     "t": "VW Passat Variant 2.0L TDi 4Motion Sky*STH*AHK Kombi",
     "ts": "2026-06-24T17:01:25.988165+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Passat",
     "y": 2012,
@@ -145265,18 +145278,6 @@
     "mo": "Twingo",
     "y": 2008,
     "km": 91500
-  },
-  "as:f7d813ae-3a87-4d5b-b4b4-ffc5a41637ed": {
-    "p": null,
-    "f": "2026-06-16T13:35:47.170635+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
