@@ -147,6 +147,46 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2084375965": {
+    "p": 13500,
+    "f": "2026-06-24T15:24:28.604642+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-sandero-1-0-tce-stepway-expresion-2084375965/",
+    "t": "Dacia Sandero 1.0 Tce Stepway-Expresion",
+    "ts": "2026-06-24T15:24:28.604642+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2024,
+    "km": 35000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:808143726": {
+    "p": 6900,
+    "f": "2026-06-24T15:24:28.604642+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-2-0-tsi-808143726/",
+    "t": "Audi A4 2.0 TSI",
+    "ts": "2026-06-24T15:24:28.604642+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2010,
+    "km": 227000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T15:24:28.604642+00:00"
+  },
+  "wh:1916065588": {
+    "p": 5300,
+    "f": "2026-06-24T15:24:28.604642+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-c-max-1916065588/",
+    "t": "Ford C-MAX",
+    "ts": "2026-06-24T15:24:28.604642+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 125000,
+    "b": "Kombi / Family Van"
+  },
   "wh:822607960": {
     "p": 5950,
     "f": "2026-06-24T15:22:28.567041+00:00",
@@ -145076,42 +145116,6 @@
     "mo": "3er-Reihe",
     "y": 2009,
     "km": 221000
-  },
-  "as:73d94cf9-b981-45fd-be9a-6d1503d85cdd": {
-    "p": null,
-    "f": "2026-06-16T12:04:40.907344+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1704959197": {
-    "p": 3390,
-    "f": "2026-06-16T12:04:37.247121+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1-2-benzin-pickerl-neu-01-2027-4-1704959197/",
-    "t": "Seat Ibiza 1.2 benzin Pickerl neu 01.2027+4",
-    "ts": "2026-06-16T12:04:37.247121+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2010,
-    "km": 119000
-  },
-  "wh:814103249": {
-    "p": 8500,
-    "f": "2026-06-16T12:04:37.247121+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/chevrolet-hhr-2-4-l-814103249/",
-    "t": "Chevrolet HHR 2,4 L",
-    "ts": "2026-06-16T12:04:37.247121+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 130500
   },
   "__health__": {
     "wh": 0,
