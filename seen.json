@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1204042660": {
+    "p": 4850,
+    "f": "2026-06-24T19:23:25.220323+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-zafira-2-0-1204042660/",
+    "t": "Opel Zafira 2.0",
+    "ts": "2026-06-24T19:23:25.220323+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Zafira",
+    "y": 2012,
+    "km": 169969,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1173473799": {
+    "p": 6000,
+    "f": "2026-06-24T19:23:25.220323+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/jaguar-xf-2-2-1173473799/",
+    "t": "Jaguar XF 2.2",
+    "ts": "2026-06-24T19:23:25.220323+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 330000,
+    "b": "Limousine"
+  },
   "as:8574ca01-6d0d-41de-916e-4caba1d5c660": {
     "p": null,
     "f": "2026-06-24T19:20:46.583304+00:00",
@@ -145538,30 +145564,6 @@
     "mo": "C 200",
     "y": 2012,
     "km": 192000
-  },
-  "as:1ba779d1-2a57-404c-8c02-aaea7e61b1d3": {
-    "p": null,
-    "f": "2026-06-16T16:01:53.611922+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:77fdeae3-9628-41a6-9b36-4459a68a9d7f": {
-    "p": null,
-    "f": "2026-06-16T16:01:53.611922+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
