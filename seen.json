@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:911610711": {
+    "p": 8200,
+    "f": "2026-06-24T13:33:23.195627+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-500-911610711/",
+    "t": "Fiat 500",
+    "ts": "2026-06-24T13:33:23.195627+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2015,
+    "km": 129700,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1456298384": {
+    "p": 8500,
+    "f": "2026-06-24T13:33:23.195627+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c3-1-2-pure-tech-benzin-1456298384/",
+    "t": "Citro\u00ebn C3 1.2 Pure Tech, Benzin",
+    "ts": "2026-06-24T13:33:23.195627+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2019,
+    "km": 49097,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:913447810": {
+    "p": 10900,
+    "f": "2026-06-24T13:33:23.195627+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-corsa-1-2-elegance-913447810/",
+    "t": "Opel Corsa 1.2 Elegance",
+    "ts": "2026-06-24T13:33:23.195627+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Corsa",
+    "y": 2021,
+    "km": 62000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "gw:67ec2264-3730-4d80-8cb8-8bff1b812a77": {
     "p": 6500,
     "f": "2026-06-24T13:32:45.652609+00:00",
@@ -144885,42 +144924,6 @@
     "mo": "A4",
     "y": 2011,
     "km": 325000
-  },
-  "wh:1224182224": {
-    "p": 3700,
-    "f": "2026-06-16T09:36:38.877482+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-corsa-1-2-top-zustand-wenig-km-pickerl-neu-1224182224/",
-    "t": "Opel Corsa 1.2 - Top Zustand, wenig KM, Pickerl neu",
-    "ts": "2026-06-16T09:36:38.877482+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Corsa",
-    "y": 2014,
-    "km": 86900
-  },
-  "wh:2125207226": {
-    "p": 1500,
-    "f": "2026-06-16T09:36:38.877482+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-avant-2-0-tdi-2125207226/",
-    "t": "Audi A6 Avant 2.0 tdi",
-    "ts": "2026-06-16T09:36:38.877482+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A6",
-    "y": 2008,
-    "km": 252000
-  },
-  "wh:2054548825": {
-    "p": 5600,
-    "f": "2026-06-16T09:36:38.877482+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-2-0-tdi-dpf-2054548825/",
-    "t": "Audi A4 2,0 TDI DPF",
-    "ts": "2026-06-16T09:36:38.877482+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2009,
-    "km": 255000
   },
   "__health__": {
     "wh": 0,
