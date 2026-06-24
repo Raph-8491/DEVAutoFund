@@ -147,6 +147,30 @@
     "y": 2009,
     "km": 235000
   },
+  "as:b42279ea-c53f-498e-8072-273cd69e2420": {
+    "p": null,
+    "f": "2026-06-24T17:53:26.319163+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:d2628d7f-a6f6-4e22-8298-ef41ac8c5484": {
+    "p": null,
+    "f": "2026-06-24T17:53:26.319163+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:970049161": {
     "p": 2500,
     "f": "2026-06-24T17:52:24.582630+00:00",
@@ -145352,30 +145376,6 @@
     "mo": "Vito",
     "y": 2013,
     "km": 210000
-  },
-  "as:1db7b140-a061-4125-95e0-1e440dd33e2a": {
-    "p": null,
-    "f": "2026-06-16T14:29:37.314588+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "gw:42234222-9746-44ee-a2f9-390fee0c57ae": {
-    "p": 6300,
-    "f": "2026-06-16T14:28:55.336971+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/mercedes-benz-b-180-b-180-cdi-automatik-neues-pickerl-bis-08-2027-diesel-grau-cat_ma47mo18608/42234222-9746-44ee-a2f9-390fee0c57ae",
-    "t": "Mercedes-Benz B 180",
-    "ts": "2026-06-16T14:28:55.336971+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "B 180",
-    "y": 2010,
-    "km": 85000
   },
   "__health__": {
     "wh": 0,
