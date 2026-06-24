@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:acd682e8-bd6f-4405-b39e-7fdd9c44a20e": {
+    "p": 1890,
+    "f": "2026-06-24T14:44:40.933386+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/peugeot-207-sw-outdoor-1-6-hdi-90-fap-diesel-silber-cat_ma55mo18797/acd682e8-bd6f-4405-b39e-7fdd9c44a20e",
+    "t": "Peugeot 207 SW Outdoor 1,6 HDi 90 FAP",
+    "ts": "2026-06-24T14:44:40.933386+00:00",
+    "ch": null,
+    "ma": "Peugeot",
+    "mo": "207",
+    "y": 2008,
+    "km": 202500,
+    "b": ""
+  },
+  "as:acd682e8-bd6f-4405-b39e-7fdd9c44a20e": {
+    "p": 1890,
+    "f": "2026-06-24T14:44:32.718341+00:00",
+    "u": "https://www.autoscout24.at/angebote/peugeot-207-sw-outdoor-1-6-hdi-90-fap-diesel-silber-cat_ma55mo18797-acd682e8-bd6f-4405-b39e-7fdd9c44a20e",
+    "t": "Peugeot 207 SW Outdoor 1,6 HDi 90 FAP",
+    "ts": "2026-06-24T14:44:32.718341+00:00",
+    "ch": null,
+    "ma": "Peugeot",
+    "mo": "207",
+    "y": 2008,
+    "km": 202500,
+    "b": ""
+  },
   "wh:1990186300": {
     "p": 3400,
     "f": "2026-06-24T14:43:22.268591+00:00",
@@ -270,7 +296,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-plus-1271181707/",
     "t": "VW Golf Plus",
     "ts": "2026-06-24T14:40:44.885129+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2009,
@@ -284,7 +310,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-1579961117/",
     "t": "VW Polo",
     "ts": "2026-06-24T14:40:44.885129+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Polo",
     "y": 2021,
@@ -145019,30 +145045,6 @@
     "mo": "Golf",
     "y": 2008,
     "km": 232473
-  },
-  "wh:2031620687": {
-    "p": 4200,
-    "f": "2026-06-16T11:09:27.182135+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c3-1-4-jubilaeums-collection-2031620687/",
-    "t": "Citro\u00ebn C3 1,4 Jubil\u00e4ums Collection",
-    "ts": "2026-06-16T11:09:27.182135+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 147700
-  },
-  "wh:2115584422": {
-    "p": 7900,
-    "f": "2026-06-16T11:07:31.527164+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-e60-525d-lci-m-paket-m57-3-0l-2115584422/",
-    "t": "BMW 5er-Reihe E60 525d LCI M-Paket M57 3.0l",
-    "ts": "2026-06-16T11:07:31.527164+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "5er-Reihe",
-    "y": 2008,
-    "km": 348800
   },
   "__health__": {
     "wh": 0,
