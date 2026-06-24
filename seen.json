@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1359616910": {
+    "p": 12000,
+    "f": "2026-06-24T05:52:25.410937+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-f11-530d-xdrive-1359616910/",
+    "t": "BMW 5er-Reihe F11 530d xDrive",
+    "ts": "2026-06-24T05:52:25.410937+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "5er-Reihe",
+    "y": 2014,
+    "km": 355000,
+    "b": "Kombi / Family Van"
+  },
   "as:6dc67daf-2b57-468a-87b3-b420747c1020": {
     "p": null,
     "f": "2026-06-24T05:48:35.295351+00:00",
@@ -119935,7 +119948,8 @@
     "ma": null,
     "mo": null,
     "y": 2010,
-    "km": 157162
+    "km": 157162,
+    "b": "Limousine"
   },
   "wh:1032241983": {
     "p": 7000,
@@ -119947,7 +119961,8 @@
     "ma": "BMW",
     "mo": "5er-Reihe",
     "y": 2008,
-    "km": 292000
+    "km": 292000,
+    "b": "Kombi / Family Van"
   },
   "as:0a357c1f-0487-4998-9b36-e7cbdca8272c": {
     "p": 5900,
@@ -144241,18 +144256,6 @@
     "mo": "Golf",
     "y": 2012,
     "km": 137000
-  },
-  "as:04fa8c79-1a29-471a-842e-8d4233f17427": {
-    "p": null,
-    "f": "2026-06-15T18:53:37.177812+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
