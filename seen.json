@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1955785392": {
+    "p": 13400,
+    "f": "2026-06-24T20:21:26.238904+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-alhambra-2-0-tdi-dsg-automatik-1955785392/",
+    "t": "Seat Alhambra 2.0 TDI DSG AUTOMATIK",
+    "ts": "2026-06-24T20:21:26.238904+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Alhambra",
+    "y": 2016,
+    "km": 272000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1218407970": {
+    "p": 8590,
+    "f": "2026-06-24T20:21:26.238904+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-q5-audi-q5-2-0tdi-export-1218407970/",
+    "t": "Audi Q5 Audi Q5 2.0TDI EXPORT",
+    "ts": "2026-06-24T20:21:26.238904+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "Q5",
+    "y": 2010,
+    "km": 230000,
+    "b": "SUV / Gel\u00e4ndewagen",
+    "pu": "2026-06-24T20:21:26.238904+00:00"
+  },
   "as:71fce5b7-596d-4a9c-99af-5e430277d070": {
     "p": null,
     "f": "2026-06-24T20:20:48.067551+00:00",
@@ -145630,30 +145657,6 @@
     "mo": "Golf",
     "y": 2008,
     "km": 126500
-  },
-  "wh:2124067060": {
-    "p": 9200,
-    "f": "2026-06-16T16:41:30.785558+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c4-picasso-puretech-130-s-s-shine-2124067060/",
-    "t": "Citro\u00ebn C4 Picasso PureTech 130 S&S Shine",
-    "ts": "2026-06-16T16:41:30.785558+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2017,
-    "km": 75000
-  },
-  "wh:866542322": {
-    "p": 7200,
-    "f": "2026-06-16T16:41:30.785558+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-vito-866542322/",
-    "t": "Mercedes-Benz Vito",
-    "ts": "2026-06-16T16:41:30.785558+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "Vito",
-    "y": 2010,
-    "km": 390000
   },
   "__health__": {
     "wh": 0,
