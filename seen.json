@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:930719369": {
+    "p": 2500,
+    "f": "2026-06-24T05:46:29.064821+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mini-cooper-r56-n12-1-6-930719369/",
+    "t": "MINI Cooper R56 N12, 1.6",
+    "ts": "2026-06-24T05:46:29.064821+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 155000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:2056555592": {
     "p": 4800,
     "f": "2026-06-24T05:41:20.775474+00:00",
@@ -144238,18 +144251,6 @@
     "mo": "Fabia",
     "y": 2010,
     "km": 150550
-  },
-  "wh:1235822281": {
-    "p": 11450,
-    "f": "2026-06-15T18:53:30.938032+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-rapid-spaceback-1-2-tsi-1235822281/",
-    "t": "Skoda Rapid Spaceback 1,2 TSI",
-    "ts": "2026-06-15T18:53:30.938032+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Rapid",
-    "y": 2015,
-    "km": 87130
   },
   "__health__": {
     "wh": 0,
