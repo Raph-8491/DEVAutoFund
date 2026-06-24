@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1278005108": {
+    "p": 1200,
+    "f": "2026-06-24T15:38:28.794265+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-1278005108/",
+    "t": "Opel Insignia",
+    "ts": "2026-06-24T15:38:28.794265+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Insignia",
+    "y": 2010,
+    "km": 228000,
+    "b": "Kombi / Family Van"
+  },
   "gw:4e049f90-b29f-4dd5-b0aa-5c1a037592b0": {
     "p": 3450,
     "f": "2026-06-24T15:37:29.283281+00:00",
@@ -495,7 +508,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-tdi-4-motion-979490991/",
     "t": "VW Golf TDI 4 Motion",
     "ts": "2026-06-24T15:34:33.812683+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2013,
@@ -145121,18 +145134,6 @@
     "mo": "Polo",
     "y": 2013,
     "km": 137700
-  },
-  "as:bb43ca5f-3cef-4d7b-ac14-51a8002d2b2d": {
-    "p": null,
-    "f": "2026-06-16T12:17:36.455425+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
