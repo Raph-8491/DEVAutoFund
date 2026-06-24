@@ -147,6 +147,61 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1890302274": {
+    "p": 15000,
+    "f": "2026-06-24T12:46:25.002582+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-sharan-2-0-tdi-1890302274/",
+    "t": "VW Sharan 2.0 tdi",
+    "ts": "2026-06-24T12:46:25.002582+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Sharan",
+    "y": 2017,
+    "km": 158000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T12:46:25.002582+00:00"
+  },
+  "wh:1140867086": {
+    "p": 7990,
+    "f": "2026-06-24T12:46:25.002582+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-b8-avant-2-0tdi-1140867086/",
+    "t": "Audi A4 B8 Avant 2.0TDI",
+    "ts": "2026-06-24T12:46:25.002582+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2010,
+    "km": 200000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T12:46:25.002582+00:00"
+  },
+  "wh:1442982364": {
+    "p": 13900,
+    "f": "2026-06-24T12:46:25.002582+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-1-5-eco-blue-1442982364/",
+    "t": "Ford Focus 1,5 Eco Blue",
+    "ts": "2026-06-24T12:46:25.002582+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2020,
+    "km": 169000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1997755274": {
+    "p": 3800,
+    "f": "2026-06-24T12:46:25.002582+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-1997755274/",
+    "t": "VW Polo",
+    "ts": "2026-06-24T12:46:25.002582+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Polo",
+    "y": 2008,
+    "km": 122000,
+    "b": "Limousine",
+    "pu": "2026-06-24T12:46:25.002582+00:00"
+  },
   "wh:1613891689": {
     "p": 6300,
     "f": "2026-06-24T12:45:40.239248+00:00",
@@ -121847,7 +121902,8 @@
     "ma": "Seat",
     "mo": "Ibiza",
     "y": 2013,
-    "km": 183000
+    "km": 183000,
+    "b": "Sportwagen / Coup\u00e9"
   },
   "wh:1549368168": {
     "p": 10900,
@@ -144787,54 +144843,6 @@
     "mo": "Golf",
     "y": 2015,
     "km": 163000
-  },
-  "wh:1116220507": {
-    "p": 7997,
-    "f": "2026-06-16T08:48:32.724429+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-r-line-comfortline-1-0-bmt-1116220507/",
-    "t": "VW Polo R-Line, Comfortline 1,0 BMT",
-    "ts": "2026-06-16T08:48:32.724429+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2015,
-    "km": 109952
-  },
-  "wh:2146668887": {
-    "p": 8900,
-    "f": "2026-06-16T08:48:32.724429+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-allroad-2-0-tdi-quattro-dpf-2146668887/",
-    "t": "Audi A4 allroad 2,0 TDI quattro DPF",
-    "ts": "2026-06-16T08:48:32.724429+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2011,
-    "km": 392590
-  },
-  "wh:2032352238": {
-    "p": 6500,
-    "f": "2026-06-16T08:48:32.724429+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-lodgy-1-6-2032352238/",
-    "t": "Dacia Lodgy 1,6",
-    "ts": "2026-06-16T08:48:32.724429+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2017,
-    "km": 114000
-  },
-  "wh:1698454114": {
-    "p": 6999,
-    "f": "2026-06-16T08:48:32.724429+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-alhambra-2-0-tdi-ecomotive-1698454114/",
-    "t": "Seat Alhambra 2.0 Tdi Ecomotive",
-    "ts": "2026-06-16T08:48:32.724429+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Alhambra",
-    "y": 2012,
-    "km": 220000
   },
   "__health__": {
     "wh": 0,
