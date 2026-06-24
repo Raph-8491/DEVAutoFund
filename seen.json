@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:d1b203a8-cab7-4fe0-9b77-c147d79978b2": {
+    "p": 9999,
+    "f": "2026-06-24T13:45:49.445718+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/opel-corsa-e-corsa-e-1-4-benzin-cat_ma54mo75994/d1b203a8-cab7-4fe0-9b77-c147d79978b2",
+    "t": "Opel Corsa-e",
+    "ts": "2026-06-24T13:45:49.445718+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Corsa-e",
+    "y": 2017,
+    "km": 26500,
+    "b": ""
+  },
+  "as:d1b203a8-cab7-4fe0-9b77-c147d79978b2": {
+    "p": 9999,
+    "f": "2026-06-24T13:45:42.888282+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-corsa-e-corsa-e-1-4-benzin-cat_ma54mo75994-d1b203a8-cab7-4fe0-9b77-c147d79978b2",
+    "t": "Opel Corsa-e",
+    "ts": "2026-06-24T13:45:42.888282+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Corsa-e",
+    "y": 2017,
+    "km": 26500,
+    "b": ""
+  },
+  "wh:1302737743": {
+    "p": 6000,
+    "f": "2026-06-24T13:45:41.166232+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-ix35-1-7-crdi-life-dpf-1302737743/",
+    "t": "Hyundai iX35 1,7 CRDi Life DPF",
+    "ts": "2026-06-24T13:45:41.166232+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 201409,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "as:ad3c8cb2-386e-4fd9-a847-91c3c38c8cc7": {
     "p": 1650,
     "f": "2026-06-24T13:43:29.394134+00:00",
@@ -178,7 +217,7 @@
     "u": "https://www.autoscout24.at/angebote/audi-a4-avant-2-0-tdi-dpf-diesel-schwarz-cat_ma9mo1626-05cda2d6-8b6b-4938-8af5-c561574aab4f",
     "t": "Audi A4",
     "ts": "2026-06-24T13:42:32.081586+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A4",
     "y": 2010,
@@ -144911,42 +144950,6 @@
     "mo": "Octavia",
     "y": 2017,
     "km": 173500
-  },
-  "gw:5815c902-0098-4cf9-ae83-a2b45c7fdaf0": {
-    "p": 3000,
-    "f": "2026-06-16T09:56:06.222968+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/ford-transit-260-k-tdci-lkw-va-trend-diesel-cat_ma29mo2160/5815c902-0098-4cf9-ae83-a2b45c7fdaf0",
-    "t": "Ford Transit",
-    "ts": "2026-06-16T09:56:06.222968+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Transit",
-    "y": 2012,
-    "km": 195000
-  },
-  "gw:f14d75e1-55c5-4f32-a985-331eae6cb8fd": {
-    "p": 11800,
-    "f": "2026-06-16T09:56:06.222968+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-passat-variant-4sports-bmt-tdi-dpf-4motion-diesel-cat_ma74mo20338/f14d75e1-55c5-4f32-a985-331eae6cb8fd",
-    "t": "Volkswagen Passat Variant",
-    "ts": "2026-06-16T09:56:06.222968+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat Variant",
-    "y": 2014,
-    "km": 141380
-  },
-  "as:5815c902-0098-4cf9-ae83-a2b45c7fdaf0": {
-    "p": 3000,
-    "f": "2026-06-16T09:55:49.994120+00:00",
-    "u": "https://www.autoscout24.at/angebote/ford-transit-260-k-tdci-lkw-va-trend-diesel-cat_ma29mo2160-5815c902-0098-4cf9-ae83-a2b45c7fdaf0",
-    "t": "Ford Transit",
-    "ts": "2026-06-16T09:55:49.994120+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Transit",
-    "y": 2012,
-    "km": 195000
   },
   "__health__": {
     "wh": 0,
