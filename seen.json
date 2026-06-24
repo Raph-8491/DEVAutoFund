@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "as:02f19cd6-24fc-4b5b-97c4-d2eabe732e04": {
+    "p": null,
+    "f": "2026-06-24T18:08:29.466655+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1607951919": {
+    "p": 7000,
+    "f": "2026-06-24T18:08:27.994883+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-fabia-1-0-mpi-kombi-neues-pickerl-1607951919/",
+    "t": "Skoda Fabia 1.0 MPI Kombi neues Pickerl",
+    "ts": "2026-06-24T18:08:27.994883+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Fabia",
+    "y": 2018,
+    "km": 85000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1131800543": {
+    "p": 8200,
+    "f": "2026-06-24T18:08:27.994883+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-2-0-tdi-navi-xenon-1131800543/",
+    "t": "Audi A4 2.0 TDI/ Navi/ Xenon",
+    "ts": "2026-06-24T18:08:27.994883+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2008,
+    "km": 148000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T18:08:27.994883+00:00"
+  },
   "as:b0283329-8d53-4054-963a-a7745bf1afb2": {
     "p": 4500,
     "f": "2026-06-24T18:07:29.547888+00:00",
@@ -145371,42 +145410,6 @@
     "mo": "A5",
     "y": 2013,
     "km": 174500
-  },
-  "wh:1976019443": {
-    "p": 800,
-    "f": "2026-06-16T14:41:40.015579+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-308-1976019443/",
-    "t": "Peugeot 308",
-    "ts": "2026-06-16T14:41:40.015579+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 190000
-  },
-  "wh:1655137588": {
-    "p": 2500,
-    "f": "2026-06-16T14:41:40.015579+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-avant-2-0tdi-1655137588/",
-    "t": "Audi A6 Avant 2,0tdi",
-    "ts": "2026-06-23T14:37:29.083135+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A6",
-    "y": 2008,
-    "km": 371000
-  },
-  "wh:1147330462": {
-    "p": 4190,
-    "f": "2026-06-16T14:41:40.015579+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-9-tdi-1147330462/",
-    "t": "VW Golf 1,9 TDI",
-    "ts": "2026-06-16T14:58:40.815399+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2011,
-    "km": 185000
   },
   "__health__": {
     "wh": 0,
