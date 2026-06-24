@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "as:11012aab-27ba-494c-ba10-3d1132bc55bf": {
+    "p": null,
+    "f": "2026-06-24T15:40:45.498107+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1094313186": {
+    "p": 2200,
+    "f": "2026-06-24T15:40:44.411018+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-venga-1-4-crdi-1-besitz-pickerl-bis-06-2027-1094313186/",
+    "t": "KIA Venga 1.4 CRDI 1 besitz pickerl bis 06/2027",
+    "ts": "2026-06-24T15:40:44.411018+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 256420,
+    "b": "Limousine"
+  },
+  "wh:837339267": {
+    "p": 7000,
+    "f": "2026-06-24T15:40:44.411018+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x1-837339267/",
+    "t": "BMW X1",
+    "ts": "2026-06-24T15:40:44.411018+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X1",
+    "y": 2011,
+    "km": 217729,
+    "b": "SUV / Gel\u00e4ndewagen",
+    "pu": "2026-06-24T15:40:44.411018+00:00"
+  },
   "wh:1278005108": {
     "p": 1200,
     "f": "2026-06-24T15:38:28.794265+00:00",
@@ -179,7 +218,7 @@
     "u": "https://www.autoscout24.at/angebote/audi-a3-ambition-unfall-notverkauf-benzin-cat_ma9mo1624-4e049f90-b29f-4dd5-b0aa-5c1a037592b0",
     "t": "Audi A3 Ambition UNFALL/NOTVERKAUF",
     "ts": "2026-06-24T15:37:22.833755+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A3",
     "y": 2009,
@@ -145098,42 +145137,6 @@
     "mo": "Fabia",
     "y": 2010,
     "km": 147000
-  },
-  "wh:1244508997": {
-    "p": 4500,
-    "f": "2026-06-16T12:19:29.324992+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touran-1-2-7-sitzer-1244508997/",
-    "t": "VW Touran 1,2 7-Sitzer",
-    "ts": "2026-06-16T12:19:29.324992+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Touran",
-    "y": 2011,
-    "km": 260382
-  },
-  "gw:6682e888-6d65-4515-b51d-8b9b50a83645": {
-    "p": 5100,
-    "f": "2026-06-16T12:18:44.501680+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-polo-polo-comfortline-1-2-bmt-comfortline-benzin-grau-cat_ma74mo2090/6682e888-6d65-4515-b51d-8b9b50a83645",
-    "t": "Volkswagen Polo",
-    "ts": "2026-06-16T12:18:44.501680+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2013,
-    "km": 137700
-  },
-  "as:6682e888-6d65-4515-b51d-8b9b50a83645": {
-    "p": 5100,
-    "f": "2026-06-16T12:18:35.481634+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-polo-polo-comfortline-1-2-bmt-comfortline-benzin-grau-cat_ma74mo2090-6682e888-6d65-4515-b51d-8b9b50a83645",
-    "t": "Volkswagen Polo",
-    "ts": "2026-06-16T12:18:35.481634+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2013,
-    "km": 137700
   },
   "__health__": {
     "wh": 0,
