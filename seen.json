@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1039880322": {
+    "p": 10600,
+    "f": "2026-06-24T11:35:39.453240+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-cx-5-1039880322/",
+    "t": "Mazda CX-5",
+    "ts": "2026-06-24T11:35:39.453240+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 124000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1727651051": {
+    "p": 14800,
+    "f": "2026-06-24T11:35:39.453240+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-2-0-4motion-110tdid7a-1727651051/",
+    "t": "VW Tiguan 2,0 4Motion 110TDID7A",
+    "ts": "2026-06-24T11:35:39.453240+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Tiguan",
+    "y": 2016,
+    "km": 201041,
+    "b": "SUV / Gel\u00e4ndewagen",
+    "pu": "2026-06-24T11:35:39.453240+00:00"
+  },
   "as:56ea9bbd-44d5-4f39-ae36-ec1d3379e438": {
     "p": null,
     "f": "2026-06-24T11:34:27.312774+00:00",
@@ -144706,30 +144733,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:e3bb8fab-bb96-4781-9298-5aaac4814540": {
-    "p": null,
-    "f": "2026-06-16T07:27:32.503677+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:2131650030": {
-    "p": 11900,
-    "f": "2026-06-16T07:26:32.254462+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-highline-1-0-tsi-2131650030/",
-    "t": "VW Polo Highline 1,0 TSI",
-    "ts": "2026-06-16T07:26:32.254462+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2014,
-    "km": 140000
   },
   "__health__": {
     "wh": 0,
