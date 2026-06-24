@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:944837348": {
+    "p": 8500,
+    "f": "2026-06-24T10:26:25.852586+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mitsubishi-outlander-2-2-di-d-4-wd-944837348/",
+    "t": "Mitsubishi Outlander 2,2 DI-D 4 WD",
+    "ts": "2026-06-24T10:26:25.852586+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 228112,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:2003815252": {
+    "p": 2400,
+    "f": "2026-06-24T10:26:25.852586+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a1-30-tfsi-2003815252/",
+    "t": "Audi A1 30 tfsi",
+    "ts": "2026-06-24T10:26:25.852586+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A1",
+    "y": 2024,
+    "km": 18000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1402810981": {
     "p": 7799,
     "f": "2026-06-24T10:24:26.629428+00:00",
@@ -166,7 +192,7 @@
     "u": "https://www.autoscout24.at/angebote/bmw-x1-x1-xdrive18d-diesel-schwarz-cat_ma13mo19242-60f70d71-da10-43d4-8c64-dde9118d0e09",
     "t": "BMW X1",
     "ts": "2026-06-24T10:23:23.301115+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "X1",
     "y": 2011,
@@ -144597,30 +144623,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:868555699": {
-    "p": 10900,
-    "f": "2026-06-16T05:50:42.135190+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda6-mazda-6-cd150-attraction-868555699/",
-    "t": "Mazda Mazda6 MAZDA 6/CD150/ATTRACTION",
-    "ts": "2026-06-16T05:50:42.135190+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2015,
-    "km": 171000
-  },
-  "wh:2063014953": {
-    "p": 4300,
-    "f": "2026-06-16T05:50:42.135190+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-ich-verkaufe-einen-ford-galaxy-baujahr-2009-7-si-2063014953/",
-    "t": "Ford Galaxy Ich verkaufe einen Ford Galaxy, Baujahr 2009, 7-Si",
-    "ts": "2026-06-16T05:50:42.135190+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 320000
   },
   "__health__": {
     "wh": 0,
