@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1416430085": {
+    "p": 5990,
+    "f": "2026-06-24T12:14:26.282858+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-1416430085/",
+    "t": "Ford Focus",
+    "ts": "2026-06-24T12:14:26.282858+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2019,
+    "km": 159000,
+    "b": "Kombi / Family Van"
+  },
   "as:0b1aa1c5-de6b-456c-95fc-c93b422bca3a": {
     "p": null,
     "f": "2026-06-24T12:10:52.850979+00:00",
@@ -121683,7 +121696,8 @@
     "ma": null,
     "mo": null,
     "y": 2017,
-    "km": 126200
+    "km": 126200,
+    "b": "Limousine"
   },
   "wh:858957737": {
     "p": 10800,
@@ -121731,7 +121745,8 @@
     "ma": "VW",
     "mo": "Polo",
     "y": 2010,
-    "km": 117000
+    "km": 117000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "as:75042756-4cb9-4e23-b315-03b64d588f80": {
     "p": 3333,
@@ -144770,18 +144785,6 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/skoda-fabia-fabia-combi-classic-clever-1-2-clever-benzin-schwarz-cat_ma65mo15878/b171c83d-9c8a-469c-b60a-e21538782a2b",
     "t": "Skoda Fabia",
     "ts": "2026-06-16T08:09:42.615728+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Fabia",
-    "y": 2010,
-    "km": 163557
-  },
-  "as:b171c83d-9c8a-469c-b60a-e21538782a2b": {
-    "p": 3500,
-    "f": "2026-06-16T08:09:34.570125+00:00",
-    "u": "https://www.autoscout24.at/angebote/skoda-fabia-fabia-combi-classic-clever-1-2-clever-benzin-schwarz-cat_ma65mo15878-b171c83d-9c8a-469c-b60a-e21538782a2b",
-    "t": "Skoda Fabia",
-    "ts": "2026-06-16T08:09:34.570125+00:00",
     "ch": "alive",
     "ma": "Skoda",
     "mo": "Fabia",
