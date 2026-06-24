@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:2f6e6cd5-3b30-4267-80b8-f6ed7e41cc20": {
+    "p": null,
+    "f": "2026-06-24T16:28:30.503868+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:fd162174-738a-4936-b33b-c04ea3a30f09": {
     "p": null,
     "f": "2026-06-24T16:27:25.898333+00:00",
@@ -145208,18 +145220,6 @@
     "mo": "Tiguan",
     "y": 2008,
     "km": 162000
-  },
-  "as:964b186d-0b89-4ab0-9ba1-fb5e76384d15": {
-    "p": 9500,
-    "f": "2026-06-16T13:07:38.017080+00:00",
-    "u": "https://www.autoscout24.at/angebote/audi-a4-avant-2-0-tdi-s-tronic-diesel-cat_ma9mo1626-964b186d-0b89-4ab0-9ba1-fb5e76384d15",
-    "t": "Audi A4",
-    "ts": "2026-06-16T13:07:38.017080+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2018,
-    "km": 240000
   },
   "__health__": {
     "wh": 0,
