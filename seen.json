@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1112052454": {
+    "p": 7800,
+    "f": "2026-06-24T18:38:27.193862+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/jeep-renegade-2-0-multijet-ii-140-limited-awd-aut-1112052454/",
+    "t": "(reserviert) Jeep Renegade 2,0 MultiJet II 140 Limited AWD Aut.",
+    "ts": "2026-06-24T18:38:27.193862+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2015,
+    "km": 120000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:2146993153": {
+    "p": 11000,
+    "f": "2026-06-24T18:38:27.193862+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-c250-2146993153/",
+    "t": "Mercedes-Benz C-Klasse C250",
+    "ts": "2026-06-24T18:38:27.193862+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "C-Klasse",
+    "y": 2012,
+    "km": 193400,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1886333977": {
+    "p": 3950,
+    "f": "2026-06-24T18:38:27.193862+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda2-1-3i-ce-pro-1886333977/",
+    "t": "Mazda Mazda2 1.3i/CE PRO",
+    "ts": "2026-06-24T18:38:27.193862+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 138800,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1798828830": {
     "p": 7500,
     "f": "2026-06-24T18:35:32.180809+00:00",
@@ -166,7 +205,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-850805299/",
     "t": "VW Polo",
     "ts": "2026-06-24T18:35:32.180809+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Polo",
     "y": 2011,
@@ -123276,7 +123315,8 @@
     "ma": "Opel",
     "mo": "Mokka",
     "y": 2015,
-    "km": 115000
+    "km": 115000,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "as:6b3eeeaf-7a9c-40dd-b288-4721799a7d37": {
     "p": null,
@@ -145432,42 +145472,6 @@
     "mo": "3er-Reihe",
     "y": 2015,
     "km": 253000
-  },
-  "as:b23d66ad-c3b5-440c-ab0d-ee0242d1b660": {
-    "p": 8490,
-    "f": "2026-06-16T15:11:35.115854+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-passat-variant-passat-variant-diesel-2-0-tdi-scr-4motion-dsg-bmt-highline-diesel-schwarz-cat_ma74mo20338-b23d66ad-c3b5-440c-ab0d-ee0242d1b660",
-    "t": "Volkswagen Passat Variant",
-    "ts": "2026-06-16T15:11:35.115854+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat Variant",
-    "y": 2016,
-    "km": 239000
-  },
-  "as:f9c20cd8-fc65-486f-bdff-e9fe8165a91c": {
-    "p": null,
-    "f": "2026-06-16T15:08:37.333510+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:4ffe01eb-3634-4af1-9156-e0323e35250e": {
-    "p": null,
-    "f": "2026-06-16T15:08:37.333510+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
