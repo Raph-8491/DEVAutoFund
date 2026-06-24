@@ -147,6 +147,57 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:0ff8e8a3-1835-47a0-a092-a644412e03f1": {
+    "p": 11500,
+    "f": "2026-06-24T08:18:37.278236+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-golf-lounge-1-6-bmt-tdi-diesel-cat_ma74mo2084/0ff8e8a3-1835-47a0-a092-a644412e03f1",
+    "t": "Volkswagen Golf",
+    "ts": "2026-06-24T08:18:37.278236+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2016,
+    "km": 129750,
+    "b": ""
+  },
+  "as:0ff8e8a3-1835-47a0-a092-a644412e03f1": {
+    "p": 11500,
+    "f": "2026-06-24T08:18:27.754924+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-lounge-1-6-bmt-tdi-diesel-cat_ma74mo2084-0ff8e8a3-1835-47a0-a092-a644412e03f1",
+    "t": "Volkswagen Golf",
+    "ts": "2026-06-24T08:18:27.754924+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2016,
+    "km": 129750,
+    "b": ""
+  },
+  "as:58255991-1612-4819-bab7-8d138d95a973": {
+    "p": 4890,
+    "f": "2026-06-24T08:18:27.754924+00:00",
+    "u": "https://www.autoscout24.at/angebote/mercedes-benz-b-180-b-180-245-232-benzin-grau-cat_ma47mo18608-58255991-1612-4819-bab7-8d138d95a973",
+    "t": "Mercedes-Benz B 180",
+    "ts": "2026-06-24T08:18:27.754924+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "B 180",
+    "y": 2011,
+    "km": 107000,
+    "b": ""
+  },
+  "as:66f665d9-db6e-4117-a1f4-3b89bc1c47bc": {
+    "p": null,
+    "f": "2026-06-24T08:18:27.754924+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:2029139894": {
     "p": 6500,
     "f": "2026-06-24T08:17:41.140923+00:00",
@@ -144375,54 +144426,6 @@
     "mo": "One",
     "y": 2016,
     "km": 88000
-  },
-  "as:46fcd3d9-c1d1-4785-abbd-5d8e4aea2e92": {
-    "p": 3400,
-    "f": "2026-06-15T20:29:29.159845+00:00",
-    "u": "https://www.autoscout24.at/angebote/opel-insignia-2-0-cdti-dpf-ecotec-start-stop-system-diesel-cat_ma54mo19101-46fcd3d9-c1d1-4785-abbd-5d8e4aea2e92",
-    "t": "Opel Insignia",
-    "ts": "2026-06-15T20:29:29.159845+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Insignia",
-    "y": 2013,
-    "km": 248200
-  },
-  "as:121d7e2b-ae36-4fe5-bbd9-a34607b1ba8a": {
-    "p": null,
-    "f": "2026-06-15T20:29:29.159845+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1938413622": {
-    "p": 6990,
-    "f": "2026-06-15T20:27:24.540397+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-500c-1938413622/",
-    "t": "Fiat 500C",
-    "ts": "2026-06-22T20:27:30.302911+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 76400
-  },
-  "gw:1addea8c-265a-4ecf-b240-9af301395327": {
-    "p": 7000,
-    "f": "2026-06-15T20:26:41.294007+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/skoda-octavia-octavia-combi-rs-tdi-cr-dpf-rs-diesel-weiss-cat_ma65mo15222/1addea8c-265a-4ecf-b240-9af301395327",
-    "t": "Skoda Octavia",
-    "ts": "2026-06-15T20:26:41.294007+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2011,
-    "km": 206254
   },
   "__health__": {
     "wh": 0,
