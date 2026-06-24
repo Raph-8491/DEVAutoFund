@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1318377385": {
+    "p": 4300,
+    "f": "2026-06-24T19:24:30.817957+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-508-1-6-hdi-1318377385/",
+    "t": "Peugeot 508 1.6 HDI",
+    "ts": "2026-06-24T19:24:30.817957+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 273400,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1723766704": {
+    "p": 9500,
+    "f": "2026-06-24T19:24:30.817957+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-2-0-tdi-bmt-4motion-trend-fun-dpf-dsg-1723766704/",
+    "t": "VW Tiguan 2,0 TDI BMT 4Motion Trend&Fun DPF DSG",
+    "ts": "2026-06-24T19:24:30.817957+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Tiguan",
+    "y": 2013,
+    "km": 225600,
+    "b": "SUV / Gel\u00e4ndewagen",
+    "pu": "2026-06-24T19:24:30.817957+00:00"
+  },
   "wh:1204042660": {
     "p": 4850,
     "f": "2026-06-24T19:23:25.220323+00:00",
@@ -204,7 +231,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-318-d-1246525315/",
     "t": "BMW 3er-Reihe 318 d",
     "ts": "2026-06-24T19:20:44.376434+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "3er-Reihe",
     "y": 2010,
@@ -218,7 +245,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-4er-reihe-430d-pickerl-12-26-1167510449/",
     "t": "BMW 4er-Reihe 430D PICKERl 12/26",
     "ts": "2026-06-24T19:20:44.376434+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "4er-Reihe",
     "y": 2015,
@@ -145540,30 +145567,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:50775c38-e908-4b43-aa9f-ca8d00f5af3a": {
-    "p": 8500,
-    "f": "2026-06-16T16:01:53.611922+00:00",
-    "u": "https://www.autoscout24.at/angebote/audi-a3-1-6-tdi-sportback-top-zustand-diesel-schwarz-cat_ma9mo1624-50775c38-e908-4b43-aa9f-ca8d00f5af3a",
-    "t": "Audi A3",
-    "ts": "2026-06-16T16:01:53.611922+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A3",
-    "y": 2010,
-    "km": 118440
-  },
-  "as:3b15f284-8e01-4582-ab43-243368e7c048": {
-    "p": 7350,
-    "f": "2026-06-16T16:01:53.611922+00:00",
-    "u": "https://www.autoscout24.at/angebote/mercedes-benz-c-200-sw-cdi-be-executive-diesel-cat_ma47mo1860-3b15f284-8e01-4582-ab43-243368e7c048",
-    "t": "Mercedes-Benz C 200",
-    "ts": "2026-06-16T16:01:53.611922+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C 200",
-    "y": 2012,
-    "km": 192000
   },
   "__health__": {
     "wh": 0,
