@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:996845688": {
+    "p": 10999,
+    "f": "2026-06-24T09:36:29.425305+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-520d-touring-top-ausstattung-996845688/",
+    "t": "BMW 5er-Reihe 520d Touring *Top Ausstattung*",
+    "ts": "2026-06-24T09:36:29.425305+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "5er-Reihe",
+    "y": 2010,
+    "km": 232521,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1172178245": {
+    "p": 790,
+    "f": "2026-06-24T09:36:29.425305+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-clio-1-2-1172178245/",
+    "t": "Renault Clio 1.2",
+    "ts": "2026-06-24T09:36:29.425305+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 106000,
+    "b": "Limousine"
+  },
   "as:d5f3ef85-f94a-458e-810e-76a43462e1d2": {
     "p": 8000,
     "f": "2026-06-24T09:34:28.233068+00:00",
@@ -203,7 +229,7 @@
     "u": "https://www.autoscout24.at/angebote/bmw-x1-sdrive-18-i-sport-line-benzin-grau-cat_ma13mo19242-706070d5-17ed-4099-9cab-20fcd8853f35",
     "t": "BMW X1",
     "ts": "2026-06-24T09:33:26.909117+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "X1",
     "y": 2018,
@@ -144514,30 +144540,6 @@
     "km": null
   },
   "as:569f1e27-27fe-43db-a1c9-f01d4f34ac6d": {
-    "p": null,
-    "f": "2026-06-16T01:01:56.267038+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:711bd133-e5a7-4e9f-8252-21a6670d857b": {
-    "p": null,
-    "f": "2026-06-16T01:01:56.267038+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:1f0de35f-f06e-4a1f-a5ca-0c8550abe67e": {
     "p": null,
     "f": "2026-06-16T01:01:56.267038+00:00",
     "u": null,
