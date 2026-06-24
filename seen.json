@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1621783909": {
+    "p": 11990,
+    "f": "2026-06-24T04:52:27.500515+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-fr-2-0-tdi-automatik-acc-anhaengerkupplung-sport-1621783909/",
+    "t": "Seat Leon FR 2.0 TDI Automatik ACC Anh\u00e4ngerkupplung Sport",
+    "ts": "2026-06-24T04:52:27.500515+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2014,
+    "km": 189100,
+    "b": "Kombi / Family Van"
+  },
   "wh:2074736302": {
     "p": 12000,
     "f": "2026-06-24T04:48:26.805699+00:00",
@@ -144194,18 +144207,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1348049194": {
-    "p": 3500,
-    "f": "2026-06-15T18:33:29.590727+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-caddy-kombi-comfortline-1-6-tdi-dpf-dsg-1348049194/",
-    "t": "VW Caddy Kombi Comfortline 1,6 TDI DPF DSG",
-    "ts": "2026-06-15T18:33:29.590727+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Caddy",
-    "y": 2012,
-    "km": 413000
   },
   "__health__": {
     "wh": 0,
