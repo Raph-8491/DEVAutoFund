@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:ddfb6542-5d5b-4a13-b443-7cbcb9bf4db3": {
+    "p": null,
+    "f": "2026-06-24T06:39:27.794552+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:8fcee764-77c9-4b22-a08c-a73d1de84dc8": {
     "p": null,
     "f": "2026-06-24T06:37:24.375352+00:00",
@@ -144277,18 +144289,6 @@
     "mo": "Corsa",
     "y": 2016,
     "km": 6700
-  },
-  "as:db31d999-68cf-4114-b222-1bd2e7ee0f53": {
-    "p": null,
-    "f": "2026-06-15T19:08:43.315427+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
