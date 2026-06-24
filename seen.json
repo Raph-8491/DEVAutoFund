@@ -147,6 +147,70 @@
     "y": 2009,
     "km": 235000
   },
+  "as:f5eea0ae-3447-45bf-bb14-94e3148aa174": {
+    "p": null,
+    "f": "2026-06-24T13:26:29.841230+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:eeddeae0-01d9-47fd-a3fc-63c3dc80c432": {
+    "p": null,
+    "f": "2026-06-24T13:26:29.841230+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1601351457": {
+    "p": 12975,
+    "f": "2026-06-24T13:26:27.607200+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-avant-3-0-tdi-quattro-1601351457/",
+    "t": "Audi A6 Avant 3,0 TDI Quattro",
+    "ts": "2026-06-24T13:26:27.607200+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A6",
+    "y": 2013,
+    "km": 231993,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T13:26:27.607200+00:00"
+  },
+  "wh:1616248868": {
+    "p": 9000,
+    "f": "2026-06-24T13:26:27.607200+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-rapid-1-4-dsg-1616248868/",
+    "t": "Skoda Rapid 1.4 DSG",
+    "ts": "2026-06-24T13:26:27.607200+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Rapid",
+    "y": 2016,
+    "km": 148000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1591539106": {
+    "p": 1499,
+    "f": "2026-06-24T13:26:27.607200+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-sportcoupe-chili-style-1-6-tdi-cr-fixpreis-1591539106/",
+    "t": "Seat Ibiza SportCoup\u00e9 Chili&Style 1,6 TDI CR*FIXPREIS",
+    "ts": "2026-06-24T13:26:27.607200+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Ibiza",
+    "y": 2013,
+    "km": 249202,
+    "b": "Sportwagen / Coup\u00e9"
+  },
   "as:78fb6627-cff1-4931-8926-fc8f99cda7d9": {
     "p": null,
     "f": "2026-06-24T13:25:35.246865+00:00",
@@ -122142,16 +122206,17 @@
     "km": 172743
   },
   "wh:1289213975": {
-    "p": 1600,
+    "p": 1400,
     "f": "2026-06-17T13:31:41.051582+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-st-1-7-ecotec-cdti-cosmo-1289213975/",
     "t": "Opel Astra ST 1,7 Ecotec CDTI Cosmo",
-    "ts": "2026-06-17T13:31:41.051582+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T13:26:27.607200+00:00",
+    "ch": null,
     "ma": "Opel",
     "mo": "Astra",
     "y": 2011,
-    "km": 306700
+    "km": 306700,
+    "b": "Kombi / Family Van"
   },
   "wh:1130873133": {
     "p": 1000,
@@ -122223,7 +122288,8 @@
     "ma": "Opel",
     "mo": "Vectra",
     "y": 2008,
-    "km": 142000
+    "km": 142000,
+    "b": "Kombi / Family Van"
   },
   "wh:1434682946": {
     "p": 5400,
@@ -144844,66 +144910,6 @@
     "mo": null,
     "y": 2009,
     "km": 156100
-  },
-  "wh:1261870456": {
-    "p": 6000,
-    "f": "2026-06-16T09:28:30.410673+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mini-mini-one-1-6-r56-1261870456/",
-    "t": "MINI Mini One 1.6 R56",
-    "ts": "2026-06-16T09:28:30.410673+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 160000
-  },
-  "wh:1425383036": {
-    "p": 6300,
-    "f": "2026-06-16T09:28:30.410673+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/nissan-qashqai-1425383036/",
-    "t": "Nissan Qashqai",
-    "ts": "2026-06-16T09:28:30.410673+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 133800
-  },
-  "as:8ec4c72d-5735-431a-91ad-aeda1661b78a": {
-    "p": null,
-    "f": "2026-06-16T09:26:36.132195+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:11ee58a5-c4c7-4c06-80b8-1119919875be": {
-    "p": null,
-    "f": "2026-06-16T09:25:45.244024+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:2141230519": {
-    "p": 9000,
-    "f": "2026-06-16T09:25:42.885488+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/toyota-avensis-2141230519/",
-    "t": "Toyota Avensis",
-    "ts": "2026-06-16T09:25:42.885488+00:00",
-    "ch": "alive",
-    "ma": "Toyota",
-    "mo": "Avensis",
-    "y": 2014,
-    "km": 234000
   },
   "__health__": {
     "wh": 0,
