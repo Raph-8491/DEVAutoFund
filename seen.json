@@ -147,6 +147,59 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1141738408": {
+    "p": 4299,
+    "f": "2026-06-24T18:22:22.595057+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mini-cooper-1141738408/",
+    "t": "MINI Cooper",
+    "ts": "2026-06-24T18:22:22.595057+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 138000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1001661426": {
+    "p": 6250,
+    "f": "2026-06-24T18:22:22.595057+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-1-4-bluemotion-1001661426/",
+    "t": "VW Polo 1.4 BlueMotion",
+    "ts": "2026-06-24T18:22:22.595057+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Polo",
+    "y": 2015,
+    "km": 208000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-24T18:22:22.595057+00:00"
+  },
+  "wh:1702562566": {
+    "p": 4990,
+    "f": "2026-06-24T18:22:22.595057+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-fabia-active-1702562566/",
+    "t": "Skoda Fabia Active",
+    "ts": "2026-06-24T18:22:22.595057+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Fabia",
+    "y": 2014,
+    "km": 124000,
+    "b": "Limousine"
+  },
+  "wh:1161423291": {
+    "p": 8600,
+    "f": "2026-06-24T18:22:22.595057+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/lada-taiga-1161423291/",
+    "t": "Lada Taiga",
+    "ts": "2026-06-24T18:22:22.595057+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 76000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "as:fcb53f70-5f71-48d6-b455-be7563d173f9": {
     "p": null,
     "f": "2026-06-24T18:21:29.016692+00:00",
@@ -216,7 +269,7 @@
     "u": "https://www.autoscout24.at/angebote/volkswagen-golf-plus-team-bmt-aus-1-hand-sehr-gepflegt-diesel-grau-cat_ma74mo20026-96bfd353-39b2-4aaa-8e2a-bf0f41c9f931",
     "t": "Volkswagen Golf Plus Team BMT aus 1. Hand sehr gepflegt",
     "ts": "2026-06-24T18:19:29.430637+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf Plus",
     "y": 2011,
@@ -122779,16 +122832,17 @@
     "km": 246000
   },
   "wh:1078065844": {
-    "p": 6700,
+    "p": 6100,
     "f": "2026-06-17T18:45:55.802825+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/nissan-qashqai-2-7sitzer-2-0-dci-acenta-4wd-1078065844/",
     "t": "Nissan Qashqai +2 7sitzer 2.0 dci Acenta 4WD",
-    "ts": "2026-06-17T18:45:55.802825+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T18:22:22.595057+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2011,
-    "km": 184000
+    "km": 184000,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "wh:912068533": {
     "p": 2800,
@@ -145387,54 +145441,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:21bdf244-04d5-44bf-b721-4fbbd6c914eb": {
-    "p": null,
-    "f": "2026-06-16T14:58:44.059307+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1889383886": {
-    "p": 1950,
-    "f": "2026-06-16T14:58:40.815399+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-getz-49kw-benzin-1889383886/",
-    "t": "Hyundai Getz 49kw Benzin",
-    "ts": "2026-06-16T14:58:40.815399+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 127500
-  },
-  "wh:1991006796": {
-    "p": 5200,
-    "f": "2026-06-16T14:56:35.149455+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-ford-fiesta-trend-1-25-1991006796/",
-    "t": "Ford Fiesta ford fiesta trend 1.25",
-    "ts": "2026-06-16T14:56:35.149455+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 117000
-  },
-  "wh:1999664773": {
-    "p": 3490,
-    "f": "2026-06-16T14:56:35.149455+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-caddy-1-6-tdi-1999664773/",
-    "t": "VW Caddy 1.6 TDI",
-    "ts": "2026-06-16T14:56:35.149455+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Caddy",
-    "y": 2014,
-    "km": 275000
   },
   "__health__": {
     "wh": 0,
