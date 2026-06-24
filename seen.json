@@ -147,6 +147,30 @@
     "y": 2009,
     "km": 235000
   },
+  "as:cd6004ad-68fe-4370-8bc3-42c9e44951ae": {
+    "p": null,
+    "f": "2026-06-24T10:48:27.043594+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:3c49d799-ddc7-402f-a29f-d7a9af0770eb": {
+    "p": null,
+    "f": "2026-06-24T10:48:27.043594+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:9b5ce5ce-02ec-4ee1-9ce1-27942087e372": {
     "p": 3700,
     "f": "2026-06-24T10:47:30.863660+00:00",
@@ -242,7 +266,7 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/audi-a4-avant-2-0-tdi-quattro-style-diesel-cat_ma9mo1626/5707df13-71f4-4484-8442-dc1154dd9a5d",
     "t": "Audi A4",
     "ts": "2026-06-24T10:44:35.965046+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A4",
     "y": 2014,
@@ -144631,30 +144655,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1048380648": {
-    "p": 10000,
-    "f": "2026-06-16T06:25:42.675790+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-superb-2-0-1048380648/",
-    "t": "Skoda Superb 2.0",
-    "ts": "2026-06-16T06:36:27.273741+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Superb",
-    "y": 2016,
-    "km": 240000
-  },
-  "wh:2021711266": {
-    "p": 6000,
-    "f": "2026-06-16T06:25:42.675790+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c5-tourer-hdi-140-seduction-2021711266/",
-    "t": "Citro\u00ebn C5 Tourer HDi 140 Seduction",
-    "ts": "2026-06-16T06:25:42.675790+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 135000
   },
   "__health__": {
     "wh": 0,
