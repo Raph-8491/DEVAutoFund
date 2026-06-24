@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1916604156": {
+    "p": 1700,
+    "f": "2026-06-24T05:36:25.497552+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-fabia-1916604156/",
+    "t": "Skoda Fabia",
+    "ts": "2026-06-24T05:36:25.497552+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Fabia",
+    "y": 2013,
+    "km": 200000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:2034212358": {
+    "p": 1500,
+    "f": "2026-06-24T05:36:25.497552+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-wa6-mk2-tdci-2-00-2034212358/",
+    "t": "Ford Galaxy Wa6 Mk2 TDCI 2,00",
+    "ts": "2026-06-24T05:36:25.497552+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 410086,
+    "b": "Kombi / Family Van"
+  },
   "wh:1083184140": {
     "p": 11500,
     "f": "2026-06-24T05:32:29.702966+00:00",
@@ -144220,30 +144246,6 @@
     "mo": "Space Star",
     "y": 2018,
     "km": 47000
-  },
-  "wh:1662583578": {
-    "p": 2000,
-    "f": "2026-06-15T18:51:31.739514+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/toyota-avensis-t27-2-2d-cat-1662583578/",
-    "t": "Toyota Avensis t27 2.2D-CAT",
-    "ts": "2026-06-15T18:51:31.739514+00:00",
-    "ch": "alive",
-    "ma": "Toyota",
-    "mo": "Avensis",
-    "y": 2009,
-    "km": 190000
-  },
-  "wh:1164289928": {
-    "p": 4500,
-    "f": "2026-06-15T18:51:31.739514+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-1164289928/",
-    "t": "Ford Galaxy",
-    "ts": "2026-06-15T18:51:31.739514+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 265000
   },
   "__health__": {
     "wh": 0,
