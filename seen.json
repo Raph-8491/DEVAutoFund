@@ -147,6 +147,44 @@
     "y": 2009,
     "km": 235000
   },
+  "as:07dbdeb4-7103-4662-b8d4-795f8c22781e": {
+    "p": null,
+    "f": "2026-06-24T14:22:33.433071+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1093518600": {
+    "p": 6400,
+    "f": "2026-06-24T14:22:31.457755+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda6-mazda-6-gh-sport-te-plus-2-0i-1093518600/",
+    "t": "Mazda Mazda6 Mazda 6 Gh Sport TE PLUS 2.0i",
+    "ts": "2026-06-24T14:22:31.457755+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 235000,
+    "b": "Limousine"
+  },
+  "wh:924164484": {
+    "p": 9900,
+    "f": "2026-06-24T14:22:31.457755+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/volvo-v40-924164484/",
+    "t": "Volvo V40",
+    "ts": "2026-06-24T14:22:31.457755+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 159800,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:3d3a9271-3280-47a9-8816-0a30c0c9a1e1": {
     "p": null,
     "f": "2026-06-24T14:20:43.492200+00:00",
@@ -144969,42 +145007,6 @@
     "mo": "C4 Picasso",
     "y": 2008,
     "km": 285000
-  },
-  "as:827b4f47-afc9-430c-98b7-fc85295de36b": {
-    "p": 1500,
-    "f": "2026-06-16T10:31:48.578773+00:00",
-    "u": "https://www.autoscout24.at/angebote/citroen-c4-picasso-1-6-diesel-cat_ma21mo18915-827b4f47-afc9-430c-98b7-fc85295de36b",
-    "t": "Citroen C4 Picasso",
-    "ts": "2026-06-16T10:31:48.578773+00:00",
-    "ch": "alive",
-    "ma": "Citroen",
-    "mo": "C4 Picasso",
-    "y": 2008,
-    "km": 285000
-  },
-  "wh:922207214": {
-    "p": 11500,
-    "f": "2026-06-16T10:31:46.880626+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-gti-edition-35-922207214/",
-    "t": "VW Golf GTI EDITION 35",
-    "ts": "2026-06-16T10:31:46.880626+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2011,
-    "km": 199999
-  },
-  "as:484b8e5a-fc69-40ee-b9ca-0bfefa6df7c1": {
-    "p": null,
-    "f": "2026-06-16T10:29:32.709495+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
