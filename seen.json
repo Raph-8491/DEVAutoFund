@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:12a8e857-8ba6-450e-8768-4d7f8626da83": {
+    "p": 7500,
+    "f": "2026-06-24T11:37:37.476680+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-116-116-i-benzin-schwarz-cat_ma13mo18480/12a8e857-8ba6-450e-8768-4d7f8626da83",
+    "t": "BMW 116",
+    "ts": "2026-06-24T11:37:37.476680+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "116",
+    "y": 2012,
+    "km": 153322,
+    "b": ""
+  },
+  "as:12a8e857-8ba6-450e-8768-4d7f8626da83": {
+    "p": 7500,
+    "f": "2026-06-24T11:37:26.673994+00:00",
+    "u": "https://www.autoscout24.at/angebote/bmw-116-116-i-benzin-schwarz-cat_ma13mo18480-12a8e857-8ba6-450e-8768-4d7f8626da83",
+    "t": "BMW 116",
+    "ts": "2026-06-24T11:37:26.673994+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "116",
+    "y": 2012,
+    "km": 153322,
+    "b": "",
+    "pu": "2026-06-24T11:37:26.673994+00:00"
+  },
+  "as:e48ab064-12c9-4bac-ab65-bc524fa91512": {
+    "p": null,
+    "f": "2026-06-24T11:37:26.673994+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:ec266ba2-3e2a-4ddb-b3e6-84b22b5bd107": {
     "p": 14500,
     "f": "2026-06-24T11:36:37.502012+00:00",
@@ -144701,42 +144740,6 @@
     "mo": "Octavia",
     "y": 2008,
     "km": 236000
-  },
-  "wh:1126404543": {
-    "p": 7300,
-    "f": "2026-06-16T07:32:28.263731+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-2008-pure-tech-neue-pickel-1126404543/",
-    "t": "Peugeot 2008 Pure Tech Neue Pickel",
-    "ts": "2026-06-16T07:32:28.263731+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2017,
-    "km": 63000
-  },
-  "wh:887764631": {
-    "p": 3500,
-    "f": "2026-06-16T07:32:28.263731+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-1-4-diesel-887764631/",
-    "t": "VW Polo 1.4 Diesel",
-    "ts": "2026-06-16T07:32:28.263731+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2009,
-    "km": 184860
-  },
-  "wh:1397410303": {
-    "p": 1000,
-    "f": "2026-06-16T07:32:28.263731+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/subaru-xv-1397410303/",
-    "t": "Subaru XV",
-    "ts": "2026-06-16T07:32:28.263731+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 303000
   },
   "__health__": {
     "wh": 0,
