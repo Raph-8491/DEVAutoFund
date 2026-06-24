@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:7d414203-70b5-4f48-8eb2-e77b672a20a6": {
+    "p": null,
+    "f": "2026-06-24T11:59:33.109943+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:57d68c02-5af7-44bb-a7dc-8111ea5af8cf": {
     "p": 6000,
     "f": "2026-06-24T11:58:39.515607+00:00",
@@ -144755,18 +144767,6 @@
     "mo": "Astra",
     "y": 2009,
     "km": 157000
-  },
-  "as:1982fd76-78c8-4a30-acb9-5c1430dba7cb": {
-    "p": 7990,
-    "f": "2026-06-16T07:55:41.910105+00:00",
-    "u": "https://www.autoscout24.at/angebote/seat-ibiza-ibiza-1-2-tsi-style-style-benzin-grau-cat_ma64mo2006-1982fd76-78c8-4a30-acb9-5c1430dba7cb",
-    "t": "SEAT Ibiza",
-    "ts": "2026-06-16T07:55:41.910105+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2016,
-    "km": 95200
   },
   "__health__": {
     "wh": 0,
