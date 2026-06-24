@@ -147,6 +147,30 @@
     "y": 2009,
     "km": 235000
   },
+  "as:51380a8e-dbba-4818-8384-802feed239d0": {
+    "p": null,
+    "f": "2026-06-24T13:12:30.690095+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:97ad50d6-eb6c-4661-8e48-7503d4defb79": {
+    "p": null,
+    "f": "2026-06-24T13:12:30.690095+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:1cf9cf53-5d3d-4199-8674-ebba6692b02b": {
     "p": null,
     "f": "2026-06-24T13:11:24.811913+00:00",
@@ -144854,30 +144878,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:8090f654-15d9-47b9-93a2-3edb7acefe64": {
-    "p": null,
-    "f": "2026-06-16T09:13:33.121871+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1073522669": {
-    "p": 1100,
-    "f": "2026-06-16T09:13:30.749036+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-zafira-1-7-cdti-export-1073522669/",
-    "t": "Opel Zafira 1.7 cdti *EXPORT*",
-    "ts": "2026-06-16T09:13:30.749036+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Zafira",
-    "y": 2009,
-    "km": 240000
   },
   "__health__": {
     "wh": 0,
