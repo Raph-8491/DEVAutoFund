@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:fbc049d5-2af6-42bf-bd74-7df399f5365e": {
+    "p": 6500,
+    "f": "2026-06-24T11:28:34.233229+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-polo-polo-4sports-1-2-4sports-benzin-schwarz-cat_ma74mo2090/fbc049d5-2af6-42bf-bd74-7df399f5365e",
+    "t": "Volkswagen Polo",
+    "ts": "2026-06-24T11:28:34.233229+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Polo",
+    "y": 2013,
+    "km": 155000,
+    "b": ""
+  },
+  "as:fbc049d5-2af6-42bf-bd74-7df399f5365e": {
+    "p": 6500,
+    "f": "2026-06-24T11:28:26.337316+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-polo-polo-4sports-1-2-4sports-benzin-schwarz-cat_ma74mo2090-fbc049d5-2af6-42bf-bd74-7df399f5365e",
+    "t": "Volkswagen Polo",
+    "ts": "2026-06-24T11:28:26.337316+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Polo",
+    "y": 2013,
+    "km": 155000,
+    "b": "",
+    "pu": "2026-06-24T11:28:26.337316+00:00"
+  },
   "as:ed2f176f-74e1-4664-a40a-cae8eccc94a7": {
     "p": null,
     "f": "2026-06-24T11:26:29.461750+00:00",
@@ -121537,7 +121564,8 @@
     "ma": "VW",
     "mo": "Golf",
     "y": 2017,
-    "km": 129000
+    "km": 129000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:1752948326": {
     "p": 7500,
@@ -144693,30 +144721,6 @@
     "mo": "Golf",
     "y": 2011,
     "km": 219850
-  },
-  "as:fccb2448-2dce-4553-8ab6-f96927f0d2af": {
-    "p": 5000,
-    "f": "2026-06-16T07:13:37.453469+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-rabbit-1-6-tdi-dpf-diesel-cat_ma74mo2084-fccb2448-2dce-4553-8ab6-f96927f0d2af",
-    "t": "Volkswagen Golf",
-    "ts": "2026-06-16T07:13:37.453469+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2011,
-    "km": 219850
-  },
-  "wh:781640675": {
-    "p": 4990,
-    "f": "2026-06-16T07:12:25.702263+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-2011-3-0-benzin-781640675/",
-    "t": "BMW 5er-Reihe 2011. 3,0 benzin",
-    "ts": "2026-06-16T07:12:25.702263+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "5er-Reihe",
-    "y": 2011,
-    "km": 315000
   },
   "__health__": {
     "wh": 0,
