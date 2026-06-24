@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:bd8f1a1f-35af-48a2-98dd-b896acb97ef5": {
+    "p": null,
+    "f": "2026-06-24T14:27:22.158864+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:17f0efa2-c0a4-4dce-868c-88e172efad1e": {
     "p": null,
     "f": "2026-06-24T14:26:28.055773+00:00",
@@ -190,7 +202,7 @@
     "u": "https://www.autoscout24.at/angebote/bmw-116-116d-diesel-cat_ma13mo18480-e5ee76c1-fc30-4c96-8824-f127944f7950",
     "t": "BMW 116 116d",
     "ts": "2026-06-24T14:24:27.132650+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "116",
     "y": 2011,
@@ -144997,18 +145009,6 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/fiat-500-1-2-lounge-benzin-cat_ma28mo15160/66d8c8bb-7b8d-4763-96cf-b9ae3fbace77",
     "t": "Fiat 500",
     "ts": "2026-06-16T10:37:38.042915+00:00",
-    "ch": "alive",
-    "ma": "Fiat",
-    "mo": "500",
-    "y": 2014,
-    "km": 92300
-  },
-  "as:66d8c8bb-7b8d-4763-96cf-b9ae3fbace77": {
-    "p": 4900,
-    "f": "2026-06-16T10:37:26.041086+00:00",
-    "u": "https://www.autoscout24.at/angebote/fiat-500-1-2-lounge-benzin-cat_ma28mo15160-66d8c8bb-7b8d-4763-96cf-b9ae3fbace77",
-    "t": "Fiat 500",
-    "ts": "2026-06-16T10:37:26.041086+00:00",
     "ch": "alive",
     "ma": "Fiat",
     "mo": "500",
