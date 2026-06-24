@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:d1d15fd0-4a62-4932-ab9e-8d7559c3da36": {
+    "p": 11500,
+    "f": "2026-06-24T16:34:34.959916+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/opel-movano-2-3-cdti-l3h1-dpf-2wd-ha-diesel-cat_ma54mo15870/d1d15fd0-4a62-4932-ab9e-8d7559c3da36",
+    "t": "Opel Movano 2.3 CDTI L3H1 DPF 2WD HA",
+    "ts": "2026-06-24T16:34:34.959916+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Movano",
+    "y": 2016,
+    "km": 185000,
+    "b": ""
+  },
+  "as:d1d15fd0-4a62-4932-ab9e-8d7559c3da36": {
+    "p": 11500,
+    "f": "2026-06-24T16:34:28.348656+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-movano-2-3-cdti-l3h1-dpf-2wd-ha-diesel-cat_ma54mo15870-d1d15fd0-4a62-4932-ab9e-8d7559c3da36",
+    "t": "Opel Movano 2.3 CDTI L3H1 DPF 2WD HA",
+    "ts": "2026-06-24T16:34:28.348656+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Movano",
+    "y": 2016,
+    "km": 185000,
+    "b": ""
+  },
   "gw:acab2676-0363-445a-acbd-b8f155483f23": {
     "p": 3950,
     "f": "2026-06-24T16:31:36.526705+00:00",
@@ -216,7 +242,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-7-1-6-tdi-1885291080/",
     "t": "VW Golf 7 1.6 TDi",
     "ts": "2026-06-24T16:31:29.671183+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2013,
@@ -145206,30 +145232,6 @@
     "mo": "X5",
     "y": 2008,
     "km": 313000
-  },
-  "as:d99987ca-b760-49b3-8bc9-29c63b033741": {
-    "p": 8199,
-    "f": "2026-06-16T13:14:42.061347+00:00",
-    "u": "https://www.autoscout24.at/angebote/bmw-x5-3-0d-xdrive-topzustand-garagenfahrzeug-keinrost-diesel-silber-cat_ma13mo16406-d99987ca-b760-49b3-8bc9-29c63b033741",
-    "t": "BMW X5",
-    "ts": "2026-06-16T13:14:42.061347+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "X5",
-    "y": 2008,
-    "km": 313000
-  },
-  "wh:1935380161": {
-    "p": 800,
-    "f": "2026-06-16T13:14:36.156467+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-proceed-1-4-benzin-1935380161/",
-    "t": "KIA ProCeed 1,4 Benzin",
-    "ts": "2026-06-16T13:14:36.156467+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 259000
   },
   "__health__": {
     "wh": 0,
