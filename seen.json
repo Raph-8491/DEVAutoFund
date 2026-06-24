@@ -147,6 +147,58 @@
     "y": 2009,
     "km": 235000
   },
+  "as:15741ce3-17d9-4e3c-b6e6-000b6b34176d": {
+    "p": null,
+    "f": "2026-06-24T14:28:33.903365+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1512107632": {
+    "p": 1500,
+    "f": "2026-06-24T14:28:30.342244+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1512107632/",
+    "t": "Seat Ibiza",
+    "ts": "2026-06-24T14:28:30.342244+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Ibiza",
+    "y": 2009,
+    "km": 152300,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1295831664": {
+    "p": 8000,
+    "f": "2026-06-24T14:28:30.342244+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-b-max-1295831664/",
+    "t": "Ford B-MAX",
+    "ts": "2026-06-24T14:28:30.342244+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2016,
+    "km": 81000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1038005842": {
+    "p": 10500,
+    "f": "2026-06-24T14:28:30.342244+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-2-0-tdi-dpf-aut-1038005842/",
+    "t": "Audi A4 2,0 TDI DPF Aut.",
+    "ts": "2026-06-24T14:28:30.342244+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2012,
+    "km": 181805,
+    "b": "Limousine",
+    "pu": "2026-06-24T14:28:30.342244+00:00"
+  },
   "as:bd8f1a1f-35af-48a2-98dd-b896acb97ef5": {
     "p": null,
     "f": "2026-06-24T14:27:22.158864+00:00",
@@ -144966,54 +145018,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:ac675e75-7134-4661-ad96-aa738370061d": {
-    "p": 9300,
-    "f": "2026-06-16T10:38:33.975883+00:00",
-    "u": "https://www.autoscout24.at/angebote/opel-zafira-zafira-1-4-turbo-on-benzin-silber-cat_ma54mo15660-ac675e75-7134-4661-ad96-aa738370061d",
-    "t": "Opel Zafira",
-    "ts": "2026-06-16T10:38:33.975883+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Zafira",
-    "y": 2017,
-    "km": 77000
-  },
-  "wh:1577611434": {
-    "p": 10290,
-    "f": "2026-06-16T10:38:29.010532+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-style-1-6-tdi-cr-1577611434/",
-    "t": "Seat Ibiza Style 1,6 TDI CR",
-    "ts": "2026-06-16T10:38:29.010532+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2019,
-    "km": 97120
-  },
-  "wh:1209437658": {
-    "p": 2400,
-    "f": "2026-06-16T10:38:29.010532+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-fabia-1-2-benzin-1209437658/",
-    "t": "Skoda Fabia 1,2 Benzin",
-    "ts": "2026-06-16T10:38:29.010532+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Fabia",
-    "y": 2013,
-    "km": 127000
-  },
-  "gw:66d8c8bb-7b8d-4763-96cf-b9ae3fbace77": {
-    "p": 4900,
-    "f": "2026-06-16T10:37:38.042915+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/fiat-500-1-2-lounge-benzin-cat_ma28mo15160/66d8c8bb-7b8d-4763-96cf-b9ae3fbace77",
-    "t": "Fiat 500",
-    "ts": "2026-06-16T10:37:38.042915+00:00",
-    "ch": "alive",
-    "ma": "Fiat",
-    "mo": "500",
-    "y": 2014,
-    "km": 92300
   },
   "__health__": {
     "wh": 0,
