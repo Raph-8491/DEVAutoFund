@@ -147,6 +147,20 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2123268279": {
+    "p": 6200,
+    "f": "2026-06-24T13:54:30.748851+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-6-1-6-tdi-2123268279/",
+    "t": "VW Golf 6 1,6 TDI",
+    "ts": "2026-06-24T13:54:30.748851+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2009,
+    "km": 88765,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-24T13:54:30.748851+00:00"
+  },
   "as:8a3ce12f-2006-4294-858c-cc255bfc170c": {
     "p": null,
     "f": "2026-06-24T13:53:28.218388+00:00",
@@ -255,7 +269,7 @@
     "u": "https://www.autoscout24.at/angebote/audi-a3-a3-sb-1-4-tfsi-attraction-attraction-benzin-schwarz-cat_ma9mo1624-9d2859df-ba6a-49ab-992f-b0776c5314b3",
     "t": "Audi A3",
     "ts": "2026-06-24T13:50:45.604978+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A3",
     "y": 2013,
@@ -144953,18 +144967,6 @@
     "mo": "A1",
     "y": 2011,
     "km": 190500
-  },
-  "wh:1272205342": {
-    "p": 5500,
-    "f": "2026-06-16T10:04:40.476983+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-sandero-comfort-sce-65-1272205342/",
-    "t": "Dacia Sandero Comfort SCe 65",
-    "ts": "2026-06-16T10:04:40.476983+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2021,
-    "km": 31300
   },
   "__health__": {
     "wh": 0,
