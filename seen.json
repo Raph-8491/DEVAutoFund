@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:038c019c-c930-409a-86c2-c3279441b736": {
+    "p": null,
+    "f": "2026-06-24T10:09:26.090197+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:30788635-fe2f-400e-b7f4-e0bdcb5d2288": {
     "p": null,
     "f": "2026-06-24T10:08:28.501573+00:00",
@@ -215,7 +227,7 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/mercedes-benz-e-220-t-elegance-cdi-aut-diesel-cat_ma47mo1863/b5a95ab6-e82f-4ec7-8bf9-b3726394cc79",
     "t": "Mercedes-Benz E 220",
     "ts": "2026-06-24T10:05:47.754534+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Mercedes-Benz",
     "mo": "E 220",
     "y": 2010,
@@ -144589,18 +144601,6 @@
     "mo": null,
     "y": 2009,
     "km": 261000
-  },
-  "wh:1424596366": {
-    "p": 4200,
-    "f": "2026-06-16T05:03:29.409010+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-1424596366/",
-    "t": "Opel Insignia",
-    "ts": "2026-06-16T05:03:29.409010+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Insignia",
-    "y": 2011,
-    "km": 22000
   },
   "__health__": {
     "wh": 0,
