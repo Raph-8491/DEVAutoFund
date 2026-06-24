@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1834843275": {
+    "p": 9900,
+    "f": "2026-06-24T11:55:35.640495+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-superb-3t-1968ccm-1834843275/",
+    "t": "Skoda Superb 3T 1968ccm",
+    "ts": "2026-06-24T11:55:35.640495+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Superb",
+    "y": 2015,
+    "km": 226000,
+    "b": "Kombi / Family Van"
+  },
   "as:891e3cde-7371-431d-8eba-8d6ed46c906c": {
     "p": null,
     "f": "2026-06-24T11:53:22.787521+00:00",
@@ -144752,18 +144765,6 @@
     "mo": "Berlingo",
     "y": 2012,
     "km": 260000
-  },
-  "as:9095a851-666b-4ac5-a9c1-1bbf09d9511a": {
-    "p": null,
-    "f": "2026-06-16T07:54:35.418412+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
