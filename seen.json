@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:800306833": {
+    "p": 13490,
+    "f": "2026-06-24T07:08:27.404464+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-e-klasse-200d-800306833/",
+    "t": "Mercedes-Benz E-Klasse 200d",
+    "ts": "2026-06-24T07:08:27.404464+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "E-Klasse",
+    "y": 2017,
+    "km": 317000,
+    "b": "Kombi / Family Van"
+  },
   "wh:935550018": {
     "p": 14500,
     "f": "2026-06-24T07:06:23.593940+00:00",
@@ -204,7 +217,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-1127480075/",
     "t": "Audi A5",
     "ts": "2026-06-24T07:04:33.549593+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A5",
     "y": 2011,
@@ -861,7 +874,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i10-life-1-0-931459833/",
     "t": "Hyundai i10 Life 1.0",
     "ts": "2026-06-24T07:04:33.549593+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2014,
@@ -119889,16 +119902,17 @@
     "km": 289000
   },
   "wh:1206334985": {
-    "p": 9000,
+    "p": 8500,
     "f": "2026-06-17T07:07:29.131228+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-1-8tfsi-1206334985/",
     "t": "Audi A5 1,8TFSI",
-    "ts": "2026-06-17T07:07:29.131228+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T07:08:27.404464+00:00",
+    "ch": null,
     "ma": "Audi",
     "mo": "A5",
     "y": 2008,
-    "km": 160000
+    "km": 160000,
+    "b": "Sportwagen / Coup\u00e9"
   },
   "wh:1345650994": {
     "p": 6500,
@@ -144315,18 +144329,6 @@
     "mo": null,
     "y": 2012,
     "km": 161000
-  },
-  "as:a1f0d8c3-731e-4758-b85d-1ac5f5c88ce9": {
-    "p": null,
-    "f": "2026-06-15T19:24:34.474221+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
