@@ -147,6 +147,59 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1409627691": {
+    "p": 6900,
+    "f": "2026-06-24T20:37:21.192719+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-1-6-turbo-sport-1409627691/",
+    "t": "Opel Insignia 1,6 Turbo Sport",
+    "ts": "2026-06-24T20:37:21.192719+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Insignia",
+    "y": 2012,
+    "km": 123000,
+    "b": "Limousine"
+  },
+  "wh:2057170872": {
+    "p": 1900,
+    "f": "2026-06-24T20:37:21.192719+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-ceed-1-6-crdi-16v-euro5-2057170872/",
+    "t": "KIA Ceed 1,6 Crdi 16V //Euro5//",
+    "ts": "2026-06-24T20:37:21.192719+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 197000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1135378624": {
+    "p": 6900,
+    "f": "2026-06-24T20:37:21.192719+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-yeti-1-9-tdi-1135378624/",
+    "t": "Skoda Yeti 1.9 TDI",
+    "ts": "2026-06-24T20:37:21.192719+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Yeti",
+    "y": 2012,
+    "km": 187000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1026748962": {
+    "p": 11490,
+    "f": "2026-06-24T20:37:21.192719+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-avant-2-0-tdi-quattro-dpf-1026748962/",
+    "t": "Audi A4 Avant 2,0 TDI quattro DPF",
+    "ts": "2026-06-24T20:37:21.192719+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2012,
+    "km": 168000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T20:37:21.192719+00:00"
+  },
   "as:2f83ee05-33be-43f8-b534-96ba4860f13f": {
     "p": null,
     "f": "2026-06-24T20:36:29.773910+00:00",
@@ -165,7 +218,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-2-0-1055049355/",
     "t": "Audi A3 2.0",
     "ts": "2026-06-24T20:34:26.968530+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A3",
     "y": 2009,
@@ -123118,7 +123171,8 @@
     "ma": "BMW",
     "mo": "3er-Reihe",
     "y": 2013,
-    "km": 265600
+    "km": 265600,
+    "b": "Kombi / Family Van"
   },
   "as:5cde37b0-394c-459e-8dd3-3e919c8cf4de": {
     "p": null,
@@ -145620,54 +145674,6 @@
     "mo": "Fabia",
     "y": 2010,
     "km": 17500
-  },
-  "wh:1028878579": {
-    "p": 12000,
-    "f": "2026-06-16T16:49:30.324324+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-e90-1028878579/",
-    "t": "BMW 3er-Reihe E90",
-    "ts": "2026-06-16T16:49:30.324324+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2010,
-    "km": 160000
-  },
-  "wh:1516019652": {
-    "p": 5999,
-    "f": "2026-06-16T16:49:30.324324+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-cx-5-allrad-2-2-diesel-1516019652/",
-    "t": "Mazda CX-5 Allrad 2.2 Diesel",
-    "ts": "2026-06-16T16:49:30.324324+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 270000
-  },
-  "wh:932529780": {
-    "p": 5000,
-    "f": "2026-06-16T16:47:31.946623+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-rapid-932529780/",
-    "t": "Skoda Rapid",
-    "ts": "2026-06-16T16:47:31.946623+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Rapid",
-    "y": 2014,
-    "km": 225500
-  },
-  "wh:2009869930": {
-    "p": 7000,
-    "f": "2026-06-16T16:47:31.946623+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-1-6-cdti-innovation-2009869930/",
-    "t": "Opel Astra 1.6 cdti Innovation",
-    "ts": "2026-06-16T16:47:31.946623+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Astra",
-    "y": 2016,
-    "km": 149000
   },
   "__health__": {
     "wh": 0,
