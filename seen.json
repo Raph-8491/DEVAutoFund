@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:a0acf081-d5be-4885-8895-c48daa896281": {
+    "p": 11900,
+    "f": "2026-06-24T04:46:39.117265+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/audi-s3-a3-s3-sb-2-0-tfsi-quattro-s-tronic-benzin-schwarz-cat_ma9mo15637/a0acf081-d5be-4885-8895-c48daa896281",
+    "t": "Audi S3",
+    "ts": "2026-06-24T04:46:39.117265+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "S3",
+    "y": 2012,
+    "km": 240000,
+    "b": ""
+  },
+  "as:a0acf081-d5be-4885-8895-c48daa896281": {
+    "p": 11900,
+    "f": "2026-06-24T04:46:28.412013+00:00",
+    "u": "https://www.autoscout24.at/angebote/audi-s3-a3-s3-sb-2-0-tfsi-quattro-s-tronic-benzin-schwarz-cat_ma9mo15637-a0acf081-d5be-4885-8895-c48daa896281",
+    "t": "Audi S3",
+    "ts": "2026-06-24T04:46:28.412013+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "S3",
+    "y": 2012,
+    "km": 240000,
+    "b": ""
+  },
   "wh:1932816433": {
     "p": 12500,
     "f": "2026-06-24T04:41:25.943630+00:00",
@@ -144177,30 +144203,6 @@
     "mo": "Passat Variant",
     "y": 2011,
     "km": 280000
-  },
-  "wh:1072271977": {
-    "p": 2900,
-    "f": "2026-06-15T18:31:39.310912+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/chevrolet-aveo-limousine-weiss-1072271977/",
-    "t": "Chevrolet Aveo Limousine, wei\u00df",
-    "ts": "2026-06-15T18:31:39.310912+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2013,
-    "km": 141000
-  },
-  "wh:1259847612": {
-    "p": 6000,
-    "f": "2026-06-15T18:31:39.310912+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-cross-polo-1259847612/",
-    "t": "VW Polo Cross Polo",
-    "ts": "2026-06-15T18:31:39.310912+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2014,
-    "km": 108950
   },
   "__health__": {
     "wh": 0,
