@@ -147,6 +147,44 @@
     "y": 2009,
     "km": 235000
   },
+  "as:93fbd9c3-f469-4e5c-ac1e-a0b9f9361138": {
+    "p": null,
+    "f": "2026-06-24T16:29:28.506798+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1593024247": {
+    "p": 4850,
+    "f": "2026-06-24T16:29:25.875383+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-1593024247/",
+    "t": "Audi A6",
+    "ts": "2026-06-24T16:29:25.875383+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A6",
+    "y": 2008,
+    "km": 380000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1737674723": {
+    "p": 13400,
+    "f": "2026-06-24T16:29:25.875383+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-sandero-1737674723/",
+    "t": "Dacia Sandero",
+    "ts": "2026-06-24T16:29:25.875383+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2023,
+    "km": 42500,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "as:2f6e6cd5-3b30-4267-80b8-f6ed7e41cc20": {
     "p": null,
     "f": "2026-06-24T16:28:30.503868+00:00",
@@ -190,7 +228,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-lounge-1-6-tdi-1993332030/",
     "t": "VW Golf Variant Lounge 1,6 TDI",
     "ts": "2026-06-24T16:26:29.313864+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2015,
@@ -145184,42 +145222,6 @@
     "mo": "Polo",
     "y": 2011,
     "km": 108514
-  },
-  "gw:e100809b-de86-4750-9f88-77b8c58ec9d6": {
-    "p": 6500,
-    "f": "2026-06-16T13:07:51.998118+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-tiguan-2-0-tdi-dpf-4motion-sport-style-diesel-cat_ma74mo19063/e100809b-de86-4750-9f88-77b8c58ec9d6",
-    "t": "Volkswagen Tiguan",
-    "ts": "2026-06-16T13:07:51.998118+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Tiguan",
-    "y": 2008,
-    "km": 162000
-  },
-  "gw:964b186d-0b89-4ab0-9ba1-fb5e76384d15": {
-    "p": 9500,
-    "f": "2026-06-16T13:07:51.998118+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/audi-a4-avant-2-0-tdi-s-tronic-diesel-cat_ma9mo1626/964b186d-0b89-4ab0-9ba1-fb5e76384d15",
-    "t": "Audi A4",
-    "ts": "2026-06-16T13:07:51.998118+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2018,
-    "km": 240000
-  },
-  "as:e100809b-de86-4750-9f88-77b8c58ec9d6": {
-    "p": 6500,
-    "f": "2026-06-16T13:07:38.017080+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-tiguan-2-0-tdi-dpf-4motion-sport-style-diesel-cat_ma74mo19063-e100809b-de86-4750-9f88-77b8c58ec9d6",
-    "t": "Volkswagen Tiguan",
-    "ts": "2026-06-16T13:07:38.017080+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Tiguan",
-    "y": 2008,
-    "km": 162000
   },
   "__health__": {
     "wh": 0,
