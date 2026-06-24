@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:59f541d0-8e2c-4ad0-888a-39703575248b": {
+    "p": null,
+    "f": "2026-06-24T17:48:27.015505+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1591759124": {
+    "p": 6200,
+    "f": "2026-06-24T17:48:26.028090+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-500-1591759124/",
+    "t": "Fiat 500",
+    "ts": "2026-06-24T17:48:26.028090+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 92000,
+    "b": "Limousine"
+  },
   "as:14da8de2-1ab7-4c54-98d0-382b898216b0": {
     "p": null,
     "f": "2026-06-24T17:47:23.148026+00:00",
@@ -145346,30 +145371,6 @@
     "mo": null,
     "y": 2009,
     "km": 129700
-  },
-  "wh:1604485215": {
-    "p": 2600,
-    "f": "2026-06-16T14:26:37.461773+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i10-cool-1604485215/",
-    "t": "Hyundai i10 cool",
-    "ts": "2026-06-16T14:26:37.461773+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 97000
-  },
-  "wh:1022484922": {
-    "p": 11200,
-    "f": "2026-06-16T14:26:37.461773+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-2-0-tdci-titanium-start-stop-1022484922/",
-    "t": "Ford Galaxy 2,0 TDCi Titanium Start/Stop",
-    "ts": "2026-06-16T14:26:37.461773+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2016,
-    "km": 172000
   },
   "__health__": {
     "wh": 0,
