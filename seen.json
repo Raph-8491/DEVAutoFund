@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:fa71a3dd-5083-420c-a69c-c02f84f236f5": {
+    "p": null,
+    "f": "2026-06-24T19:15:41.572791+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:aca02596-29b5-4724-9707-3a26e64e64a9": {
+    "p": 4400,
+    "f": "2026-06-24T19:15:41.572791+00:00",
+    "u": "https://www.autoscout24.at/angebote/kia-ceed-cee-d-lx-benzin-cat_ma39mo18923-aca02596-29b5-4724-9707-3a26e64e64a9",
+    "t": "Kia Ceed / cee'd LX",
+    "ts": "2026-06-24T19:15:41.572791+00:00",
+    "ch": null,
+    "ma": "Kia",
+    "mo": "Ceed / cee'd",
+    "y": 2009,
+    "km": 117000,
+    "b": ""
+  },
   "wh:1449132474": {
     "p": 4500,
     "f": "2026-06-24T19:14:31.025841+00:00",
@@ -145523,30 +145548,6 @@
     "mo": "Golf",
     "y": 2014,
     "km": 180000
-  },
-  "wh:1887969069": {
-    "p": 4300,
-    "f": "2026-06-16T15:52:36.578560+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/chevrolet-cruze-1887969069/",
-    "t": "Chevrolet Cruze",
-    "ts": "2026-06-16T15:52:36.578560+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 83000
-  },
-  "wh:779074775": {
-    "p": 6200,
-    "f": "2026-06-16T15:51:27.161638+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-779074775/",
-    "t": "Opel Insignia",
-    "ts": "2026-06-16T15:51:27.161638+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Insignia",
-    "y": 2016,
-    "km": 216411
   },
   "__health__": {
     "wh": 0,
