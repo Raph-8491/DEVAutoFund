@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:9a1b5901-627d-4a8a-b38b-a7c0103ab99f": {
+    "p": null,
+    "f": "2026-06-24T18:10:45.419348+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1347072870": {
+    "p": 5800,
+    "f": "2026-06-24T18:10:43.529062+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-sharan-2-0-tdi-4motion-1347072870/",
+    "t": "VW Sharan 2.0 TDI 4MOTION",
+    "ts": "2026-06-24T18:10:43.529062+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Sharan",
+    "y": 2012,
+    "km": 342000,
+    "b": "Kombi / Family Van"
+  },
   "as:c09d039f-f912-4147-b83c-67e0f7d73b6a": {
     "p": null,
     "f": "2026-06-24T18:09:22.942120+00:00",
@@ -145386,30 +145411,6 @@
     "mo": null,
     "y": 2012,
     "km": 230000
-  },
-  "wh:1916529765": {
-    "p": 6900,
-    "f": "2026-06-16T14:43:32.664288+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-308-cc-allure-1-6-16v-vti-1916529765/",
-    "t": "Peugeot 308 CC Allure 1,6 16V VTi",
-    "ts": "2026-06-16T14:43:32.664288+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 124000
-  },
-  "wh:1284695237": {
-    "p": 3500,
-    "f": "2026-06-16T14:43:32.664288+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-sandero-black-line-1-2-16v-1284695237/",
-    "t": "Dacia Sandero Black Line 1,2 16V",
-    "ts": "2026-06-16T14:43:32.664288+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 45000
   },
   "__health__": {
     "wh": 0,
