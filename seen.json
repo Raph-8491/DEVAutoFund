@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:8a7b9cfd-8af9-4ad5-8045-8e57b1fc55a1": {
+    "p": 14500,
+    "f": "2026-06-24T13:04:32.930243+00:00",
+    "u": "https://www.autoscout24.at/angebote/ford-focus-focus-turnier-1-5-ecoboost-start-stopp-system-st-line-benzin-blau-cat_ma29mo15537-8a7b9cfd-8af9-4ad5-8045-8e57b1fc55a1",
+    "t": "Ford Focus",
+    "ts": "2026-06-24T13:04:32.930243+00:00",
+    "ch": null,
+    "ma": "Ford",
+    "mo": "Focus",
+    "y": 2019,
+    "km": 122000,
+    "b": ""
+  },
+  "as:891b171a-400a-46cc-be64-e63b1c44c319": {
+    "p": null,
+    "f": "2026-06-24T13:04:32.930243+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:1b2a6ff3-bb12-4592-948c-cb07c204d1e4": {
     "p": null,
     "f": "2026-06-24T13:01:52.502451+00:00",
@@ -144845,30 +144870,6 @@
     "mo": "Passat",
     "y": 2012,
     "km": 267968
-  },
-  "wh:1348346145": {
-    "p": 10500,
-    "f": "2026-06-16T09:04:29.295914+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-kuga-tit-2-0td-1348346145/",
-    "t": "Ford Kuga TIT 2.0TD",
-    "ts": "2026-06-23T09:07:26.708019+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2018,
-    "km": 200000
-  },
-  "wh:1056044402": {
-    "p": 9500,
-    "f": "2026-06-16T09:04:29.295914+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-1-6-tdi-1056044402/",
-    "t": "VW Passat 1.6 TDI",
-    "ts": "2026-06-16T09:04:29.295914+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2011,
-    "km": 221000
   },
   "__health__": {
     "wh": 0,
