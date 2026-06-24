@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1523342509": {
+    "p": 12500,
+    "f": "2026-06-24T10:02:27.171142+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-tipo-fiat-tipo-multijet-ii-120-lounge-automatik-1523342509/",
+    "t": "Fiat Tipo Fiat Tipo Multijet II 120 Lounge , Automatik",
+    "ts": "2026-06-24T10:02:27.171142+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2018,
+    "km": 76200,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1323520329": {
+    "p": 6490,
+    "f": "2026-06-24T10:02:27.171142+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-titanium-1-0-ecoboost-start-stop-1323520329/",
+    "t": "Ford Fiesta Titanium 1,0 EcoBoost Start/Stop",
+    "ts": "2026-06-24T10:02:27.171142+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 140000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "gw:1ccffff1-1817-46d1-b0d6-c49dd8ba6c46": {
     "p": 2000,
     "f": "2026-06-24T10:01:39.137717+00:00",
@@ -120987,7 +121013,8 @@
     "ma": null,
     "mo": null,
     "y": 2012,
-    "km": 120245
+    "km": 120245,
+    "b": "Sportwagen / Coup\u00e9"
   },
   "as:980ab3a8-a0a7-4a9b-b15c-38a775aca243": {
     "p": null,
@@ -121023,7 +121050,8 @@
     "ma": "Audi",
     "mo": "A3",
     "y": 2015,
-    "km": 190417
+    "km": 190417,
+    "b": "Klein-/ Kompaktwagen"
   },
   "as:a0a1f7bf-4738-4c2b-b2f2-06ea84dfa057": {
     "p": null,
@@ -121038,16 +121066,17 @@
     "km": null
   },
   "wh:898447844": {
-    "p": 9500,
+    "p": 9000,
     "f": "2026-06-17T10:03:29.936877+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mitsubishi-asx-2-2-di-d-898447844/",
     "t": "Mitsubishi ASX 2.2 DI-D",
-    "ts": "2026-06-17T10:03:29.936877+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T10:02:27.171142+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2015,
-    "km": 156659
+    "km": 156659,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "wh:1537079415": {
     "p": 7900,
@@ -144562,30 +144591,6 @@
     "mo": "807",
     "y": 2008,
     "km": 280000
-  },
-  "as:dd33dab2-d330-4c2f-88e2-e0cfdbacd506": {
-    "p": 1250,
-    "f": "2026-06-16T04:36:33.043853+00:00",
-    "u": "https://www.autoscout24.at/angebote/peugeot-807-2-0-hdi-136-fap-premium-diesel-cat_ma55mo18282-dd33dab2-d330-4c2f-88e2-e0cfdbacd506",
-    "t": "Peugeot 807",
-    "ts": "2026-06-16T04:36:33.043853+00:00",
-    "ch": "alive",
-    "ma": "Peugeot",
-    "mo": "807",
-    "y": 2008,
-    "km": 280000
-  },
-  "wh:1060257155": {
-    "p": 3600,
-    "f": "2026-06-16T04:36:28.355271+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-1060257155/",
-    "t": "Ford Galaxy",
-    "ts": "2026-06-16T04:36:28.355271+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 211000
   },
   "__health__": {
     "wh": 0,
