@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:73eccfb2-8b50-458c-a495-91f9101f95c5": {
+    "p": null,
+    "f": "2026-06-24T08:34:31.831977+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:2130844818": {
+    "p": 9000,
+    "f": "2026-06-24T08:34:28.995007+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-118d-oesterreich-paket-2130844818/",
+    "t": "BMW 1er-Reihe 118d \u00d6sterreich-Paket",
+    "ts": "2026-06-24T08:34:28.995007+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "1er-Reihe",
+    "y": 2014,
+    "km": 173000,
+    "b": "Limousine"
+  },
   "gw:dde86f92-6a2d-4dce-8889-a262fdcc217f": {
     "p": 2400,
     "f": "2026-06-24T08:32:39.384315+00:00",
@@ -191,7 +216,7 @@
     "u": "https://www.autoscout24.at/angebote/toyota-auris-auris-1-4-vvt-i-benzin-grau-cat_ma70mo18992-f5d13158-1905-4080-97ec-a82e95c9c466",
     "t": "Toyota Auris",
     "ts": "2026-06-24T08:31:27.341364+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Toyota",
     "mo": "Auris",
     "y": 2009,
@@ -204,7 +229,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/jaguar-e-pace-awd-d180-1177110322/",
     "t": "Jaguar E-Pace AWD D180",
     "ts": "2026-06-24T08:31:25.621511+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2017,
@@ -144420,30 +144445,6 @@
     "mo": "Golf",
     "y": 2012,
     "km": 217099
-  },
-  "as:0904620f-28a9-4575-8c56-021fecd55d58": {
-    "p": 3999,
-    "f": "2026-06-15T20:41:35.297838+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-golf-comfortline-1-6-tdi-dpf-comfortline-diesel-schwarz-cat_ma74mo2084-0904620f-28a9-4575-8c56-021fecd55d58",
-    "t": "Volkswagen Golf",
-    "ts": "2026-06-15T20:41:35.297838+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2012,
-    "km": 217099
-  },
-  "wh:1211934271": {
-    "p": 500,
-    "f": "2026-06-15T20:41:31.692666+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda5-1-8i-te-1211934271/",
-    "t": "Mazda Mazda5 1,8i TE",
-    "ts": "2026-06-15T20:41:31.692666+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 120000
   },
   "__health__": {
     "wh": 0,
