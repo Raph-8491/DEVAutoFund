@@ -147,6 +147,58 @@
     "y": 2009,
     "km": 235000
   },
+  "as:8a39dcd9-0a63-4090-aa6a-f875851842d5": {
+    "p": 11000,
+    "f": "2026-06-24T13:16:29.411120+00:00",
+    "u": "https://www.autoscout24.at/angebote/mercedes-benz-sprinter-sprinter-213-cdi-3-19-t-3-665-mm-diesel-weiss-cat_ma47mo15943-8a39dcd9-0a63-4090-aa6a-f875851842d5",
+    "t": "Mercedes-Benz Sprinter",
+    "ts": "2026-06-24T13:16:29.411120+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "Sprinter",
+    "y": 2014,
+    "km": 216987,
+    "b": ""
+  },
+  "as:2e72a189-17fd-4aed-8d9d-f4b74253dd93": {
+    "p": null,
+    "f": "2026-06-24T13:16:29.411120+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1875745886": {
+    "p": 15000,
+    "f": "2026-06-24T13:16:27.092964+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-3-0-tdi-s-line-1875745886/",
+    "t": "Audi A6 3.0 Tdi s-line",
+    "ts": "2026-06-24T13:16:27.092964+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A6",
+    "y": 2015,
+    "km": 268000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T13:16:27.092964+00:00"
+  },
+  "wh:1081465145": {
+    "p": 2450,
+    "f": "2026-06-24T13:16:27.092964+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c3-1-4-benzin-pickerl-9-26-1081465145/",
+    "t": "Citro\u00ebn C3 1,4 Benzin,Pickerl 9/26",
+    "ts": "2026-06-24T13:16:27.092964+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 195806,
+    "b": "Limousine"
+  },
   "gw:8a39dcd9-0a63-4090-aa6a-f875851842d5": {
     "p": 11000,
     "f": "2026-06-24T13:15:57.798407+00:00",
@@ -144831,54 +144883,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1889883934": {
-    "p": 3300,
-    "f": "2026-06-16T09:15:53.524355+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-4friends-1-2-tdi-dpf-1889883934/",
-    "t": "VW Polo 4FRIENDS 1,2 TDI DPF",
-    "ts": "2026-06-16T09:15:53.524355+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2011,
-    "km": 185000
-  },
-  "wh:1541540893": {
-    "p": 4990,
-    "f": "2026-06-16T09:15:53.524355+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-caddy-maxi-1541540893/",
-    "t": "VW Caddy Maxi",
-    "ts": "2026-06-16T09:15:53.524355+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Caddy",
-    "y": 2019,
-    "km": 289000
-  },
-  "as:5892d46e-05e4-441d-b818-136aa86191ac": {
-    "p": 4500,
-    "f": "2026-06-16T09:14:38.289295+00:00",
-    "u": "https://www.autoscout24.at/angebote/mini-cooper-d-cabrio-cooper-d-diesel-blau-cat_ma16338mo20001-5892d46e-05e4-441d-b818-136aa86191ac",
-    "t": "MINI Cooper D Cabrio",
-    "ts": "2026-06-16T09:14:38.289295+00:00",
-    "ch": "alive",
-    "ma": "MINI",
-    "mo": "Cooper D Cabrio",
-    "y": 2012,
-    "km": 163000
-  },
-  "as:944e4c0e-7060-43bf-9727-41dd8398d34d": {
-    "p": 11050,
-    "f": "2026-06-16T09:13:33.121871+00:00",
-    "u": "https://www.autoscout24.at/angebote/mercedes-benz-c-200-c-klasse-kompressor-elegance-benzin-schwarz-cat_ma47mo1860-944e4c0e-7060-43bf-9727-41dd8398d34d",
-    "t": "Mercedes-Benz C 200",
-    "ts": "2026-06-16T09:13:33.121871+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C 200",
-    "y": 2010,
-    "km": 91700
   },
   "__health__": {
     "wh": 0,
