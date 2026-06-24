@@ -147,6 +147,30 @@
     "y": 2009,
     "km": 235000
   },
+  "as:615299d9-95c3-4613-bdad-a1752fb0f947": {
+    "p": null,
+    "f": "2026-06-24T11:52:25.592150+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:549eaa8d-0074-4b92-84dd-f06c7ebedb9b": {
+    "p": null,
+    "f": "2026-06-24T11:52:25.592150+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:f27901f4-afe9-464d-9ea9-d091e365445f": {
     "p": null,
     "f": "2026-06-24T11:51:27.023135+00:00",
@@ -144736,30 +144760,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:f469b665-4fd0-4384-8016-ce918a98c536": {
-    "p": null,
-    "f": "2026-06-16T07:52:31.546474+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1068817106": {
-    "p": 6000,
-    "f": "2026-06-16T07:51:31.414072+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-ceed-1-6-crdi-1068817106/",
-    "t": "KIA Ceed 1,6 CRDi",
-    "ts": "2026-06-16T07:51:31.414072+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2021,
-    "km": 250000
   },
   "__health__": {
     "wh": 0,
