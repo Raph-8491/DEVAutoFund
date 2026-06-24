@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1680410926": {
+    "p": 9800,
+    "f": "2026-06-24T13:55:36.196603+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/land-rover-range-rover-evoque-2-0-td4-1680410926/",
+    "t": "Land Rover Range Rover Evoque 2.0 TD4",
+    "ts": "2026-06-24T13:55:36.196603+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2017,
+    "km": 128495,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1687444920": {
+    "p": 7900,
+    "f": "2026-06-24T13:55:36.196603+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-2-0l-1687444920/",
+    "t": "VW Passat 2.0l",
+    "ts": "2026-06-24T13:55:36.196603+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Passat",
+    "y": 2011,
+    "km": 244000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1268178248": {
+    "p": 14990,
+    "f": "2026-06-24T13:55:36.196603+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-s-max-vignale-2-0-tdci-auto-start-stop-aut-1268178248/",
+    "t": "Ford S-MAX Vignale 2.0 TDCi Auto-Start/Stop Aut.",
+    "ts": "2026-06-24T13:55:36.196603+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2016,
+    "km": 186000,
+    "b": "Kombi / Family Van"
+  },
   "wh:2123268279": {
     "p": 6200,
     "f": "2026-06-24T13:54:30.748851+00:00",
@@ -144931,42 +144970,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:633afa45-f754-4a0f-bec5-f29d361c5a02": {
-    "p": 2400,
-    "f": "2026-06-16T10:06:32.883984+00:00",
-    "u": "https://www.autoscout24.at/angebote/hyundai-i10-1-2-style-benzin-cat_ma33mo19123-633afa45-f754-4a0f-bec5-f29d361c5a02",
-    "t": "Hyundai i10",
-    "ts": "2026-06-16T10:06:32.883984+00:00",
-    "ch": "alive",
-    "ma": "Hyundai",
-    "mo": "i10",
-    "y": 2008,
-    "km": 87500
-  },
-  "gw:b56263e8-ed0f-4dd1-b6c0-344f81f4e766": {
-    "p": 5000,
-    "f": "2026-06-16T10:06:01.818138+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/audi-a1-1-2-tfsi-beautybeast-benzin-cat_ma9mo19083/b56263e8-ed0f-4dd1-b6c0-344f81f4e766",
-    "t": "Audi A1",
-    "ts": "2026-06-16T10:06:01.818138+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A1",
-    "y": 2011,
-    "km": 190500
-  },
-  "as:b56263e8-ed0f-4dd1-b6c0-344f81f4e766": {
-    "p": 5000,
-    "f": "2026-06-16T10:05:50.646916+00:00",
-    "u": "https://www.autoscout24.at/angebote/audi-a1-1-2-tfsi-beautybeast-benzin-cat_ma9mo19083-b56263e8-ed0f-4dd1-b6c0-344f81f4e766",
-    "t": "Audi A1",
-    "ts": "2026-06-16T10:05:50.646916+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A1",
-    "y": 2011,
-    "km": 190500
   },
   "__health__": {
     "wh": 0,
