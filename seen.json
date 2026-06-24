@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:970049161": {
+    "p": 2500,
+    "f": "2026-06-24T17:52:24.582630+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/land-rover-range-rover-sport-3-6-hse-970049161/",
+    "t": "Land Rover Range Rover Sport 3,6 Hse",
+    "ts": "2026-06-24T17:52:24.582630+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 436000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "wh:1585365627": {
     "p": 8500,
     "f": "2026-06-24T17:50:42.228334+00:00",
@@ -145358,18 +145371,6 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/mercedes-benz-b-180-b-180-cdi-automatik-neues-pickerl-bis-08-2027-diesel-grau-cat_ma47mo18608/42234222-9746-44ee-a2f9-390fee0c57ae",
     "t": "Mercedes-Benz B 180",
     "ts": "2026-06-16T14:28:55.336971+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "B 180",
-    "y": 2010,
-    "km": 85000
-  },
-  "as:42234222-9746-44ee-a2f9-390fee0c57ae": {
-    "p": 6300,
-    "f": "2026-06-16T14:28:44.060166+00:00",
-    "u": "https://www.autoscout24.at/angebote/mercedes-benz-b-180-b-180-cdi-automatik-neues-pickerl-bis-08-2027-diesel-grau-cat_ma47mo18608-42234222-9746-44ee-a2f9-390fee0c57ae",
-    "t": "Mercedes-Benz B 180",
-    "ts": "2026-06-16T14:28:44.060166+00:00",
     "ch": "alive",
     "ma": "Mercedes-Benz",
     "mo": "B 180",
