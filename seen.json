@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1126113764": {
+    "p": 2400,
+    "f": "2026-06-24T07:41:25.209630+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-grand-scenic-tomtom-edition-2011-1-6-dci-6-gueltiges-pickerl-1126113764/",
+    "t": "Renault Grand Sc\u00e9nic TomTom Edition 2011 1.6 dCi 6, g\u00fcltiges Pickerl",
+    "ts": "2026-06-24T07:41:25.209630+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 233000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1458972706": {
+    "p": 2200,
+    "f": "2026-06-24T07:41:25.209630+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-proceed-pickerl-neu-07-2027-1458972706/",
+    "t": "KIA ProCeed Pickerl Neu 07.2027",
+    "ts": "2026-06-24T07:41:25.209630+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 188000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1533034621": {
     "p": 8990,
     "f": "2026-06-24T07:40:45.213694+00:00",
@@ -166,7 +192,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-yeti-2015172849/",
     "t": "Skoda Yeti",
     "ts": "2026-06-24T07:38:22.973074+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Skoda",
     "mo": "Yeti",
     "y": 2013,
@@ -179,7 +205,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-e-klasse-e-200d-1432939664/",
     "t": "Mercedes-Benz E-Klasse E 200d",
     "ts": "2026-06-24T07:38:22.973074+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Mercedes-Benz",
     "mo": "E-Klasse",
     "y": 2017,
@@ -192,7 +218,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda2-challenge-g75-804105301/",
     "t": "Mazda Mazda2 Challenge G75",
     "ts": "2026-06-24T07:38:22.973074+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2019,
@@ -120006,7 +120032,8 @@
     "ma": null,
     "mo": null,
     "y": 2017,
-    "km": 199000
+    "km": 199000,
+    "b": "Limousine"
   },
   "wh:1018499665": {
     "p": 6800,
@@ -120018,7 +120045,8 @@
     "ma": null,
     "mo": null,
     "y": 2014,
-    "km": 124990
+    "km": 124990,
+    "b": "Cabrio / Roadster"
   },
   "wh:1512959393": {
     "p": 9800,
@@ -144345,30 +144373,6 @@
     "mo": null,
     "y": 2010,
     "km": 53192
-  },
-  "wh:1471221293": {
-    "p": 3200,
-    "f": "2026-06-15T19:54:25.210618+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-b8-1471221293/",
-    "t": "Audi A4 B8",
-    "ts": "2026-06-15T19:54:25.210618+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2010,
-    "km": 286653
-  },
-  "as:954bbbcf-bc5e-4e3c-b8d8-87a33a2f3b3d": {
-    "p": null,
-    "f": "2026-06-15T19:53:31.268091+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
