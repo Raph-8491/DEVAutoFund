@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:ca7f8c88-9575-4c75-8b02-af1b68c0ae32": {
+    "p": null,
+    "f": "2026-06-24T09:29:29.068987+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:d60786c4-9fce-4364-a487-8917b332384e": {
+    "p": 11500,
+    "f": "2026-06-24T09:29:29.068987+00:00",
+    "u": "https://www.autoscout24.at/angebote/audi-a3-ambiente-2-0-tdi-diesel-cat_ma9mo1624-d60786c4-9fce-4364-a487-8917b332384e",
+    "t": "Audi A3",
+    "ts": "2026-06-24T09:29:29.068987+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A3",
+    "y": 2013,
+    "km": 251000,
+    "b": ""
+  },
   "gw:d60786c4-9fce-4364-a487-8917b332384e": {
     "p": 11500,
     "f": "2026-06-24T09:28:33.578583+00:00",
@@ -295,7 +320,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-2008-active-1-4-vti-oemtc-pickerl-1609570166/",
     "t": "Peugeot 2008 Active 1,4 VTi \u00d6mtc Pickerl",
     "ts": "2026-06-24T09:26:30.968512+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2012,
@@ -144515,30 +144540,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1695252864": {
-    "p": 6800,
-    "f": "2026-06-16T01:01:41.148467+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-b8-2-0-1695252864/",
-    "t": "Audi A4 b8 2.0",
-    "ts": "2026-06-16T01:01:41.148467+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2008,
-    "km": 175000
-  },
-  "wh:1045318751": {
-    "p": 1200,
-    "f": "2026-06-16T01:01:41.148467+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1-2-1045318751/",
-    "t": "Seat Ibiza 1.2",
-    "ts": "2026-06-16T01:01:41.148467+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2009,
-    "km": 187000
   },
   "__health__": {
     "wh": 0,
