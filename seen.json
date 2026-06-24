@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:f481cdf2-2cb1-4cb1-9fbe-9fcf97d15c02": {
+    "p": null,
+    "f": "2026-06-24T07:33:21.397575+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1914483745": {
     "p": 11900,
     "f": "2026-06-24T07:32:25.049231+00:00",
@@ -144350,18 +144362,6 @@
     "mo": "C-Klasse",
     "y": 2010,
     "km": 193000
-  },
-  "as:99e07761-cf74-4122-8bbe-1f5c1354a9c5": {
-    "p": 7200,
-    "f": "2026-06-15T19:43:29.744964+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-polo-polo-1-4-tdi-comfortline-diesel-grau-cat_ma74mo2090-99e07761-cf74-4122-8bbe-1f5c1354a9c5",
-    "t": "Volkswagen Polo",
-    "ts": "2026-06-15T19:43:29.744964+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2017,
-    "km": 131266
   },
   "__health__": {
     "wh": 0,
