@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1341058662": {
+    "p": 7850,
+    "f": "2026-06-24T05:05:33.996001+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-m-klasse-ml-1341058662/",
+    "t": "Mercedes-Benz M-Klasse ML",
+    "ts": "2026-06-24T05:05:33.996001+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "M-Klasse",
+    "y": 2009,
+    "km": 335654,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "as:6ef9a57b-acb8-4479-aa5b-d6d570d759e2": {
     "p": null,
     "f": "2026-06-24T05:03:22.620595+00:00",
@@ -806,7 +819,7 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/skoda-fabia-1-2-tsi-ambition-benzin-cat_ma65mo15878/4704e8f3-dfc4-43ef-bdf3-4cee1a18a3a9",
     "t": "Skoda Fabia",
     "ts": "2026-06-24T05:02:38.492920+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Skoda",
     "mo": "Fabia",
     "y": 2016,
@@ -144203,18 +144216,6 @@
     "mo": null,
     "y": 2010,
     "km": 183000
-  },
-  "wh:1548060707": {
-    "p": 5900,
-    "f": "2026-06-15T18:38:28.416847+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-2-0-tdi-170-ps-quattro-1548060707/",
-    "t": "Audi A3 2,0 TDI 170 PS quattro",
-    "ts": "2026-06-15T18:38:28.416847+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A3",
-    "y": 2009,
-    "km": 280500
   },
   "__health__": {
     "wh": 0,
