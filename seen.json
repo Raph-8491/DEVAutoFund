@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1600679487": {
+    "p": 14800,
+    "f": "2026-06-24T11:21:24.050749+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-1-5-ecoblue-active-x-aut-1600679487/",
+    "t": "Ford Focus 1,5 EcoBlue Active X Aut.",
+    "ts": "2026-06-24T11:21:24.050749+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2020,
+    "km": 149000,
+    "b": "Limousine"
+  },
+  "wh:1025310402": {
+    "p": 6800,
+    "f": "2026-06-24T11:21:24.050749+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-500c-1025310402/",
+    "t": "Fiat 500C",
+    "ts": "2026-06-24T11:21:24.050749+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2014,
+    "km": 88000,
+    "b": "Cabrio / Roadster"
+  },
   "wh:1899204931": {
     "p": 8000,
     "f": "2026-06-24T11:19:25.536146+00:00",
@@ -144684,30 +144710,6 @@
     "mo": "3er-Reihe",
     "y": 2008,
     "km": 298000
-  },
-  "wh:843147952": {
-    "p": 4950,
-    "f": "2026-06-16T07:10:46.570884+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda3-1-6-benzin-843147952/",
-    "t": "Mazda Mazda3 1.6 Benzin",
-    "ts": "2026-06-16T07:10:46.570884+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 129205
-  },
-  "wh:983614705": {
-    "p": 8000,
-    "f": "2026-06-16T07:08:29.240011+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-fabia-ambition-983614705/",
-    "t": "Skoda Fabia Ambition",
-    "ts": "2026-06-16T07:08:29.240011+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Fabia",
-    "y": 2022,
-    "km": 88000
   },
   "__health__": {
     "wh": 0,
