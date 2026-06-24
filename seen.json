@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1989577702": {
+    "p": 6999,
+    "f": "2026-06-24T20:29:20.556548+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-1989577702/",
+    "t": "Opel Insignia",
+    "ts": "2026-06-24T20:29:20.556548+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Insignia",
+    "y": 2015,
+    "km": 232000,
+    "b": "Kombi / Family Van"
+  },
   "wh:1571284676": {
     "p": 10990,
     "f": "2026-06-24T20:28:27.727757+00:00",
@@ -145651,18 +145664,6 @@
     "mo": "A4",
     "y": 2013,
     "km": 263000
-  },
-  "wh:1654611337": {
-    "p": 3000,
-    "f": "2026-06-16T16:44:32.717294+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i10-1654611337/",
-    "t": "Hyundai i10",
-    "ts": "2026-06-16T16:44:32.717294+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 63000
   },
   "__health__": {
     "wh": 0,
