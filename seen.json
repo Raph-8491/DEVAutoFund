@@ -147,6 +147,57 @@
     "y": 2009,
     "km": 235000
   },
+  "as:00029506-dc6e-49f2-931c-dcb0f9147c3b": {
+    "p": null,
+    "f": "2026-06-24T16:22:29.746036+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:f57cf8cc-b2ad-4092-ac68-156ee00f2e40": {
+    "p": null,
+    "f": "2026-06-24T16:22:29.746036+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1973202780": {
+    "p": 11000,
+    "f": "2026-06-24T16:22:27.403227+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-118i-urban-line-1973202780/",
+    "t": "BMW 1er-Reihe 118i Urban Line",
+    "ts": "2026-06-24T16:22:27.403227+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "1er-Reihe",
+    "y": 2016,
+    "km": 109592,
+    "b": "Limousine",
+    "pu": "2026-06-24T16:22:27.403227+00:00"
+  },
+  "wh:1883160649": {
+    "p": 1600,
+    "f": "2026-06-24T16:22:27.403227+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-corsa-1883160649/",
+    "t": "Opel Corsa",
+    "ts": "2026-06-24T16:22:27.403227+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Corsa",
+    "y": 2009,
+    "km": 195084,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1553639777": {
     "p": 10500,
     "f": "2026-06-24T16:20:43.702017+00:00",
@@ -145162,54 +145213,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:96458669-bbe6-40c3-b47f-6e277e9ea0a4": {
-    "p": null,
-    "f": "2026-06-16T13:01:55.276816+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:5bd764b5-12da-4c62-a1f6-8eb8e77f1e14": {
-    "p": null,
-    "f": "2026-06-16T13:01:55.276816+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:e5dfd6b5-1f75-4e55-b461-9cb475cdf8b5": {
-    "p": null,
-    "f": "2026-06-16T13:01:55.276816+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1537968426": {
-    "p": 11900,
-    "f": "2026-06-16T13:01:47.645209+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-sports-tourer-1537968426/",
-    "t": "Opel Astra Sports Tourer+",
-    "ts": "2026-06-16T13:01:47.645209+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Astra",
-    "y": 2021,
-    "km": 62500
   },
   "__health__": {
     "wh": 0,
