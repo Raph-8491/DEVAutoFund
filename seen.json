@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1260537259": {
+    "p": 1100,
+    "f": "2026-06-24T15:07:25.651722+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-santa-fe-cm-c5d54-m52az1-allrad-1260537259/",
+    "t": "Hyundai Santa Fe CM/C5D54/M52AZ1 ALLRAD",
+    "ts": "2026-06-24T15:07:25.651722+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 274000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1766380952": {
+    "p": 9000,
+    "f": "2026-06-24T15:07:25.651722+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-500c-1766380952/",
+    "t": "Fiat 500C",
+    "ts": "2026-06-24T15:07:25.651722+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 16709,
+    "b": "Cabrio / Roadster"
+  },
+  "wh:1585352664": {
+    "p": 9600,
+    "f": "2026-06-24T15:07:25.651722+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-500x-1-6-diesel-1585352664/",
+    "t": "Fiat 500X 1,6 Diesel",
+    "ts": "2026-06-24T15:07:25.651722+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2018,
+    "km": 96000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "as:599faed9-1bb2-4a88-9c04-59642173e8e3": {
     "p": null,
     "f": "2026-06-24T15:04:27.308343+00:00",
@@ -145051,42 +145090,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:22a9e5ad-bd68-45a6-8007-ccd0baabe8cd": {
-    "p": 3190,
-    "f": "2026-06-16T11:43:30.954473+00:00",
-    "u": "https://www.autoscout24.at/angebote/ford-c-max-c-max-1-6-tdci-trend-diesel-blau-cat_ma29mo19089-22a9e5ad-bd68-45a6-8007-ccd0baabe8cd",
-    "t": "Ford C-Max",
-    "ts": "2026-06-16T11:43:30.954473+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "C-Max",
-    "y": 2011,
-    "km": 182000
-  },
-  "gw:01f2b585-efa6-4d13-9f7f-e01fd72ba014": {
-    "p": 10500,
-    "f": "2026-06-16T11:42:42.086459+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-touran-trendline-1-6-bmt-tdi-dpf-diesel-cat_ma74mo18329/01f2b585-efa6-4d13-9f7f-e01fd72ba014",
-    "t": "Volkswagen Touran",
-    "ts": "2026-06-16T11:42:42.086459+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Touran",
-    "y": 2012,
-    "km": 160000
-  },
-  "as:01f2b585-efa6-4d13-9f7f-e01fd72ba014": {
-    "p": 10500,
-    "f": "2026-06-16T11:42:33.276824+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-touran-trendline-1-6-bmt-tdi-dpf-diesel-cat_ma74mo18329-01f2b585-efa6-4d13-9f7f-e01fd72ba014",
-    "t": "Volkswagen Touran",
-    "ts": "2026-06-16T11:42:33.276824+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Touran",
-    "y": 2012,
-    "km": 160000
   },
   "__health__": {
     "wh": 0,
