@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2142109231": {
+    "p": 3300,
+    "f": "2026-06-24T11:40:42.409166+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-207-sw-outdor-1-6-16v-benzin-2142109231/",
+    "t": "Peugeot 207 SW OUTDOR 1.6 16V Benzin",
+    "ts": "2026-06-24T11:40:42.409166+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 109300,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1409813786": {
+    "p": 12200,
+    "f": "2026-06-24T11:40:42.409166+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-trafic-renault3-1409813786/",
+    "t": "Renault Trafic Renault3",
+    "ts": "2026-06-24T11:40:42.409166+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2018,
+    "km": 199200,
+    "b": "Kleinbus"
+  },
+  "wh:1633828485": {
+    "p": 2599,
+    "f": "2026-06-24T11:40:42.409166+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mini-clubman-1-6-diesel-6-gang-1633828485/",
+    "t": "MINI Clubman 1.6 Diesel 6 gang",
+    "ts": "2026-06-24T11:40:42.409166+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 191200,
+    "b": "Limousine"
+  },
   "as:0aaa13b6-abfe-4280-b597-3eb7ca236276": {
     "p": 6500,
     "f": "2026-06-24T11:39:22.097384+00:00",
@@ -231,7 +270,7 @@
     "u": "https://www.autoscout24.at/angebote/bmw-116-116-i-benzin-schwarz-cat_ma13mo18480-12a8e857-8ba6-450e-8768-4d7f8626da83",
     "t": "BMW 116",
     "ts": "2026-06-24T11:37:26.673994+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "116",
     "y": 2012,
@@ -144710,42 +144749,6 @@
     "mo": "Golf",
     "y": 2015,
     "km": 172000
-  },
-  "wh:1910661681": {
-    "p": 4450,
-    "f": "2026-06-16T07:40:41.243177+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-allroad-2-0-1910661681/",
-    "t": "Audi A4 allroad 2.0",
-    "ts": "2026-06-16T07:40:41.243177+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2009,
-    "km": 290000
-  },
-  "wh:1702301651": {
-    "p": 6400,
-    "f": "2026-06-16T07:40:41.243177+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-1702301651/",
-    "t": "VW Passat",
-    "ts": "2026-06-16T07:40:41.243177+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2008,
-    "km": 306683
-  },
-  "gw:3709a8cd-915b-4ce7-9677-8b0ac21f2a08": {
-    "p": 4100,
-    "f": "2026-06-16T07:37:35.777933+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/fiat-ducato-2-2l-100-multijet-pickerl-neu-diesel-weiss-cat_ma28mo14783/3709a8cd-915b-4ce7-9677-8b0ac21f2a08",
-    "t": "Fiat Ducato",
-    "ts": "2026-06-16T07:37:35.777933+00:00",
-    "ch": "alive",
-    "ma": "Fiat",
-    "mo": "Ducato",
-    "y": 2011,
-    "km": 173000
   },
   "__health__": {
     "wh": 0,
