@@ -147,6 +147,46 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1569816129": {
+    "p": 12500,
+    "f": "2026-06-24T15:52:30.899698+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-s-max-business-2-0-ecoblue-scr-1569816129/",
+    "t": "Ford S-MAX Business 2.0 EcoBlue SCR",
+    "ts": "2026-06-24T15:52:30.899698+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2018,
+    "km": 140600,
+    "b": "Kombi / Family Van"
+  },
+  "wh:2077769421": {
+    "p": 6200,
+    "f": "2026-06-24T15:52:30.899698+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-807-163-ps-automatik-2077769421/",
+    "t": "Peugeot 807 163 PS Automatik",
+    "ts": "2026-06-24T15:52:30.899698+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 229517,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1127526801": {
+    "p": 11500,
+    "f": "2026-06-24T15:52:30.899698+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-2-tsi-sky-1127526801/",
+    "t": "VW Golf 1,2 TSI Sky",
+    "ts": "2026-06-24T15:52:30.899698+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2013,
+    "km": 38000,
+    "b": "Cabrio / Roadster",
+    "pu": "2026-06-24T15:52:30.899698+00:00"
+  },
   "as:077aae08-cabb-4d5d-a705-8bdea9aa6efc": {
     "p": null,
     "f": "2026-06-24T15:50:42.688015+00:00",
@@ -123465,7 +123505,8 @@
     "ma": "BMW",
     "mo": "3er-Reihe",
     "y": 2013,
-    "km": 360000
+    "km": 360000,
+    "b": "Kombi / Family Van"
   },
   "wh:832469980": {
     "p": 5000,
@@ -123573,7 +123614,8 @@
     "ma": "Skoda",
     "mo": "Octavia",
     "y": 2018,
-    "km": 224500
+    "km": 224500,
+    "b": "Kombi / Family Van"
   },
   "wh:1064327441": {
     "p": 7999,
@@ -123585,7 +123627,8 @@
     "ma": null,
     "mo": null,
     "y": 2019,
-    "km": 205000
+    "km": 205000,
+    "b": "Sportwagen / Coup\u00e9"
   },
   "wh:1810606884": {
     "p": 1900,
@@ -145124,42 +145167,6 @@
     "mo": "Golf",
     "y": 2014,
     "km": 200000
-  },
-  "gw:2ccac4cb-4249-40e1-adfe-c02506d64a86": {
-    "p": 7750,
-    "f": "2026-06-16T12:31:54.852076+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/honda-civic-civic-1-4-vtec-sport-sport-benzin-grau-cat_ma31mo1775/2ccac4cb-4249-40e1-adfe-c02506d64a86",
-    "t": "Honda Civic",
-    "ts": "2026-06-16T12:31:54.852076+00:00",
-    "ch": "alive",
-    "ma": "Honda",
-    "mo": "Civic",
-    "y": 2014,
-    "km": 70238
-  },
-  "as:2ccac4cb-4249-40e1-adfe-c02506d64a86": {
-    "p": 7750,
-    "f": "2026-06-16T12:31:47.144119+00:00",
-    "u": "https://www.autoscout24.at/angebote/honda-civic-civic-1-4-vtec-sport-sport-benzin-grau-cat_ma31mo1775-2ccac4cb-4249-40e1-adfe-c02506d64a86",
-    "t": "Honda Civic",
-    "ts": "2026-06-16T12:31:47.144119+00:00",
-    "ch": "alive",
-    "ma": "Honda",
-    "mo": "Civic",
-    "y": 2014,
-    "km": 70238
-  },
-  "wh:778983039": {
-    "p": 11500,
-    "f": "2026-06-16T12:31:44.428156+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-ecosport-eco-sport-trend-1-0ltr-ecoboost-778983039/",
-    "t": "Ford EcoSport Eco Sport Trend 1.0ltr. Ecoboost",
-    "ts": "2026-06-16T12:31:44.428156+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2019,
-    "km": 109000
   },
   "__health__": {
     "wh": 0,
