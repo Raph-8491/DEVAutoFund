@@ -147,13 +147,26 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1710479334": {
+    "p": 8990,
+    "f": "2026-06-24T04:57:20.491791+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-1-4-tsi-cool-bmt-1710479334/",
+    "t": "VW Tiguan 1,4 TSI Cool BMT",
+    "ts": "2026-06-24T04:57:20.491791+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Tiguan",
+    "y": 2014,
+    "km": 107000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "wh:1328899626": {
     "p": 3650,
     "f": "2026-06-24T04:54:24.097235+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-c-max-trend-1-6d-1328899626/",
     "t": "Ford C-MAX Trend 1,6D",
     "ts": "2026-06-24T04:54:24.097235+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2012,
@@ -166,7 +179,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a1-sportback-tfsi-1879209309/",
     "t": "Audi A1 Sportback TFSI",
     "ts": "2026-06-24T04:54:24.097235+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A1",
     "y": 2012,
@@ -144197,18 +144210,6 @@
     "mo": null,
     "y": 2008,
     "km": 170000
-  },
-  "as:cde681ad-9ae9-432b-be6f-ca57459c25d7": {
-    "p": null,
-    "f": "2026-06-15T18:34:39.793959+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
