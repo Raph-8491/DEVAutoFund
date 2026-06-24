@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:b2c72f60-c2e5-42fa-9322-55f88f884db4": {
+    "p": null,
+    "f": "2026-06-24T10:42:31.906650+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:e58c9663-aced-4ce6-8ea4-225131352950": {
     "p": 9999,
     "f": "2026-06-24T10:41:26.070017+00:00",
@@ -192,7 +204,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-b-max-trend-1-0-ecoboost-start-stop-1909501067/",
     "t": "Ford B-MAX Trend 1,0 EcoBoost Start/Stop",
     "ts": "2026-06-24T10:39:24.103867+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2013,
@@ -144636,18 +144648,6 @@
     "mo": null,
     "y": 2011,
     "km": 138000
-  },
-  "wh:1585291289": {
-    "p": 3000,
-    "f": "2026-06-16T06:18:31.930715+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-ka-iconic-1585291289/",
-    "t": "Ford Ka Iconic",
-    "ts": "2026-06-16T06:18:31.930715+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 139000
   },
   "__health__": {
     "wh": 0,
