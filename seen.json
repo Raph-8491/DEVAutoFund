@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:5a4df817-cf0d-4ec0-ad09-f22bd6c1a585": {
+    "p": null,
+    "f": "2026-06-24T15:09:27.777370+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:f2cbbf48-e714-4a59-9d73-47595738d409": {
     "p": null,
     "f": "2026-06-24T15:08:35.250724+00:00",
@@ -145079,18 +145091,6 @@
     "mo": "1er-Reihe",
     "y": 2009,
     "km": 230000
-  },
-  "wh:1922834393": {
-    "p": 9300,
-    "f": "2026-06-16T11:47:31.564276+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-ceed-1-6-gdi-1922834393/",
-    "t": "KIA Ceed 1.6 GDI",
-    "ts": "2026-06-16T11:47:31.564276+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2013,
-    "km": 89901
   },
   "__health__": {
     "wh": 0,
