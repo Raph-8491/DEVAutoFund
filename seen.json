@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1459627287": {
+    "p": 6500,
+    "f": "2026-06-24T08:22:27.717901+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-1-8-tfsi-1459627287/",
+    "t": "Audi A4 1,8 TFSI",
+    "ts": "2026-06-24T08:22:27.717901+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2011,
+    "km": 240000,
+    "b": "Limousine"
+  },
+  "wh:1767485208": {
+    "p": 13500,
+    "f": "2026-06-24T08:22:27.717901+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-sportstourer-1-6-cdti-innovation-1767485208/",
+    "t": "Opel Astra Sportstourer 1,6 CDTI Innovation",
+    "ts": "2026-06-24T08:22:27.717901+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Astra",
+    "y": 2019,
+    "km": 88500,
+    "b": "Kombi / Family Van"
+  },
   "as:00022adc-5b4d-433e-9a01-1d5c836acfb0": {
     "p": 10450,
     "f": "2026-06-24T08:21:28.478305+00:00",
@@ -120277,7 +120303,8 @@
     "ma": null,
     "mo": null,
     "y": 2013,
-    "km": 237000
+    "km": 237000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:1879129422": {
     "p": 2000,
@@ -144406,30 +144433,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1089441359": {
-    "p": 6900,
-    "f": "2026-06-15T20:31:41.131805+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c3-klein-kompaktwagen-1089441359/",
-    "t": "Citro\u00ebn C3 Klein-/Kompaktwagen",
-    "ts": "2026-06-15T20:31:41.131805+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2016,
-    "km": 68600
-  },
-  "wh:2129937315": {
-    "p": 4500,
-    "f": "2026-06-15T20:31:41.131805+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-altea-xl-1-6-ted-2129937315/",
-    "t": "Seat Altea XL 1.6 ted",
-    "ts": "2026-06-15T20:31:41.131805+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Altea",
-    "y": 2014,
-    "km": 199999
   },
   "__health__": {
     "wh": 0,
