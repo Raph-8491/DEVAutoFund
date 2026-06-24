@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1976730974": {
+    "p": 2500,
+    "f": "2026-06-24T16:55:30.960272+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fusion-1-4-l-59kw-1976730974/",
+    "t": "Ford Fusion 1,4 L 59KW",
+    "ts": "2026-06-24T16:55:30.960272+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 59000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1234731950": {
+    "p": 14500,
+    "f": "2026-06-24T16:55:30.960272+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-opel-insignia-grand-sport-2-0-cdti-bluelnj-editio-1234731950/",
+    "t": "Opel Insignia Opel Insignia Grand Sport 2,0 CDTI Bluelnj. Editio",
+    "ts": "2026-06-24T16:55:30.960272+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Insignia",
+    "y": 2017,
+    "km": 118000,
+    "b": "Limousine"
+  },
   "wh:1513732239": {
     "p": 3500,
     "f": "2026-06-24T16:53:22.182665+00:00",
@@ -145238,30 +145264,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:1260e519-483d-4f74-9168-1eb29420b2b3": {
-    "p": null,
-    "f": "2026-06-16T13:29:37.058353+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1271736460": {
-    "p": 5900,
-    "f": "2026-06-16T13:29:33.793479+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-e91-320xd-1271736460/",
-    "t": "BMW 3er-Reihe E91 320xd",
-    "ts": "2026-06-16T13:29:33.793479+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2012,
-    "km": 293000
   },
   "__health__": {
     "wh": 0,
