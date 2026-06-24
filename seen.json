@@ -147,6 +147,58 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:ec266ba2-3e2a-4ddb-b3e6-84b22b5bd107": {
+    "p": 14500,
+    "f": "2026-06-24T11:36:37.502012+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/mercedes-benz-c-250-cdi-dpf-blueefficiency-7g-tronic-elegance-diesel-cat_ma47mo15384/ec266ba2-3e2a-4ddb-b3e6-84b22b5bd107",
+    "t": "Mercedes-Benz C 250",
+    "ts": "2026-06-24T11:36:37.502012+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "C 250",
+    "y": 2014,
+    "km": 230000,
+    "b": ""
+  },
+  "gw:b2d9e535-7a94-4ac9-bfe3-0fcbcee4ec63": {
+    "p": 4900,
+    "f": "2026-06-24T11:36:37.502012+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-passat-variant-passat-variant-comfortline-blue-2-0-tdi-dpf-comfortline-diesel-schwarz-cat_ma74mo20338/b2d9e535-7a94-4ac9-bfe3-0fcbcee4ec63",
+    "t": "Volkswagen Passat Variant",
+    "ts": "2026-06-24T11:36:37.502012+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Passat Variant",
+    "y": 2012,
+    "km": 309000,
+    "b": ""
+  },
+  "as:b2d9e535-7a94-4ac9-bfe3-0fcbcee4ec63": {
+    "p": 4900,
+    "f": "2026-06-24T11:36:33.983171+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-passat-variant-passat-variant-comfortline-blue-2-0-tdi-dpf-comfortline-diesel-schwarz-cat_ma74mo20338-b2d9e535-7a94-4ac9-bfe3-0fcbcee4ec63",
+    "t": "Volkswagen Passat Variant",
+    "ts": "2026-06-24T11:36:33.983171+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Passat Variant",
+    "y": 2012,
+    "km": 309000,
+    "b": ""
+  },
+  "as:ec266ba2-3e2a-4ddb-b3e6-84b22b5bd107": {
+    "p": 14500,
+    "f": "2026-06-24T11:36:31.562262+00:00",
+    "u": "https://www.autoscout24.at/angebote/mercedes-benz-c-250-cdi-dpf-blueefficiency-7g-tronic-elegance-diesel-cat_ma47mo15384-ec266ba2-3e2a-4ddb-b3e6-84b22b5bd107",
+    "t": "Mercedes-Benz C 250",
+    "ts": "2026-06-24T11:36:31.562262+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "C 250",
+    "y": 2014,
+    "km": 230000,
+    "b": ""
+  },
   "wh:1039880322": {
     "p": 10600,
     "f": "2026-06-24T11:35:39.453240+00:00",
@@ -144685,54 +144737,6 @@
     "mo": null,
     "y": 2012,
     "km": 303000
-  },
-  "as:18a0edf5-6d83-46ae-be73-6749a0496bf8": {
-    "p": 5300,
-    "f": "2026-06-16T07:31:40.183004+00:00",
-    "u": "https://www.autoscout24.at/angebote/mercedes-benz-a-180-a-180-autotronic-avantgarde-automatik-rueckfahrkamera-benzin-schwarz-cat_ma47mo18486-18a0edf5-6d83-46ae-be73-6749a0496bf8",
-    "t": "Mercedes-Benz A 180",
-    "ts": "2026-06-16T07:31:40.183004+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "A 180",
-    "y": 2011,
-    "km": 161500
-  },
-  "wh:1901148066": {
-    "p": 3500,
-    "f": "2026-06-16T07:31:37.274637+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-kuga-12-26-pickerl-1901148066/",
-    "t": "Ford Kuga 12.26 Pickerl",
-    "ts": "2026-06-16T07:31:37.274637+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 260000
-  },
-  "wh:2005251544": {
-    "p": 11250,
-    "f": "2026-06-16T07:31:37.274637+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-sharan-sky-bmt-2-0-tdi-dpf-dsg-2005251544/",
-    "t": "VW Sharan Sky BMT 2,0 TDI DPF DSG",
-    "ts": "2026-06-23T07:26:29.812900+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Sharan",
-    "y": 2015,
-    "km": 220000
-  },
-  "as:d1797c05-9ef3-49c2-875d-6bcb3442f7ec": {
-    "p": null,
-    "f": "2026-06-16T07:28:45.467443+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
