@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1533034621": {
+    "p": 8990,
+    "f": "2026-06-24T07:40:45.213694+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-rabbit-1-6-tdi-bmt-serviceheft-wenige-kilometer-1a-zustand-1533034621/",
+    "t": "VW Golf Rabbit 1,6 TDI BMT Serviceheft wenige Kilometer 1a Zustand",
+    "ts": "2026-06-24T07:40:45.213694+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2014,
+    "km": 133000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:2015172849": {
     "p": 7150,
     "f": "2026-06-24T07:38:22.973074+00:00",
@@ -144356,18 +144369,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:2012168539": {
-    "p": 10750,
-    "f": "2026-06-15T19:52:34.208914+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-b8-variant-1-6-tdi-88kw-120-ps-2012168539/",
-    "t": "VW Passat b8 Variant 1,6 tdi 88kw (120 ps)",
-    "ts": "2026-06-15T19:52:34.208914+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2016,
-    "km": 171500
   },
   "__health__": {
     "wh": 0,
