@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2062446128": {
+    "p": 14999,
+    "f": "2026-06-24T14:03:23.795530+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-3008-gt-line-2062446128/",
+    "t": "Peugeot 3008 GT Line",
+    "ts": "2026-06-24T14:03:23.795530+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2019,
+    "km": 106000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:55fb91a6-3711-451f-a9a3-61ee1530305c": {
     "p": null,
     "f": "2026-06-24T14:01:39.379456+00:00",
@@ -122594,16 +122607,17 @@
     "km": 145000
   },
   "wh:1022401117": {
-    "p": 4000,
+    "p": 3950,
     "f": "2026-06-17T14:03:35.444004+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-clio-1-5-dci-night-day-1022401117/",
     "t": "Renault Clio 1.5 dci Night&Day",
-    "ts": "2026-06-17T14:03:35.444004+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T14:03:23.795530+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2012,
-    "km": 121000
+    "km": 121000,
+    "b": "Kombi / Family Van"
   },
   "as:262599d0-34b4-4876-b3ad-51711f32d369": {
     "p": null,
@@ -144964,18 +144978,6 @@
     "mo": null,
     "y": 2010,
     "km": 144000
-  },
-  "as:fecdcc0a-6865-4395-bc2e-522386a35c0a": {
-    "p": null,
-    "f": "2026-06-16T10:15:57.125038+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
