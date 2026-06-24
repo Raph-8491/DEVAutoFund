@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "as:ec4d3427-f1bd-411e-9923-25fcc3bd0f93": {
+    "p": null,
+    "f": "2026-06-24T17:28:30.941024+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1939549905": {
+    "p": 7300,
+    "f": "2026-06-24T17:28:28.259395+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-330d-m-paket-1939549905/",
+    "t": "BMW 3er-Reihe 330D M Paket",
+    "ts": "2026-06-24T17:28:28.259395+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "3er-Reihe",
+    "y": 2008,
+    "km": 333333,
+    "b": "Limousine",
+    "pu": "2026-06-24T17:28:28.259395+00:00"
+  },
+  "wh:1092277755": {
+    "p": 9900,
+    "f": "2026-06-24T17:28:28.259395+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-doblo-professionell-maxi-1-6-multijet-1092277755/",
+    "t": "Fiat Dobl\u00f2 Professionell Maxi 1.6 Multijet",
+    "ts": "2026-06-24T17:28:28.259395+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2020,
+    "km": 159000,
+    "b": "Kombi / Family Van"
+  },
   "gw:fa96f7be-67ed-4de1-bc1c-326ac1988760": {
     "p": 13200,
     "f": "2026-06-24T17:27:37.949109+00:00",
@@ -145295,42 +145334,6 @@
     "mo": "B-Klasse",
     "y": 2015,
     "km": 187000
-  },
-  "wh:1246692672": {
-    "p": 4100,
-    "f": "2026-06-16T14:08:38.742926+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touran-conceptline-1-9-tdi-dpf-1246692672/",
-    "t": "VW Touran Conceptline 1,9 TDI DPF",
-    "ts": "2026-06-16T14:08:38.742926+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Touran",
-    "y": 2009,
-    "km": 289000
-  },
-  "wh:895925970": {
-    "p": 5590,
-    "f": "2026-06-16T14:06:38.752909+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-bravo-stilvoller-zuverlaessiger-benziner-895925970/",
-    "t": "Fiat Bravo stilvoller, zuverl\u00e4ssiger Benziner",
-    "ts": "2026-06-16T14:06:38.752909+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 188429
-  },
-  "wh:1752942315": {
-    "p": 2700,
-    "f": "2026-06-16T14:06:38.752909+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-1-4-ecoflex-sport-1752942315/",
-    "t": "Opel Astra 1.4 ecoFLEX Sport",
-    "ts": "2026-06-16T14:37:22.826284+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Astra",
-    "y": 2010,
-    "km": 145500
   },
   "__health__": {
     "wh": 0,
