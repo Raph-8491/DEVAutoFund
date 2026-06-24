@@ -147,6 +147,73 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:0bb4040a-4a3b-432a-9da0-c2ed09e521b8": {
+    "p": 6000,
+    "f": "2026-06-24T12:02:40.122502+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/chevrolet-captiva-ltz-2-2-4wd-aut-diesel-cat_ma19mo18789/0bb4040a-4a3b-432a-9da0-c2ed09e521b8",
+    "t": "Chevrolet Captiva",
+    "ts": "2026-06-24T12:02:40.122502+00:00",
+    "ch": null,
+    "ma": "Chevrolet",
+    "mo": "Captiva",
+    "y": 2012,
+    "km": 160000,
+    "b": ""
+  },
+  "as:0bb4040a-4a3b-432a-9da0-c2ed09e521b8": {
+    "p": 6000,
+    "f": "2026-06-24T12:02:32.780492+00:00",
+    "u": "https://www.autoscout24.at/angebote/chevrolet-captiva-ltz-2-2-4wd-aut-diesel-cat_ma19mo18789-0bb4040a-4a3b-432a-9da0-c2ed09e521b8",
+    "t": "Chevrolet Captiva",
+    "ts": "2026-06-24T12:02:32.780492+00:00",
+    "ch": null,
+    "ma": "Chevrolet",
+    "mo": "Captiva",
+    "y": 2012,
+    "km": 160000,
+    "b": ""
+  },
+  "wh:1582289707": {
+    "p": 5990,
+    "f": "2026-06-24T12:02:29.622290+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-santa-fe-2-2-crdi-comfort-4wd-aut-dpf-1582289707/",
+    "t": "Hyundai Santa Fe 2,2 CRDi Comfort 4WD Aut. DPF",
+    "ts": "2026-06-24T12:02:29.622290+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 220000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1817788411": {
+    "p": 11000,
+    "f": "2026-06-24T12:02:29.622290+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a8-4-2-fsi-quattro-tiptronic-1817788411/",
+    "t": "Audi A8 4.2 FSI Quattro Tiptronic",
+    "ts": "2026-06-24T12:02:29.622290+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A8",
+    "y": 2011,
+    "km": 160000,
+    "b": "Limousine",
+    "pu": "2026-06-24T12:02:29.622290+00:00"
+  },
+  "wh:1637111931": {
+    "p": 7200,
+    "f": "2026-06-24T12:02:29.622290+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-1637111931/",
+    "t": "BMW 1er-Reihe",
+    "ts": "2026-06-24T12:02:29.622290+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "1er-Reihe",
+    "y": 2010,
+    "km": 118000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-24T12:02:29.622290+00:00"
+  },
   "as:93c33da4-22ec-440a-847f-2ca3e1718a2a": {
     "p": null,
     "f": "2026-06-24T12:01:43.608182+00:00",
@@ -121630,7 +121697,8 @@
     "ma": "VW",
     "mo": "Passat",
     "y": 2013,
-    "km": 262450
+    "km": 262450,
+    "b": "Kombi / Family Van"
   },
   "wh:1700917083": {
     "p": 8900,
@@ -121705,28 +121773,30 @@
     "km": null
   },
   "wh:2092709435": {
-    "p": 10999,
+    "p": 10799,
     "f": "2026-06-17T12:01:38.446775+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-megane-intens-energy-tce-100-2092709435/",
     "t": "Renault M\u00e9gane Intens Energy TCe 100",
-    "ts": "2026-06-17T12:01:38.446775+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T12:02:29.622290+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2017,
-    "km": 112000
+    "km": 112000,
+    "b": "Limousine"
   },
   "wh:1129701529": {
-    "p": 8000,
+    "p": 7500,
     "f": "2026-06-17T12:01:38.446775+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-308-1-6-thp-155-allure-1129701529/",
     "t": "Peugeot 308 1,6 THP 155 Allure",
-    "ts": "2026-06-17T12:01:38.446775+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T12:02:29.622290+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2014,
-    "km": 135627
+    "km": 135627,
+    "b": "Klein-/ Kompaktwagen"
   },
   "as:d415d2c7-fc0e-477a-9ad1-4e4ce81f833c": {
     "p": null,
@@ -144699,66 +144769,6 @@
   "as:342aea10-e98e-443b-8a7b-659dc81fa501": {
     "p": null,
     "f": "2026-06-16T08:01:41.831645+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:0388140c-a0dd-4eda-88d6-a7518c4058ef": {
-    "p": 8490,
-    "f": "2026-06-16T08:01:41.831645+00:00",
-    "u": "https://www.autoscout24.at/angebote/peugeot-108-1-2-puretech-82-top-collection-benzin-rot-cat_ma55mo20374-0388140c-a0dd-4eda-88d6-a7518c4058ef",
-    "t": "Peugeot 108",
-    "ts": "2026-06-16T08:01:41.831645+00:00",
-    "ch": "alive",
-    "ma": "Peugeot",
-    "mo": "108",
-    "y": 2018,
-    "km": 29700
-  },
-  "as:a911a7a5-72df-4587-8de7-7ad06f721a4d": {
-    "p": 11390,
-    "f": "2026-06-16T08:01:41.831645+00:00",
-    "u": "https://www.autoscout24.at/angebote/mini-cooper-s-mini-cooper-smini-cooper-s-f56-124-000-km-scha-benzin-schwarz-cat_ma16338mo19743-a911a7a5-72df-4587-8de7-7ad06f721a4d",
-    "t": "MINI Cooper S",
-    "ts": "2026-06-16T08:01:41.831645+00:00",
-    "ch": "alive",
-    "ma": "MINI",
-    "mo": "Cooper S",
-    "y": 2015,
-    "km": 124000
-  },
-  "wh:1230067472": {
-    "p": 3500,
-    "f": "2026-06-16T07:59:27.488346+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-altea-xl-1-9-tdi-105-ps-pickerl-5-2027-pensionistenfahrzeug-1230067472/",
-    "t": "Seat Altea XL 1,9 TDi 105 PS Pickerl 5/2027 Pensionistenfahrzeug",
-    "ts": "2026-06-16T07:59:27.488346+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Altea",
-    "y": 2009,
-    "km": 272000
-  },
-  "as:46c3860c-747e-4fcf-b7af-b6b83f0cbfbc": {
-    "p": null,
-    "f": "2026-06-16T07:57:28.126082+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:dcbce2ba-8b8c-4a0e-98bc-a604919c588d": {
-    "p": null,
-    "f": "2026-06-16T07:57:28.126082+00:00",
     "u": null,
     "t": null,
     "ts": null,
