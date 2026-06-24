@@ -147,6 +147,44 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:e0274054-6023-47a4-8839-f4a0c45fd817": {
+    "p": 2000,
+    "f": "2026-06-24T11:38:36.041679+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/mercedes-benz-b-180-cdi-aut-diesel-cat_ma47mo18608/e0274054-6023-47a4-8839-f4a0c45fd817",
+    "t": "Mercedes-Benz B 180",
+    "ts": "2026-06-24T11:38:36.041679+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "B 180",
+    "y": 2008,
+    "km": 244000,
+    "b": ""
+  },
+  "as:cd4b911f-d2ea-4c0c-94e5-abc653cfb24a": {
+    "p": null,
+    "f": "2026-06-24T11:38:27.618922+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:e0274054-6023-47a4-8839-f4a0c45fd817": {
+    "p": 2000,
+    "f": "2026-06-24T11:38:27.618922+00:00",
+    "u": "https://www.autoscout24.at/angebote/mercedes-benz-b-180-cdi-aut-diesel-cat_ma47mo18608-e0274054-6023-47a4-8839-f4a0c45fd817",
+    "t": "Mercedes-Benz B 180",
+    "ts": "2026-06-24T11:38:27.618922+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "B 180",
+    "y": 2008,
+    "km": 244000,
+    "b": ""
+  },
   "gw:12a8e857-8ba6-450e-8768-4d7f8626da83": {
     "p": 7500,
     "f": "2026-06-24T11:37:37.476680+00:00",
@@ -121715,7 +121753,8 @@
     "ma": null,
     "mo": null,
     "y": 2015,
-    "km": 116000
+    "km": 116000,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "wh:1386049744": {
     "p": 6000,
@@ -144704,42 +144743,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:1f436904-a316-4313-b438-8b66497062d8": {
-    "p": null,
-    "f": "2026-06-16T07:34:37.661574+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1055291483": {
-    "p": 9100,
-    "f": "2026-06-16T07:34:33.317711+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-clio-1055291483/",
-    "t": "Renault Clio",
-    "ts": "2026-06-16T07:34:33.317711+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2017,
-    "km": 99000
-  },
-  "wh:1975342983": {
-    "p": 2500,
-    "f": "2026-06-16T07:34:33.317711+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-combi-nicco-1-9-tdi-pd-dpf-4x4-1975342983/",
-    "t": "Skoda Octavia Combi Nicco 1,9 TDI PD DPF 4x4",
-    "ts": "2026-06-16T07:34:33.317711+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2008,
-    "km": 236000
   },
   "__health__": {
     "wh": 0,
