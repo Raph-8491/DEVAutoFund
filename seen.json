@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:976d4593-2148-46c0-8454-e3ef87cc03b3": {
+    "p": null,
+    "f": "2026-06-24T16:40:43.240296+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:b936618a-c7b8-4cc7-b46f-eda3e554c1ea": {
     "p": null,
     "f": "2026-06-24T16:39:27.333363+00:00",
@@ -217,7 +229,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-1-0-1455391733/",
     "t": "VW Polo 1,0",
     "ts": "2026-06-24T16:37:21.121749+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Polo",
     "y": 2017,
@@ -145227,18 +145239,6 @@
     "mo": "Golf",
     "y": 2013,
     "km": 159000
-  },
-  "wh:1375498354": {
-    "p": 5500,
-    "f": "2026-06-16T13:18:30.853815+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-rabbit-40-1-6-tdi-1375498354/",
-    "t": "VW Golf Variant Rabbit 40 1,6 TDI",
-    "ts": "2026-06-16T13:18:30.853815+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2018,
-    "km": 310000
   },
   "__health__": {
     "wh": 0,
