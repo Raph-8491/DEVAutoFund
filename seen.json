@@ -147,6 +147,43 @@
     "y": 2009,
     "km": 235000
   },
+  "as:b9cc6dc1-45dc-453e-8d86-42f958532826": {
+    "p": null,
+    "f": "2026-06-24T15:34:36.410704+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:7c3f4d13-c53b-4c55-b69f-168b5811222e": {
+    "p": null,
+    "f": "2026-06-24T15:34:36.410704+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1668733866": {
+    "p": 10350,
+    "f": "2026-06-24T15:34:33.812683+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x3-f25-n57-1668733866/",
+    "t": "BMW X3 F25 N57",
+    "ts": "2026-06-24T15:34:33.812683+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X3",
+    "y": 2011,
+    "km": 340000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "wh:1775193960": {
     "p": 3765,
     "f": "2026-06-24T15:32:25.689645+00:00",
@@ -414,18 +451,18 @@
     "pu": "2026-06-24T15:18:33.736821+00:00"
   },
   "wh:979490991": {
-    "p": 2499,
+    "p": 1499,
     "f": "2026-06-24T15:18:33.736821+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-tdi-4-motion-979490991/",
     "t": "VW Golf TDI 4 Motion",
-    "ts": "2026-06-24T15:18:33.736821+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T15:34:33.812683+00:00",
+    "ch": null,
     "ma": "VW",
     "mo": "Golf",
     "y": 2013,
     "km": 225855,
     "b": "Kombi / Family Van",
-    "pu": "2026-06-24T15:18:33.736821+00:00"
+    "pu": "2026-06-24T15:34:33.812683+00:00"
   },
   "as:659a7cad-797b-45bd-9655-b004e500f587": {
     "p": null,
@@ -145093,42 +145130,6 @@
     "mo": "Fabia",
     "y": 2008,
     "km": 175000
-  },
-  "as:022ce5d4-ccb0-4735-83f1-b58862c0064f": {
-    "p": null,
-    "f": "2026-06-16T12:14:31.318646+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1587718235": {
-    "p": 2000,
-    "f": "2026-06-16T12:13:26.202660+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-meriva-1587718235/",
-    "t": "Opel Meriva",
-    "ts": "2026-06-16T12:13:26.202660+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Meriva",
-    "y": 2012,
-    "km": 150000
-  },
-  "wh:1844036005": {
-    "p": 1850,
-    "f": "2026-06-16T12:13:26.202660+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-panda-1-3-1844036005/",
-    "t": "Fiat Panda 1.3",
-    "ts": "2026-06-16T12:13:26.202660+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 138000
   },
   "__health__": {
     "wh": 0,
