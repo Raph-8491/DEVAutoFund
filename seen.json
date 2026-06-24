@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:f31dee46-9874-4514-ad0b-03b92e2c8a45": {
+    "p": null,
+    "f": "2026-06-24T13:06:26.684935+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:009bda23-beb5-4a58-8a8b-031c1b89fdc5": {
     "p": 13500,
     "f": "2026-06-24T13:05:52.244454+00:00",
@@ -144861,18 +144873,6 @@
     "mo": "T5",
     "y": 2015,
     "km": 240000
-  },
-  "gw:8e4840cf-9ba9-4a14-90b4-4b149a7b590a": {
-    "p": 6900,
-    "f": "2026-06-16T09:06:41.386979+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/peugeot-boxer-diesel-weiss-cat_ma55mo14821/8e4840cf-9ba9-4a14-90b4-4b149a7b590a",
-    "t": "Peugeot Boxer",
-    "ts": "2026-06-16T09:06:41.386979+00:00",
-    "ch": "alive",
-    "ma": "Peugeot",
-    "mo": "Boxer",
-    "y": 2011,
-    "km": 182000
   },
   "__health__": {
     "wh": 0,
