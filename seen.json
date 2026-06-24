@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1474269185": {
+    "p": 3500,
+    "f": "2026-06-24T10:29:23.787373+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x1-xdrive18d-oesterreich-paket-1474269185/",
+    "t": "BMW X1 xDrive18d \u00d6sterreich Paket",
+    "ts": "2026-06-24T10:29:23.787373+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X1",
+    "y": 2011,
+    "km": 185186,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "as:cd98080b-13b5-4201-8db5-18abc44fdfa4": {
     "p": 12000,
     "f": "2026-06-24T10:28:28.733780+00:00",
@@ -205,7 +218,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mitsubishi-outlander-2-2-di-d-4-wd-944837348/",
     "t": "Mitsubishi Outlander 2,2 DI-D 4 WD",
     "ts": "2026-06-24T10:26:25.852586+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2013,
@@ -218,7 +231,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a1-30-tfsi-2003815252/",
     "t": "Audi A1 30 tfsi",
     "ts": "2026-06-24T10:26:25.852586+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A1",
     "y": 2024,
@@ -144617,18 +144630,6 @@
     "mo": "Polo",
     "y": 2010,
     "km": 91500
-  },
-  "wh:1031398220": {
-    "p": 8200,
-    "f": "2026-06-16T05:52:28.222571+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c4-picasso-1-2-1031398220/",
-    "t": "Citro\u00ebn C4 Picasso 1.2",
-    "ts": "2026-06-16T05:52:28.222571+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2017,
-    "km": 107000
   },
   "__health__": {
     "wh": 0,
