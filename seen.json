@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1087663645": {
+    "p": 500,
+    "f": "2026-06-24T04:30:51.080763+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-5-1-9tdi-pd-bls-zahnriemen-defekt-1087663645/",
+    "t": "VW Golf 5 1.9TDI PD BLS ZAHNRIEMEN defekt",
+    "ts": "2026-06-24T04:30:51.080763+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2008,
+    "km": 355000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1948700175": {
+    "p": 8500,
+    "f": "2026-06-24T04:30:51.080763+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-316d-1948700175/",
+    "t": "BMW 3er-Reihe 316d",
+    "ts": "2026-06-24T04:30:51.080763+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "3er-Reihe",
+    "y": 2011,
+    "km": 180000,
+    "b": "Limousine"
+  },
   "as:72f625d1-30f5-4802-af17-7bae9ab271b9": {
     "p": null,
     "f": "2026-06-24T04:24:27.771785+00:00",
@@ -119632,16 +119658,17 @@
     "km": 130000
   },
   "wh:2047231652": {
-    "p": 10900,
+    "p": 10000,
     "f": "2026-06-17T04:32:32.907608+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-sportstourer-2047231652/",
     "t": "Seat Leon Sportstourer",
-    "ts": "2026-06-17T04:32:32.907608+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T04:30:51.080763+00:00",
+    "ch": null,
     "ma": "Seat",
     "mo": "Leon",
     "y": 2020,
-    "km": 56000
+    "km": 56000,
+    "b": "Kombi / Family Van"
   },
   "wh:1129598141": {
     "p": 800,
@@ -119661,7 +119688,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-s-line-quattro-3-0-diesel-1964964215/",
     "t": "Audi A5 S-line Quattro 3.0 Diesel",
     "ts": "2026-06-24T04:27:20.669844+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A5",
     "y": 2015,
@@ -144165,30 +144192,6 @@
     "mo": null,
     "y": 2018,
     "km": 103500
-  },
-  "wh:2112799544": {
-    "p": 6500,
-    "f": "2026-06-15T18:26:34.706507+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/volvo-v60-d5-2112799544/",
-    "t": "Volvo V60 D5",
-    "ts": "2026-06-15T18:26:34.706507+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 278330
-  },
-  "wh:1085994616": {
-    "p": 2250,
-    "f": "2026-06-15T18:26:34.706507+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/toyota-gt86-1085994616/",
-    "t": "Toyota GT86",
-    "ts": "2026-06-15T18:26:34.706507+00:00",
-    "ch": "dead",
-    "ma": "Toyota",
-    "mo": "GT86",
-    "y": 2020,
-    "km": 120000
   },
   "__health__": {
     "wh": 0,
