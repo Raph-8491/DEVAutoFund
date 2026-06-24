@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1237277543": {
+    "p": 4100,
+    "f": "2026-06-24T10:35:36.121680+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda3-1237277543/",
+    "t": "Mazda Mazda3",
+    "ts": "2026-06-24T10:35:36.121680+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 193500,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:cee62651-8a0c-411d-879e-b8b37fdc2c16": {
     "p": 2000,
     "f": "2026-06-24T10:34:30.446652+00:00",
@@ -144627,18 +144640,6 @@
     "mo": "Zafira",
     "y": 2017,
     "km": 206000
-  },
-  "gw:180ba875-e833-482f-bfe0-807cb328ecc8": {
-    "p": 5999,
-    "f": "2026-06-16T06:08:43.514801+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-golf-golf-comfortline-bluemotion-1-9-tdi-dpf-comfortline-diesel-blau-cat_ma74mo2084/180ba875-e833-482f-bfe0-807cb328ecc8",
-    "t": "Volkswagen Golf",
-    "ts": "2026-06-16T06:08:43.514801+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2008,
-    "km": 163000
   },
   "__health__": {
     "wh": 0,
