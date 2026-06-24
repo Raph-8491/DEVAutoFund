@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:b26a676b-7c2d-42a9-adde-c0c8adbcc80a": {
+    "p": null,
+    "f": "2026-06-24T19:52:29.336018+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:e0a5a8b6-1afd-4bb1-bcb5-29359c5154ed": {
+    "p": 13990,
+    "f": "2026-06-24T19:52:29.336018+00:00",
+    "u": "https://www.autoscout24.at/angebote/mercedes-benz-glk-220-glk-220-cdi-4matic-blueefficiency-7g-tronic-diesel-silber-cat_ma47mo19181-e0a5a8b6-1afd-4bb1-bcb5-29359c5154ed",
+    "t": "Mercedes-Benz GLK 220 GLK 220 CDI 4Matic (BlueEFFICIENCY) 7G-TRONIC",
+    "ts": "2026-06-24T19:52:29.336018+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "GLK 220",
+    "y": 2014,
+    "km": 171000,
+    "b": ""
+  },
   "wh:1673827538": {
     "p": 13900,
     "f": "2026-06-24T19:50:41.877057+00:00",
@@ -145587,30 +145612,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:a78c44ab-f57e-49f5-b774-151de703160e": {
-    "p": null,
-    "f": "2026-06-16T16:23:37.365944+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1137990990": {
-    "p": 8650,
-    "f": "2026-06-16T16:22:36.371622+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-plus-rabbit-1137990990/",
-    "t": "VW Golf Plus Rabbit",
-    "ts": "2026-06-16T16:22:36.371622+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2014,
-    "km": 157200
   },
   "__health__": {
     "wh": 0,
