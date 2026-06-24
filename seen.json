@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "as:9181f56c-3046-467c-817e-5ab9812fb224": {
+    "p": null,
+    "f": "2026-06-24T18:50:43.032984+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:964030072": {
+    "p": 5999,
+    "f": "2026-06-24T18:50:41.625055+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-2012-964030072/",
+    "t": "VW Polo 2012",
+    "ts": "2026-06-24T18:50:41.625055+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Polo",
+    "y": 2025,
+    "km": 78000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-24T18:50:41.625055+00:00"
+  },
   "as:66f921e6-7793-4741-b8ab-ba4c96601654": {
     "p": null,
     "f": "2026-06-24T18:49:22.610228+00:00",
@@ -218,7 +244,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-sky-2-0-tdi-r-line-1763155667/",
     "t": "VW Tiguan Sky 2,0 TDI R-Line",
     "ts": "2026-06-24T18:47:21.606404+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Tiguan",
     "y": 2015,
@@ -245,7 +271,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-2-0tdi-926459106/",
     "t": "Audi A6 2.0tdi",
     "ts": "2026-06-24T18:47:21.606404+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A6",
     "y": 2026,
@@ -145482,30 +145508,6 @@
     "mo": null,
     "y": 2013,
     "km": 154000
-  },
-  "wh:1233649165": {
-    "p": 7300,
-    "f": "2026-06-16T15:28:31.547909+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-scirocco-1-4-tsi-122-ps-1233649165/",
-    "t": "VW Scirocco 1.4. TSI 122 PS",
-    "ts": "2026-06-16T15:28:31.547909+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Scirocco",
-    "y": 2011,
-    "km": 217600
-  },
-  "wh:2012302793": {
-    "p": 2150,
-    "f": "2026-06-16T15:28:31.547909+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-panda-2012302793/",
-    "t": "Fiat Panda",
-    "ts": "2026-06-16T15:28:31.547909+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 79000
   },
   "__health__": {
     "wh": 0,
