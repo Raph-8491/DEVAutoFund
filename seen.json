@@ -147,6 +147,30 @@
     "y": 2009,
     "km": 235000
   },
+  "as:93c33da4-22ec-440a-847f-2ca3e1718a2a": {
+    "p": null,
+    "f": "2026-06-24T12:01:43.608182+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:30526995-0fe4-4fcf-a708-8e31f8f01b04": {
+    "p": null,
+    "f": "2026-06-24T12:01:43.608182+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:7d414203-70b5-4f48-8eb2-e77b672a20a6": {
     "p": null,
     "f": "2026-06-24T11:59:33.109943+00:00",
@@ -144743,30 +144767,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:851809405": {
-    "p": 6800,
-    "f": "2026-06-16T07:57:26.221098+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/chevrolet-malibu-sparsamer-langstrecken-dauerlaeufer-mit-frischem-p-851809405/",
-    "t": "Chevrolet Malibu Sparsamer Langstrecken-Dauerl\u00e4ufer mit frischem P",
-    "ts": "2026-06-23T07:58:28.933005+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 145000
-  },
-  "as:6b11cbb0-a042-4a9f-8225-f96dcb7acbfc": {
-    "p": 1999,
-    "f": "2026-06-16T07:56:28.438497+00:00",
-    "u": "https://www.autoscout24.at/angebote/opel-astra-astra-fliessheck-5-tuerer-1-4-edition-benzin-schwarz-cat_ma54mo1916-6b11cbb0-a042-4a9f-8225-f96dcb7acbfc",
-    "t": "Opel Astra",
-    "ts": "2026-06-16T07:56:28.438497+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Astra",
-    "y": 2009,
-    "km": 157000
   },
   "__health__": {
     "wh": 0,
