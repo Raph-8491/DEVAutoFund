@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1914483745": {
+    "p": 11900,
+    "f": "2026-06-24T07:32:25.049231+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-e60-530i-1914483745/",
+    "t": "BMW 5er-Reihe E60 530i",
+    "ts": "2026-06-24T07:32:25.049231+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "5er-Reihe",
+    "y": 2009,
+    "km": 244560,
+    "b": "Limousine"
+  },
+  "wh:889673081": {
+    "p": 3200,
+    "f": "2026-06-24T07:32:25.049231+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-meriva-889673081/",
+    "t": "Opel Meriva",
+    "ts": "2026-06-24T07:32:25.049231+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Meriva",
+    "y": 2010,
+    "km": 138200,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1993795691": {
     "p": 1200,
     "f": "2026-06-24T07:30:49.504843+00:00",
@@ -205,7 +231,7 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/kia-ceed-cee-d-1-0-t-gdi-benzin-cat_ma39mo18923/6ed7b90c-dce3-49fb-920a-e634daeef570",
     "t": "Kia Ceed / cee'd",
     "ts": "2026-06-24T07:29:27.960674+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Kia",
     "mo": "Ceed / cee'd",
     "y": 2021,
@@ -218,7 +244,7 @@
     "u": "https://www.autoscout24.at/angebote/kia-ceed-cee-d-1-0-t-gdi-benzin-cat_ma39mo18923-6ed7b90c-dce3-49fb-920a-e634daeef570",
     "t": "Kia Ceed / cee'd",
     "ts": "2026-06-24T07:29:22.460041+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Kia",
     "mo": "Ceed / cee'd",
     "y": 2021,
@@ -120060,16 +120086,17 @@
     "km": 82000
   },
   "wh:942342538": {
-    "p": 6200,
+    "p": 6100,
     "f": "2026-06-17T07:31:36.674392+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-6r-blue-motion-942342538/",
     "t": "VW Polo 6R Blue Motion",
-    "ts": "2026-06-17T07:31:36.674392+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T07:32:25.049231+00:00",
+    "ch": null,
     "ma": "VW",
     "mo": "Polo",
     "y": 2015,
-    "km": 186000
+    "km": 186000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "gw:ab49b84b-e945-42ba-8e1b-140cdd63c8e4": {
     "p": 1500,
@@ -144335,30 +144362,6 @@
     "mo": "Polo",
     "y": 2017,
     "km": 131266
-  },
-  "as:fbdb3333-66e9-41cf-a985-18f3e4331c5c": {
-    "p": null,
-    "f": "2026-06-15T19:42:36.088508+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:25517848-7f59-4edf-b587-a89da22403a1": {
-    "p": null,
-    "f": "2026-06-15T19:42:36.088508+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
