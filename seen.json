@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:1784b758-cabd-40af-911b-0c1fad33edb5": {
+    "p": 7300,
+    "f": "2026-06-24T10:46:26.132427+00:00",
+    "u": "https://www.autoscout24.at/angebote/peugeot-108-108-puretech-82-top-style-benzin-cat_ma55mo20374-1784b758-cabd-40af-911b-0c1fad33edb5",
+    "t": "Peugeot 108",
+    "ts": "2026-06-24T10:46:26.132427+00:00",
+    "ch": null,
+    "ma": "Peugeot",
+    "mo": "108",
+    "y": 2018,
+    "km": 60400,
+    "b": ""
+  },
   "as:77e8573f-46bd-4d1c-bcf9-38a4ba9ec4bc": {
     "p": null,
     "f": "2026-06-24T10:45:45.766807+00:00",
@@ -144639,18 +144652,6 @@
     "mo": "Alhambra",
     "y": 2012,
     "km": 240000
-  },
-  "wh:1481306276": {
-    "p": 2499,
-    "f": "2026-06-16T06:24:25.906482+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i20-1-6-1481306276/",
-    "t": "Hyundai i20 1,6",
-    "ts": "2026-06-16T06:24:25.906482+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2013,
-    "km": 212000
   },
   "__health__": {
     "wh": 0,
