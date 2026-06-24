@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1303464591": {
+    "p": 13900,
+    "f": "2026-06-24T08:28:25.513511+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/alfa-romeo-giulietta-veloce-1303464591/",
+    "t": "Alfa Romeo Giulietta Veloce",
+    "ts": "2026-06-24T08:28:25.513511+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2017,
+    "km": 79000,
+    "b": "Limousine"
+  },
+  "wh:1948581982": {
+    "p": 4500,
+    "f": "2026-06-24T08:28:25.513511+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-mit-pickerl-highline-1948581982/",
+    "t": "VW Polo MIT PICKERL Highline",
+    "ts": "2026-06-24T08:28:25.513511+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Polo",
+    "y": 2010,
+    "km": 150000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:63e4126e-3c88-48d9-a5c7-fef2e51e3664": {
     "p": null,
     "f": "2026-06-24T08:26:31.721328+00:00",
@@ -144412,30 +144438,6 @@
     "mo": "Daily",
     "y": 2011,
     "km": 225000
-  },
-  "as:580ee3b8-7499-45c6-b44c-188340f7a11b": {
-    "p": null,
-    "f": "2026-06-15T20:38:36.222178+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:841993995": {
-    "p": 2500,
-    "f": "2026-06-15T20:38:33.829464+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-familie-841993995/",
-    "t": "VW Polo Familie",
-    "ts": "2026-06-15T20:38:33.829464+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2008,
-    "km": 144000
   },
   "__health__": {
     "wh": 0,
