@@ -147,6 +147,44 @@
     "y": 2009,
     "km": 235000
   },
+  "as:abe0e964-7444-492a-8f67-3326a6923399": {
+    "p": null,
+    "f": "2026-06-24T08:46:25.181077+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1688394283": {
+    "p": 3000,
+    "f": "2026-06-24T08:46:24.131988+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-508-sw-1-6-e-hdi-professional-line-1688394283/",
+    "t": "Peugeot 508 SW 1,6 e-HDI Professional Line",
+    "ts": "2026-06-24T08:46:24.131988+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 246000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1934251418": {
+    "p": 1950,
+    "f": "2026-06-24T08:46:24.131988+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/chrysler-voyager-grand-voyager-rt-1934251418/",
+    "t": "Chrysler Voyager Grand Voyager RT",
+    "ts": "2026-06-24T08:46:24.131988+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 257500,
+    "b": "Kombi / Family Van"
+  },
   "as:4c00d551-fcc0-4d90-b59e-9a0c30e1ad5d": {
     "p": null,
     "f": "2026-06-24T08:45:40.605554+00:00",
@@ -216,7 +254,7 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/citroen-nemo-1-4-motor-diesel-diesel-cat_ma21mo19117/8c5120bd-2d26-4b2d-952e-652aedc3b6b6",
     "t": "Citroen Nemo",
     "ts": "2026-06-24T08:43:35.554578+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Citroen",
     "mo": "Nemo",
     "y": 2008,
@@ -144428,42 +144466,6 @@
     "mo": null,
     "y": 2014,
     "km": 122000
-  },
-  "gw:97829e32-ac7c-4a6f-9220-4bcb4a23add0": {
-    "p": 1090,
-    "f": "2026-06-15T20:58:41.146837+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/ford-ka-ka+-ka-1-2-collection-collection-benzin-schwarz-cat_ma29mo1761/97829e32-ac7c-4a6f-9220-4bcb4a23add0",
-    "t": "Ford Ka/Ka+",
-    "ts": "2026-06-15T20:58:41.146837+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Ka/Ka+",
-    "y": 2010,
-    "km": 88719
-  },
-  "as:97829e32-ac7c-4a6f-9220-4bcb4a23add0": {
-    "p": 1090,
-    "f": "2026-06-15T20:58:30.606876+00:00",
-    "u": "https://www.autoscout24.at/angebote/ford-ka-ka+-ka-1-2-collection-collection-benzin-schwarz-cat_ma29mo1761-97829e32-ac7c-4a6f-9220-4bcb4a23add0",
-    "t": "Ford Ka/Ka+",
-    "ts": "2026-06-15T20:58:30.606876+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Ka/Ka+",
-    "y": 2010,
-    "km": 88719
-  },
-  "wh:1793625767": {
-    "p": 9900,
-    "f": "2026-06-15T20:55:39.930935+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-caravelle-lr-allrad-neues-pickerl-1793625767/",
-    "t": "VW Caravelle LR Allrad Neues pickerl",
-    "ts": "2026-06-15T20:55:39.930935+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Caravelle",
-    "y": 2009,
-    "km": 283000
   },
   "__health__": {
     "wh": 0,
