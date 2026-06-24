@@ -147,6 +147,44 @@
     "y": 2009,
     "km": 235000
   },
+  "as:0e9f6b0b-bddd-4e38-9156-59c16152060f": {
+    "p": null,
+    "f": "2026-06-24T17:45:39.517037+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:933968908": {
+    "p": 1250,
+    "f": "2026-06-24T17:45:38.374818+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i20-benziner-933968908/",
+    "t": "Hyundai i20 Benziner",
+    "ts": "2026-06-24T17:45:38.374818+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 170000,
+    "b": "Limousine"
+  },
+  "wh:1347322273": {
+    "p": 13000,
+    "f": "2026-06-24T17:45:38.374818+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-e91-318d-1347322273/",
+    "t": "BMW 3er-Reihe E91 318d",
+    "ts": "2026-06-24T17:45:38.374818+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "3er-Reihe",
+    "y": 2009,
+    "km": 231300,
+    "b": "Kombi / Family Van"
+  },
   "as:15c43f6f-a0b0-4580-9587-2664c1f1c160": {
     "p": 3100,
     "f": "2026-06-24T17:43:26.311137+00:00",
@@ -485,11 +523,11 @@
     "pu": "2026-06-24T17:31:23.461237+00:00"
   },
   "wh:1788434142": {
-    "p": 13999,
+    "p": 12999,
     "f": "2026-06-24T17:31:23.461237+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-ceed-sw-silber-1-0-t-gdi-1788434142/",
     "t": "KIA Ceed SW Silber 1.0 T-GDI",
-    "ts": "2026-06-24T17:31:23.461237+00:00",
+    "ts": "2026-06-24T17:45:38.374818+00:00",
     "ch": null,
     "ma": null,
     "mo": null,
@@ -145331,42 +145369,6 @@
     "mo": "A5",
     "y": 2014,
     "km": 279000
-  },
-  "wh:1071050631": {
-    "p": 5300,
-    "f": "2026-06-16T14:26:37.461773+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-toledo-1-2-tsi-style-start-stopp-1071050631/",
-    "t": "Seat Toledo 1,2 TSI Style Start-Stopp",
-    "ts": "2026-06-16T14:26:37.461773+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Toledo",
-    "y": 2013,
-    "km": 172000
-  },
-  "as:08b10a1e-d7d6-4215-8040-acb1e00a9b25": {
-    "p": null,
-    "f": "2026-06-16T14:24:38.743363+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1198747759": {
-    "p": 4490,
-    "f": "2026-06-16T14:24:36.767924+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-9-1198747759/",
-    "t": "VW Golf 1,9",
-    "ts": "2026-06-16T14:24:36.767924+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2011,
-    "km": 185000
   },
   "__health__": {
     "wh": 0,
