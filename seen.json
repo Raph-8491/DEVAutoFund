@@ -147,6 +147,58 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1320890750": {
+    "p": 3400,
+    "f": "2026-06-24T08:42:27.384284+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/alfa-romeo-159-1320890750/",
+    "t": "Alfa Romeo 159",
+    "ts": "2026-06-24T08:42:27.384284+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 190000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:797179075": {
+    "p": 5900,
+    "f": "2026-06-24T08:42:27.384284+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-2-0-tdi-797179075/",
+    "t": "VW Golf 2.0 TDI",
+    "ts": "2026-06-24T08:42:27.384284+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2009,
+    "km": 134500,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1414322831": {
+    "p": 10500,
+    "f": "2026-06-24T08:42:27.384284+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-320i-cabrio-oesterreich-paket-aut-1414322831/",
+    "t": "BMW 3er-Reihe 320i Cabrio \u00d6sterreich-Paket Aut.",
+    "ts": "2026-06-24T08:42:27.384284+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "3er-Reihe",
+    "y": 2008,
+    "km": 240000,
+    "b": "Cabrio / Roadster"
+  },
+  "wh:1031833224": {
+    "p": 6000,
+    "f": "2026-06-24T08:42:27.384284+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-mokka-1-4-turbo-ecotec-cosmo-start-stop-system-1031833224/",
+    "t": "Opel Mokka 1,4 Turbo Ecotec Cosmo Start/Stop System",
+    "ts": "2026-06-24T08:42:27.384284+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Mokka",
+    "y": 2014,
+    "km": 179000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "gw:8c942542-478b-44b1-8ed8-9eb3c64e5525": {
     "p": 11500,
     "f": "2026-06-24T08:40:54.332162+00:00",
@@ -120384,7 +120436,8 @@
     "ma": null,
     "mo": null,
     "y": 2014,
-    "km": 58300
+    "km": 58300,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:1116611577": {
     "p": 9300,
@@ -144407,54 +144460,6 @@
     "mo": null,
     "y": 2012,
     "km": 330000
-  },
-  "wh:1929603661": {
-    "p": 1600,
-    "f": "2026-06-15T20:50:47.037812+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a1-1-6-tdi-1929603661/",
-    "t": "Audi A1 1,6 TDI",
-    "ts": "2026-06-15T20:50:47.037812+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A1",
-    "y": 2010,
-    "km": 211000
-  },
-  "wh:1140558520": {
-    "p": 3500,
-    "f": "2026-06-15T20:49:30.416619+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-2-0tdi-kombi-family-van-1140558520/",
-    "t": "Ford Galaxy 2.0TDI Kombi/Family Van",
-    "ts": "2026-06-15T20:49:30.416619+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 314000
-  },
-  "wh:1164202516": {
-    "p": 5600,
-    "f": "2026-06-15T20:49:30.416619+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-gia-1164202516/",
-    "t": "Ford Galaxy Gia",
-    "ts": "2026-06-15T20:49:30.416619+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 178800
-  },
-  "wh:823064081": {
-    "p": 1200,
-    "f": "2026-06-15T20:49:30.416619+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c5-citroen-c5-tourer-1-6-hdi-diesel-fahrbereit-export-bastler-823064081/",
-    "t": "Citro\u00ebn C5 Citro\u00ebn C5 Tourer 1.6 HDi Diesel - fahrbereit - Export/Bastler",
-    "ts": "2026-06-15T20:49:30.416619+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 272900
   },
   "__health__": {
     "wh": 0,
