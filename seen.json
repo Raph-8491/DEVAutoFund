@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:73fe92a0-dd29-4aaf-b477-19f520e2ff80": {
+    "p": 8500,
+    "f": "2026-06-24T20:31:00.413337+00:00",
+    "u": "https://www.autoscout24.at/angebote/hyundai-i10-i10-1-0-passion-benzin-braun-cat_ma33mo19123-73fe92a0-dd29-4aaf-b477-19f520e2ff80",
+    "t": "Hyundai i10 i10 1.0 Passion",
+    "ts": "2026-06-24T20:31:00.413337+00:00",
+    "ch": null,
+    "ma": "Hyundai",
+    "mo": "i10",
+    "y": 2016,
+    "km": 84000,
+    "b": ""
+  },
   "wh:1989577702": {
     "p": 6999,
     "f": "2026-06-24T20:29:20.556548+00:00",
@@ -145652,18 +145665,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1772742510": {
-    "p": 8600,
-    "f": "2026-06-16T16:46:36.843513+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-avant-2-0-tdi-quattro-dpf-s-tronic-1772742510/",
-    "t": "Audi A4 Avant 2,0 TDI quattro DPF S-tronic",
-    "ts": "2026-06-16T16:46:36.843513+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2013,
-    "km": 263000
   },
   "__health__": {
     "wh": 0,
