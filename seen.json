@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:de78bd80-52a2-4ec9-b447-6c6cbc8c6a84": {
+    "p": 13500,
+    "f": "2026-06-24T19:33:32.068062+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/audi-a5-sb-3-0-tdi-quattro-sport-dpf-s-tronic-diesel-cat_ma9mo19047/de78bd80-52a2-4ec9-b447-6c6cbc8c6a84",
+    "t": "Audi A5 SB 3,0 TDI quattro Sport DPF S-tronic",
+    "ts": "2026-06-24T19:33:32.068062+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A5",
+    "y": 2014,
+    "km": 22000,
+    "b": ""
+  },
+  "as:de78bd80-52a2-4ec9-b447-6c6cbc8c6a84": {
+    "p": 13500,
+    "f": "2026-06-24T19:33:24.276347+00:00",
+    "u": "https://www.autoscout24.at/angebote/audi-a5-sb-3-0-tdi-quattro-sport-dpf-s-tronic-diesel-cat_ma9mo19047-de78bd80-52a2-4ec9-b447-6c6cbc8c6a84",
+    "t": "Audi A5 SB 3,0 TDI quattro Sport DPF S-tronic",
+    "ts": "2026-06-24T19:33:24.276347+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A5",
+    "y": 2014,
+    "km": 22000,
+    "b": "",
+    "pu": "2026-06-24T19:33:24.276347+00:00"
+  },
   "wh:1923230196": {
     "p": 4090,
     "f": "2026-06-24T19:32:25.065576+00:00",
@@ -145551,30 +145578,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:dd573b67-117f-4ee3-ac88-e4c61198a23b": {
-    "p": null,
-    "f": "2026-06-16T16:04:42.080414+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1800931287": {
-    "p": 3800,
-    "f": "2026-06-16T16:04:36.934469+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-1800931287/",
-    "t": "Ford Galaxy",
-    "ts": "2026-06-16T16:04:36.934469+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 205000
   },
   "__health__": {
     "wh": 0,
