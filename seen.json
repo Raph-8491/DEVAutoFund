@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:f8dcfa3a-9e82-4075-bf5c-99bc0c1d5ec2": {
+    "p": 10500,
+    "f": "2026-06-24T14:34:32.592955+00:00",
+    "u": "https://www.autoscout24.at/angebote/mercedes-benz-250-bluetec-4matic-diesel-schwarz-cat_ma47mo1850-f8dcfa3a-9e82-4075-bf5c-99bc0c1d5ec2",
+    "t": "Mercedes-Benz 250 BlueTEC, 4Matic",
+    "ts": "2026-06-24T14:34:32.592955+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "250",
+    "y": 2016,
+    "km": 241,
+    "b": ""
+  },
   "as:6983f1d5-037c-4068-bea0-1d9139ea1dfd": {
     "p": null,
     "f": "2026-06-24T14:33:25.248528+00:00",
@@ -227,7 +240,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-1833783828/",
     "t": "BMW 3er-Reihe",
     "ts": "2026-06-24T14:31:40.610489+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "3er-Reihe",
     "y": 2017,
@@ -1041,7 +1054,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-7er-reihe-730d-lim-m57-2126935992/",
     "t": "BMW 7er-Reihe 730d lim m57",
     "ts": "2026-06-24T14:31:40.610489+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "7er-Reihe",
     "y": 2008,
@@ -145014,18 +145027,6 @@
     "mo": null,
     "y": 2009,
     "km": 220000
-  },
-  "wh:2134751432": {
-    "p": 11000,
-    "f": "2026-06-16T10:48:35.586946+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-2-0-tdi-2134751432/",
-    "t": "Skoda Octavia 2.0 TDI",
-    "ts": "2026-06-16T10:48:35.586946+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2017,
-    "km": 204000
   },
   "__health__": {
     "wh": 0,
