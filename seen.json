@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1402810981": {
+    "p": 7799,
+    "f": "2026-06-24T10:24:26.629428+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-facelift-lci-pano-navi-kette-neu-1402810981/",
+    "t": "BMW 3er-Reihe Facelift LCI//Pano//Navi//Kette Neu",
+    "ts": "2026-06-24T10:24:26.629428+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "3er-Reihe",
+    "y": 2010,
+    "km": 164000,
+    "b": "Kombi / Family Van"
+  },
   "as:60f70d71-da10-43d4-8c64-dde9118d0e09": {
     "p": 5800,
     "f": "2026-06-24T10:23:23.301115+00:00",
@@ -192,7 +205,7 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/audi-a3-sb-1-2-tfsi-ambiente-benzin-cat_ma9mo1624/475003ff-9f4f-4a45-8299-8b13ae6d26fc",
     "t": "Audi A3",
     "ts": "2026-06-24T10:20:54.159125+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A3",
     "y": 2010,
@@ -217,7 +230,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/lexus-is-250-f-sport-2002964903/",
     "t": "Lexus IS 250 F-Sport",
     "ts": "2026-06-24T10:20:42.393561+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2010,
@@ -230,7 +243,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-5008-982731786/",
     "t": "Peugeot 5008",
     "ts": "2026-06-24T10:20:42.393561+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2015,
@@ -121087,7 +121100,8 @@
     "ma": "Mercedes-Benz",
     "mo": "B-Klasse",
     "y": 2018,
-    "km": 219000
+    "km": 219000,
+    "b": "Kombi / Family Van"
   },
   "as:379bdc7f-30b0-43d8-a7fb-e38ad869e8f4": {
     "p": null,
@@ -144607,18 +144621,6 @@
     "mo": null,
     "y": 2009,
     "km": 320000
-  },
-  "gw:ba676993-a07f-4b06-9b91-e503c3eff172": {
-    "p": 1700,
-    "f": "2026-06-16T05:46:05.225430+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/ford-galaxy-titanium-2-0-tdci-dpf-aut-diesel-cat_ma29mo1759/ba676993-a07f-4b06-9b91-e503c3eff172",
-    "t": "Ford Galaxy",
-    "ts": "2026-06-16T05:46:05.225430+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Galaxy",
-    "y": 2009,
-    "km": 355190
   },
   "__health__": {
     "wh": 0,
