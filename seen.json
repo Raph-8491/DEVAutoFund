@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:f550aa19-2825-490a-852c-22d4e43f5771": {
+    "p": 14500,
+    "f": "2026-06-24T10:53:28.153113+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/ford-ranger-ranger-doppelkabine-limited-4x4-2-2-tdci-limited-diesel-silber-cat_ma29mo15862/f550aa19-2825-490a-852c-22d4e43f5771",
+    "t": "Ford Ranger",
+    "ts": "2026-06-24T10:53:28.153113+00:00",
+    "ch": null,
+    "ma": "Ford",
+    "mo": "Ranger",
+    "y": 2012,
+    "km": 139402,
+    "b": ""
+  },
+  "as:f550aa19-2825-490a-852c-22d4e43f5771": {
+    "p": 14500,
+    "f": "2026-06-24T10:53:22.608684+00:00",
+    "u": "https://www.autoscout24.at/angebote/ford-ranger-ranger-doppelkabine-limited-4x4-2-2-tdci-limited-diesel-silber-cat_ma29mo15862-f550aa19-2825-490a-852c-22d4e43f5771",
+    "t": "Ford Ranger",
+    "ts": "2026-06-24T10:53:22.608684+00:00",
+    "ch": null,
+    "ma": "Ford",
+    "mo": "Ranger",
+    "y": 2012,
+    "km": 139402,
+    "b": ""
+  },
   "as:c5c0693a-7e87-48f9-bd74-e64b6a448d83": {
     "p": 6000,
     "f": "2026-06-24T10:52:25.359558+00:00",
@@ -144640,30 +144666,6 @@
     "mo": "A1",
     "y": 2012,
     "km": 213000
-  },
-  "as:491f5ff5-0d66-4d86-a65e-929b106b430a": {
-    "p": null,
-    "f": "2026-06-16T06:33:23.718626+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:030e6a50-5f10-4c47-b748-93e20e976970": {
-    "p": null,
-    "f": "2026-06-16T06:32:33.023942+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
