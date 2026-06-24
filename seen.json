@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "as:19f1af9c-3e83-45c1-9cb9-4a379792b90d": {
+    "p": null,
+    "f": "2026-06-24T12:34:33.078891+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1651242710": {
+    "p": 6300,
+    "f": "2026-06-24T12:34:30.341914+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-trendline-bmt-1-6-tdi-dpf-1651242710/",
+    "t": "VW Golf Variant Trendline BMT 1,6 TDI DPF",
+    "ts": "2026-06-24T12:34:30.341914+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2013,
+    "km": 163000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T12:34:30.341914+00:00"
+  },
   "as:ccd87c49-69d6-4b95-a08f-328707f995bb": {
     "p": null,
     "f": "2026-06-24T12:32:32.447965+00:00",
@@ -121769,16 +121795,17 @@
     "km": 280525
   },
   "wh:1546521339": {
-    "p": 4200,
+    "p": 3500,
     "f": "2026-06-17T12:31:34.903158+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-500-1546521339/",
     "t": "Fiat 500",
-    "ts": "2026-06-17T12:31:34.903158+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T12:34:30.341914+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2012,
-    "km": 119000
+    "km": 119000,
+    "b": "Limousine"
   },
   "wh:1118078976": {
     "p": 3400,
@@ -144789,30 +144816,6 @@
     "mo": null,
     "y": 2008,
     "km": 12432
-  },
-  "wh:1233421458": {
-    "p": 8800,
-    "f": "2026-06-16T08:31:37.342573+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-cool-1-6-bmt-tdi-1233421458/",
-    "t": "VW Golf Cool 1,6 BMT TDI",
-    "ts": "2026-06-16T08:31:37.342573+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2014,
-    "km": 111200
-  },
-  "wh:1455913266": {
-    "p": 11999,
-    "f": "2026-06-16T08:31:37.342573+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-2-0-tdi-stdhz-acc-motorsound-bose-1455913266/",
-    "t": "Audi A6 2.0 tdi StdHz, ACC, Motorsound, Bose",
-    "ts": "2026-06-16T08:31:37.342573+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A6",
-    "y": 2012,
-    "km": 227900
   },
   "__health__": {
     "wh": 0,
