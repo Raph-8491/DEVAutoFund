@@ -147,6 +147,30 @@
     "y": 2009,
     "km": 235000
   },
+  "as:b92576f6-cead-471a-a469-b7bab768c6ac": {
+    "p": null,
+    "f": "2026-06-24T13:21:23.227094+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:ccf30e01-48e2-4b11-865b-6ed6d83cac24": {
+    "p": null,
+    "f": "2026-06-24T13:21:23.227094+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:5956b643-1e30-42ef-8d4d-6de9447bb86e": {
     "p": null,
     "f": "2026-06-24T13:19:30.472938+00:00",
@@ -232,7 +256,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x1-xdrive-18d-1022959059/",
     "t": "BMW X1 XDrive 18d",
     "ts": "2026-06-24T13:18:25.045378+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "X1",
     "y": 2013,
@@ -144871,30 +144895,6 @@
     "mo": "Transit",
     "y": 2013,
     "km": 249000
-  },
-  "as:1e917db5-f688-4eb0-a62b-81de00534e41": {
-    "p": null,
-    "f": "2026-06-16T09:20:51.224249+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:fdab05b8-c11a-4b5e-8aee-e871b3f71a0f": {
-    "p": 2850,
-    "f": "2026-06-16T09:20:51.224249+00:00",
-    "u": "https://www.autoscout24.at/angebote/audi-a1-1-4-tfsi-ambition-benzin-cat_ma9mo19083-fdab05b8-c11a-4b5e-8aee-e871b3f71a0f",
-    "t": "Audi A1",
-    "ts": "2026-06-16T09:20:51.224249+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A1",
-    "y": 2010,
-    "km": 270000
   },
   "__health__": {
     "wh": 0,
