@@ -1,31 +1,37 @@
 """
-DEVAutoFund Statistik-Analyse: zaehlt Markt-Position UND Haendler-Filter-Treffer
-ueber alle Eintraege in seen.json. Manuell ueber GitHub Actions (workflow_dispatch).
+DEVAutoFund Analyse v2: zaehlt die ECHT GEPUSHTEN Autos (Marker 'pu'), nicht die
+ganze seen.json (die nur als Marktwert-Vergleichs-DB dient).
+Plus Doppel-Check: meldet durchgerutschte Dubletten.
+Manuell ueber GitHub Actions (workflow_dispatch).
 """
 import os
 import json
 import re
+import unicodedata
 import requests
 from pathlib import Path
+from datetime import datetime, timezone, timedelta
 from collections import Counter
 
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "")
 TELEGRAM_CHAT_IDS = [c.strip() for c in os.environ.get("TELEGRAM_CHAT_ID", "").split(",") if c.strip()]
-
 SEEN_FILE = Path("seen.json")
 
 MARKET_TOLERANCE_YEARS = 2
 MARKET_TOLERANCE_KM = 30000
 MARKET_MIN_COUNT = 3
-DAILY_VOLUME = 900
 
 DEALER_BRANDS = {"VW", "Audi", "BMW", "Mercedes-Benz"}
 LIMO_POS = ["limousine", "limo", "sedan", "stufenheck"]
 LIMO_NEG = ["kombi", "avant", "touring", "variant", "sportback", "gran coupe",
-            "gran turismo", "shooting brake", "suv", "coupe", "cabrio", "roadster",
-            "van", "kompakt", "schraegheck", "fliessheck", "t-modell", "tourer",
-            "allroad", "cross country", "kasten", "bus", "hatchback", "fastback",
-            "liftback", "active tourer", "gran tourer", "scenic"]
+            "gran turismo", "shooting brake", "suv", "coupe", "sportwagen",
+            "cabrio", "roadster", "van", "kompakt", "schraegheck", "fliessheck",
+            "t-modell", "tourer", "allroad", "cross country", "kasten", "bus",
+            "hatchback", "fastback", "liftback", "active tourer", "gran tourer", "scenic"]
+
+
+def _strip_accents(s):
+    return "".join(c for c in unicodedata.normalize("NFKD", s) if not unicodedata.combining(c))
 
 
 def _normalize_model(s):
@@ -33,7 +39,7 @@ def _normalize_model(s):
 
 
 def is_limousine(body, title):
-    t = ((body or "") + " " + (title or "")).lower()
+    t = _strip_accents(((body or "") + " " + (title or "")).lower())
     if any(k in t for k in LIMO_NEG):
         return False
     if any(k in t for k in LIMO_POS):
@@ -41,42 +47,30 @@ def is_limousine(body, title):
     return False
 
 
-def car_passes_dealer_rules(make, body, title, year, km):
-    if make not in DEALER_BRANDS:
-        return False
-    if year is None:
-        return False
-    limo = is_limousine(body, title)
-    if make == "Mercedes-Benz":
-        if not limo:
-            return False
-        if year >= 2014:
-            return True
-        return year >= 2010 and km is not None and km <= 240000
-    if make == "BMW":
-        if limo:
-            return year >= 2006
-        if year >= 2014:
-            return True
-        return year >= 2010 and km is not None and km <= 250000
-    if year >= 2014:
-        return True
-    return year >= 2008 and km is not None and km <= 240000
-
-
 def body_bucket(body, title):
-    t = ((body or "") + " " + (title or "")).lower()
-    if "suv" in t or "gelaend" in t or "geländ" in t:
+    t = _strip_accents(((body or "") + " " + (title or "")).lower())
+    if "suv" in t or "gelandewagen" in t:
         return "SUV"
     if "kombi" in t or "avant" in t or "touring" in t or "variant" in t or "t-modell" in t:
         return "Kombi"
     if "cabrio" in t or "roadster" in t:
         return "Cabrio"
-    if "coupe" in t or "coupé" in t:
+    if "coupe" in t or "sportwagen" in t:
         return "Coupe"
     if is_limousine(body, title):
         return "Limousine"
     return "unbekannt"
+
+
+def car_fingerprint(info):
+    ma = (info.get("ma") or "").strip().lower()
+    mo = re.sub(r"[^a-z0-9]", "", (info.get("mo") or "").lower())
+    y = info.get("y")
+    km = info.get("km")
+    p = info.get("p")
+    if not ma or not mo or y is None or km is None or not p:
+        return None
+    return f"{ma}|{mo}|{y}|{km}|{p}"
 
 
 def calculate_market_median(seen, make, model, year, km):
@@ -102,13 +96,9 @@ def calculate_market_median(seen, make, model, year, km):
         ip = info.get("p")
         if not im or not imo or iy is None or ikm is None or not ip:
             continue
-        if im.lower() != make_lower:
+        if im.lower() != make_lower or _normalize_model(imo) != model_norm:
             continue
-        if _normalize_model(imo) != model_norm:
-            continue
-        if abs(iy - year) > MARKET_TOLERANCE_YEARS:
-            continue
-        if abs(ikm - km) > MARKET_TOLERANCE_KM:
+        if abs(iy - year) > MARKET_TOLERANCE_YEARS or abs(ikm - km) > MARKET_TOLERANCE_KM:
             continue
         prices.append(ip)
     if len(prices) < MARKET_MIN_COUNT:
@@ -127,6 +117,13 @@ def categorize(price, median):
     if pct < 0:
         return "super" if pct <= -15 else "gut"
     return "ueberteuert" if pct >= 15 else "ueber"
+
+
+def parse_ts(s):
+    try:
+        return datetime.fromisoformat(s)
+    except Exception:
+        return None
 
 
 def send_telegram(message):
@@ -153,83 +150,94 @@ def main():
         return
     seen = json.loads(SEEN_FILE.read_text())
 
-    total = sum(1 for k in seen if k != "__health__")
-    complete = []
-    for ad_id, info in seen.items():
-        if ad_id == "__health__":
+    db_complete = sum(1 for k, v in seen.items()
+                      if k != "__health__" and v.get("ma") and v.get("mo")
+                      and v.get("y") and v.get("km") and v.get("p"))
+
+    # Nur ECHT gepushte Autos (Marker pu)
+    pushed = [(k, v) for k, v in seen.items() if k != "__health__" and v.get("pu")]
+
+    now = datetime.now(timezone.utc)
+    n_total = len(pushed)
+    n_24h = n_7d = 0
+    for _, v in pushed:
+        ts = parse_ts(v.get("pu"))
+        if not ts:
             continue
-        if info.get("ma") and info.get("mo") and info.get("y") and info.get("km") and info.get("p"):
-            complete.append((ad_id, info))
-    incomplete = total - len(complete)
+        age = now - ts
+        if age <= timedelta(hours=24):
+            n_24h += 1
+        if age <= timedelta(days=7):
+            n_7d += 1
 
-    print(f"Gesamt: {total} | vollstaendig: {len(complete)} | unvollstaendig: {incomplete}")
-    print("Analysiere...")
-
-    # Markt-Position
+    # Markt-Position NUR der gepushten Autos
     cats = Counter()
     no_cmp = 0
-    for i, (ad_id, info) in enumerate(complete):
-        if i % 1000 == 0 and i > 0:
-            print(f"  ... {i}/{len(complete)}")
-        median = calculate_market_median(seen, info["ma"], info["mo"], info["y"], info["km"])
-        c = categorize(info["p"], median)
+    by_make = Counter()
+    bodies = Counter()
+    for ad_id, info in pushed:
+        by_make[info.get("ma")] += 1
+        bodies[body_bucket(info.get("b"), info.get("t"))] += 1
+        median = calculate_market_median(seen, info.get("ma"), info.get("mo"), info.get("y"), info.get("km"))
+        c = categorize(info.get("p"), median)
         if c is None:
             no_cmp += 1
         else:
             cats[c] += 1
-    total_cls = sum(cats.values()) + no_cmp or 1
+
+    # Doppel-Check: gleiche Fingerprints unter verschiedenen IDs (durchgerutschte Dubletten)
+    fp_map = {}
+    for ad_id, info in pushed:
+        fp = car_fingerprint(info)
+        if fp:
+            fp_map.setdefault(fp, []).append(ad_id)
+    dupes = {fp: ids for fp, ids in fp_map.items() if len(ids) > 1}
+    dupe_extra = sum(len(ids) - 1 for ids in dupes.values())
 
     def pct(n):
-        return f"{100 * n / total_cls:.1f}%"
+        return f"{100 * n / n_total:.1f}%" if n_total else "0%"
 
-    def per_day(n):
-        return round(DAILY_VOLUME * n / total_cls)
-
-    # Haendler-Filter ueber gesamte DB (Marke vorhanden reicht, BJ/KM/Limo werden geprueft)
-    brand_total = Counter()
-    brand_hit = Counter()
-    body_dist = Counter()
-    dealer_hits = 0
-    for ad_id, info in seen.items():
-        if ad_id == "__health__":
-            continue
-        make = info.get("ma")
-        if make not in DEALER_BRANDS:
-            continue
-        brand_total[make] += 1
-        body = info.get("b") or ""
-        title = info.get("t") or ""
-        body_dist[body_bucket(body, title)] += 1
-        if car_passes_dealer_rules(make, body, title, info.get("y"), info.get("km")):
-            brand_hit[make] += 1
-            dealer_hits += 1
-    zielmarken_total = sum(brand_total.values())
+    if n_total == 0:
+        msg = ("📊 *DEVAutoFund Analyse v2*\n\n"
+               "Noch *keine* gepushten Autos mit Marker vorhanden.\n"
+               "Der Push-Marker (pu) kommt mit v1.4 - ab jetzt wird jeder echte "
+               "Push gezaehlt. In ein paar Stunden/Tagen hier nochmal triggern.\n\n"
+               f"_Markt-DB (Vergleichsbasis): {db_complete} vollst. Eintraege._")
+        print(msg)
+        send_telegram(msg)
+        return
 
     msg = (
-        f"📊 *DEVAutoFund Analyse*\n\n"
-        f"Eintraege gesamt: *{total}*\n"
-        f"Mit vollst. Daten: *{len(complete)}*\n\n"
-        f"*Markt-Position (vollst. Eintraege):*\n"
+        f"📊 *DEVAutoFund Analyse v2 (echte Pushes)*\n\n"
+        f"*Vom Bot gepusht:*\n"
+        f"Gesamt: *{n_total}*\n"
+        f"Letzte 24h: *{n_24h}*\n"
+        f"Letzte 7 Tage: *{n_7d}*\n\n"
+        f"*Markt-Position dieser Autos:*\n"
         f"🟢🟢🟢 SUPER PREIS: {cats['super']} ({pct(cats['super'])})\n"
         f"🟢 Guter Preis: {cats['gut']} ({pct(cats['gut'])})\n"
         f"⚪ Fair: {cats['fair']} ({pct(cats['fair'])})\n"
         f"🔴 Ueber Markt: {cats['ueber']} ({pct(cats['ueber'])})\n"
         f"🔴🔴🔴 Ueberteuert: {cats['ueberteuert']} ({pct(cats['ueberteuert'])})\n"
         f"❓ Zu wenige Vergleiche: {no_cmp} ({pct(no_cmp)})\n\n"
-        f"*HAENDLER-FILTER (VW/Audi/BMW/MB):*\n"
-        f"Zielmarken in DB: *{zielmarken_total}*\n"
-        f"Erfuellen Haendler-Regeln: *{dealer_hits}*\n\n"
-        f"_Pro Marke (Treffer / gesamt):_\n"
+        f"*Pro Marke (gepusht):*\n"
     )
     for mk in ["VW", "Audi", "BMW", "Mercedes-Benz"]:
-        msg += f"• {mk}: {brand_hit.get(mk,0)} / {brand_total.get(mk,0)}\n"
-    msg += "\n_Karosserie (Zielmarken):_\n"
-    for b, n in body_dist.most_common():
+        if by_make.get(mk):
+            msg += f"• {mk}: {by_make.get(mk)}\n"
+    msg += "\n*Karosserie (gepusht):*\n"
+    for b, n in bodies.most_common():
         msg += f"• {b}: {n}\n"
-    msg += ("\n⚠️ Limousinen-Erkennung bei Alt-Eintraegen noch ueber Titel "
-            "(Karosserie-Feld erst ab v1.1). Mercedes daher evtl. untertrieben.")
+    msg += (f"\n*Doppel-Check:* "
+            + (f"⚠️ {dupe_extra} durchgerutschte Dublette(n)!" if dupe_extra
+               else "✅ keine Dubletten (jedes Auto nur 1x)"))
+    msg += f"\n\n_Markt-DB (Vergleichsbasis): {db_complete} vollst. Eintraege._"
 
     print(msg)
+    if dupes:
+        print("\nDubletten-Details:")
+        for fp, ids in list(dupes.items())[:10]:
+            print(f"  {fp}  ->  {ids}")
     send_telegram(msg)
     print("\n✅ Analyse abgeschlossen")
 
