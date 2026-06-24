@@ -147,6 +147,20 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:868559194": {
+    "p": 10800,
+    "f": "2026-06-24T17:12:29.731198+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-cc-r-line-868559194/",
+    "t": "VW Passat CC R-Line",
+    "ts": "2026-06-24T17:12:29.731198+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Passat",
+    "y": 2012,
+    "km": 211800,
+    "b": "Limousine",
+    "pu": "2026-06-24T17:12:29.731198+00:00"
+  },
   "wh:1407109684": {
     "p": 12100,
     "f": "2026-06-24T17:10:47.623049+00:00",
@@ -123087,7 +123101,8 @@
     "ma": null,
     "mo": null,
     "y": 2009,
-    "km": 128900
+    "km": 128900,
+    "b": "Klein-/ Kompaktwagen"
   },
   "gw:096b110f-657d-4eb3-a175-5a0a213a5a22": {
     "p": 12000,
@@ -123291,7 +123306,8 @@
     "ma": null,
     "mo": null,
     "y": 2009,
-    "km": 149017
+    "km": 149017,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:1596048157": {
     "p": 8000,
@@ -145283,18 +145299,6 @@
     "mo": "Insignia",
     "y": 2014,
     "km": 227000
-  },
-  "wh:1499787323": {
-    "p": 5890,
-    "f": "2026-06-16T13:44:37.679036+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c4-picasso-intensive-1499787323/",
-    "t": "Citro\u00ebn C4 Picasso Intensive",
-    "ts": "2026-06-16T13:44:37.679036+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2015,
-    "km": 157000
   },
   "__health__": {
     "wh": 0,
