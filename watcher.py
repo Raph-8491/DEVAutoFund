@@ -1,5 +1,5 @@
 """
-Fahrzeug-Watcher v1.3 (Haendler-Profil VW/Audi/BMW/Mercedes): 3 Plattformen + Marken-/BJ-/KM-/Limousinen-Filter (akzent-unempfindlich: Coupe=Coupé) + Karosserie-Feld (b) + Content-Dedup (gleiches Auto an Marke+Modell+BJ+km+Preis) + Cross-Push-Dedup + Block-Warnung + Template + Preis-Drop + Link-Check + Marktwert-DB + Header-Rotation.
+Fahrzeug-Watcher v1.4 (Haendler-Profil VW/Audi/BMW/Mercedes): 3 Plattformen + Marken-/BJ-/KM-/Limousinen-Filter (akzent-unempfindlich: Coupe=Coupé) + Push-Marker (pu=Zeitstempel echter Pushes fuer Analyse) + Karosserie-Feld (b) + Content-Dedup (gleiches Auto an Marke+Modell+BJ+km+Preis) + Cross-Push-Dedup + Block-Warnung + Template + Preis-Drop + Link-Check + Marktwert-DB + Header-Rotation.
 """
 import os
 import json
@@ -1168,6 +1168,7 @@ def process_listings(listings, prefix, seen, first_run, format_func, photo_func,
                 if run_pushed_fps is not None and fp:
                     run_pushed_fps.add(fp)
                 print(f"  🧟 Zombie-Push: {ad_id} - {current_title[:50]}")
+                info["pu"] = now
                 continue
 
             if not info.get("ma") and meta.get("ma"):
@@ -1195,6 +1196,7 @@ def process_listings(listings, prefix, seen, first_run, format_func, photo_func,
                         send_telegram(drop_msg, photo_func(ad))
                         price_drops += 1
                         print(f"  💰 Preis-Drop: {ad_id} {old_price} → {current_price}")
+                        info["pu"] = now
                 info["p"] = current_price
                 info["ts"] = now
                 info["ch"] = None
@@ -1239,6 +1241,7 @@ def process_listings(listings, prefix, seen, first_run, format_func, photo_func,
             new_ooe += 1
         if run_pushed_fps is not None and fp:
             run_pushed_fps.add(fp)
+        seen[ad_id]["pu"] = now
         print(f"  Gemeldet: {ad_id}")
 
     if skipped_region:
