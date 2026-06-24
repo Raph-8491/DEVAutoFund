@@ -147,6 +147,56 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:6706cefd-4f8c-4d19-b31a-9c0311e3b3f6": {
+    "p": 14250,
+    "f": "2026-06-24T13:51:38.450351+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/fiat-500-500-firefly-hybrid-70-dolcevita-plus-dolcevita-plus-benzin-grau-cat_ma28mo15160/6706cefd-4f8c-4d19-b31a-9c0311e3b3f6",
+    "t": "Fiat 500",
+    "ts": "2026-06-24T13:51:38.450351+00:00",
+    "ch": null,
+    "ma": "Fiat",
+    "mo": "500",
+    "y": 2022,
+    "km": 20400,
+    "b": ""
+  },
+  "as:c0a92637-b8bf-4c78-b64d-d463a0a01f04": {
+    "p": null,
+    "f": "2026-06-24T13:51:30.804381+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:6706cefd-4f8c-4d19-b31a-9c0311e3b3f6": {
+    "p": 14250,
+    "f": "2026-06-24T13:51:30.804381+00:00",
+    "u": "https://www.autoscout24.at/angebote/fiat-500-500-firefly-hybrid-70-dolcevita-plus-dolcevita-plus-benzin-grau-cat_ma28mo15160-6706cefd-4f8c-4d19-b31a-9c0311e3b3f6",
+    "t": "Fiat 500",
+    "ts": "2026-06-24T13:51:30.804381+00:00",
+    "ch": null,
+    "ma": "Fiat",
+    "mo": "500",
+    "y": 2022,
+    "km": 20400,
+    "b": ""
+  },
+  "as:7976c051-7760-48a9-84c2-6cb3a27b74f2": {
+    "p": null,
+    "f": "2026-06-24T13:51:30.804381+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:9d2859df-ba6a-49ab-992f-b0776c5314b3": {
     "p": 10900,
     "f": "2026-06-24T13:50:55.494621+00:00",
@@ -144911,54 +144961,6 @@
     "mo": "Altea",
     "y": 2010,
     "km": 243000
-  },
-  "wh:1001810688": {
-    "p": 3500,
-    "f": "2026-06-16T10:01:28.121665+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-zafira-tourer-1-6-tdi-1001810688/",
-    "t": "Opel Zafira Tourer 1,6 tdi",
-    "ts": "2026-06-16T10:01:28.121665+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Zafira",
-    "y": 2015,
-    "km": 180994
-  },
-  "as:d1cc872a-1baf-4921-8012-1933681a743a": {
-    "p": null,
-    "f": "2026-06-16T09:59:47.645972+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1816130805": {
-    "p": 8500,
-    "f": "2026-06-16T09:59:29.031198+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-tourneo-courier-1-0-ecoboost-titanium-1816130805/",
-    "t": "Ford Tourneo Courier 1,0 EcoBoost Titanium",
-    "ts": "2026-06-16T09:59:29.031198+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2019,
-    "km": 151501
-  },
-  "as:06163cd7-81e8-451f-8d31-7a2c188eedfa": {
-    "p": 9500,
-    "f": "2026-06-16T09:58:41.609853+00:00",
-    "u": "https://www.autoscout24.at/angebote/audi-a6-2-8-fsi-quattro-benzin-cat_ma9mo1628-06163cd7-81e8-451f-8d31-7a2c188eedfa",
-    "t": "Audi A6",
-    "ts": "2026-06-16T09:58:41.609853+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A6",
-    "y": 2009,
-    "km": 110800
   },
   "__health__": {
     "wh": 0,
