@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:cdb516b3-5b5f-41d0-bc47-d720af59e7b2": {
+    "p": 14000,
+    "f": "2026-06-24T05:31:29.315024+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/suzuki-vitara-1-6-ddis-4wd-flash-dct-aut-diesel-cat_ma68mo2037/cdb516b3-5b5f-41d0-bc47-d720af59e7b2",
+    "t": "Suzuki Vitara",
+    "ts": "2026-06-24T05:31:29.315024+00:00",
+    "ch": null,
+    "ma": "Suzuki",
+    "mo": "Vitara",
+    "y": 2016,
+    "km": 76000,
+    "b": ""
+  },
+  "as:cdb516b3-5b5f-41d0-bc47-d720af59e7b2": {
+    "p": 14000,
+    "f": "2026-06-24T05:31:23.648895+00:00",
+    "u": "https://www.autoscout24.at/angebote/suzuki-vitara-1-6-ddis-4wd-flash-dct-aut-diesel-cat_ma68mo2037-cdb516b3-5b5f-41d0-bc47-d720af59e7b2",
+    "t": "Suzuki Vitara",
+    "ts": "2026-06-24T05:31:23.648895+00:00",
+    "ch": null,
+    "ma": "Suzuki",
+    "mo": "Vitara",
+    "y": 2016,
+    "km": 76000,
+    "b": ""
+  },
   "gw:bfe8afd0-96e4-4a54-aec5-10116ddd4dd7": {
     "p": 250,
     "f": "2026-06-24T05:31:04.226577+00:00",
@@ -191,7 +217,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-1763439445/",
     "t": "Audi A4",
     "ts": "2026-06-24T05:28:25.074292+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A4",
     "y": 2015,
@@ -144215,30 +144241,6 @@
     "mo": "Karl",
     "y": 2019,
     "km": 67800
-  },
-  "gw:16e65e1d-c876-48c9-989d-a859b241ec4f": {
-    "p": 12000,
-    "f": "2026-06-15T18:48:43.266060+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-320-320d-xdrive-touring-oesterreich-paket-diesel-cat_ma13mo1641/16e65e1d-c876-48c9-989d-a859b241ec4f",
-    "t": "BMW 320",
-    "ts": "2026-06-15T18:48:43.266060+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "320",
-    "y": 2013,
-    "km": 183550
-  },
-  "as:16e65e1d-c876-48c9-989d-a859b241ec4f": {
-    "p": 12000,
-    "f": "2026-06-15T18:48:32.304506+00:00",
-    "u": "https://www.autoscout24.at/angebote/bmw-320-320d-xdrive-touring-oesterreich-paket-diesel-cat_ma13mo1641-16e65e1d-c876-48c9-989d-a859b241ec4f",
-    "t": "BMW 320",
-    "ts": "2026-06-15T18:48:32.304506+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "320",
-    "y": 2013,
-    "km": 183550
   },
   "__health__": {
     "wh": 0,
