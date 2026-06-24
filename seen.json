@@ -147,6 +147,48 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1580792218": {
+    "p": 7199,
+    "f": "2026-06-24T15:18:33.736821+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touran-1-6-tdi-1580792218/",
+    "t": "VW Touran 1,6 TDI",
+    "ts": "2026-06-24T15:18:33.736821+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Touran",
+    "y": 2014,
+    "km": 237700,
+    "b": "Kleinbus",
+    "pu": "2026-06-24T15:18:33.736821+00:00"
+  },
+  "wh:2017188645": {
+    "p": 4500,
+    "f": "2026-06-24T15:18:33.736821+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-320d-2017188645/",
+    "t": "BMW 3er-Reihe 320D",
+    "ts": "2026-06-24T15:18:33.736821+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "3er-Reihe",
+    "y": 2011,
+    "km": 275000,
+    "b": "Limousine",
+    "pu": "2026-06-24T15:18:33.736821+00:00"
+  },
+  "wh:979490991": {
+    "p": 2499,
+    "f": "2026-06-24T15:18:33.736821+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-tdi-4-motion-979490991/",
+    "t": "VW Golf TDI 4 Motion",
+    "ts": "2026-06-24T15:18:33.736821+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2013,
+    "km": 225855,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T15:18:33.736821+00:00"
+  },
   "as:659a7cad-797b-45bd-9655-b004e500f587": {
     "p": null,
     "f": "2026-06-24T15:17:24.100534+00:00",
@@ -145064,42 +145106,6 @@
     "mo": "1er-Reihe",
     "y": 2009,
     "km": 242000
-  },
-  "wh:1996216369": {
-    "p": 11490,
-    "f": "2026-06-16T11:58:34.817738+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-325i-coupe-aut-1996216369/",
-    "t": "BMW 3er-Reihe 325i Coup\u00e9 Aut.",
-    "ts": "2026-06-16T11:58:34.817738+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2009,
-    "km": 246000
-  },
-  "wh:2028693582": {
-    "p": 5000,
-    "f": "2026-06-16T11:58:34.817738+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i20-crdi-premium-2028693582/",
-    "t": "Hyundai i20 CRDi Premium",
-    "ts": "2026-06-16T11:58:34.817738+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2015,
-    "km": 208800
-  },
-  "as:6f7e16c4-fb98-40f9-b745-9421e143ddea": {
-    "p": null,
-    "f": "2026-06-16T11:57:29.523781+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
