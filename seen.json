@@ -147,6 +147,57 @@
     "y": 2009,
     "km": 235000
   },
+  "as:86665c50-1156-49cc-a933-33a77dc50cdd": {
+    "p": 11700,
+    "f": "2026-06-24T07:10:42.136566+00:00",
+    "u": "https://www.autoscout24.at/angebote/bmw-520-520d-touring-sport-aut-diesel-cat_ma13mo1648-86665c50-1156-49cc-a933-33a77dc50cdd",
+    "t": "BMW 520",
+    "ts": "2026-06-24T07:10:42.136566+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "520",
+    "y": 2012,
+    "km": 215000,
+    "b": ""
+  },
+  "as:ca75cfc9-0e5b-48ae-9b2c-499e020507ac": {
+    "p": null,
+    "f": "2026-06-24T07:10:42.136566+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:6bc14a71-4a6d-4119-a6a6-50408c2344d0": {
+    "p": 3099,
+    "f": "2026-06-24T07:10:42.136566+00:00",
+    "u": "https://www.autoscout24.at/angebote/alfa-romeo-giulietta-1-4-tb-16v-super-benzin-cat_ma6mo1611-6bc14a71-4a6d-4119-a6a6-50408c2344d0",
+    "t": "Alfa Romeo Giulietta",
+    "ts": "2026-06-24T07:10:42.136566+00:00",
+    "ch": null,
+    "ma": "Alfa Romeo",
+    "mo": "Giulietta",
+    "y": 2011,
+    "km": 147000,
+    "b": ""
+  },
+  "wh:965137195": {
+    "p": 13800,
+    "f": "2026-06-24T07:10:41.019646+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-alhambra-family-2-0-tdi-965137195/",
+    "t": "Seat Alhambra Family 2,0 TDI",
+    "ts": "2026-06-24T07:10:41.019646+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Alhambra",
+    "y": 2016,
+    "km": 160000,
+    "b": "Kombi / Family Van"
+  },
   "wh:800306833": {
     "p": 13490,
     "f": "2026-06-24T07:08:27.404464+00:00",
@@ -144281,54 +144332,6 @@
     "mo": null,
     "y": 2012,
     "km": 147000
-  },
-  "as:e6d15bcd-98d5-46ef-a25b-c991172c4073": {
-    "p": 1200,
-    "f": "2026-06-15T19:27:36.695596+00:00",
-    "u": "https://www.autoscout24.at/angebote/kia-carens-carens-crdi-dpf-ex-diesel-schwarz-cat_ma39mo16538-e6d15bcd-98d5-46ef-a25b-c991172c4073",
-    "t": "Kia Carens",
-    "ts": "2026-06-15T19:27:36.695596+00:00",
-    "ch": "alive",
-    "ma": "Kia",
-    "mo": "Carens",
-    "y": 2009,
-    "km": 240000
-  },
-  "wh:1880528503": {
-    "p": 11990,
-    "f": "2026-06-15T19:26:28.431432+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-tipo-lounge-automatik-120-ps-pickerl-bis-11-2026-1880528503/",
-    "t": "Fiat Tipo Lounge Automatik 120 PS Pickerl bis 11/2026",
-    "ts": "2026-06-15T19:26:28.431432+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2019,
-    "km": 109900
-  },
-  "wh:1023743775": {
-    "p": 3700,
-    "f": "2026-06-15T19:26:28.431432+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-318i-lci-1023743775/",
-    "t": "BMW 3er-Reihe 318i LCI",
-    "ts": "2026-06-15T19:26:28.431432+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2009,
-    "km": 283194
-  },
-  "wh:1445701249": {
-    "p": 9000,
-    "f": "2026-06-15T19:26:28.431432+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mini-countryman-s-1445701249/",
-    "t": "MINI Countryman S",
-    "ts": "2026-06-15T19:26:28.431432+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 161000
   },
   "__health__": {
     "wh": 0,
