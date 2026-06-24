@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:10843861-f604-4d8c-802a-8eb40fdcabd1": {
+    "p": null,
+    "f": "2026-06-24T05:16:30.177642+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1191290358": {
+    "p": 7899,
+    "f": "2026-06-24T05:16:27.659161+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-525d-3-0d-neues-arboe-pickerl-guter-zustand-1191290358/",
+    "t": "BMW 5er-Reihe 525d 3.0d, Neues Arb\u00f6 Pickerl, Guter Zustand",
+    "ts": "2026-06-24T05:16:27.659161+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "5er-Reihe",
+    "y": 2011,
+    "km": 302197,
+    "b": "Kombi / Family Van"
+  },
   "wh:2024281816": {
     "p": 6200,
     "f": "2026-06-24T05:14:24.135033+00:00",
@@ -144203,30 +144228,6 @@
     "mo": "Mondeo",
     "y": 2014,
     "km": 224500
-  },
-  "as:1a143307-9f2b-4753-8092-aaf8233528dc": {
-    "p": 4000,
-    "f": "2026-06-15T18:43:28.035583+00:00",
-    "u": "https://www.autoscout24.at/angebote/ford-mondeo-traveller-business-plus-2-0-tdci-aut-diesel-blau-cat_ma29mo1763-1a143307-9f2b-4753-8092-aaf8233528dc",
-    "t": "Ford Mondeo",
-    "ts": "2026-06-15T18:43:28.035583+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Mondeo",
-    "y": 2014,
-    "km": 224500
-  },
-  "as:20b1678c-3210-4d35-84f4-2bd292051ac4": {
-    "p": null,
-    "f": "2026-06-15T18:43:28.035583+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
