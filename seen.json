@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "as:5a6a8c3c-62ad-47d0-9563-682c6ecb4a85": {
+    "p": 10499,
+    "f": "2026-06-24T20:05:34.919443+00:00",
+    "u": "https://www.autoscout24.at/angebote/nissan-micra-micra-0-9-ig-t-n-connecta-benzin-schwarz-cat_ma52mo1904-5a6a8c3c-62ad-47d0-9563-682c6ecb4a85",
+    "t": "Nissan Micra Micra 0.9 IG-T N-Connecta",
+    "ts": "2026-06-24T20:05:34.919443+00:00",
+    "ch": null,
+    "ma": "Nissan",
+    "mo": "Micra",
+    "y": 2018,
+    "km": 88500,
+    "b": ""
+  },
+  "wh:1933438500": {
+    "p": 2900,
+    "f": "2026-06-24T20:05:33.844714+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-1-4-1933438500/",
+    "t": "Ford Fiesta 1.4",
+    "ts": "2026-06-24T20:05:33.844714+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 86000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1401315858": {
+    "p": 4799,
+    "f": "2026-06-24T20:05:33.844714+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-caddy-maxi-trendline-1401315858/",
+    "t": "VW Caddy Maxi Trendline",
+    "ts": "2026-06-24T20:05:33.844714+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Caddy",
+    "y": 2012,
+    "km": 396000,
+    "b": "Kombi / Family Van"
+  },
   "wh:2136817000": {
     "p": 950,
     "f": "2026-06-24T20:03:25.639199+00:00",
@@ -145595,42 +145634,6 @@
     "mo": "Golf",
     "y": 2009,
     "km": 298000
-  },
-  "gw:ee47f44d-256b-4f06-a951-84c2e9c7ca93": {
-    "p": 6800,
-    "f": "2026-06-16T16:29:41.415809+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/ford-focus-focus-traveller-1-0-ecoboost-trend-trend-benzin-schwarz-cat_ma29mo15537/ee47f44d-256b-4f06-a951-84c2e9c7ca93",
-    "t": "Ford Focus",
-    "ts": "2026-06-16T16:29:41.415809+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Focus",
-    "y": 2017,
-    "km": 149000
-  },
-  "as:ee47f44d-256b-4f06-a951-84c2e9c7ca93": {
-    "p": 6800,
-    "f": "2026-06-16T16:29:33.434384+00:00",
-    "u": "https://www.autoscout24.at/angebote/ford-focus-focus-traveller-1-0-ecoboost-trend-trend-benzin-schwarz-cat_ma29mo15537-ee47f44d-256b-4f06-a951-84c2e9c7ca93",
-    "t": "Ford Focus",
-    "ts": "2026-06-16T16:29:33.434384+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Focus",
-    "y": 2017,
-    "km": 149000
-  },
-  "wh:1285707562": {
-    "p": 6500,
-    "f": "2026-06-16T16:28:36.353426+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-corsa-1-2-1285707562/",
-    "t": "Opel Corsa 1.2",
-    "ts": "2026-06-16T16:28:36.353426+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Corsa",
-    "y": 2012,
-    "km": 53000
   },
   "__health__": {
     "wh": 0,
