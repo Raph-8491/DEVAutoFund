@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2023492385": {
+    "p": 7000,
+    "f": "2026-06-24T19:34:26.786059+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-320d-lci-2023492385/",
+    "t": "BMW 3er-Reihe 320d LCI",
+    "ts": "2026-06-24T19:34:26.786059+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "3er-Reihe",
+    "y": 2010,
+    "km": 237340,
+    "b": "Limousine",
+    "pu": "2026-06-24T19:34:26.786059+00:00"
+  },
+  "wh:1395154033": {
+    "p": 2200,
+    "f": "2026-06-24T19:34:26.786059+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-1395154033/",
+    "t": "Seat Leon",
+    "ts": "2026-06-24T19:34:26.786059+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2014,
+    "km": 188000,
+    "b": "Kombi / Family Van"
+  },
   "gw:de78bd80-52a2-4ec9-b447-6c6cbc8c6a84": {
     "p": 13500,
     "f": "2026-06-24T19:33:32.068062+00:00",
@@ -206,7 +233,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-sportpack-1654223366/",
     "t": "Audi A3 Sportpack",
     "ts": "2026-06-24T19:31:23.449445+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A3",
     "y": 2013,
@@ -145554,30 +145581,6 @@
     "mo": "1er-Reihe",
     "y": 2008,
     "km": 200000
-  },
-  "as:aa01d009-3ba5-4380-803b-2d8ca5312917": {
-    "p": 7850,
-    "f": "2026-06-16T16:05:50.062774+00:00",
-    "u": "https://www.autoscout24.at/angebote/mercedes-benz-vito-115-cdi-lang-dpf-diesel-cat_ma47mo15942-aa01d009-3ba5-4380-803b-2d8ca5312917",
-    "t": "Mercedes-Benz Vito",
-    "ts": "2026-06-16T16:05:50.062774+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "Vito",
-    "y": 2010,
-    "km": 394500
-  },
-  "as:bf5e79a7-7e43-4676-bb63-755654eff9a2": {
-    "p": null,
-    "f": "2026-06-16T16:04:42.080414+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
