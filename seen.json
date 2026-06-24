@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:41c78056-66c7-4877-9e6e-fce799fa9222": {
+    "p": 8500,
+    "f": "2026-06-24T16:18:06.177726+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/citroen-c3-pure-tech-110-ss-shine-benzin-cat_ma21mo18264/41c78056-66c7-4877-9e6e-fce799fa9222",
+    "t": "Citroen C3 Pure Tech 110 S&S SHINE",
+    "ts": "2026-06-24T16:18:06.177726+00:00",
+    "ch": null,
+    "ma": "Citroen",
+    "mo": "C3",
+    "y": 2018,
+    "km": 79000,
+    "b": ""
+  },
+  "as:41c78056-66c7-4877-9e6e-fce799fa9222": {
+    "p": 8500,
+    "f": "2026-06-24T16:17:54.817295+00:00",
+    "u": "https://www.autoscout24.at/angebote/citroen-c3-pure-tech-110-ss-shine-benzin-cat_ma21mo18264-41c78056-66c7-4877-9e6e-fce799fa9222",
+    "t": "Citroen C3 Pure Tech 110 S&S SHINE",
+    "ts": "2026-06-24T16:17:54.817295+00:00",
+    "ch": null,
+    "ma": "Citroen",
+    "mo": "C3",
+    "y": 2018,
+    "km": 79000,
+    "b": ""
+  },
   "wh:1164615475": {
     "p": 3000,
     "f": "2026-06-24T16:15:39.259973+00:00",
@@ -145181,30 +145207,6 @@
     "mo": "Transit Custom",
     "y": 2021,
     "km": 150000
-  },
-  "as:8c8638d4-c82d-4385-9c65-92daaa2e02fc": {
-    "p": 5900,
-    "f": "2026-06-16T12:55:42.465887+00:00",
-    "u": "https://www.autoscout24.at/angebote/ford-transit-custom-kasten-2-0-l1h1-basis-diesel-cat_ma29mo74248-8c8638d4-c82d-4385-9c65-92daaa2e02fc",
-    "t": "Ford Transit Custom",
-    "ts": "2026-06-16T12:55:42.465887+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Transit Custom",
-    "y": 2021,
-    "km": 150000
-  },
-  "wh:1478907462": {
-    "p": 5490,
-    "f": "2026-06-16T12:55:38.636247+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-2-0-tdi-1478907462/",
-    "t": "BMW 3er-Reihe 2.0 TDi",
-    "ts": "2026-06-16T12:55:38.636247+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2009,
-    "km": 199000
   },
   "__health__": {
     "wh": 0,
