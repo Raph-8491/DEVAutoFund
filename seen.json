@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1719139502": {
+    "p": 9900,
+    "f": "2026-06-24T20:09:27.288299+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-ceed-sw-1-6-crdi-scr-isg-silber-48v-1719139502/",
+    "t": "KIA Ceed SW 1.6 CRDi SCR ISG Silber 48V",
+    "ts": "2026-06-24T20:09:27.288299+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2022,
+    "km": 220000,
+    "b": "Kombi / Family Van"
+  },
   "as:65207dbe-3fea-4116-9a0e-b007ca4dd36e": {
     "p": null,
     "f": "2026-06-24T20:08:30.203602+00:00",
@@ -204,7 +217,7 @@
     "u": "https://www.autoscout24.at/angebote/volkswagen-polo-trendline-1-4-tdi-diesel-cat_ma74mo2090-ac9c6bf9-3554-4a6b-8a3a-fb756b0c3957",
     "t": "Volkswagen Polo Trendline 1,4 TDI",
     "ts": "2026-06-24T20:06:30.141297+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Polo",
     "y": 2008,
@@ -145620,18 +145633,6 @@
   "as:b3450ad6-4914-4fed-a2e0-5cdc09d6f2ab": {
     "p": null,
     "f": "2026-06-16T16:34:32.523947+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:51a515fc-78d7-464b-8cb4-c55411cb8487": {
-    "p": null,
-    "f": "2026-06-16T16:33:29.717717+00:00",
     "u": null,
     "t": null,
     "ts": null,
