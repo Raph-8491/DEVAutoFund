@@ -147,6 +147,58 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:d1b7f95e-b940-4b36-996b-919dd3e942dc": {
+    "p": 5900,
+    "f": "2026-06-24T05:09:37.392480+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/renault-clio-dynamique-1-2-16v-75-benzin-cat_ma60mo1961/d1b7f95e-b940-4b36-996b-919dd3e942dc",
+    "t": "Renault Clio",
+    "ts": "2026-06-24T05:09:37.392480+00:00",
+    "ch": null,
+    "ma": "Renault",
+    "mo": "Clio",
+    "y": 2015,
+    "km": 145000,
+    "b": ""
+  },
+  "gw:c07e688d-538c-4235-90c5-621612ba557c": {
+    "p": 5900,
+    "f": "2026-06-24T05:09:37.392480+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/renault-clio-dynamique-1-2-16v-75-benzin-cat_ma60mo1961/c07e688d-538c-4235-90c5-621612ba557c",
+    "t": "Renault Clio",
+    "ts": "2026-06-24T05:09:37.392480+00:00",
+    "ch": null,
+    "ma": "Renault",
+    "mo": "Clio",
+    "y": 2015,
+    "km": 145000,
+    "b": ""
+  },
+  "as:d1b7f95e-b940-4b36-996b-919dd3e942dc": {
+    "p": 5900,
+    "f": "2026-06-24T05:09:28.857548+00:00",
+    "u": "https://www.autoscout24.at/angebote/renault-clio-dynamique-1-2-16v-75-benzin-cat_ma60mo1961-d1b7f95e-b940-4b36-996b-919dd3e942dc",
+    "t": "Renault Clio",
+    "ts": "2026-06-24T05:09:28.857548+00:00",
+    "ch": null,
+    "ma": "Renault",
+    "mo": "Clio",
+    "y": 2015,
+    "km": 145000,
+    "b": ""
+  },
+  "as:c07e688d-538c-4235-90c5-621612ba557c": {
+    "p": 5900,
+    "f": "2026-06-24T05:09:28.857548+00:00",
+    "u": "https://www.autoscout24.at/angebote/renault-clio-dynamique-1-2-16v-75-benzin-cat_ma60mo1961-c07e688d-538c-4235-90c5-621612ba557c",
+    "t": "Renault Clio",
+    "ts": "2026-06-24T05:09:28.857548+00:00",
+    "ch": null,
+    "ma": "Renault",
+    "mo": "Clio",
+    "y": 2015,
+    "km": 145000,
+    "b": ""
+  },
   "wh:1903298931": {
     "p": 6390,
     "f": "2026-06-24T05:08:28.330528+00:00",
@@ -144170,54 +144222,6 @@
     "mo": "3er-Reihe",
     "y": 2009,
     "km": 299000
-  },
-  "wh:1120181973": {
-    "p": 6500,
-    "f": "2026-06-15T18:40:49.583605+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-1120181973/",
-    "t": "Ford Fiesta",
-    "ts": "2026-06-15T18:40:49.583605+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2019,
-    "km": 115067
-  },
-  "wh:2000410282": {
-    "p": 1000,
-    "f": "2026-06-15T18:40:49.583605+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-fabia-combi-ambiente-1-6-tdi-cr-dpf-2000410282/",
-    "t": "Skoda Fabia Combi Ambiente 1,6 TDI CR DPF",
-    "ts": "2026-06-15T18:40:49.583605+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Fabia",
-    "y": 2012,
-    "km": 229000
-  },
-  "as:162c3cfe-7d7f-4faa-956e-42317ad31e3a": {
-    "p": 2500,
-    "f": "2026-06-15T18:39:32.091818+00:00",
-    "u": "https://www.autoscout24.at/angebote/honda-jazz-jazz-1-2-style-benzin-cat_ma31mo16490-162c3cfe-7d7f-4faa-956e-42317ad31e3a",
-    "t": "Honda Jazz",
-    "ts": "2026-06-15T18:39:32.091818+00:00",
-    "ch": "alive",
-    "ma": "Honda",
-    "mo": "Jazz",
-    "y": 2008,
-    "km": 195000
-  },
-  "as:2dfe7e8d-c539-413b-97b2-4f067d6058d7": {
-    "p": 9900,
-    "f": "2026-06-15T18:38:32.049010+00:00",
-    "u": "https://www.autoscout24.at/angebote/renault-clio-limited-tce-90-benzin-cat_ma60mo1961-2dfe7e8d-c539-413b-97b2-4f067d6058d7",
-    "t": "Renault Clio",
-    "ts": "2026-06-15T18:38:32.049010+00:00",
-    "ch": "alive",
-    "ma": "Renault",
-    "mo": "Clio",
-    "y": 2018,
-    "km": 53000
   },
   "__health__": {
     "wh": 0,
