@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2015172849": {
+    "p": 7150,
+    "f": "2026-06-24T07:38:22.973074+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-yeti-2015172849/",
+    "t": "Skoda Yeti",
+    "ts": "2026-06-24T07:38:22.973074+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Yeti",
+    "y": 2013,
+    "km": 105316,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1432939664": {
+    "p": 6190,
+    "f": "2026-06-24T07:38:22.973074+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-e-klasse-e-200d-1432939664/",
+    "t": "Mercedes-Benz E-Klasse E 200d",
+    "ts": "2026-06-24T07:38:22.973074+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "E-Klasse",
+    "y": 2017,
+    "km": 550000,
+    "b": "Limousine"
+  },
+  "wh:804105301": {
+    "p": 9390,
+    "f": "2026-06-24T07:38:22.973074+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda2-challenge-g75-804105301/",
+    "t": "Mazda Mazda2 Challenge G75",
+    "ts": "2026-06-24T07:38:22.973074+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2019,
+    "km": 99500,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:1bc81c2a-9b1f-4d1b-bbc7-0f04dbe5b7b7": {
     "p": null,
     "f": "2026-06-24T07:37:24.751684+00:00",
@@ -144329,42 +144368,6 @@
     "mo": "Passat",
     "y": 2016,
     "km": 171500
-  },
-  "as:b37df6d4-22be-4a63-9e83-a5f1a08ba9f2": {
-    "p": null,
-    "f": "2026-06-15T19:50:51.843410+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:c78f5bd3-6331-4b2d-85c6-75c1497c8751": {
-    "p": null,
-    "f": "2026-06-15T19:49:28.001996+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:61610bfb-0017-4acf-88dc-82bbe07409b3": {
-    "p": null,
-    "f": "2026-06-15T19:48:42.441868+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
