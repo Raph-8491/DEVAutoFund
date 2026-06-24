@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1553639777": {
+    "p": 10500,
+    "f": "2026-06-24T16:20:43.702017+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/lada-taiga-1-7-1553639777/",
+    "t": "Lada Taiga 1,7",
+    "ts": "2026-06-24T16:20:43.702017+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2017,
+    "km": 171000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1059952093": {
+    "p": 3500,
+    "f": "2026-06-24T16:20:43.702017+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/toyota-aygo-1059952093/",
+    "t": "Toyota Aygo",
+    "ts": "2026-06-24T16:20:43.702017+00:00",
+    "ch": null,
+    "ma": "Toyota",
+    "mo": "Aygo",
+    "y": 2012,
+    "km": 110000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:264c7215-3fb0-4f82-97ea-cc4a6a4ed06e": {
     "p": null,
     "f": "2026-06-24T16:19:24.399839+00:00",
@@ -145184,30 +145210,6 @@
     "mo": "Astra",
     "y": 2021,
     "km": 62500
-  },
-  "wh:1216317059": {
-    "p": 2990,
-    "f": "2026-06-16T13:01:47.645209+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-1-9-tdi-atraction-1216317059/",
-    "t": "Audi A3 1.9 TDI Atraction",
-    "ts": "2026-06-16T13:01:47.645209+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A3",
-    "y": 2008,
-    "km": 267000
-  },
-  "wh:1602013649": {
-    "p": 7000,
-    "f": "2026-06-16T13:01:47.645209+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-320-cdi-1602013649/",
-    "t": "Mercedes-Benz C-Klasse 320 Cdi",
-    "ts": "2026-06-16T13:01:47.645209+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C-Klasse",
-    "y": 2009,
-    "km": 267000
   },
   "__health__": {
     "wh": 0,
