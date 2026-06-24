@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:bfe8afd0-96e4-4a54-aec5-10116ddd4dd7": {
+    "p": 250,
+    "f": "2026-06-24T05:31:04.226577+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/opel-zafira-zafira-1-7-cdti-ecoflex-cosmo-dpf-cosmo-diesel-gruen-cat_ma54mo15660/bfe8afd0-96e4-4a54-aec5-10116ddd4dd7",
+    "t": "Opel Zafira",
+    "ts": "2026-06-24T05:31:04.226577+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Zafira",
+    "y": 2009,
+    "km": 170000,
+    "b": ""
+  },
+  "as:bfe8afd0-96e4-4a54-aec5-10116ddd4dd7": {
+    "p": 250,
+    "f": "2026-06-24T05:30:57.110098+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-zafira-zafira-1-7-cdti-ecoflex-cosmo-dpf-cosmo-diesel-gruen-cat_ma54mo15660-bfe8afd0-96e4-4a54-aec5-10116ddd4dd7",
+    "t": "Opel Zafira",
+    "ts": "2026-06-24T05:30:57.110098+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Zafira",
+    "y": 2009,
+    "km": 170000,
+    "b": ""
+  },
   "as:b5835957-12c6-4b02-ac10-70372fae5fff": {
     "p": null,
     "f": "2026-06-24T05:28:26.447645+00:00",
@@ -144213,30 +144239,6 @@
     "mo": "320",
     "y": 2013,
     "km": 183550
-  },
-  "wh:858614255": {
-    "p": 10500,
-    "f": "2026-06-15T18:46:34.531436+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-kuga-1-5-tdci-858614255/",
-    "t": "Ford Kuga 1,5 TDCI",
-    "ts": "2026-06-15T18:46:34.531436+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2017,
-    "km": 165000
-  },
-  "wh:1000649392": {
-    "p": 9290,
-    "f": "2026-06-15T18:46:34.531436+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-ix35-facelift-premium-1000649392/",
-    "t": "Hyundai iX35 Facelift Premium",
-    "ts": "2026-06-15T18:46:34.531436+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2013,
-    "km": 156000
   },
   "__health__": {
     "wh": 0,
