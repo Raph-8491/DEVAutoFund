@@ -147,6 +147,58 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1366426857": {
+    "p": 10000,
+    "f": "2026-06-24T09:38:27.775268+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-crossland-x-1-2-turbo-benzin-1366426857/",
+    "t": "Opel Crossland X 1.2 Turbo Benzin",
+    "ts": "2026-06-24T09:38:27.775268+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Crossland",
+    "y": 2017,
+    "km": 123900,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1996592497": {
+    "p": 14000,
+    "f": "2026-06-24T09:38:27.775268+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ateca-fr-1996592497/",
+    "t": "Seat Ateca FR",
+    "ts": "2026-06-24T09:38:27.775268+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Ateca",
+    "y": 2018,
+    "km": 117268,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1008057805": {
+    "p": 10900,
+    "f": "2026-06-24T09:38:27.775268+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-beetle-cabrio-1-4-tsi-sport-1008057805/",
+    "t": "VW Beetle Cabrio 1,4 TSI Sport",
+    "ts": "2026-06-24T09:38:27.775268+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Beetle",
+    "y": 2015,
+    "km": 175600,
+    "b": "Cabrio / Roadster"
+  },
+  "wh:2092713014": {
+    "p": 5199,
+    "f": "2026-06-24T09:38:27.775268+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-volkswagen-golf-7-variant-trendline-2092713014/",
+    "t": "VW Golf Volkswagen Golf 7 Variant Trendline",
+    "ts": "2026-06-24T09:38:27.775268+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2014,
+    "km": 247000,
+    "b": "Kombi / Family Van"
+  },
   "wh:996845688": {
     "p": 10999,
     "f": "2026-06-24T09:36:29.425305+00:00",
@@ -120966,7 +121018,8 @@
     "ma": null,
     "mo": null,
     "y": 2018,
-    "km": 62549
+    "km": 62549,
+    "b": "Limousine"
   },
   "wh:1774368962": {
     "p": 11000,
@@ -144492,54 +144545,6 @@
     "km": null
   },
   "as:12ed9dc5-8e9e-4c57-b185-ec5278617b2b": {
-    "p": null,
-    "f": "2026-06-16T01:01:56.267038+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:35a59fee-16bb-4666-ade3-28983f802223": {
-    "p": null,
-    "f": "2026-06-16T01:01:56.267038+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:001e2b2e-2f03-457c-abf1-8a48d5ac9952": {
-    "p": 10850,
-    "f": "2026-06-16T01:01:56.267038+00:00",
-    "u": "https://www.autoscout24.at/angebote/mazda-3-mazda-3-sport-g120-attraction-benzin-schwarz-cat_ma46mo18388-001e2b2e-2f03-457c-abf1-8a48d5ac9952",
-    "t": "Mazda 3",
-    "ts": "2026-06-16T01:01:56.267038+00:00",
-    "ch": "alive",
-    "ma": "Mazda",
-    "mo": "3",
-    "y": 2015,
-    "km": 143900
-  },
-  "as:b01a59c1-7717-47a0-b1bd-c20f2cfb4858": {
-    "p": null,
-    "f": "2026-06-16T01:01:56.267038+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:569f1e27-27fe-43db-a1c9-f01d4f34ac6d": {
     "p": null,
     "f": "2026-06-16T01:01:56.267038+00:00",
     "u": null,
