@@ -119656,16 +119656,17 @@
     "km": 178000
   },
   "wh:1964964215": {
-    "p": 11300,
+    "p": 11200,
     "f": "2026-06-17T04:31:33.018464+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-s-line-quattro-3-0-diesel-1964964215/",
     "t": "Audi A5 S-line Quattro 3.0 Diesel",
-    "ts": "2026-06-17T04:31:33.018464+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T04:27:20.669844+00:00",
+    "ch": null,
     "ma": "Audi",
     "mo": "A5",
     "y": 2015,
-    "km": 237500
+    "km": 237500,
+    "b": "Sportwagen / Coup\u00e9"
   },
   "wh:1162688850": {
     "p": 2900,
@@ -119677,7 +119678,8 @@
     "ma": "VW",
     "mo": "Touran",
     "y": 2009,
-    "km": 235000
+    "km": 235000,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "as:5878712e-0c46-47c2-ab07-1f3785f56c1e": {
     "p": 4250,
