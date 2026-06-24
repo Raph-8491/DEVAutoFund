@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:647a97bf-8266-4f12-8a66-568744460a37": {
+    "p": 9900,
+    "f": "2026-06-24T08:12:28.294300+00:00",
+    "u": "https://www.autoscout24.at/angebote/bmw-530-530d-xdrive-touring-aut-diesel-blau-cat_ma13mo1652-647a97bf-8266-4f12-8a66-568744460a37",
+    "t": "BMW 530",
+    "ts": "2026-06-24T08:12:28.294300+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "530",
+    "y": 2013,
+    "km": 307000,
+    "b": ""
+  },
   "gw:eee766c8-74de-4745-9238-1c0407d57475": {
     "p": 3500,
     "f": "2026-06-24T08:11:41.685216+00:00",
@@ -231,7 +244,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-2-0-tdci-kleinbus-1255332718/",
     "t": "Ford Galaxy 2.0 TDCI Kleinbus",
     "ts": "2026-06-24T08:09:25.246693+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2018,
@@ -244,7 +257,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-gt-1956592490/",
     "t": "Seat Leon GT",
     "ts": "2026-06-24T08:09:25.246693+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Seat",
     "mo": "Leon",
     "y": 2010,
@@ -144404,18 +144417,6 @@
     "mo": "CLA-Klasse",
     "y": 2015,
     "km": 157000
-  },
-  "wh:935543178": {
-    "p": 3500,
-    "f": "2026-06-15T20:22:43.574689+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-2-0-tdi-4-motion-6-gang-6er-golf-935543178/",
-    "t": "VW Golf 2.0 tdi 4 motion 6 gang 6er golf",
-    "ts": "2026-06-15T20:22:43.574689+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2011,
-    "km": 294000
   },
   "__health__": {
     "wh": 0,
