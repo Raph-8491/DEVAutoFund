@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1083184140": {
+    "p": 11500,
+    "f": "2026-06-24T05:32:29.702966+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-r-line-1083184140/",
+    "t": "VW Polo R Line",
+    "ts": "2026-06-24T05:32:29.702966+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Polo",
+    "y": 2019,
+    "km": 120000,
+    "b": "Limousine"
+  },
+  "wh:1929116577": {
+    "p": 7000,
+    "f": "2026-06-24T05:32:29.702966+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-6-tdi-1929116577/",
+    "t": "VW Golf 1.6 TDI",
+    "ts": "2026-06-24T05:32:29.702966+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2013,
+    "km": 186763,
+    "b": "Limousine"
+  },
+  "wh:2045749724": {
+    "p": 6000,
+    "f": "2026-06-24T05:32:29.702966+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-e90-320d-2045749724/",
+    "t": "BMW 3er-Reihe E90 320d",
+    "ts": "2026-06-24T05:32:29.702966+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "3er-Reihe",
+    "y": 2009,
+    "km": 240000,
+    "b": "Limousine"
+  },
   "gw:cdb516b3-5b5f-41d0-bc47-d720af59e7b2": {
     "p": 14000,
     "f": "2026-06-24T05:31:29.315024+00:00",
@@ -144205,42 +144244,6 @@
     "mo": null,
     "y": 2010,
     "km": 265000
-  },
-  "wh:1996881055": {
-    "p": 4990,
-    "f": "2026-06-15T18:51:31.739514+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-plus-1996881055/",
-    "t": "VW Golf Plus",
-    "ts": "2026-06-15T18:51:31.739514+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2009,
-    "km": 189321
-  },
-  "as:ff88b55f-b72a-42de-83bb-6ac51389b2e6": {
-    "p": null,
-    "f": "2026-06-15T18:49:35.612797+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1118865467": {
-    "p": 5500,
-    "f": "2026-06-15T18:49:33.131425+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-karl-1118865467/",
-    "t": "Opel Karl",
-    "ts": "2026-06-15T18:49:33.131425+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Karl",
-    "y": 2019,
-    "km": 67800
   },
   "__health__": {
     "wh": 0,
