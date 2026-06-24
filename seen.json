@@ -147,13 +147,39 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1613891689": {
+    "p": 6300,
+    "f": "2026-06-24T12:45:40.239248+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-ix20-1613891689/",
+    "t": "Hyundai iX20",
+    "ts": "2026-06-24T12:45:40.239248+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2015,
+    "km": 78000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:983942265": {
+    "p": 3990,
+    "f": "2026-06-24T12:45:40.239248+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-ceed-1-6-crdi-diesel-983942265/",
+    "t": "KIA Ceed 1.6 CRDi Diesel",
+    "ts": "2026-06-24T12:45:40.239248+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 235225,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1506359790": {
     "p": 14000,
     "f": "2026-06-24T12:42:33.888090+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-318d-xdrive-limousine-f30-b47-1506359790/",
     "t": "BMW 3er-Reihe 318d xDrive Limousine F30 B47,",
     "ts": "2026-06-24T12:42:33.888090+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "3er-Reihe",
     "y": 2018,
@@ -144809,30 +144835,6 @@
     "mo": "Alhambra",
     "y": 2012,
     "km": 220000
-  },
-  "as:b0c0219c-fb47-47a0-ad05-9a353f2334a6": {
-    "p": null,
-    "f": "2026-06-16T08:47:32.139434+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1363423447": {
-    "p": 1770,
-    "f": "2026-06-16T08:44:35.808664+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-zafira-1-7-cdti-ecoflex-dpf-1363423447/",
-    "t": "Opel Zafira 1,7 CDTI Ecoflex DPF",
-    "ts": "2026-06-23T08:42:35.825216+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Zafira",
-    "y": 2010,
-    "km": 151650
   },
   "__health__": {
     "wh": 0,
