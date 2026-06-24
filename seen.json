@@ -147,6 +147,34 @@
     "y": 2009,
     "km": 235000
   },
+  "as:aeacbde7-c7bd-4644-a10c-29c74b24a992": {
+    "p": 8690,
+    "f": "2026-06-24T17:56:30.518731+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-polo-polo-1-2-life-benzin-weiss-cat_ma74mo2090-aeacbde7-c7bd-4644-a10c-29c74b24a992",
+    "t": "Volkswagen Polo Polo 1.2 Life",
+    "ts": "2026-06-24T17:56:30.518731+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Polo",
+    "y": 2014,
+    "km": 86000,
+    "b": "",
+    "pu": "2026-06-24T17:56:30.518731+00:00"
+  },
+  "wh:837136891": {
+    "p": 6950,
+    "f": "2026-06-24T17:56:28.713842+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-6-diesel-blumotion-837136891/",
+    "t": "VW Golf 1.6 diesel Blumotion",
+    "ts": "2026-06-24T17:56:28.713842+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2014,
+    "km": 215000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T17:56:28.713842+00:00"
+  },
   "as:af60c0e6-598d-4559-a9c2-c8fd8abcf5cf": {
     "p": null,
     "f": "2026-06-24T17:54:31.614781+00:00",
@@ -145354,30 +145382,6 @@
     "mo": "3er-Reihe",
     "y": 2008,
     "km": 205000
-  },
-  "wh:1171967449": {
-    "p": 9500,
-    "f": "2026-06-16T14:31:40.926045+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-c180-1171967449/",
-    "t": "Mercedes-Benz C-Klasse c180",
-    "ts": "2026-06-16T14:31:40.926045+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C-Klasse",
-    "y": 2013,
-    "km": 226000
-  },
-  "wh:1555373988": {
-    "p": 1100,
-    "f": "2026-06-16T14:31:40.926045+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1555373988/",
-    "t": "Seat Ibiza",
-    "ts": "2026-06-16T14:31:40.926045+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2009,
-    "km": 153000
   },
   "__health__": {
     "wh": 0,
