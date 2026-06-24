@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1127017716": {
+    "p": 12490,
+    "f": "2026-06-24T06:26:26.913519+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1-0-tsi-fr-1127017716/",
+    "t": "Seat Ibiza 1.0 TSI FR",
+    "ts": "2026-06-24T06:26:26.913519+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Ibiza",
+    "y": 2020,
+    "km": 88242,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:88f5f38e-75d3-4614-8440-753c884a66ed": {
     "p": null,
     "f": "2026-06-24T06:25:31.731054+00:00",
@@ -119767,7 +119780,8 @@
     "ma": "Opel",
     "mo": "Insignia",
     "y": 2016,
-    "km": 198930
+    "km": 198930,
+    "b": "Limousine"
   },
   "as:691cbc06-99e6-4627-aba5-7d79fa2ed49b": {
     "p": null,
@@ -144259,18 +144273,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1732292276": {
-    "p": 6520,
-    "f": "2026-06-15T19:02:39.304773+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-2-0-tdi-02-27-4-oeamtc-pickerl-1732292276/",
-    "t": "VW Passat 2.0 TDI 02/27+4 \u00d6amtc Pickerl",
-    "ts": "2026-06-22T18:57:24.143454+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2012,
-    "km": 249000
   },
   "__health__": {
     "wh": 0,
