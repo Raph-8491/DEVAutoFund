@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1067468587": {
+    "p": 9980,
+    "f": "2026-06-24T15:20:41.776855+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-gti-optik-1067468587/",
+    "t": "VW Golf GTI Optik",
+    "ts": "2026-06-24T15:20:41.776855+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2013,
+    "km": 91500,
+    "b": "Cabrio / Roadster",
+    "pu": "2026-06-24T15:20:41.776855+00:00"
+  },
+  "wh:1968809280": {
+    "p": 5000,
+    "f": "2026-06-24T15:20:41.776855+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-automatik-1968809280/",
+    "t": "Skoda Octavia Automatik",
+    "ts": "2026-06-24T15:20:41.776855+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Octavia",
+    "y": 2015,
+    "km": 229000,
+    "b": "Kombi / Family Van"
+  },
   "wh:1580792218": {
     "p": 7199,
     "f": "2026-06-24T15:18:33.736821+00:00",
@@ -145082,30 +145109,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:878978967": {
-    "p": 2500,
-    "f": "2026-06-16T12:01:41.555422+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a1-1-4-tfsi-878978967/",
-    "t": "Audi A1 1.4 tfsi",
-    "ts": "2026-06-16T12:01:41.555422+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A1",
-    "y": 2010,
-    "km": 270000
-  },
-  "wh:1098931701": {
-    "p": 5800,
-    "f": "2026-06-16T11:58:34.817738+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-2-0-1098931701/",
-    "t": "BMW 1er-Reihe 2.0",
-    "ts": "2026-06-16T11:58:34.817738+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "1er-Reihe",
-    "y": 2009,
-    "km": 242000
   },
   "__health__": {
     "wh": 0,
