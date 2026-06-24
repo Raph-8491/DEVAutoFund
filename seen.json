@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:f15b3125-e3d5-418d-903f-4ca2870ac3b4": {
+    "p": null,
+    "f": "2026-06-24T20:22:26.638486+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1955785392": {
     "p": 13400,
     "f": "2026-06-24T20:21:26.238904+00:00",
@@ -244,7 +256,7 @@
     "u": "https://www.autoscout24.at/angebote/bmw-x3-xdrive18d-diesel-cat_ma13mo18387-132c32af-9200-485a-b601-590ef857ea33",
     "t": "BMW X3 xDrive18d",
     "ts": "2026-06-24T20:19:25.659715+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "X3",
     "y": 2010,
@@ -258,7 +270,7 @@
     "u": "https://www.autoscout24.at/angebote/audi-a3-cabriolet-1-8-tfsi-s-line-sportpacket-benzin-cat_ma9mo1624-760f96b4-b856-4d89-a597-58644dac115c",
     "t": "Audi A3 Cabriolet 1.8 TFSI S-Line Sportpacket",
     "ts": "2026-06-24T20:19:25.659715+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A3",
     "y": 2011,
@@ -145645,18 +145657,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:dec581dc-9496-4cbe-a973-61ec2f1648a4": {
-    "p": 4800,
-    "f": "2026-06-16T16:41:37.360772+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-golf-1-9-tdi-dpf-edition-bluemotion-diesel-cat_ma74mo2084-dec581dc-9496-4cbe-a973-61ec2f1648a4",
-    "t": "Volkswagen Golf",
-    "ts": "2026-06-16T16:41:37.360772+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2008,
-    "km": 126500
   },
   "__health__": {
     "wh": 0,
