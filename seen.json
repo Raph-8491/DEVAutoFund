@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:9b5ce5ce-02ec-4ee1-9ce1-27942087e372": {
+    "p": 3700,
+    "f": "2026-06-24T10:47:30.863660+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/renault-twingo-twingo-1-6-16v-renault-sport-renault-sport-benzin-rot-cat_ma60mo1979/9b5ce5ce-02ec-4ee1-9ce1-27942087e372",
+    "t": "Renault Twingo",
+    "ts": "2026-06-24T10:47:30.863660+00:00",
+    "ch": null,
+    "ma": "Renault",
+    "mo": "Twingo",
+    "y": 2008,
+    "km": 230000,
+    "b": ""
+  },
+  "wh:1555313976": {
+    "p": 9500,
+    "f": "2026-06-24T10:47:21.020484+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-st-1-6-cdti-blueinjection-dynamic-st-st-1555313976/",
+    "t": "Opel Insignia ST 1,6 CDTI BlueInjection Dynamic St./St.",
+    "ts": "2026-06-24T10:47:21.020484+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Insignia",
+    "y": 2020,
+    "km": 195000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:2071139259": {
+    "p": 500,
+    "f": "2026-06-24T10:47:21.020484+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-1-2-2071139259/",
+    "t": "Ford Galaxy 1.2",
+    "ts": "2026-06-24T10:47:21.020484+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 440000,
+    "b": "Kombi / Family Van"
+  },
   "as:1784b758-cabd-40af-911b-0c1fad33edb5": {
     "p": 7300,
     "f": "2026-06-24T10:46:26.132427+00:00",
@@ -216,7 +255,7 @@
     "u": "https://www.autoscout24.at/angebote/audi-a4-avant-2-0-tdi-quattro-style-diesel-cat_ma9mo1626-5707df13-71f4-4484-8442-dc1154dd9a5d",
     "t": "Audi A4",
     "ts": "2026-06-24T10:44:26.125426+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A4",
     "y": 2014,
@@ -144616,42 +144655,6 @@
     "mo": null,
     "y": 2014,
     "km": 135000
-  },
-  "wh:1824968388": {
-    "p": 8100,
-    "f": "2026-06-16T06:24:25.906482+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c5-citroen-c5-3-0-hdi-biturbo-exclusive-plus-1824968388/",
-    "t": "Citro\u00ebn C5 Citro\u00ebn C5 3.0 HDI Biturbo Exclusive Plus",
-    "ts": "2026-06-16T06:24:25.906482+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 212000
-  },
-  "wh:1633066451": {
-    "p": 5000,
-    "f": "2026-06-16T06:24:25.906482+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda6-2-2-cd-129te-1633066451/",
-    "t": "Mazda Mazda6 2.2 CD 129TE",
-    "ts": "2026-06-16T06:24:25.906482+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 213000
-  },
-  "wh:2063075685": {
-    "p": 8000,
-    "f": "2026-06-16T06:24:25.906482+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-alhambra-style-2-0-tdi-cr-dpf-2063075685/",
-    "t": "Seat Alhambra Style 2,0 TDI CR DPF",
-    "ts": "2026-06-16T06:24:25.906482+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Alhambra",
-    "y": 2012,
-    "km": 240000
   },
   "__health__": {
     "wh": 0,
