@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1798828830": {
+    "p": 7500,
+    "f": "2026-06-24T18:35:32.180809+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-scenic-1798828830/",
+    "t": "Renault Sc\u00e9nic",
+    "ts": "2026-06-24T18:35:32.180809+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 99637,
+    "b": "Kombi / Family Van"
+  },
+  "wh:850805299": {
+    "p": 3550,
+    "f": "2026-06-24T18:35:32.180809+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-850805299/",
+    "t": "VW Polo",
+    "ts": "2026-06-24T18:35:32.180809+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Polo",
+    "y": 2011,
+    "km": 209250,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-24T18:35:32.180809+00:00"
+  },
   "wh:1345149613": {
     "p": 14500,
     "f": "2026-06-24T18:33:25.310971+00:00",
@@ -145441,30 +145468,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:1c835532-d4be-4fce-bff0-6407d058f82f": {
-    "p": null,
-    "f": "2026-06-16T15:07:27.094794+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:820705724": {
-    "p": 4000,
-    "f": "2026-06-16T15:07:25.164202+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-1-2-tdi-neue-pickel-820705724/",
-    "t": "VW Polo 1.2 TDI NEUE PICKEL",
-    "ts": "2026-06-16T15:07:25.164202+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2011,
-    "km": 190075
   },
   "__health__": {
     "wh": 0,
