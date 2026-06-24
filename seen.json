@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1919517813": {
+    "p": 650,
+    "f": "2026-06-24T16:48:31.859463+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/suzuki-splash-1-2-benzin-1919517813/",
+    "t": "Suzuki Splash 1.2 Benzin",
+    "ts": "2026-06-24T16:48:31.859463+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 135000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:6ee3ea3d-4d04-49e6-9729-11daaac6c75e": {
     "p": null,
     "f": "2026-06-24T16:47:24.462019+00:00",
@@ -145242,18 +145255,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1042700752": {
-    "p": 1100,
-    "f": "2026-06-16T13:26:33.509119+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-scenic-1042700752/",
-    "t": "Renault Sc\u00e9nic",
-    "ts": "2026-06-16T13:26:33.509119+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 162000
   },
   "__health__": {
     "wh": 0,
