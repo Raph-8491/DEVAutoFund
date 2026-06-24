@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:fcb53f70-5f71-48d6-b455-be7563d173f9": {
+    "p": null,
+    "f": "2026-06-24T18:21:29.016692+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:b921d457-8af3-48b0-bae0-dfc042170018": {
     "p": 4500,
     "f": "2026-06-24T18:20:56.924030+00:00",
@@ -231,7 +243,7 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-320-320d-aut-diesel-cat_ma13mo1641/d169fcbf-773a-431f-b713-b0aa74ad7307",
     "t": "BMW 320 320d Aut.",
     "ts": "2026-06-24T18:18:32.496879+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "320",
     "y": 2012,
@@ -145423,18 +145435,6 @@
     "mo": "Caddy",
     "y": 2014,
     "km": 275000
-  },
-  "wh:1264146932": {
-    "p": 6500,
-    "f": "2026-06-16T14:56:35.149455+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-1264146932/",
-    "t": "Opel Insignia",
-    "ts": "2026-06-16T14:56:35.149455+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Insignia",
-    "y": 2009,
-    "km": 164000
   },
   "__health__": {
     "wh": 0,
