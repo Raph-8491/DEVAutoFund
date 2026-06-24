@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1099970835": {
+    "p": 6500,
+    "f": "2026-06-24T07:43:24.207235+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-captur-1099970835/",
+    "t": "Renault Captur",
+    "ts": "2026-06-24T07:43:24.207235+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2014,
+    "km": 92000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:92edebd3-93a8-47c6-baff-8222c4587282": {
     "p": null,
     "f": "2026-06-24T07:42:28.560073+00:00",
@@ -144361,18 +144374,6 @@
     "mo": null,
     "y": 2014,
     "km": 168000
-  },
-  "as:3dc1c649-cf86-4067-8bc5-7b23d3f29f5f": {
-    "p": null,
-    "f": "2026-06-15T19:56:33.442099+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
