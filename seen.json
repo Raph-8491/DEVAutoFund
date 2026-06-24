@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:829ee9df-2874-40ee-9323-b22892a3ffbf": {
+    "p": 5800,
+    "f": "2026-06-24T15:25:39.274383+00:00",
+    "u": "https://www.autoscout24.at/angebote/audi-a6-3-0-tdi-dpf-quattro-tiptronic-diesel-cat_ma9mo1628-829ee9df-2874-40ee-9323-b22892a3ffbf",
+    "t": "Audi A6 3.0 TDI DPF quattro tiptronic",
+    "ts": "2026-06-24T15:25:39.274383+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A6",
+    "y": 2009,
+    "km": 280000,
+    "b": ""
+  },
   "wh:2084375965": {
     "p": 13500,
     "f": "2026-06-24T15:24:28.604642+00:00",
@@ -193,7 +206,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-oeamtc-pickerle-erstbesitz-822607960/",
     "t": "VW Golf \u00d6amtc Pickerle/Erstbesitz",
     "ts": "2026-06-24T15:22:28.567041+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2015,
@@ -145104,18 +145117,6 @@
     "mo": null,
     "y": 2013,
     "km": 129000
-  },
-  "wh:1757841395": {
-    "p": 7999,
-    "f": "2026-06-16T12:05:41.036125+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-325d-m57-1757841395/",
-    "t": "BMW 3er-Reihe 325D M57",
-    "ts": "2026-06-16T12:05:41.036125+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2009,
-    "km": 221000
   },
   "__health__": {
     "wh": 0,
