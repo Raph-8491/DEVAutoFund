@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1889712917": {
+    "p": 10200,
+    "f": "2026-06-24T05:01:24.360039+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-fabia-1889712917/",
+    "t": "Skoda Fabia",
+    "ts": "2026-06-24T05:01:24.360039+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Fabia",
+    "y": 2015,
+    "km": 127000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1705263956": {
     "p": 7200,
     "f": "2026-06-24T04:59:25.857322+00:00",
@@ -166,7 +179,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-1-4-tsi-cool-bmt-1710479334/",
     "t": "VW Tiguan 1,4 TSI Cool BMT",
     "ts": "2026-06-24T04:57:20.491791+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Tiguan",
     "y": 2014,
@@ -119747,16 +119760,17 @@
     "km": 148400
   },
   "wh:1148672297": {
-    "p": 7950,
+    "p": 7200,
     "f": "2026-06-17T05:04:26.527344+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-fr-1-2-tsi-frisches-pickerl-1148672297/",
     "t": "Seat Ibiza FR 1.2 TSI (Frisches Pickerl)",
-    "ts": "2026-06-17T05:04:26.527344+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T05:01:24.360039+00:00",
+    "ch": null,
     "ma": "Seat",
     "mo": "Ibiza",
     "y": 2016,
-    "km": 107000
+    "km": 107000,
+    "b": "Kombi / Family Van"
   },
   "wh:1348210858": {
     "p": 4300,
@@ -119780,7 +119794,8 @@
     "ma": null,
     "mo": null,
     "y": 2016,
-    "km": 146000
+    "km": 146000,
+    "b": "Kombi / Family Van"
   },
   "wh:1383772032": {
     "p": 3500,
@@ -144199,18 +144214,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1424196440": {
-    "p": 9500,
-    "f": "2026-06-15T18:36:35.729077+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-1424196440/",
-    "t": "Audi A6",
-    "ts": "2026-06-15T18:36:35.729077+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A6",
-    "y": 2015,
-    "km": 418392
   },
   "__health__": {
     "wh": 0,
