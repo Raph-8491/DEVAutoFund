@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:5d82fd3a-97b3-473d-9642-1786617abe85": {
+    "p": null,
+    "f": "2026-06-24T11:41:26.892632+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:2142109231": {
     "p": 3300,
     "f": "2026-06-24T11:40:42.409166+00:00",
@@ -144737,18 +144749,6 @@
     "mo": "Polo",
     "y": 2009,
     "km": 184860
-  },
-  "wh:1709972165": {
-    "p": 9250,
-    "f": "2026-06-16T07:40:41.243177+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-2-0-tdi-bluemotion-1709972165/",
-    "t": "VW Golf Variant 2.0 TDI BlueMotion",
-    "ts": "2026-06-16T07:40:41.243177+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2015,
-    "km": 172000
   },
   "__health__": {
     "wh": 0,
