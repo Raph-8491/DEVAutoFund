@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:c7ba1570-ce79-46fe-93af-18a386ac4bfb": {
+    "p": null,
+    "f": "2026-06-24T13:34:34.864637+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:911610711": {
     "p": 8200,
     "f": "2026-06-24T13:33:23.195627+00:00",
@@ -144907,18 +144919,6 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/audi-a4-2-0-tdi-dpf-diesel-cat_ma9mo1626/86ce8fa8-8fae-4c33-b176-03125c1ca7f7",
     "t": "Audi A4",
     "ts": "2026-06-16T09:37:02.388901+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2011,
-    "km": 325000
-  },
-  "as:86ce8fa8-8fae-4c33-b176-03125c1ca7f7": {
-    "p": 4699,
-    "f": "2026-06-16T09:36:51.579999+00:00",
-    "u": "https://www.autoscout24.at/angebote/audi-a4-2-0-tdi-dpf-diesel-cat_ma9mo1626-86ce8fa8-8fae-4c33-b176-03125c1ca7f7",
-    "t": "Audi A4",
-    "ts": "2026-06-16T09:36:51.579999+00:00",
     "ch": "alive",
     "ma": "Audi",
     "mo": "A4",
