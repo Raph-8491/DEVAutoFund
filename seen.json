@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "as:40cd8ddd-f9e9-42f2-82e8-698ae145f80e": {
+    "p": null,
+    "f": "2026-06-24T15:10:49.608124+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1547314966": {
+    "p": 12345,
+    "f": "2026-06-24T15:10:45.467264+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-4er-reihe-f33-1547314966/",
+    "t": "BMW 4er-Reihe F33",
+    "ts": "2026-06-24T15:10:45.467264+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "4er-Reihe",
+    "y": 2014,
+    "km": 88703,
+    "b": "Cabrio / Roadster",
+    "pu": "2026-06-24T15:10:45.467264+00:00"
+  },
   "as:5a4df817-cf0d-4ec0-ad09-f22bd6c1a585": {
     "p": null,
     "f": "2026-06-24T15:09:27.777370+00:00",
@@ -145067,30 +145093,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:40082285-fc0d-4d74-aaa5-4dcfcb79bf05": {
-    "p": null,
-    "f": "2026-06-16T11:47:34.123220+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1446616321": {
-    "p": 6660,
-    "f": "2026-06-16T11:47:31.564276+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-118i-1446616321/",
-    "t": "BMW 1er-Reihe 118i",
-    "ts": "2026-06-16T11:47:31.564276+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "1er-Reihe",
-    "y": 2009,
-    "km": 230000
   },
   "__health__": {
     "wh": 0,
