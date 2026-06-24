@@ -147,6 +147,34 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1927009488": {
+    "p": 9999,
+    "f": "2026-06-24T17:33:22.346366+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-1-6-tdi-intense-1927009488/",
+    "t": "Audi A3 1,6 TDI intense",
+    "ts": "2026-06-24T17:33:22.346366+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A3",
+    "y": 2016,
+    "km": 232000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-24T17:33:22.346366+00:00"
+  },
+  "wh:1539494480": {
+    "p": 5900,
+    "f": "2026-06-24T17:33:22.346366+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-gti-222-000km-1539494480/",
+    "t": "VW Golf GTI 222.000km",
+    "ts": "2026-06-24T17:33:22.346366+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2012,
+    "km": 222000,
+    "b": "Limousine",
+    "pu": "2026-06-24T17:33:22.346366+00:00"
+  },
   "gw:59573ce5-6f08-4f55-83e9-f692bdfc3542": {
     "p": 11800,
     "f": "2026-06-24T17:31:33.150087+00:00",
@@ -145322,30 +145350,6 @@
     "mo": "C-Klasse",
     "y": 2008,
     "km": 250000
-  },
-  "wh:2029122046": {
-    "p": 4400,
-    "f": "2026-06-16T14:12:40.858560+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-2029122046/",
-    "t": "Audi A4",
-    "ts": "2026-06-16T14:12:40.858560+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2015,
-    "km": 356000
-  },
-  "wh:983063821": {
-    "p": 9000,
-    "f": "2026-06-16T14:12:40.858560+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-1-6-diesel-titanium-983063821/",
-    "t": "Ford Focus 1.6 Diesel Titanium",
-    "ts": "2026-06-16T14:12:40.858560+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 94410
   },
   "__health__": {
     "wh": 0,
