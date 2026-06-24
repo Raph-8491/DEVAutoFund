@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:b0283329-8d53-4054-963a-a7745bf1afb2": {
+    "p": 4500,
+    "f": "2026-06-24T18:07:29.547888+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-combo-combo-diesel-1-3-cdti-l1h1-s-diesel-blau-cat_ma54mo14825-b0283329-8d53-4054-963a-a7745bf1afb2",
+    "t": "Opel Combo Combo Diesel 1.3 CDTI L1H1 S",
+    "ts": "2026-06-24T18:07:29.547888+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Combo",
+    "y": 2015,
+    "km": 245000,
+    "b": ""
+  },
   "as:0c350425-eae5-44ec-ad45-33b2c0fb0ea9": {
     "p": 4700,
     "f": "2026-06-24T18:06:31.506735+00:00",
@@ -145394,18 +145407,6 @@
     "mo": "Golf",
     "y": 2011,
     "km": 185000
-  },
-  "wh:914395582": {
-    "p": 6000,
-    "f": "2026-06-16T14:39:38.434186+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/toyota-auris-1-33-dvvt-i-s-s-young-914395582/",
-    "t": "Toyota Auris 1,33 dVVT-i S&S Young",
-    "ts": "2026-06-16T14:39:38.434186+00:00",
-    "ch": "alive",
-    "ma": "Toyota",
-    "mo": "Auris",
-    "y": 2011,
-    "km": 81711
   },
   "__health__": {
     "wh": 0,
