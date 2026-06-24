@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "as:ca2861c5-2af4-4228-987d-61065f425c08": {
+    "p": 7500,
+    "f": "2026-06-24T12:38:30.387593+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-insignia-sports-tourer-1-6-ecotec-diesel-business-innovation-diesel-cat_ma54mo19101-ca2861c5-2af4-4228-987d-61065f425c08",
+    "t": "Opel Insignia",
+    "ts": "2026-06-24T12:38:30.387593+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Insignia",
+    "y": 2018,
+    "km": 197000,
+    "b": ""
+  },
+  "wh:1127025514": {
+    "p": 3200,
+    "f": "2026-06-24T12:38:28.951872+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda6-sport-2-0i-gta-aut-1127025514/",
+    "t": "Mazda Mazda6 Sport 2,0i GTA Aut.",
+    "ts": "2026-06-24T12:38:28.951872+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 120000,
+    "b": "Limousine"
+  },
   "wh:1493155542": {
     "p": 6500,
     "f": "2026-06-24T12:36:36.619480+00:00",
@@ -144799,30 +144825,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:136b3e08-3e7d-43ec-848e-37339e08543e": {
-    "p": 7000,
-    "f": "2026-06-16T08:38:38.076678+00:00",
-    "u": "https://www.autoscout24.at/angebote/nissan-navara-double-cab-le-3-0-dci-4x4-dpf-aut-diesel-cat_ma52mo18307-136b3e08-3e7d-43ec-848e-37339e08543e",
-    "t": "Nissan Navara",
-    "ts": "2026-06-16T08:38:38.076678+00:00",
-    "ch": "alive",
-    "ma": "Nissan",
-    "mo": "Navara",
-    "y": 2011,
-    "km": 180000
-  },
-  "wh:1344086883": {
-    "p": 2500,
-    "f": "2026-06-16T08:38:36.202099+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c4-picasso-1344086883/",
-    "t": "Citro\u00ebn C4 Picasso",
-    "ts": "2026-06-16T08:38:36.202099+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2013,
-    "km": 370000
   },
   "__health__": {
     "wh": 0,
