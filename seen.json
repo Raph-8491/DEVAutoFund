@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:e1d64de3-bf5d-4612-a6e9-64cf0a137788": {
+    "p": null,
+    "f": "2026-06-24T11:09:26.895141+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:718908b2-fd55-4bac-a1ac-c60f74fe6d26": {
     "p": null,
     "f": "2026-06-24T11:06:26.937732+00:00",
@@ -144680,18 +144692,6 @@
     "mo": "Lodgy",
     "y": 2016,
     "km": 209000
-  },
-  "as:3fd927ec-57aa-4d92-a330-d877a8335e41": {
-    "p": 8900,
-    "f": "2026-06-16T06:49:29.521143+00:00",
-    "u": "https://www.autoscout24.at/angebote/opel-combo-combo-1-6-cdti-1-6-d-cdti-l2h1-diesel-schwarz-cat_ma54mo14825-3fd927ec-57aa-4d92-a330-d877a8335e41",
-    "t": "Opel Combo",
-    "ts": "2026-06-16T06:49:29.521143+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Combo",
-    "y": 2017,
-    "km": 99500
   },
   "__health__": {
     "wh": 0,
