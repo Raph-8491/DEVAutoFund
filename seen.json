@@ -147,6 +147,58 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2097489649": {
+    "p": 7400,
+    "f": "2026-06-24T16:44:29.569777+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/nissan-micra-0-9-ig-t-90-n-way-2097489649/",
+    "t": "Nissan Micra 0,9 IG-T 90 N-Way",
+    "ts": "2026-06-24T16:44:29.569777+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2018,
+    "km": 81100,
+    "b": "Limousine"
+  },
+  "wh:1226270539": {
+    "p": 4900,
+    "f": "2026-06-24T16:44:29.569777+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-2008-all-e-hdi-92-1226270539/",
+    "t": "Peugeot 2008 ALL E-HDI 92",
+    "ts": "2026-06-24T16:44:29.569777+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 195331,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1027293237": {
+    "p": 1200,
+    "f": "2026-06-24T16:44:29.569777+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-1-9-diesel-1027293237/",
+    "t": "Seat Leon 1.9 diesel",
+    "ts": "2026-06-24T16:44:29.569777+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2009,
+    "km": 25000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1824324953": {
+    "p": 2300,
+    "f": "2026-06-24T16:44:29.569777+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-grand-c4-picasso-top-ausstattung-1824324953/",
+    "t": "Citro\u00ebn Grand C4 Picasso TOP AUSSTATTUNG",
+    "ts": "2026-06-24T16:44:29.569777+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 264000,
+    "b": "Kombi / Family Van"
+  },
   "as:09abfb0d-0487-40d3-80df-45d6dcd2f9fb": {
     "p": null,
     "f": "2026-06-24T16:43:24.174028+00:00",
@@ -145198,54 +145250,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:d3bd0474-9943-4830-a8ff-250c480e60ed": {
-    "p": null,
-    "f": "2026-06-16T13:22:38.175435+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:2070493449": {
-    "p": 7390,
-    "f": "2026-06-16T13:22:34.509709+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-trend-1-25-erstbesitz-2070493449/",
-    "t": "Ford Fiesta Trend 1,25 -ERSTBESITZ",
-    "ts": "2026-06-16T13:22:34.509709+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2017,
-    "km": 113800
-  },
-  "wh:1956023486": {
-    "p": 5500,
-    "f": "2026-06-16T13:22:34.509709+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/volvo-v60-d5-awd-momentum-geartronic-aut-1956023486/",
-    "t": "Volvo V60 D5 AWD Momentum Geartronic Aut.",
-    "ts": "2026-06-16T13:22:34.509709+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 280000
-  },
-  "wh:1636514645": {
-    "p": 2060,
-    "f": "2026-06-16T13:22:34.509709+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-1636514645/",
-    "t": "Audi",
-    "ts": "2026-06-16T13:22:34.509709+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": null,
-    "y": 2018,
-    "km": 3658
   },
   "__health__": {
     "wh": 0,
