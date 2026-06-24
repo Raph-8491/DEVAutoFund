@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:dde86f92-6a2d-4dce-8889-a262fdcc217f": {
+    "p": 2400,
+    "f": "2026-06-24T08:32:39.384315+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/mazda-6-mazda-6-cd-129-ce-ce-diesel-blau-cat_ma46mo18266/dde86f92-6a2d-4dce-8889-a262fdcc217f",
+    "t": "Mazda 6",
+    "ts": "2026-06-24T08:32:39.384315+00:00",
+    "ch": null,
+    "ma": "Mazda",
+    "mo": "6",
+    "y": 2010,
+    "km": 280000,
+    "b": ""
+  },
+  "as:dde86f92-6a2d-4dce-8889-a262fdcc217f": {
+    "p": 2400,
+    "f": "2026-06-24T08:32:29.031593+00:00",
+    "u": "https://www.autoscout24.at/angebote/mazda-6-mazda-6-cd-129-ce-ce-diesel-blau-cat_ma46mo18266-dde86f92-6a2d-4dce-8889-a262fdcc217f",
+    "t": "Mazda 6",
+    "ts": "2026-06-24T08:32:29.031593+00:00",
+    "ch": null,
+    "ma": "Mazda",
+    "mo": "6",
+    "y": 2010,
+    "km": 280000,
+    "b": ""
+  },
   "as:e5c12aae-e901-4fb1-bfcb-c31ef8b279f2": {
     "p": null,
     "f": "2026-06-24T08:31:27.341364+00:00",
@@ -203,7 +229,7 @@
     "u": "https://www.autoscout24.at/angebote/jeep-compass-compass-1-4-multiair-longitude-benzin-schwarz-cat_ma38mo18967-2c2df98a-b3b5-4be4-91e1-b8a60c632f99",
     "t": "Jeep Compass",
     "ts": "2026-06-24T08:29:28.994569+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Jeep",
     "mo": "Compass",
     "y": 2019,
@@ -144418,30 +144444,6 @@
     "mo": null,
     "y": 2009,
     "km": 120000
-  },
-  "wh:2071702875": {
-    "p": 5200,
-    "f": "2026-06-15T20:41:31.692666+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-berlingo-multispace-hdi-115-xtr-2071702875/",
-    "t": "Citro\u00ebn Berlingo Multispace HDi 115 XTR",
-    "ts": "2026-06-15T20:41:31.692666+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 168000
-  },
-  "wh:1988076927": {
-    "p": 3850,
-    "f": "2026-06-15T20:41:31.692666+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touran-1-9-1988076927/",
-    "t": "VW Touran 1.9",
-    "ts": "2026-06-15T20:41:31.692666+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Touran",
-    "y": 2026,
-    "km": 25000
   },
   "__health__": {
     "wh": 0,
