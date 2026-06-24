@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:9811ab16-0f76-48fb-9893-48908a034067": {
+    "p": null,
+    "f": "2026-06-24T11:46:29.010619+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:941915719": {
     "p": 13000,
     "f": "2026-06-24T11:45:46.606948+00:00",
@@ -144744,18 +144756,6 @@
     "mo": "Meriva",
     "y": 2008,
     "km": 197245
-  },
-  "wh:1483138409": {
-    "p": 7200,
-    "f": "2026-06-16T07:46:31.812576+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-tucson-1-6-gdi-start-stopp-comfort-1483138409/",
-    "t": "Hyundai Tucson 1,6 GDI Start-Stopp Comfort",
-    "ts": "2026-06-16T07:46:31.812576+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2017,
-    "km": 272500
   },
   "__health__": {
     "wh": 0,
