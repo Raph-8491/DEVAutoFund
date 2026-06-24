@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:0317defc-2895-4213-a796-68272605162e": {
+    "p": null,
+    "f": "2026-06-24T07:52:24.323896+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:98c4c030-d9a2-42b2-acb2-fa97da7702bd": {
     "p": 13000,
     "f": "2026-06-24T07:51:21.926990+00:00",
@@ -228,7 +240,7 @@
     "u": "https://www.autoscout24.at/angebote/nissan-micra-micra-0-9-ig-t-90-tekna-tekna-benzin-weiss-cat_ma52mo1904-34f1253b-b3b2-4917-85cc-28afc09905f0",
     "t": "Nissan Micra",
     "ts": "2026-06-24T07:49:31.383924+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Nissan",
     "mo": "Micra",
     "y": 2019,
@@ -144369,18 +144381,6 @@
     "mo": "CR-V",
     "y": 2014,
     "km": 167000
-  },
-  "as:bf91d54e-2bb6-4174-99ea-cffadd779497": {
-    "p": 2300,
-    "f": "2026-06-15T20:03:33.547878+00:00",
-    "u": "https://www.autoscout24.at/angebote/ford-s-max-2-0-tdci-dpf-trend-diesel-cat_ma29mo18761-bf91d54e-2bb6-4174-99ea-cffadd779497",
-    "t": "Ford S-Max",
-    "ts": "2026-06-15T20:03:33.547878+00:00",
-    "ch": "dead",
-    "ma": "Ford",
-    "mo": "S-Max",
-    "y": 2009,
-    "km": 350000
   },
   "__health__": {
     "wh": 0,
