@@ -147,6 +147,59 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1775193960": {
+    "p": 3765,
+    "f": "2026-06-24T15:32:25.689645+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda2-ce-pro-1775193960/",
+    "t": "Mazda Mazda2 CE Pro",
+    "ts": "2026-06-24T15:32:25.689645+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 179850,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1891801639": {
+    "p": 10490,
+    "f": "2026-06-24T15:32:25.689645+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a1-1-4-tdi-sline-1891801639/",
+    "t": "Audi A1 1.4 tdi Sline",
+    "ts": "2026-06-24T15:32:25.689645+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A1",
+    "y": 2014,
+    "km": 154000,
+    "b": "Limousine",
+    "pu": "2026-06-24T15:32:25.689645+00:00"
+  },
+  "wh:1308974908": {
+    "p": 8500,
+    "f": "2026-06-24T15:32:25.689645+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-tit-2-0-1308974908/",
+    "t": "Ford Galaxy TIT 2,0",
+    "ts": "2026-06-24T15:32:25.689645+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2016,
+    "km": 238500,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1967346292": {
+    "p": 10899,
+    "f": "2026-06-24T15:32:25.689645+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-ford-fiesta-trend-1967346292/",
+    "t": "Ford Fiesta Ford Fiesta Trend",
+    "ts": "2026-06-24T15:32:25.689645+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2018,
+    "km": 76050,
+    "b": "Limousine"
+  },
   "wh:2141657833": {
     "p": 3200,
     "f": "2026-06-24T15:31:28.012242+00:00",
@@ -123324,7 +123377,8 @@
     "ma": "Mercedes-Benz",
     "mo": "B-Klasse",
     "y": 2012,
-    "km": 237000
+    "km": 237000,
+    "b": "Limousine"
   },
   "gw:7ca80309-aad1-4084-9cb8-9e1ebb77ade7": {
     "p": 7690,
@@ -145075,54 +145129,6 @@
     "mo": null,
     "y": 2011,
     "km": 138000
-  },
-  "wh:1424681121": {
-    "p": 10900,
-    "f": "2026-06-16T12:11:30.313362+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-style-1424681121/",
-    "t": "Skoda Octavia Style",
-    "ts": "2026-06-16T12:11:30.313362+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2017,
-    "km": 214000
-  },
-  "wh:1795111931": {
-    "p": 9000,
-    "f": "2026-06-16T12:11:30.313362+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/lada-taiga-lada-taiga-4x4-1-7-1795111931/",
-    "t": "Lada Taiga Lada Taiga 4x4 1,7",
-    "ts": "2026-06-16T12:11:30.313362+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 108000
-  },
-  "wh:1522259092": {
-    "p": 6200,
-    "f": "2026-06-16T12:11:30.313362+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-1522259092/",
-    "t": "Ford Fiesta",
-    "ts": "2026-06-16T12:11:30.313362+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2017,
-    "km": 203000
-  },
-  "wh:1222660470": {
-    "p": 1700,
-    "f": "2026-06-16T12:10:45.107223+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/smart-3-cabrio-cdi-1222660470/",
-    "t": "Smart #3 Cabrio CDI",
-    "ts": "2026-06-16T12:10:45.107223+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 196000
   },
   "__health__": {
     "wh": 0,
