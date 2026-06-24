@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:075fd282-94a9-4885-a56e-ee69659f2145": {
+    "p": null,
+    "f": "2026-06-24T07:57:29.197401+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1038709860": {
     "p": 8000,
     "f": "2026-06-24T07:56:28.186995+00:00",
@@ -191,7 +203,7 @@
     "u": "https://www.autoscout24.at/angebote/volkswagen-t5-transporter-fahrgestell-2-0-tdi-d-pf-diesel-weiss-cat_ma74mo75216-1a534701-fe2e-45d4-a0e1-7201c7697585",
     "t": "Volkswagen T5 Transporter",
     "ts": "2026-06-24T07:54:26.208865+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "T5 Transporter",
     "y": 2012,
@@ -204,7 +216,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-2045711346/",
     "t": "VW Polo",
     "ts": "2026-06-24T07:54:23.669633+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Polo",
     "y": 2012,
@@ -217,7 +229,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-1929378297/",
     "t": "Ford Focus",
     "ts": "2026-06-24T07:54:23.669633+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2016,
@@ -144375,18 +144387,6 @@
     "mo": "Trafic",
     "y": 2009,
     "km": 250676
-  },
-  "wh:1689958906": {
-    "p": 4900,
-    "f": "2026-06-15T20:07:30.174798+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda3-1-6-1689958906/",
-    "t": "Mazda Mazda3 1.6",
-    "ts": "2026-06-15T20:07:30.174798+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2013,
-    "km": 137000
   },
   "__health__": {
     "wh": 0,
