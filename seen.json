@@ -147,6 +147,58 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:775f8394-1deb-4519-b250-2d2be9a05c49": {
+    "p": 12000,
+    "f": "2026-06-24T10:10:48.374719+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-tiguan-tiguan-1-4-tsi-act-comfortline-dsg-comfortline-benzin-weiss-cat_ma74mo19063/775f8394-1deb-4519-b250-2d2be9a05c49",
+    "t": "Volkswagen Tiguan",
+    "ts": "2026-06-24T10:10:48.374719+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Tiguan",
+    "y": 2016,
+    "km": 161000,
+    "b": ""
+  },
+  "as:775f8394-1deb-4519-b250-2d2be9a05c49": {
+    "p": 12000,
+    "f": "2026-06-24T10:10:38.549267+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-tiguan-tiguan-1-4-tsi-act-comfortline-dsg-comfortline-benzin-weiss-cat_ma74mo19063-775f8394-1deb-4519-b250-2d2be9a05c49",
+    "t": "Volkswagen Tiguan",
+    "ts": "2026-06-24T10:10:38.549267+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Tiguan",
+    "y": 2016,
+    "km": 161000,
+    "b": ""
+  },
+  "wh:1199203292": {
+    "p": 2000,
+    "f": "2026-06-24T10:10:37.445893+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-trend-1-25-1199203292/",
+    "t": "Ford Fiesta Trend 1,25",
+    "ts": "2026-06-24T10:10:37.445893+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2015,
+    "km": 107000,
+    "b": "Limousine"
+  },
+  "wh:1035176134": {
+    "p": 9999,
+    "f": "2026-06-24T10:10:37.445893+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-3008-1-6-bluehdi-120-s-s-eat6-allure-1035176134/",
+    "t": "Peugeot 3008 1,6 BlueHDi 120 S&S EAT6 Allure",
+    "ts": "2026-06-24T10:10:37.445893+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2018,
+    "km": 266819,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "as:038c019c-c930-409a-86c2-c3279441b736": {
     "p": null,
     "f": "2026-06-24T10:09:26.090197+00:00",
@@ -144553,54 +144605,6 @@
     "mo": "500L",
     "y": 2014,
     "km": 138500
-  },
-  "wh:1264077056": {
-    "p": 10800,
-    "f": "2026-06-16T05:12:34.730374+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-sb-1-8-t-fsi-ambition-1264077056/",
-    "t": "Audi A3 SB 1,8 T FSI Ambition",
-    "ts": "2026-06-16T05:12:34.730374+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A3",
-    "y": 2008,
-    "km": 90103
-  },
-  "wh:1723436274": {
-    "p": 5000,
-    "f": "2026-06-16T05:12:34.730374+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-w210-1723436274/",
-    "t": "Mercedes-Benz C-Klasse W210",
-    "ts": "2026-06-16T05:12:34.730374+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C-Klasse",
-    "y": 2010,
-    "km": 253160
-  },
-  "wh:1454362906": {
-    "p": 4000,
-    "f": "2026-06-16T05:12:34.730374+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-318d-1454362906/",
-    "t": "BMW 3er-Reihe 318d",
-    "ts": "2026-06-16T05:12:34.730374+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2010,
-    "km": 295000
-  },
-  "wh:1781198004": {
-    "p": 1200,
-    "f": "2026-06-16T05:08:31.151015+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-1-8-diesel-1781198004/",
-    "t": "Ford Focus 1.8 Diesel",
-    "ts": "2026-06-16T05:18:26.428042+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 261000
   },
   "__health__": {
     "wh": 0,
