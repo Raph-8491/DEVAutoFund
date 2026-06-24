@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1576003505": {
+    "p": 4000,
+    "f": "2026-06-24T06:40:45.841694+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-duster-1-2-tce-1576003505/",
+    "t": "Dacia Duster 1,2 tce",
+    "ts": "2026-06-24T06:40:45.841694+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2014,
+    "km": 155000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "as:ddfb6542-5d5b-4a13-b443-7cbcb9bf4db3": {
     "p": null,
     "f": "2026-06-24T06:39:27.794552+00:00",
@@ -177,7 +190,7 @@
     "u": "https://www.autoscout24.at/angebote/porsche-cayenne-porsche-cayenne-3-6-black-edition-benzin-cat_ma57mo18284-83b9657f-490c-49a2-af4d-0ab35a2893b6",
     "t": "Porsche Cayenne",
     "ts": "2026-06-24T06:37:24.375352+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Porsche",
     "mo": "Cayenne",
     "y": 2008,
@@ -119801,7 +119814,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-chili-1-2l-1320229545/",
     "t": "Seat Ibiza Chili 1,2L",
     "ts": "2026-06-24T06:37:23.326424+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Seat",
     "mo": "Ibiza",
     "y": 2013,
@@ -144277,18 +144290,6 @@
     "mo": "1er-Reihe",
     "y": 2012,
     "km": 239640
-  },
-  "wh:818510395": {
-    "p": 7000,
-    "f": "2026-06-15T19:09:35.638538+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-corsa-818510395/",
-    "t": "Opel Corsa",
-    "ts": "2026-06-15T19:09:35.638538+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Corsa",
-    "y": 2016,
-    "km": 6700
   },
   "__health__": {
     "wh": 0,
