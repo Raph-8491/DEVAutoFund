@@ -147,13 +147,38 @@
     "y": 2009,
     "km": 235000
   },
+  "as:8fcee764-77c9-4b22-a08c-a73d1de84dc8": {
+    "p": null,
+    "f": "2026-06-24T06:37:24.375352+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:83b9657f-490c-49a2-af4d-0ab35a2893b6": {
+    "p": 8900,
+    "f": "2026-06-24T06:37:24.375352+00:00",
+    "u": "https://www.autoscout24.at/angebote/porsche-cayenne-porsche-cayenne-3-6-black-edition-benzin-cat_ma57mo18284-83b9657f-490c-49a2-af4d-0ab35a2893b6",
+    "t": "Porsche Cayenne",
+    "ts": "2026-06-24T06:37:24.375352+00:00",
+    "ch": null,
+    "ma": "Porsche",
+    "mo": "Cayenne",
+    "y": 2008,
+    "km": 2365000,
+    "b": ""
+  },
   "wh:1045606996": {
     "p": 14400,
     "f": "2026-06-24T06:34:26.534836+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-scirocco-1-4-tfsi-r-line-1045606996/",
     "t": "VW Scirocco 1.4 TFSI. R-Line",
     "ts": "2026-06-24T06:34:26.534836+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Scirocco",
     "y": 2016,
@@ -119759,16 +119784,17 @@
     "km": 284937
   },
   "wh:1320229545": {
-    "p": 3200,
+    "p": 2800,
     "f": "2026-06-17T06:40:42.862776+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-chili-1-2l-1320229545/",
     "t": "Seat Ibiza Chili 1,2L",
-    "ts": "2026-06-17T06:40:42.862776+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T06:37:23.326424+00:00",
+    "ch": null,
     "ma": "Seat",
     "mo": "Ibiza",
     "y": 2013,
-    "km": 162104
+    "km": 162104,
+    "b": "Sportwagen / Coup\u00e9"
   },
   "wh:1453380773": {
     "p": 7000,
@@ -119804,7 +119830,8 @@
     "ma": null,
     "mo": null,
     "y": 2010,
-    "km": 268375
+    "km": 268375,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "wh:881763937": {
     "p": 3200,
@@ -144254,30 +144281,6 @@
   "as:db31d999-68cf-4114-b222-1bd2e7ee0f53": {
     "p": null,
     "f": "2026-06-15T19:08:43.315427+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:2c3c866e-55f3-425a-81f2-2dbd0ec3cbc3": {
-    "p": 3500,
-    "f": "2026-06-15T19:07:37.857230+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-1-6-tdi-dpf-team-diesel-cat_ma74mo2084-2c3c866e-55f3-425a-81f2-2dbd0ec3cbc3",
-    "t": "Volkswagen Golf",
-    "ts": "2026-06-15T19:07:37.857230+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2010,
-    "km": 265000
-  },
-  "as:b8d9527d-e17d-4064-a7d9-eb07a3bcb7de": {
-    "p": null,
-    "f": "2026-06-15T19:07:37.857230+00:00",
     "u": null,
     "t": null,
     "ts": null,
