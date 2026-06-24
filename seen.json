@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:4a99c71a-b69a-482d-a9d5-ff81215b415f": {
+    "p": null,
+    "f": "2026-06-24T18:58:28.488096+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:1cf5b717-0261-4229-ba11-eb3c7ba7f953": {
     "p": 10390,
     "f": "2026-06-24T18:57:31.959737+00:00",
@@ -180,7 +192,7 @@
     "u": "https://www.autoscout24.at/angebote/volkswagen-passat-benzin-grau-cat_ma74mo2089-31461771-fa3a-4c4f-9bb8-74748d8d0649",
     "t": "Volkswagen Passat",
     "ts": "2026-06-24T18:55:36.336234+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Passat",
     "y": 2008,
@@ -219,7 +231,7 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-116-116d-oesterreich-paket-diesel-cat_ma13mo18480/77ae819c-cc2a-494b-aca3-0f459b2452dc",
     "t": "BMW 116 116d \u00d6sterreich-Paket",
     "ts": "2026-06-24T18:54:36.518956+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "116",
     "y": 2013,
@@ -145510,18 +145522,6 @@
     "mo": "A4",
     "y": 2011,
     "km": 273091
-  },
-  "wh:1175663952": {
-    "p": 11900,
-    "f": "2026-06-16T15:32:40.393908+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-q5-2-0-tdi-quattro-sport-dpf-1175663952/",
-    "t": "Audi Q5 2,0 TDI quattro Sport DPF",
-    "ts": "2026-06-16T15:32:40.393908+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "Q5",
-    "y": 2012,
-    "km": 351232
   },
   "__health__": {
     "wh": 0,
