@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1085404282": {
+    "p": 3490,
+    "f": "2026-06-24T15:13:26.423166+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c4-1-6-navi-sitzmassage-1085404282/",
+    "t": "Citro\u00ebn C4 1.6 * NAVI - SITZMASSAGE *",
+    "ts": "2026-06-24T15:13:26.423166+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 128000,
+    "b": "Limousine"
+  },
+  "wh:1385920461": {
+    "p": 9900,
+    "f": "2026-06-24T15:13:26.423166+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-e-klasse-2-2-1385920461/",
+    "t": "Mercedes-Benz E-Klasse 2.2",
+    "ts": "2026-06-24T15:13:26.423166+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "E-Klasse",
+    "y": 2012,
+    "km": 271000,
+    "b": "Limousine"
+  },
+  "wh:1092992358": {
+    "p": 2000,
+    "f": "2026-06-24T15:13:26.423166+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-s-max-wa6-t1-1092992358/",
+    "t": "Ford S-MAX WA6 T1",
+    "ts": "2026-06-24T15:13:26.423166+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 243000,
+    "b": "Kombi / Family Van"
+  },
   "as:b7df601d-4546-431d-9f6e-aedcf97b13a1": {
     "p": null,
     "f": "2026-06-24T15:11:26.729040+00:00",
@@ -145057,42 +145096,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:4ba76441-6efc-4dd7-9463-eb24ebc2c248": {
-    "p": null,
-    "f": "2026-06-16T11:50:54.030854+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1442967293": {
-    "p": 5900,
-    "f": "2026-06-16T11:50:50.407525+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mitsubishi-pajero-3-2-di-d-1442967293/",
-    "t": "Mitsubishi Pajero 3.2 DI-D",
-    "ts": "2026-06-16T11:50:50.407525+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 228000
-  },
-  "wh:1006099645": {
-    "p": 6999,
-    "f": "2026-06-16T11:50:50.407525+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-cls-klasse-amg-edition-facelift-1006099645/",
-    "t": "Mercedes-Benz CLS-Klasse AMG Edition***Facelift***",
-    "ts": "2026-06-16T11:50:50.407525+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "CLS-Klasse",
-    "y": 2010,
-    "km": 372000
   },
   "__health__": {
     "wh": 0,
