@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1471032355": {
+    "p": 1000,
+    "f": "2026-06-24T16:14:26.357940+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-altea-5p-1471032355/",
+    "t": "Seat Altea 5P",
+    "ts": "2026-06-24T16:14:26.357940+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Altea",
+    "y": 2009,
+    "km": 215000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:819218284": {
+    "p": 15000,
+    "f": "2026-06-24T16:14:26.357940+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-cla-klasse-200-819218284/",
+    "t": "Mercedes-Benz CLA-Klasse 200",
+    "ts": "2026-06-24T16:14:26.357940+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "CLA-Klasse",
+    "y": 2013,
+    "km": 149000,
+    "b": "Sportwagen / Coup\u00e9"
+  },
+  "wh:2002855329": {
+    "p": 4500,
+    "f": "2026-06-24T16:14:26.357940+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-fabia-active-1-2-2002855329/",
+    "t": "Skoda Fabia Active 1,2",
+    "ts": "2026-06-24T16:14:26.357940+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Fabia",
+    "y": 2015,
+    "km": 55251,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:0b670003-b719-45c1-91f1-1485cc2ea72d": {
     "p": null,
     "f": "2026-06-24T16:13:24.893198+00:00",
@@ -145157,42 +145196,6 @@
   "as:9851d801-9644-48cc-b02d-9e42d71e59b7": {
     "p": null,
     "f": "2026-06-16T12:54:33.989606+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1269276545": {
-    "p": 6000,
-    "f": "2026-06-16T12:53:25.598946+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-1-2-tsi-elegance-dsg-1269276545/",
-    "t": "Skoda Octavia 1,2 TSI Elegance DSG",
-    "ts": "2026-06-16T12:53:25.598946+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2010,
-    "km": 141000
-  },
-  "as:d9534565-c80d-4ada-baaf-d43f9b179d38": {
-    "p": 6100,
-    "f": "2026-06-16T12:52:27.645767+00:00",
-    "u": "https://www.autoscout24.at/angebote/skoda-fabia-fabia-iii-combi-diesel-combi-1-4-tdi-ambition-diesel-rot-cat_ma65mo15878-d9534565-c80d-4ada-baaf-d43f9b179d38",
-    "t": "Skoda Fabia",
-    "ts": "2026-06-16T12:52:27.645767+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Fabia",
-    "y": 2018,
-    "km": 195000
-  },
-  "as:ac034818-00da-48ad-b676-b8753ba9af19": {
-    "p": null,
-    "f": "2026-06-16T12:51:29.598958+00:00",
     "u": null,
     "t": null,
     "ts": null,
