@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2114951985": {
+    "p": 12790,
+    "f": "2026-06-24T11:42:27.792660+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-bmw-520d-xdrive-touring-automatik-top-zustand-sehr-gepflegt-2114951985/",
+    "t": "BMW 5er-Reihe BMW 520d xDrive Touring | Automatik | Top Zustand | Sehr gepflegt",
+    "ts": "2026-06-24T11:42:27.792660+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "5er-Reihe",
+    "y": 2014,
+    "km": 192000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T11:42:27.792660+00:00"
+  },
+  "wh:1707371056": {
+    "p": 11599,
+    "f": "2026-06-24T11:42:27.792660+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-e-klasse-e200-1707371056/",
+    "t": "Mercedes-Benz E-Klasse E200",
+    "ts": "2026-06-24T11:42:27.792660+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "E-Klasse",
+    "y": 2017,
+    "km": 40000,
+    "b": "Kombi / Family Van"
+  },
   "as:5d82fd3a-97b3-473d-9642-1786617abe85": {
     "p": null,
     "f": "2026-06-24T11:41:26.892632+00:00",
@@ -204,7 +231,7 @@
     "u": "https://www.autoscout24.at/angebote/bmw-116-116i-edition-lifestyle-benzin-blau-cat_ma13mo18480-0aaa13b6-abfe-4280-b597-3eb7ca236276",
     "t": "BMW 116",
     "ts": "2026-06-24T11:39:22.097384+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "116",
     "y": 2011,
@@ -121738,16 +121765,17 @@
     "km": 242000
   },
   "wh:2022061843": {
-    "p": 7150,
+    "p": 5700,
     "f": "2026-06-17T11:47:24.749692+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-variant-highline-bmt-tdi-dpf-4motion-dsg-2022061843/",
     "t": "VW Passat Variant Highline BMT TDI DPF 4Motion DSG",
-    "ts": "2026-06-17T11:47:24.749692+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T11:42:27.792660+00:00",
+    "ch": null,
     "ma": "VW",
     "mo": "Passat",
     "y": 2011,
-    "km": 288000
+    "km": 288000,
+    "b": "Kombi / Family Van"
   },
   "as:6fb83a29-d38f-42f2-86ea-6a8f42642d2c": {
     "p": 3000,
@@ -144725,30 +144753,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:43052505-db24-413a-ab16-c111792537cd": {
-    "p": 10500,
-    "f": "2026-06-16T07:43:24.994324+00:00",
-    "u": "https://www.autoscout24.at/angebote/bmw-118-118d-m-sport-line-diesel-cat_ma13mo18481-43052505-db24-413a-ab16-c111792537cd",
-    "t": "BMW 118",
-    "ts": "2026-06-16T07:43:24.994324+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "118",
-    "y": 2015,
-    "km": 154000
-  },
-  "wh:1584941656": {
-    "p": 3500,
-    "f": "2026-06-16T07:42:30.872055+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-1-4-1584941656/",
-    "t": "VW Polo 1.4",
-    "ts": "2026-06-16T07:42:30.872055+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2009,
-    "km": 184860
   },
   "__health__": {
     "wh": 0,
