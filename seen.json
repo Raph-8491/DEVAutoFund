@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2146356614": {
+    "p": 4500,
+    "f": "2026-06-24T07:15:41.005764+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-easy-1-0-ecoboost-2146356614/",
+    "t": "Ford Focus Easy 1,0 EcoBoost",
+    "ts": "2026-06-24T07:15:41.005764+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 136458,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:86665c50-1156-49cc-a933-33a77dc50cdd": {
     "p": 11700,
     "f": "2026-06-24T07:10:42.136566+00:00",
@@ -119886,7 +119899,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-skoda-octavia-combi-1-9-tdi-dpf-4x4-kombi-1043828176/",
     "t": "Skoda Octavia Skoda Octavia Combi 1,9 TDI DPF 4x4 Kombi",
     "ts": "2026-06-24T07:12:23.569209+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Skoda",
     "mo": "Octavia",
     "y": 2008,
@@ -144321,18 +144334,6 @@
     "mo": null,
     "y": 2012,
     "km": 289000
-  },
-  "wh:1850017271": {
-    "p": 3300,
-    "f": "2026-06-15T19:28:29.603363+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-ceed-1-4-crdi-1850017271/",
-    "t": "KIA Ceed 1,4 CRDI",
-    "ts": "2026-06-15T19:28:29.603363+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 147000
   },
   "__health__": {
     "wh": 0,
