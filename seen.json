@@ -147,6 +147,44 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:8221ef0b-06b5-4041-9a08-f1c842f8cbc5": {
+    "p": 9000,
+    "f": "2026-06-24T09:10:47.482826+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-golf-golf-trendline-1-2-tsi-trendline-benzin-weiss-cat_ma74mo2084/8221ef0b-06b5-4041-9a08-f1c842f8cbc5",
+    "t": "Volkswagen Golf",
+    "ts": "2026-06-24T09:10:47.482826+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2013,
+    "km": 170000,
+    "b": ""
+  },
+  "as:8221ef0b-06b5-4041-9a08-f1c842f8cbc5": {
+    "p": 9000,
+    "f": "2026-06-24T09:10:39.035146+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-golf-trendline-1-2-tsi-trendline-benzin-weiss-cat_ma74mo2084-8221ef0b-06b5-4041-9a08-f1c842f8cbc5",
+    "t": "Volkswagen Golf",
+    "ts": "2026-06-24T09:10:39.035146+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2013,
+    "km": 170000,
+    "b": ""
+  },
+  "as:05e9eda0-8f79-4913-b711-48feddc923f9": {
+    "p": null,
+    "f": "2026-06-24T09:10:39.035146+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:908700e7-5b35-422b-9ae3-4325869f5efe": {
     "p": 5500,
     "f": "2026-06-24T09:09:30.535852+00:00",
@@ -144462,42 +144500,6 @@
     "mo": "Focus",
     "y": 2017,
     "km": 155650
-  },
-  "as:4532d339-219a-44d7-bf90-8bae8e7d2ba7": {
-    "p": null,
-    "f": "2026-06-15T21:26:33.937183+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1802828876": {
-    "p": 10800,
-    "f": "2026-06-15T21:26:31.703716+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-320d-f31-1802828876/",
-    "t": "BMW 3er-Reihe 320D F31",
-    "ts": "2026-06-15T21:26:31.703716+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2013,
-    "km": 220000
-  },
-  "wh:1815837406": {
-    "p": 11500,
-    "f": "2026-06-15T21:22:30.681008+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x6-1815837406/",
-    "t": "BMW X6",
-    "ts": "2026-06-15T21:22:30.681008+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "X6",
-    "y": 2010,
-    "km": 264235
   },
   "__health__": {
     "wh": 0,
