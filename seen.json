@@ -147,6 +147,59 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:132ec284-432f-4e09-bb77-b1c16cb0cb33": {
+    "p": 12750,
+    "f": "2026-06-24T11:02:40.586271+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-touran-1-6-scr-tdi-diesel-cat_ma74mo18329/132ec284-432f-4e09-bb77-b1c16cb0cb33",
+    "t": "Volkswagen Touran",
+    "ts": "2026-06-24T11:02:40.586271+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Touran",
+    "y": 2016,
+    "km": 151000,
+    "b": ""
+  },
+  "as:132ec284-432f-4e09-bb77-b1c16cb0cb33": {
+    "p": 12750,
+    "f": "2026-06-24T11:02:29.603642+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-touran-1-6-scr-tdi-diesel-cat_ma74mo18329-132ec284-432f-4e09-bb77-b1c16cb0cb33",
+    "t": "Volkswagen Touran",
+    "ts": "2026-06-24T11:02:29.603642+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Touran",
+    "y": 2016,
+    "km": 151000,
+    "b": "",
+    "pu": "2026-06-24T11:02:29.603642+00:00"
+  },
+  "wh:1473021613": {
+    "p": 8649,
+    "f": "2026-06-24T11:02:27.629545+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/nissan-qashqai-1-2-1473021613/",
+    "t": "Nissan Qashqai 1,2",
+    "ts": "2026-06-24T11:02:27.629545+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2015,
+    "km": 181000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1858738374": {
+    "p": 3333,
+    "f": "2026-06-24T11:02:27.629545+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1858738374/",
+    "t": "Seat Ibiza",
+    "ts": "2026-06-24T11:02:27.629545+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Ibiza",
+    "y": 2008,
+    "km": 190000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:ecee34e3-c1b1-440b-9dbd-3928091db740": {
     "p": null,
     "f": "2026-06-24T11:01:34.607587+00:00",
@@ -121467,7 +121520,8 @@
     "ma": "VW",
     "mo": "Polo",
     "y": 2014,
-    "km": 64000
+    "km": 64000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "gw:1f1b9e95-2484-4b38-bb78-602608a778c4": {
     "p": 7900,
@@ -144631,54 +144685,6 @@
     "mo": null,
     "y": 2010,
     "km": 325000
-  },
-  "wh:927878824": {
-    "p": 1100,
-    "f": "2026-06-16T06:44:58.430725+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-laguna-927878824/",
-    "t": "Renault Laguna",
-    "ts": "2026-06-16T07:20:52.343194+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 267295
-  },
-  "wh:1358527521": {
-    "p": 9900,
-    "f": "2026-06-16T06:44:58.430725+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-500c-1-2-8v-sport-cabrio-1358527521/",
-    "t": "Fiat 500C 1,2 8V Sport Cabrio",
-    "ts": "2026-06-16T06:44:58.430725+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2017,
-    "km": 72800
-  },
-  "as:70ba8268-731f-4cb7-bc04-ed35300cf30c": {
-    "p": null,
-    "f": "2026-06-16T06:42:36.813012+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1282693314": {
-    "p": 11900,
-    "f": "2026-06-16T06:42:31.786336+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-variant-2-0-dsg-acc-ahk-pickerl-1282693314/",
-    "t": "VW Passat Variant 2.0 DSG |ACC | AHK | Pickerl",
-    "ts": "2026-06-16T06:42:31.786336+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2017,
-    "km": 204729
   },
   "__health__": {
     "wh": 0,
