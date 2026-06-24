@@ -147,6 +147,58 @@
     "y": 2009,
     "km": 235000
   },
+  "as:654c6228-9480-494f-bbff-a32d12a7cee5": {
+    "p": null,
+    "f": "2026-06-24T17:26:28.788817+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1358229609": {
+    "p": 2250,
+    "f": "2026-06-24T17:26:26.170062+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-altea-xl-1358229609/",
+    "t": "Seat Altea XL",
+    "ts": "2026-06-24T17:26:26.170062+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Altea",
+    "y": 2011,
+    "km": 198500,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1564438413": {
+    "p": 9500,
+    "f": "2026-06-24T17:26:26.170062+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-7-variant-highline-1564438413/",
+    "t": "VW Golf 7 Variant Highline",
+    "ts": "2026-06-24T17:26:26.170062+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2015,
+    "km": 200000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T17:26:26.170062+00:00"
+  },
+  "wh:1740893052": {
+    "p": 6000,
+    "f": "2026-06-24T17:26:26.170062+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/subaru-xv-1-6i-awd-1740893052/",
+    "t": "Subaru XV 1.6i AWD",
+    "ts": "2026-06-24T17:26:26.170062+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2015,
+    "km": 175200,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "gw:5ade3268-c88a-4f67-9d56-6976da850685": {
     "p": 9500,
     "f": "2026-06-24T17:24:38.452045+00:00",
@@ -145277,54 +145329,6 @@
     "mo": "Toledo",
     "y": 2013,
     "km": 172000
-  },
-  "wh:2059887452": {
-    "p": 2900,
-    "f": "2026-06-16T14:04:33.640120+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1-2-2059887452/",
-    "t": "Seat Ibiza 1.2",
-    "ts": "2026-06-16T14:04:33.640120+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2009,
-    "km": 138000
-  },
-  "wh:994126281": {
-    "p": 10500,
-    "f": "2026-06-16T14:04:33.640120+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a1-tdi-sline-994126281/",
-    "t": "Audi A1 TDI Sline",
-    "ts": "2026-06-16T14:04:33.640120+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A1",
-    "y": 2014,
-    "km": 165000
-  },
-  "wh:1767027311": {
-    "p": 7200,
-    "f": "2026-06-16T14:01:55.047753+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-twingo-ah-b225-1767027311/",
-    "t": "Renault Twingo AH/B225",
-    "ts": "2026-06-16T14:01:55.047753+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2016,
-    "km": 97790
-  },
-  "wh:1628510539": {
-    "p": 6500,
-    "f": "2026-06-16T13:58:35.843090+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-6-tdi-105-ps-1628510539/",
-    "t": "VW Golf 1.6 TDI 105 ps",
-    "ts": "2026-06-16T13:58:35.843090+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2011,
-    "km": 158000
   },
   "__health__": {
     "wh": 0,
