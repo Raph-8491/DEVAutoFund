@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:f2cbbf48-e714-4a59-9d73-47595738d409": {
+    "p": null,
+    "f": "2026-06-24T15:08:35.250724+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1214131307": {
+    "p": 8900,
+    "f": "2026-06-24T15:08:33.128886+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-1-4-1214131307/",
+    "t": "Opel Astra 1.4",
+    "ts": "2026-06-24T15:08:33.128886+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Astra",
+    "y": 2017,
+    "km": 136300,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1260537259": {
     "p": 1100,
     "f": "2026-06-24T15:07:25.651722+00:00",
@@ -145066,30 +145091,6 @@
     "mo": null,
     "y": 2013,
     "km": 89901
-  },
-  "gw:653c9447-191f-4c4f-a80e-a1236d57b6b2": {
-    "p": 2900,
-    "f": "2026-06-16T11:43:44.941061+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-passat-variant-var-cl-bluemotion-technology-1-6-tdi-comfortline-diesel-cat_ma74mo20338/653c9447-191f-4c4f-a80e-a1236d57b6b2",
-    "t": "Volkswagen Passat Variant",
-    "ts": "2026-06-16T11:43:44.941061+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat Variant",
-    "y": 2010,
-    "km": 199600
-  },
-  "as:1d5e8b32-6bab-4e64-8154-d509d9ce315f": {
-    "p": null,
-    "f": "2026-06-16T11:43:30.954473+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
