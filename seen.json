@@ -147,6 +147,46 @@
     "y": 2009,
     "km": 235000
   },
+  "as:2adf964b-3e34-4bfb-abef-ad5a8344e0ac": {
+    "p": null,
+    "f": "2026-06-24T19:55:34.079986+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1772008970": {
+    "p": 11000,
+    "f": "2026-06-24T19:55:32.240959+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-sharan-1772008970/",
+    "t": "VW Sharan",
+    "ts": "2026-06-24T19:55:32.240959+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Sharan",
+    "y": 2014,
+    "km": 191000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T19:55:32.240959+00:00"
+  },
+  "wh:1724461504": {
+    "p": 5999,
+    "f": "2026-06-24T19:55:32.240959+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-2-tsi-1724461504/",
+    "t": "VW Golf 1,2 TSI",
+    "ts": "2026-06-24T19:55:32.240959+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2016,
+    "km": 190000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-24T19:55:32.240959+00:00"
+  },
   "wh:1411740065": {
     "p": 4250,
     "f": "2026-06-24T19:53:28.946565+00:00",
@@ -145577,42 +145617,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "gw:f213e678-1e0a-4136-b3d7-4a227f651794": {
-    "p": 12000,
-    "f": "2026-06-16T16:24:59.895652+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/mercedes-benz-c-180-c-180-t-7g-tronic-benzin-silber-cat_ma47mo1859/f213e678-1e0a-4136-b3d7-4a227f651794",
-    "t": "Mercedes-Benz C 180",
-    "ts": "2026-06-16T16:24:59.895652+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C 180",
-    "y": 2015,
-    "km": 119250
-  },
-  "wh:1582575159": {
-    "p": 6900,
-    "f": "2026-06-16T16:24:43.084364+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-6-tdi-90-ps-1582575159/",
-    "t": "VW Golf 1,6 TDI 90 PS",
-    "ts": "2026-06-16T16:24:43.084364+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2015,
-    "km": 264000
-  },
-  "wh:921272842": {
-    "p": 5500,
-    "f": "2026-06-16T16:24:43.084364+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda3-skyactive-technology-921272842/",
-    "t": "Mazda Mazda3 Skyactive Technology",
-    "ts": "2026-06-16T16:24:43.084364+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2015,
-    "km": 190000
   },
   "__health__": {
     "wh": 0,
