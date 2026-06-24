@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1045606996": {
+    "p": 14400,
+    "f": "2026-06-24T06:34:26.534836+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-scirocco-1-4-tfsi-r-line-1045606996/",
+    "t": "VW Scirocco 1.4 TFSI. R-Line",
+    "ts": "2026-06-24T06:34:26.534836+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Scirocco",
+    "y": 2016,
+    "km": 53000,
+    "b": "Sportwagen / Coup\u00e9"
+  },
   "wh:2056413836": {
     "p": 13600,
     "f": "2026-06-24T06:32:28.819640+00:00",
@@ -179,7 +192,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i30-1-4-benzin-1482656074/",
     "t": "Hyundai i30 1.4 benzin",
     "ts": "2026-06-24T06:30:51.765993+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2017,
@@ -192,7 +205,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-m-paket-performance-bremsanlage-unfallfrei-1435139799/",
     "t": "BMW 1er-Reihe M-Paket | Performance-Bremsanlage | Unfallfrei",
     "ts": "2026-06-24T06:30:51.765993+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "1er-Reihe",
     "y": 2014,
@@ -144263,18 +144276,6 @@
     "km": 265000
   },
   "as:b8d9527d-e17d-4064-a7d9-eb07a3bcb7de": {
-    "p": null,
-    "f": "2026-06-15T19:07:37.857230+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:e704b9bb-d37b-400c-9e44-1ba61a201bb3": {
     "p": null,
     "f": "2026-06-15T19:07:37.857230+00:00",
     "u": null,
