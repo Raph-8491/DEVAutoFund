@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1879501459": {
+    "p": 2750,
+    "f": "2026-06-24T11:15:39.276563+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touran-1-4-tfsi-1879501459/",
+    "t": "VW Touran 1.4. tfsi",
+    "ts": "2026-06-24T11:15:39.276563+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Touran",
+    "y": 2009,
+    "km": 219584,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T11:15:39.276563+00:00"
+  },
+  "wh:1394540908": {
+    "p": 1700,
+    "f": "2026-06-24T11:15:39.276563+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-5008-1-6-hdi-1394540908/",
+    "t": "Peugeot 5008 1.6 HDI",
+    "ts": "2026-06-24T11:15:39.276563+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 355000,
+    "b": "Kombi / Family Van"
+  },
   "as:e1a5396f-d5af-4f41-8835-89dcbffa043b": {
     "p": null,
     "f": "2026-06-24T11:14:35.238897+00:00",
@@ -214,7 +241,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-topzustand-1-besitz-serviceheft-2schluessel-1841167924/",
     "t": "Audi A3 *TOPZUSTAND* | 1.Besitz | Serviceheft | 2Schl\u00fcssel",
     "ts": "2026-06-24T11:12:25.383983+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A3",
     "y": 2010,
@@ -228,7 +255,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1461657489/",
     "t": "VW Golf",
     "ts": "2026-06-24T11:12:25.383983+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2009,
@@ -144676,30 +144703,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:a26c40eb-68ac-4eff-8371-a628afadc0a1": {
-    "p": null,
-    "f": "2026-06-16T06:56:30.546729+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "gw:24394064-861a-4afb-abec-38efaedef08f": {
-    "p": 1590,
-    "f": "2026-06-16T06:55:49.083765+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/fiat-bravo-bravo-1-4-16v-t-jet-120-active-active-benzin-cat_ma28mo1741/24394064-861a-4afb-abec-38efaedef08f",
-    "t": "Fiat Bravo",
-    "ts": "2026-06-16T06:55:49.083765+00:00",
-    "ch": "alive",
-    "ma": "Fiat",
-    "mo": "Bravo",
-    "y": 2008,
-    "km": 220000
   },
   "__health__": {
     "wh": 0,
