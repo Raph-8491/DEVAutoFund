@@ -147,6 +147,57 @@
     "y": 2009,
     "km": 235000
   },
+  "as:8e216773-abc2-4b18-a9a2-83a5f354436e": {
+    "p": null,
+    "f": "2026-06-24T18:59:30.538729+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1046125696": {
+    "p": 9800,
+    "f": "2026-06-24T18:59:28.955410+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-1046125696/",
+    "t": "Ford Galaxy",
+    "ts": "2026-06-24T18:59:28.955410+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2017,
+    "km": 219000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1850326931": {
+    "p": 3200,
+    "f": "2026-06-24T18:59:28.955410+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-trend-1-0l-start-stop-1850326931/",
+    "t": "Ford Fiesta Trend 1.0l Start/Stop",
+    "ts": "2026-06-24T18:59:28.955410+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 125000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1384318009": {
+    "p": 4200,
+    "f": "2026-06-24T18:59:28.955410+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-1-6tdi-1384318009/",
+    "t": "Skoda Octavia 1,6TDI",
+    "ts": "2026-06-24T18:59:28.955410+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Octavia",
+    "y": 2014,
+    "km": 360000,
+    "b": "Kombi / Family Van"
+  },
   "as:4a99c71a-b69a-482d-a9d5-ff81215b415f": {
     "p": null,
     "f": "2026-06-24T18:58:28.488096+00:00",
@@ -145474,54 +145525,6 @@
     "mo": "Passat",
     "y": 2008,
     "km": 180900
-  },
-  "as:e799d436-7cf3-42c7-8298-897cecfa6310": {
-    "p": null,
-    "f": "2026-06-16T15:33:32.092046+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:971514698": {
-    "p": 700,
-    "f": "2026-06-16T15:33:29.999835+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-megane-extrem-971514698/",
-    "t": "Renault M\u00e9gane Extrem",
-    "ts": "2026-06-16T15:33:29.999835+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 202000
-  },
-  "wh:1754801052": {
-    "p": 1999,
-    "f": "2026-06-16T15:32:40.393908+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-meriva-1-3-cdti-1754801052/",
-    "t": "Opel Meriva 1.3 CDTI",
-    "ts": "2026-06-16T15:32:40.393908+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Meriva",
-    "y": 2011,
-    "km": 179000
-  },
-  "wh:1259051402": {
-    "p": 8000,
-    "f": "2026-06-16T15:32:40.393908+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-1259051402/",
-    "t": "Audi A4",
-    "ts": "2026-06-16T15:32:40.393908+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2011,
-    "km": 273091
   },
   "__health__": {
     "wh": 0,
