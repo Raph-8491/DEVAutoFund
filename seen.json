@@ -147,6 +147,30 @@
     "y": 2009,
     "km": 235000
   },
+  "as:0d3775e8-6d51-4c08-827c-965bbd55d12c": {
+    "p": null,
+    "f": "2026-06-24T20:49:25.486944+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:b5e1ea1e-a421-4f93-95c0-7f6f7f5f4a56": {
+    "p": null,
+    "f": "2026-06-24T20:49:25.486944+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:fff6abe7-7fef-4585-86b6-25a329439815": {
     "p": 7500,
     "f": "2026-06-24T20:48:33.116674+00:00",
@@ -145663,30 +145687,6 @@
     "mo": null,
     "y": 2010,
     "km": 165000
-  },
-  "wh:1518888296": {
-    "p": 7000,
-    "f": "2026-06-16T16:55:44.190780+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-1518888296/",
-    "t": "BMW 5er-Reihe",
-    "ts": "2026-06-16T16:55:44.190780+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "5er-Reihe",
-    "y": 2012,
-    "km": 294000
-  },
-  "as:5439c78a-94dd-4c2e-ae9d-0d0886efffb8": {
-    "p": 8900,
-    "f": "2026-06-16T16:54:41.632205+00:00",
-    "u": "https://www.autoscout24.at/angebote/kia-sportage-active-pro-diesel-cat_ma39mo1812-5439c78a-94dd-4c2e-ae9d-0d0886efffb8",
-    "t": "Kia Sportage",
-    "ts": "2026-06-16T16:54:41.632205+00:00",
-    "ch": "alive",
-    "ma": "Kia",
-    "mo": "Sportage",
-    "y": 2011,
-    "km": 155000
   },
   "__health__": {
     "wh": 0,
