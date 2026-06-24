@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "as:15c43f6f-a0b0-4580-9587-2664c1f1c160": {
+    "p": 3100,
+    "f": "2026-06-24T17:43:26.311137+00:00",
+    "u": "https://www.autoscout24.at/angebote/seat-ibiza-benzin-schwarz-cat_ma64mo2006-15c43f6f-a0b0-4580-9587-2664c1f1c160",
+    "t": "SEAT Ibiza",
+    "ts": "2026-06-24T17:43:26.311137+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Ibiza",
+    "y": 2011,
+    "km": 162423,
+    "b": ""
+  },
+  "wh:1596187684": {
+    "p": 2500,
+    "f": "2026-06-24T17:43:25.534058+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-caddy-1-9-tdi-1596187684/",
+    "t": "VW Caddy 1,9 TDI",
+    "ts": "2026-06-24T17:43:25.534058+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Caddy",
+    "y": 2009,
+    "km": 250000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:864764948": {
+    "p": 3800,
+    "f": "2026-06-24T17:43:25.534058+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-giha-1-6d-864764948/",
+    "t": "Ford Galaxy GIHA 1,6D",
+    "ts": "2026-06-24T17:43:25.534058+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 316479,
+    "b": "Kombi / Family Van"
+  },
   "as:eebc71a8-e90a-421d-99ab-47e0c66d2472": {
     "p": 7500,
     "f": "2026-06-24T17:42:31.934018+00:00",
@@ -145328,42 +145367,6 @@
     "mo": "Golf",
     "y": 2011,
     "km": 185000
-  },
-  "as:2bc89c71-8135-409f-80c0-945a0aae7e36": {
-    "p": null,
-    "f": "2026-06-16T14:22:43.255667+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:094dd724-82a9-4c91-9fa6-f764343ee7f7": {
-    "p": null,
-    "f": "2026-06-16T14:21:01.081599+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1352281203": {
-    "p": 10000,
-    "f": "2026-06-16T14:20:58.530937+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-sports-tourer-sw-1352281203/",
-    "t": "Opel Insignia Sports Tourer SW",
-    "ts": "2026-06-16T14:20:58.530937+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Insignia",
-    "y": 2015,
-    "km": 150000
   },
   "__health__": {
     "wh": 0,
