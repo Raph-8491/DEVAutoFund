@@ -147,6 +147,43 @@
     "y": 2009,
     "km": 235000
   },
+  "as:77e8573f-46bd-4d1c-bcf9-38a4ba9ec4bc": {
+    "p": null,
+    "f": "2026-06-24T10:45:45.766807+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:e5b3f9a8-5840-470b-9c12-fedf711c00b9": {
+    "p": null,
+    "f": "2026-06-24T10:45:45.766807+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1468359190": {
+    "p": 3150,
+    "f": "2026-06-24T10:45:44.196923+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-panda-1-1-1468359190/",
+    "t": "Fiat Panda 1,1",
+    "ts": "2026-06-24T10:45:44.196923+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 75200,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "gw:5707df13-71f4-4484-8442-dc1154dd9a5d": {
     "p": 11990,
     "f": "2026-06-24T10:43:32.466502+00:00",
@@ -144614,42 +144651,6 @@
     "mo": null,
     "y": 2013,
     "km": 212000
-  },
-  "as:7ea5e86b-ebe9-40f2-b6f5-35a61f3398e4": {
-    "p": 6000,
-    "f": "2026-06-16T06:22:28.812918+00:00",
-    "u": "https://www.autoscout24.at/angebote/mercedes-benz-viano-2-2-cdi-kompakt-trend-diesel-cat_ma47mo18394-7ea5e86b-ebe9-40f2-b6f5-35a61f3398e4",
-    "t": "Mercedes-Benz Viano",
-    "ts": "2026-06-16T06:22:28.812918+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "Viano",
-    "y": 2008,
-    "km": 241000
-  },
-  "wh:1431051105": {
-    "p": 3350,
-    "f": "2026-06-16T06:21:29.925888+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-laguna-1-9-dissel-1431051105/",
-    "t": "Renault Laguna 1.9 Dissel",
-    "ts": "2026-06-16T06:21:29.925888+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 189000
-  },
-  "wh:1334675393": {
-    "p": 3500,
-    "f": "2026-06-16T06:19:24.928766+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-1-8-tfsi-s-tronic-motorschaden-1334675393/",
-    "t": "Audi A4 1.8 TFSI S Tronic Motorschaden",
-    "ts": "2026-06-16T06:19:24.928766+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2008,
-    "km": 146000
   },
   "__health__": {
     "wh": 0,
