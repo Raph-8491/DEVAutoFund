@@ -147,6 +147,58 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1585365627": {
+    "p": 8500,
+    "f": "2026-06-24T17:50:42.228334+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-q5-2009-quattro-176kw-239ps-1585365627/",
+    "t": "Audi Q5 2009 Quattro 176kw 239ps",
+    "ts": "2026-06-24T17:50:42.228334+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "Q5",
+    "y": 2009,
+    "km": 290000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1209557892": {
+    "p": 10350,
+    "f": "2026-06-24T17:50:42.228334+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/volvo-xc60-d5-awd-r-design-geartronic-1209557892/",
+    "t": "Volvo XC60 D5 AWD R-Design Geartronic",
+    "ts": "2026-06-24T17:50:42.228334+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 287157,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1004493720": {
+    "p": 3150,
+    "f": "2026-06-24T17:50:42.228334+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda5-1004493720/",
+    "t": "Mazda Mazda5",
+    "ts": "2026-06-24T17:50:42.228334+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 212720,
+    "b": "Kombi / Family Van"
+  },
+  "wh:2060800480": {
+    "p": 6300,
+    "f": "2026-06-24T17:50:42.228334+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x5-3-0-d-e70-2060800480/",
+    "t": "BMW X5 3.0 d E70",
+    "ts": "2026-06-24T17:50:42.228334+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X5",
+    "y": 2008,
+    "km": 366600,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "as:59f541d0-8e2c-4ad0-888a-39703575248b": {
     "p": null,
     "f": "2026-06-24T17:48:27.015505+00:00",
@@ -145323,54 +145375,6 @@
     "mo": "B 180",
     "y": 2010,
     "km": 85000
-  },
-  "as:4afa5ac3-7989-4746-b887-3076e9e91802": {
-    "p": null,
-    "f": "2026-06-16T14:28:44.060166+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:a36ed2a3-48f1-47a4-a8e0-26f1fd76d90f": {
-    "p": 5800,
-    "f": "2026-06-16T14:27:33.927436+00:00",
-    "u": "https://www.autoscout24.at/angebote/bmw-120-120d-sport-line-diesel-cat_ma13mo18482-a36ed2a3-48f1-47a4-a8e0-26f1fd76d90f",
-    "t": "BMW 120",
-    "ts": "2026-06-16T14:27:33.927436+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "120",
-    "y": 2012,
-    "km": 141000
-  },
-  "wh:1010475295": {
-    "p": 6800,
-    "f": "2026-06-16T14:26:37.461773+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1010475295/",
-    "t": "VW Golf",
-    "ts": "2026-06-16T14:26:37.461773+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2013,
-    "km": 181000
-  },
-  "wh:1389137757": {
-    "p": 1350,
-    "f": "2026-06-16T14:26:37.461773+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-punto-typ-199-bxh1a-20-1389137757/",
-    "t": "Fiat Punto Typ 199/BXH1A/20",
-    "ts": "2026-06-16T14:26:37.461773+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 129700
   },
   "__health__": {
     "wh": 0,
