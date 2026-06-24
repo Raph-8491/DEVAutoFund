@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:14da8de2-1ab7-4c54-98d0-382b898216b0": {
+    "p": null,
+    "f": "2026-06-24T17:47:23.148026+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:81bcc75f-0cdf-404d-9bfd-218fe9a3fd3a": {
+    "p": 3100,
+    "f": "2026-06-24T17:47:23.148026+00:00",
+    "u": "https://www.autoscout24.at/angebote/seat-ibiza-benzin-cat_ma64mo2006-81bcc75f-0cdf-404d-9bfd-218fe9a3fd3a",
+    "t": "SEAT Ibiza",
+    "ts": "2026-06-24T17:47:23.148026+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Ibiza",
+    "y": 2011,
+    "km": 16513,
+    "b": ""
+  },
   "as:0e9f6b0b-bddd-4e38-9156-59c16152060f": {
     "p": null,
     "f": "2026-06-24T17:45:39.517037+00:00",
@@ -145345,30 +145370,6 @@
     "mo": null,
     "y": 2016,
     "km": 172000
-  },
-  "wh:2083659802": {
-    "p": 9600,
-    "f": "2026-06-16T14:26:37.461773+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-e-klasse-350-cdi-blueefficiency-avantgarde-2083659802/",
-    "t": "Mercedes-Benz E-Klasse 350 CDI BlueEFFICIENCY Avantgarde",
-    "ts": "2026-06-16T14:26:37.461773+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "E-Klasse",
-    "y": 2009,
-    "km": 421500
-  },
-  "wh:1851988168": {
-    "p": 8900,
-    "f": "2026-06-16T14:26:37.461773+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-2-0-tdi-sportback-s-line-1851988168/",
-    "t": "Audi A5 2.0 TDI Sportback S-Line",
-    "ts": "2026-06-16T14:26:37.461773+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A5",
-    "y": 2014,
-    "km": 279000
   },
   "__health__": {
     "wh": 0,
