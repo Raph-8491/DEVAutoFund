@@ -147,6 +147,59 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1108726368": {
+    "p": 9800,
+    "f": "2026-06-24T14:53:21.300649+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda3-2-2-d-skyactive-1108726368/",
+    "t": "Mazda Mazda3 2.2 D Skyactive",
+    "ts": "2026-06-24T14:53:21.300649+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2015,
+    "km": 112000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1870330590": {
+    "p": 1999,
+    "f": "2026-06-24T14:53:21.300649+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-sport-1-2-1870330590/",
+    "t": "VW Polo Sport 1,2",
+    "ts": "2026-06-24T14:53:21.300649+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Polo",
+    "y": 2014,
+    "km": 217000,
+    "b": "Limousine",
+    "pu": "2026-06-24T14:53:21.300649+00:00"
+  },
+  "wh:2124340442": {
+    "p": 600,
+    "f": "2026-06-24T14:53:21.300649+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-2124340442/",
+    "t": "Ford Focus",
+    "ts": "2026-06-24T14:53:21.300649+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 380000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1440800100": {
+    "p": 7500,
+    "f": "2026-06-24T14:53:21.300649+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-combi-1-6-tdi-style-1440800100/",
+    "t": "Skoda Octavia Combi 1,6 TDI Style",
+    "ts": "2026-06-24T14:53:21.300649+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Octavia",
+    "y": 2017,
+    "km": 227723,
+    "b": "Kombi / Family Van"
+  },
   "as:1294eb84-21d5-43a3-9b50-6d8db2dc87cd": {
     "p": null,
     "f": "2026-06-24T14:52:32.457593+00:00",
@@ -469,11 +522,11 @@
     "pu": "2026-06-24T14:43:22.268591+00:00"
   },
   "wh:1843895922": {
-    "p": 8000,
+    "p": 7500,
     "f": "2026-06-24T14:43:22.268591+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-e61-1843895922/",
     "t": "BMW 5er-Reihe E61",
-    "ts": "2026-06-24T14:43:22.268591+00:00",
+    "ts": "2026-06-24T14:53:21.300649+00:00",
     "ch": null,
     "ma": "BMW",
     "mo": "5er-Reihe",
@@ -145012,54 +145065,6 @@
     "mo": "A 160",
     "y": 2010,
     "km": 107000
-  },
-  "as:32cf7cd1-aa9b-4331-8f91-2b56b22942de": {
-    "p": 3100,
-    "f": "2026-06-16T11:28:43.728847+00:00",
-    "u": "https://www.autoscout24.at/angebote/mercedes-benz-a-160-a-160-a-edition-blueefficiency-a-edition-benzin-schwarz-cat_ma47mo14869-32cf7cd1-aa9b-4331-8f91-2b56b22942de",
-    "t": "Mercedes-Benz A 160",
-    "ts": "2026-06-16T11:28:43.728847+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "A 160",
-    "y": 2010,
-    "km": 107000
-  },
-  "wh:2108040438": {
-    "p": 6990,
-    "f": "2026-06-16T11:28:36.110072+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-500-1-2-benzin-4zylinder-2108040438/",
-    "t": "Fiat 500 1,2 Benzin (4zylinder)",
-    "ts": "2026-06-16T11:28:36.110072+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2017,
-    "km": 64000
-  },
-  "wh:1179270781": {
-    "p": 500,
-    "f": "2026-06-16T11:28:36.110072+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-rio-1-4-1179270781/",
-    "t": "KIA Rio 1.4",
-    "ts": "2026-06-16T11:28:36.110072+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 193519
-  },
-  "wh:1375508277": {
-    "p": 4600,
-    "f": "2026-06-16T11:28:36.110072+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-2-1375508277/",
-    "t": "BMW 3er-Reihe 2",
-    "ts": "2026-06-16T11:28:36.110072+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2011,
-    "km": 280000
   },
   "__health__": {
     "wh": 0,
