@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:f2928eb9-ffbc-46b2-a511-2669cf33e276": {
+    "p": null,
+    "f": "2026-06-24T12:05:36.257956+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1654301212": {
     "p": 1999,
     "f": "2026-06-24T12:04:28.899206+00:00",
@@ -217,7 +229,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a8-4-2-fsi-quattro-tiptronic-1817788411/",
     "t": "Audi A8 4.2 FSI Quattro Tiptronic",
     "ts": "2026-06-24T12:02:29.622290+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A8",
     "y": 2011,
@@ -231,7 +243,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-1637111931/",
     "t": "BMW 1er-Reihe",
     "ts": "2026-06-24T12:02:29.622290+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "1er-Reihe",
     "y": 2010,
@@ -144766,18 +144778,6 @@
     "mo": "B-Klasse",
     "y": 2015,
     "km": 261600
-  },
-  "wh:1832279617": {
-    "p": 9150,
-    "f": "2026-06-16T08:03:35.961740+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-rio-1-25-mpi-titan-isg-1832279617/",
-    "t": "KIA Rio 1,25 MPI Titan ISG",
-    "ts": "2026-06-16T08:03:35.961740+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2020,
-    "km": 80486
   },
   "__health__": {
     "wh": 0,
