@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:1a92aa1e-7846-494c-811c-0287f98f91f4": {
+    "p": null,
+    "f": "2026-06-24T14:54:28.017448+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1108726368": {
     "p": 9800,
     "f": "2026-06-24T14:53:21.300649+00:00",
@@ -145053,18 +145065,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "gw:32cf7cd1-aa9b-4331-8f91-2b56b22942de": {
-    "p": 3100,
-    "f": "2026-06-16T11:28:56.552322+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/mercedes-benz-a-160-a-160-a-edition-blueefficiency-a-edition-benzin-schwarz-cat_ma47mo14869/32cf7cd1-aa9b-4331-8f91-2b56b22942de",
-    "t": "Mercedes-Benz A 160",
-    "ts": "2026-06-16T11:28:56.552322+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "A 160",
-    "y": 2010,
-    "km": 107000
   },
   "__health__": {
     "wh": 0,
