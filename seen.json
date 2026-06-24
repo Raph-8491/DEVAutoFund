@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:757d2e5e-7fe5-4c28-a68e-f62fe38fb9fa": {
+    "p": 8449,
+    "f": "2026-06-24T13:17:31.757399+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/nissan-qashqai-1-5-dci-tekna-diesel-cat_ma52mo18921/757d2e5e-7fe5-4c28-a68e-f62fe38fb9fa",
+    "t": "Nissan Qashqai",
+    "ts": "2026-06-24T13:17:31.757399+00:00",
+    "ch": null,
+    "ma": "Nissan",
+    "mo": "Qashqai",
+    "y": 2015,
+    "km": 181000,
+    "b": ""
+  },
+  "as:757d2e5e-7fe5-4c28-a68e-f62fe38fb9fa": {
+    "p": 8449,
+    "f": "2026-06-24T13:17:23.258336+00:00",
+    "u": "https://www.autoscout24.at/angebote/nissan-qashqai-1-5-dci-tekna-diesel-cat_ma52mo18921-757d2e5e-7fe5-4c28-a68e-f62fe38fb9fa",
+    "t": "Nissan Qashqai",
+    "ts": "2026-06-24T13:17:23.258336+00:00",
+    "ch": null,
+    "ma": "Nissan",
+    "mo": "Qashqai",
+    "y": 2015,
+    "km": 181000,
+    "b": ""
+  },
   "as:8a39dcd9-0a63-4090-aa6a-f875851842d5": {
     "p": 11000,
     "f": "2026-06-24T13:16:29.411120+00:00",
@@ -144859,30 +144885,6 @@
     "mo": "Insignia",
     "y": 2014,
     "km": 286000
-  },
-  "wh:1370892390": {
-    "p": 3900,
-    "f": "2026-06-16T09:17:37.902831+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-punto-easy-1370892390/",
-    "t": "Fiat Punto easy",
-    "ts": "2026-06-16T09:17:37.902831+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 117800
-  },
-  "as:e3d7fc46-33c4-437f-ada3-983faea955d0": {
-    "p": null,
-    "f": "2026-06-16T09:15:57.644198+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
