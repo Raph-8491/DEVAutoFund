@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "as:40ea5fd4-57e0-4024-afce-8fa6742dadc2": {
+    "p": null,
+    "f": "2026-06-24T13:39:23.286314+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:1a4eb652-c612-41cb-9940-b17982481fff": {
+    "p": 10900,
+    "f": "2026-06-24T13:39:23.286314+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-golf-2-0-bluetdi-dsg-cup-diesel-schwarz-cat_ma74mo2084-1a4eb652-c612-41cb-9940-b17982481fff",
+    "t": "Volkswagen Golf",
+    "ts": "2026-06-24T13:39:23.286314+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2014,
+    "km": 185000,
+    "b": "",
+    "pu": "2026-06-24T13:39:23.286314+00:00"
+  },
   "as:1a45a25b-6371-43dd-8f95-7e9ed724c1bb": {
     "p": null,
     "f": "2026-06-24T13:38:32.421697+00:00",
@@ -228,7 +254,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-e-klasse-1470301180/",
     "t": "Mercedes-Benz E-Klasse",
     "ts": "2026-06-24T13:35:43.923048+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Mercedes-Benz",
     "mo": "E-Klasse",
     "y": 2013,
@@ -144908,30 +144934,6 @@
     "mo": null,
     "y": 2010,
     "km": 105000
-  },
-  "wh:1209746939": {
-    "p": 4200,
-    "f": "2026-06-16T09:46:38.841198+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-scenic-1-5-diesel-1209746939/",
-    "t": "Renault Sc\u00e9nic 1.5 Diesel",
-    "ts": "2026-06-16T09:46:38.841198+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 126500
-  },
-  "as:74a93abf-edf3-4503-b61a-edb511250aec": {
-    "p": null,
-    "f": "2026-06-16T09:45:55.691806+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
