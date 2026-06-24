@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1077520055": {
+    "p": 2700,
+    "f": "2026-06-24T20:07:25.104312+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-c-max-benzin-1-0-eco-1077520055/",
+    "t": "Ford C-MAX Benzin 1.0 ECO",
+    "ts": "2026-06-24T20:07:25.104312+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2016,
+    "km": 180000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "gw:ac9c6bf9-3554-4a6b-8a3a-fb756b0c3957": {
     "p": 4300,
     "f": "2026-06-24T20:06:39.512456+00:00",
@@ -145627,18 +145640,6 @@
     "mo": null,
     "y": 2016,
     "km": 164000
-  },
-  "wh:1469895939": {
-    "p": 5000,
-    "f": "2026-06-16T16:32:41.527980+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x3-3-0d-1469895939/",
-    "t": "BMW X3 3.0d",
-    "ts": "2026-06-16T16:32:41.527980+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "X3",
-    "y": 2015,
-    "km": 489000
   },
   "__health__": {
     "wh": 0,
