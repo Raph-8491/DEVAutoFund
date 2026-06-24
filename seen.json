@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:e8eaadc3-3300-4fe6-8954-4d6f29493caa": {
+    "p": null,
+    "f": "2026-06-24T17:06:27.274774+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:3c7e5d80-d55a-4df2-bd24-ce53673881f0": {
     "p": 5800,
     "f": "2026-06-24T17:05:43.402052+00:00",
@@ -145268,18 +145280,6 @@
     "mo": "C-Klasse",
     "y": 2010,
     "km": 287000
-  },
-  "gw:be492b23-26f7-4765-86ae-2978b1454f65": {
-    "p": 9700,
-    "f": "2026-06-16T13:36:02.876132+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/seat-leon-leon-style-1-6-tdi-style-diesel-weiss-cat_ma64mo15869/be492b23-26f7-4765-86ae-2978b1454f65",
-    "t": "SEAT Leon",
-    "ts": "2026-06-16T13:41:56.661579+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Leon",
-    "y": 2015,
-    "km": 124500
   },
   "__health__": {
     "wh": 0,
