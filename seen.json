@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:781156433": {
+    "p": 2700,
+    "f": "2026-06-24T15:46:32.379654+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-781156433/",
+    "t": "VW Golf",
+    "ts": "2026-06-24T15:46:32.379654+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2009,
+    "km": 330365,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1821896585": {
+    "p": 12900,
+    "f": "2026-06-24T15:46:32.379654+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-duster-1821896585/",
+    "t": "Dacia Duster",
+    "ts": "2026-06-24T15:46:32.379654+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2020,
+    "km": 53876,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "gw:13d0af69-44be-4966-bfb3-48bc030c8317": {
     "p": 5990,
     "f": "2026-06-24T15:45:15.840671+00:00",
@@ -675,18 +701,18 @@
     "pu": "2026-06-24T15:18:33.736821+00:00"
   },
   "wh:979490991": {
-    "p": 1499,
+    "p": 1449,
     "f": "2026-06-24T15:18:33.736821+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-tdi-4-motion-979490991/",
     "t": "VW Golf TDI 4 Motion",
-    "ts": "2026-06-24T15:34:33.812683+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T15:46:32.379654+00:00",
+    "ch": null,
     "ma": "VW",
     "mo": "Golf",
     "y": 2013,
     "km": 225855,
     "b": "Kombi / Family Van",
-    "pu": "2026-06-24T15:34:33.812683+00:00"
+    "pu": "2026-06-24T15:46:32.379654+00:00"
   },
   "as:659a7cad-797b-45bd-9655-b004e500f587": {
     "p": null,
@@ -145126,30 +145152,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:c70d20e5-de85-465c-bc40-d184e4392480": {
-    "p": null,
-    "f": "2026-06-16T12:27:30.988326+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:932408105": {
-    "p": 12000,
-    "f": "2026-06-16T12:27:27.607170+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/toyota-gt86-932408105/",
-    "t": "Toyota GT86",
-    "ts": "2026-06-16T12:27:27.607170+00:00",
-    "ch": "alive",
-    "ma": "Toyota",
-    "mo": "GT86",
-    "y": 2012,
-    "km": 147000
   },
   "__health__": {
     "wh": 0,
