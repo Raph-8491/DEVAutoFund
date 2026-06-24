@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:98c4c030-d9a2-42b2-acb2-fa97da7702bd": {
+    "p": 13000,
+    "f": "2026-06-24T07:51:21.926990+00:00",
+    "u": "https://www.autoscout24.at/angebote/ford-focus-focus-traveller-1-0-ecoboost-active-active-benzin-schwarz-cat_ma29mo15537-98c4c030-d9a2-42b2-acb2-fa97da7702bd",
+    "t": "Ford Focus",
+    "ts": "2026-06-24T07:51:21.926990+00:00",
+    "ch": null,
+    "ma": "Ford",
+    "mo": "Focus",
+    "y": 2019,
+    "km": 85500,
+    "b": ""
+  },
   "gw:98c4c030-d9a2-42b2-acb2-fa97da7702bd": {
     "p": 13000,
     "f": "2026-06-24T07:50:52.817808+00:00",
@@ -228,7 +241,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x3-suv-1728946037/",
     "t": "BMW X3 SUV",
     "ts": "2026-06-24T07:48:25.922592+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "X3",
     "y": 2014,
@@ -144368,18 +144381,6 @@
     "mo": "S-Max",
     "y": 2009,
     "km": 350000
-  },
-  "gw:ecb93011-19c6-42dd-9dcc-965f6be5b5bf": {
-    "p": 6990,
-    "f": "2026-06-15T20:02:51.347842+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/opel-adam-1-2-benzin-cat_ma54mo20191/ecb93011-19c6-42dd-9dcc-965f6be5b5bf",
-    "t": "Opel Adam",
-    "ts": "2026-06-15T20:02:51.347842+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Adam",
-    "y": 2015,
-    "km": 71304
   },
   "__health__": {
     "wh": 0,
