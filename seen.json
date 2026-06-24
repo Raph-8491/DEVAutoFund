@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1908564530": {
+    "p": 14800,
+    "f": "2026-06-24T14:13:29.113410+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-corsa-1-2l-gs-line-1908564530/",
+    "t": "Opel Corsa 1,2l GS-Line",
+    "ts": "2026-06-24T14:13:29.113410+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Corsa",
+    "y": 2020,
+    "km": 39500,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1697829275": {
     "p": 11111,
     "f": "2026-06-24T14:11:44.491750+00:00",
@@ -144977,18 +144990,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1482681686": {
-    "p": 2990,
-    "f": "2026-06-16T10:22:32.309076+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-1-8-t-s-line-1482681686/",
-    "t": "Audi A3 1.8 T S-Line",
-    "ts": "2026-06-16T10:22:32.309076+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A3",
-    "y": 2008,
-    "km": 125000
   },
   "__health__": {
     "wh": 0,
