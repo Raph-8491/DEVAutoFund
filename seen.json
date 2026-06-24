@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1583807891": {
+    "p": 1400,
+    "f": "2026-06-24T14:07:27.445044+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda3-mazda-3-limousine-1-6-benziner-80-kw-109-ps-5-gang-schaltgetriebe-1583807891/",
+    "t": "Mazda Mazda3 Mazda 3 (Limousine, 1.6 Benziner, 80 kW / 109 PS, 5-Gang Schaltgetriebe)",
+    "ts": "2026-06-24T14:07:27.445044+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 255000,
+    "b": "Limousine"
+  },
   "gw:7cf607f2-03be-4082-9821-ecd9cb282d8f": {
     "p": 5900,
     "f": "2026-06-24T14:05:50.222476+00:00",
@@ -144971,18 +144984,6 @@
     "mo": "Golf",
     "y": 2019,
     "km": 150000
-  },
-  "wh:1051606971": {
-    "p": 8500,
-    "f": "2026-06-16T10:18:35.153738+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda6-2-2l-1051606971/",
-    "t": "Mazda Mazda6 2,2L",
-    "ts": "2026-06-16T10:18:35.153738+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 227000
   },
   "__health__": {
     "wh": 0,
