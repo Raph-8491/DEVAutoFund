@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1546982692": {
+    "p": 8150,
+    "f": "2026-06-24T06:41:24.630457+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-fabia-1-2l-1546982692/",
+    "t": "Skoda Fabia 1.2L",
+    "ts": "2026-06-24T06:41:24.630457+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Fabia",
+    "y": 2014,
+    "km": 36758,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:2134840724": {
+    "p": 11990,
+    "f": "2026-06-24T06:41:24.630457+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-comfortline-1-0-2134840724/",
+    "t": "VW Polo Comfortline 1.0",
+    "ts": "2026-06-24T06:41:24.630457+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Polo",
+    "y": 2019,
+    "km": 72500,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:985035582": {
+    "p": 11990,
+    "f": "2026-06-24T06:41:24.630457+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-gt-3-0d-245ps-n57-aut-985035582/",
+    "t": "BMW 5er-Reihe Gt 3.0d 245ps n57 Aut",
+    "ts": "2026-06-24T06:41:24.630457+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "5er-Reihe",
+    "y": 2010,
+    "km": 270000,
+    "b": "Limousine"
+  },
   "wh:1576003505": {
     "p": 4000,
     "f": "2026-06-24T06:40:45.841694+00:00",
@@ -144254,42 +144293,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:5ae53df8-929a-4175-89f2-0973d54b8976": {
-    "p": null,
-    "f": "2026-06-15T19:09:41.232385+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1196699189": {
-    "p": 1500,
-    "f": "2026-06-15T19:09:35.638538+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-trend-1-6-tdci-1196699189/",
-    "t": "Ford Focus Trend 1,6 TDCi",
-    "ts": "2026-06-15T19:09:35.638538+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 160858
-  },
-  "wh:1425397084": {
-    "p": 2900,
-    "f": "2026-06-15T19:09:35.638538+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-116d-1425397084/",
-    "t": "BMW 1er-Reihe 116d",
-    "ts": "2026-06-15T19:09:35.638538+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "1er-Reihe",
-    "y": 2012,
-    "km": 239640
   },
   "__health__": {
     "wh": 0,
