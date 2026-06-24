@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1339985275": {
+    "p": 12990,
+    "f": "2026-06-24T04:16:26.699191+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda3-g120-bm-1339985275/",
+    "t": "Mazda Mazda3 G120 (BM)",
+    "ts": "2026-06-24T04:16:26.699191+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2016,
+    "km": 132000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:2122077523": {
+    "p": 12490,
+    "f": "2026-06-24T04:16:26.699191+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-rabbit-40-1-6-tdi-2122077523/",
+    "t": "VW Golf Rabbit 40 1,6 TDI",
+    "ts": "2026-06-24T04:16:26.699191+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2018,
+    "km": 130000,
+    "b": "Limousine"
+  },
   "wh:1985348886": {
     "p": 2200,
     "f": "2026-06-24T04:01:27.967277+00:00",
@@ -144157,30 +144183,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:967146032": {
-    "p": 3900,
-    "f": "2026-06-15T18:24:34.966853+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-rabbit-1-4-967146032/",
-    "t": "VW Golf Rabbit 1,4",
-    "ts": "2026-06-15T18:24:34.966853+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2009,
-    "km": 124800
-  },
-  "wh:774138652": {
-    "p": 10000,
-    "f": "2026-06-15T18:24:34.966853+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-w204-774138652/",
-    "t": "Mercedes-Benz C-Klasse W204",
-    "ts": "2026-06-15T18:24:34.966853+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C-Klasse",
-    "y": 2008,
-    "km": 185576
   },
   "__health__": {
     "wh": 0,
