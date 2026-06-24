@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1869188647": {
+    "p": 7200,
+    "f": "2026-06-24T08:57:21.811717+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-2-0-tdi-avant-1869188647/",
+    "t": "Audi A4 2.0 Tdi Avant",
+    "ts": "2026-06-24T08:57:21.811717+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2014,
+    "km": 305000,
+    "b": "Kombi / Family Van"
+  },
   "gw:b017d75d-7690-4c59-9a1e-11a3df3c38eb": {
     "p": 8900,
     "f": "2026-06-24T08:56:43.628158+00:00",
@@ -240,7 +253,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-lounge-1-6-bmt-tdi-limousine-842494685/",
     "t": "VW Golf Lounge 1,6 BMT TDI Limousine",
     "ts": "2026-06-24T08:54:25.647658+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2016,
@@ -253,7 +266,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i30-1-4-crdi-1706014753/",
     "t": "Hyundai i30 1.4 crdi",
     "ts": "2026-06-24T08:54:25.647658+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2012,
@@ -266,7 +279,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-500c-312-axg1a-08l-1812015955/",
     "t": "Fiat 500C 312/AXG1A/08L",
     "ts": "2026-06-24T08:54:25.647658+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2018,
@@ -279,7 +292,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mini-clubman-cooler-s-ausstattung-1389115991/",
     "t": "MINI Clubman Cooler S Ausstattung",
     "ts": "2026-06-24T08:54:25.647658+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2008,
@@ -120651,7 +120664,8 @@
     "ma": "Skoda",
     "mo": "Octavia",
     "y": 2013,
-    "km": 186000
+    "km": 186000,
+    "b": "Kombi / Family Van"
   },
   "wh:993114906": {
     "p": 1290,
@@ -144462,18 +144476,6 @@
     "km": null
   },
   "as:4aeaa7eb-773a-4fed-99fb-1fff60720a25": {
-    "p": null,
-    "f": "2026-06-15T21:11:42.174310+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:ab5ee81a-8af1-4787-b626-4de48c146f8e": {
     "p": null,
     "f": "2026-06-15T21:11:42.174310+00:00",
     "u": null,
