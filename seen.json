@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:924233831": {
+    "p": 3000,
+    "f": "2026-06-24T16:41:33.654370+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-fabia-924233831/",
+    "t": "Skoda Fabia",
+    "ts": "2026-06-24T16:41:33.654370+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Fabia",
+    "y": 2011,
+    "km": 147839,
+    "b": "Kombi / Family Van"
+  },
+  "wh:884672577": {
+    "p": 2850,
+    "f": "2026-06-24T16:41:33.654370+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-corsa-s-d-884672577/",
+    "t": "Opel Corsa S-D",
+    "ts": "2026-06-24T16:41:33.654370+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Corsa",
+    "y": 2013,
+    "km": 126105,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:976d4593-2148-46c0-8454-e3ef87cc03b3": {
     "p": null,
     "f": "2026-06-24T16:40:43.240296+00:00",
@@ -145215,30 +145241,6 @@
     "mo": "Tourneo Courier",
     "y": 2016,
     "km": 120000
-  },
-  "as:aa1fcd04-ff02-42da-a8be-6df0efc549b0": {
-    "p": null,
-    "f": "2026-06-16T13:18:36.086317+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:2098247355": {
-    "p": 8900,
-    "f": "2026-06-16T13:18:30.853815+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-automatik-1-6-tdi-2098247355/",
-    "t": "VW Golf AUTOMATIK 1.6 TDI",
-    "ts": "2026-06-16T13:18:30.853815+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2013,
-    "km": 159000
   },
   "__health__": {
     "wh": 0,
