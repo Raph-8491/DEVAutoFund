@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1307806904": {
+    "p": 8490,
+    "f": "2026-06-24T16:05:38.554999+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-superb-2-0-tdi-dsg-elegance-1307806904/",
+    "t": "Skoda Superb 2.0 Tdi Dsg Elegance",
+    "ts": "2026-06-24T16:05:38.554999+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Superb",
+    "y": 2012,
+    "km": 194000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1033349360": {
+    "p": 6100,
+    "f": "2026-06-24T16:05:38.554999+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-corsa-1-2-edition-ecoflex-1033349360/",
+    "t": "Opel Corsa 1,2 Edition ecoFLEX",
+    "ts": "2026-06-24T16:05:38.554999+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Corsa",
+    "y": 2012,
+    "km": 51153,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:9626d89b-4fee-4d8a-afd7-33b1a434c71b": {
     "p": null,
     "f": "2026-06-24T16:03:27.448897+00:00",
@@ -145168,30 +145194,6 @@
     "mo": "Octavia",
     "y": 2009,
     "km": 320000
-  },
-  "wh:2064195375": {
-    "p": 2100,
-    "f": "2026-06-16T12:45:50.571174+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda3-sport-1-6i-gt-edition-2064195375/",
-    "t": "Mazda Mazda3 Sport 1,6i GT Edition",
-    "ts": "2026-06-16T12:45:50.571174+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 198000
-  },
-  "as:97d3a94f-38ae-4229-8d81-f452042d9c30": {
-    "p": 10000,
-    "f": "2026-06-16T12:44:34.464786+00:00",
-    "u": "https://www.autoscout24.at/angebote/mercedes-benz-vito-122-cdi-lang-aut-shuttle-diesel-cat_ma47mo15942-97d3a94f-38ae-4229-8d81-f452042d9c30",
-    "t": "Mercedes-Benz Vito",
-    "ts": "2026-06-16T12:44:34.464786+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "Vito",
-    "y": 2012,
-    "km": 370000
   },
   "__health__": {
     "wh": 0,
