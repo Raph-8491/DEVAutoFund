@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1446786230": {
+    "p": 10500,
+    "f": "2026-06-24T17:21:25.831404+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-st-1-6-cdti-blueinjection-innovation-st-st-aut-1446786230/",
+    "t": "Opel Insignia ST 1,6 CDTI BlueInjection Innovation St./St. Aut.",
+    "ts": "2026-06-24T17:21:25.831404+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Insignia",
+    "y": 2019,
+    "km": 120500,
+    "b": "Kombi / Family Van"
+  },
+  "wh:2041865148": {
+    "p": 750,
+    "f": "2026-06-24T17:21:25.831404+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-2041865148/",
+    "t": "Ford Fiesta",
+    "ts": "2026-06-24T17:21:25.831404+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 196000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:e87b28ed-471f-4d53-baba-2d073d569442": {
     "p": null,
     "f": "2026-06-24T17:19:30.497230+00:00",
@@ -123163,7 +123189,8 @@
     "ma": "BMW",
     "mo": "X1",
     "y": 2009,
-    "km": 138000
+    "km": 138000,
+    "b": "Limousine"
   },
   "gw:2fd11a15-af63-45f8-80e8-7ca7e1959f47": {
     "p": 9700,
@@ -145289,30 +145316,6 @@
     "mo": "C-Klasse",
     "y": 2016,
     "km": 257065
-  },
-  "wh:1165917765": {
-    "p": 11000,
-    "f": "2026-06-16T13:52:39.326981+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-q7-3-0-tdi-204cp-8-gang-cjm-1165917765/",
-    "t": "Audi Q7 3.0 tdi 204cp 8 gang cjm",
-    "ts": "2026-06-16T13:52:39.326981+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "Q7",
-    "y": 2011,
-    "km": 251000
-  },
-  "wh:1000389981": {
-    "p": 3500,
-    "f": "2026-06-16T13:52:39.326981+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-9-tdi-1000389981/",
-    "t": "VW Golf 1.9 TDI",
-    "ts": "2026-06-16T13:52:39.326981+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2008,
-    "km": 183000
   },
   "__health__": {
     "wh": 0,
