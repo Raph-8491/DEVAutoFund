@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1204414416": {
+    "p": 7900,
+    "f": "2026-06-24T13:48:33.198715+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-2-0-tdi-1204414416/",
+    "t": "Audi A6 2.0 Tdi",
+    "ts": "2026-06-24T13:48:33.198715+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A6",
+    "y": 2011,
+    "km": 299000,
+    "b": "Limousine"
+  },
+  "wh:1308985970": {
+    "p": 5799,
+    "f": "2026-06-24T13:48:33.198715+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-2-0-turbo-cosmo-1308985970/",
+    "t": "Opel Insignia 2.0 Turbo Cosmo",
+    "ts": "2026-06-24T13:48:33.198715+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Insignia",
+    "y": 2009,
+    "km": 190850,
+    "b": "Kombi / Family Van"
+  },
   "wh:1878877371": {
     "p": 11234,
     "f": "2026-06-24T13:46:25.689591+00:00",
@@ -144929,30 +144955,6 @@
     "mo": "Golf",
     "y": 2013,
     "km": 130000
-  },
-  "wh:1976602910": {
-    "p": 2500,
-    "f": "2026-06-16T09:58:33.330853+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i30-1-4-cw-combi-1976602910/",
-    "t": "Hyundai i30 1.4 CW Combi",
-    "ts": "2026-06-16T09:58:33.330853+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 186000
-  },
-  "gw:06163cd7-81e8-451f-8d31-7a2c188eedfa": {
-    "p": 9500,
-    "f": "2026-06-16T09:57:39.410658+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/audi-a6-2-8-fsi-quattro-benzin-cat_ma9mo1628/06163cd7-81e8-451f-8d31-7a2c188eedfa",
-    "t": "Audi A6",
-    "ts": "2026-06-16T09:57:39.410658+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A6",
-    "y": 2009,
-    "km": 110800
   },
   "__health__": {
     "wh": 0,
