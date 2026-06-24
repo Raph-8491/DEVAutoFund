@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:09a43af2-d00b-4a1f-8efb-bf31045655ef": {
+    "p": 5200,
+    "f": "2026-06-24T09:54:36.787006+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/fiat-500-1-2-pop-benzin-cat_ma28mo15160/09a43af2-d00b-4a1f-8efb-bf31045655ef",
+    "t": "Fiat 500",
+    "ts": "2026-06-24T09:54:36.787006+00:00",
+    "ch": null,
+    "ma": "Fiat",
+    "mo": "500",
+    "y": 2008,
+    "km": 120000,
+    "b": ""
+  },
   "wh:1448138620": {
     "p": 2300,
     "f": "2026-06-24T09:53:24.825924+00:00",
@@ -203,7 +216,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/land-rover-freelander-land-rover-freelander-2-td4-s-scheckheft-bei-land-rover-pickerl-bis-03-2027-1559539855/",
     "t": "Land Rover Freelander Land Rover Freelander 2 TD4 S Scheckheft bei Land Rover Pickerl bis 03 2027",
     "ts": "2026-06-24T09:50:40.979327+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2012,
@@ -144563,18 +144576,6 @@
     "mo": "A 180",
     "y": 2015,
     "km": 141000
-  },
-  "gw:dd1a3457-7205-46fc-88c8-9e6772a59f40": {
-    "p": 6200,
-    "f": "2026-06-16T04:10:49.438184+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/dacia-sandero-sandero-jubilaeum-sce-75-jubilaeum-benzin-weiss-cat_ma16360mo19129/dd1a3457-7205-46fc-88c8-9e6772a59f40",
-    "t": "Dacia Sandero",
-    "ts": "2026-06-16T04:10:49.438184+00:00",
-    "ch": "alive",
-    "ma": "Dacia",
-    "mo": "Sandero",
-    "y": 2020,
-    "km": 45100
   },
   "__health__": {
     "wh": 0,
