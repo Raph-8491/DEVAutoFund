@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1038709860": {
+    "p": 8000,
+    "f": "2026-06-24T07:56:28.186995+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-duster-tce-125-1038709860/",
+    "t": "Dacia Duster TCe 125",
+    "ts": "2026-06-24T07:56:28.186995+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2014,
+    "km": 168500,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1738297839": {
+    "p": 2400,
+    "f": "2026-06-24T07:56:28.186995+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i30-1738297839/",
+    "t": "Hyundai i30",
+    "ts": "2026-06-24T07:56:28.186995+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 194000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:4beeb934-baed-4d64-b3a6-6ad1b348bdd8": {
     "p": null,
     "f": "2026-06-24T07:55:30.339310+00:00",
@@ -204,7 +230,7 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-t5-transporter-fahrgestell-2-0-tdi-d-pf-diesel-weiss-cat_ma74mo75216/1a534701-fe2e-45d4-a0e1-7201c7697585",
     "t": "Volkswagen T5 Transporter",
     "ts": "2026-06-24T07:53:36.887787+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "T5 Transporter",
     "y": 2012,
@@ -144361,30 +144387,6 @@
     "mo": null,
     "y": 2013,
     "km": 137000
-  },
-  "wh:1316255566": {
-    "p": 5000,
-    "f": "2026-06-15T20:07:30.174798+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1316255566/",
-    "t": "VW Golf",
-    "ts": "2026-06-15T20:07:30.174798+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2009,
-    "km": 129667
-  },
-  "wh:1056072746": {
-    "p": 4300,
-    "f": "2026-06-15T20:07:30.174798+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/chevrolet-aveo-1-2-ls-1056072746/",
-    "t": "Chevrolet Aveo 1,2 LS",
-    "ts": "2026-06-15T20:07:30.174798+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 70555
   },
   "__health__": {
     "wh": 0,
