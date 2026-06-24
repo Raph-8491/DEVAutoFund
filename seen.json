@@ -147,6 +147,44 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:34f1253b-b3b2-4917-85cc-28afc09905f0": {
+    "p": 9444,
+    "f": "2026-06-24T07:49:38.515427+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/nissan-micra-micra-0-9-ig-t-90-tekna-tekna-benzin-weiss-cat_ma52mo1904/34f1253b-b3b2-4917-85cc-28afc09905f0",
+    "t": "Nissan Micra",
+    "ts": "2026-06-24T07:49:38.515427+00:00",
+    "ch": null,
+    "ma": "Nissan",
+    "mo": "Micra",
+    "y": 2019,
+    "km": 48300,
+    "b": ""
+  },
+  "as:47d35e87-b415-4f24-9951-8c745abe3cca": {
+    "p": null,
+    "f": "2026-06-24T07:49:31.383924+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:34f1253b-b3b2-4917-85cc-28afc09905f0": {
+    "p": 9444,
+    "f": "2026-06-24T07:49:31.383924+00:00",
+    "u": "https://www.autoscout24.at/angebote/nissan-micra-micra-0-9-ig-t-90-tekna-tekna-benzin-weiss-cat_ma52mo1904-34f1253b-b3b2-4917-85cc-28afc09905f0",
+    "t": "Nissan Micra",
+    "ts": "2026-06-24T07:49:31.383924+00:00",
+    "ch": null,
+    "ma": "Nissan",
+    "mo": "Micra",
+    "y": 2019,
+    "km": 48300,
+    "b": ""
+  },
   "wh:1728946037": {
     "p": 14300,
     "f": "2026-06-24T07:48:25.922592+00:00",
@@ -178,7 +216,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-clio-1716557553/",
     "t": "Renault Clio",
     "ts": "2026-06-24T07:45:40.823775+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2012,
@@ -144341,42 +144379,6 @@
     "mo": "Golf",
     "y": 2010,
     "km": 95424
-  },
-  "wh:1952119338": {
-    "p": 7500,
-    "f": "2026-06-15T20:01:31.527587+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-n43-1952119338/",
-    "t": "BMW 3er-Reihe N43",
-    "ts": "2026-06-15T20:01:31.527587+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2008,
-    "km": 194000
-  },
-  "wh:1823445642": {
-    "p": 8500,
-    "f": "2026-06-15T20:01:31.527587+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-talisman-grandtour-dci-130-intense-1823445642/",
-    "t": "Renault Talisman Grandtour dci 130 intense",
-    "ts": "2026-06-15T20:01:31.527587+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2017,
-    "km": 210500
-  },
-  "as:06117011-b54a-4023-a69c-91034cd454f9": {
-    "p": 10900,
-    "f": "2026-06-15T19:59:34.074317+00:00",
-    "u": "https://www.autoscout24.at/angebote/audi-q3-2-0-tdi-quattro-diesel-schwarz-cat_ma9mo19715-06117011-b54a-4023-a69c-91034cd454f9",
-    "t": "Audi Q3",
-    "ts": "2026-06-15T19:59:34.074317+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "Q3",
-    "y": 2014,
-    "km": 187000
   },
   "__health__": {
     "wh": 0,
