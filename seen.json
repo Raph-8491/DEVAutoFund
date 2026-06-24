@@ -147,6 +147,84 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:ba6fc083-1e86-4033-8ca2-6b8e11002150": {
+    "p": 12800,
+    "f": "2026-06-24T18:12:40.951491+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-golf-rabbit-40-2-0-tdi-diesel-cat_ma74mo2084/ba6fc083-1e86-4033-8ca2-6b8e11002150",
+    "t": "Volkswagen Golf Rabbit 40 2,0 TDI",
+    "ts": "2026-06-24T18:12:40.951491+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2018,
+    "km": 193000,
+    "b": "",
+    "pu": "2026-06-24T18:12:40.951491+00:00"
+  },
+  "as:f0620127-8c86-456c-9594-fcc6abcb4683": {
+    "p": null,
+    "f": "2026-06-24T18:12:30.594248+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:ca18457e-237b-4857-bdba-0a5c76361d2f": {
+    "p": null,
+    "f": "2026-06-24T18:12:30.594248+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1496853517": {
+    "p": 14990,
+    "f": "2026-06-24T18:12:27.155066+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x5-35d-m-packet-neue-pickerl-1496853517/",
+    "t": "BMW X5 35d M-Packet *Neue Pickerl*",
+    "ts": "2026-06-24T18:12:27.155066+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X5",
+    "y": 2009,
+    "km": 174900,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1953673403": {
+    "p": 5500,
+    "f": "2026-06-24T18:12:27.155066+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-308-ex-1-616v-5t-tip-1953673403/",
+    "t": "Peugeot 308 EX.1.616V 5T TIP",
+    "ts": "2026-06-24T18:12:27.155066+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 76600,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1047043062": {
+    "p": 2499,
+    "f": "2026-06-24T18:12:27.155066+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-t5-1047043062/",
+    "t": "VW T5",
+    "ts": "2026-06-24T18:12:27.155066+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "T5",
+    "y": 2008,
+    "km": 224000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-24T18:12:27.155066+00:00"
+  },
   "as:9a1b5901-627d-4a8a-b38b-a7c0103ab99f": {
     "p": null,
     "f": "2026-06-24T18:10:45.419348+00:00",
@@ -123185,7 +123263,8 @@
     "ma": "Skoda",
     "mo": "Octavia",
     "y": 2015,
-    "km": 277000
+    "km": 277000,
+    "b": "Kombi / Family Van"
   },
   "as:ef098155-95ee-4fdd-a415-8c51d19dd166": {
     "p": null,
@@ -145339,78 +145418,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:029fdbf8-5cc5-416c-886c-cce4cb9b84ca": {
-    "p": null,
-    "f": "2026-06-16T14:45:57.514611+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:f95dd28d-02e1-45a7-bf68-d6d94ef33e72": {
-    "p": 3800,
-    "f": "2026-06-16T14:45:57.514611+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-passat-2-0-tsi-automatik-highline-benzin-cat_ma74mo2089-f95dd28d-02e1-45a7-bf68-d6d94ef33e72",
-    "t": "Volkswagen Passat",
-    "ts": "2026-06-16T14:45:57.514611+00:00",
-    "ch": "dead",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2009,
-    "km": 187000
-  },
-  "wh:2086881670": {
-    "p": 780,
-    "f": "2026-06-16T14:45:55.643903+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/subaru-impreza-2086881670/",
-    "t": "Subaru Impreza",
-    "ts": "2026-06-23T14:42:30.293899+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 195400
-  },
-  "as:4de5ff22-33c3-4162-94ee-117da2a0fefd": {
-    "p": null,
-    "f": "2026-06-16T14:44:39.796258+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:2f0e4c8c-1560-4cf8-b4fd-f1b748427b2c": {
-    "p": null,
-    "f": "2026-06-16T14:43:40.128733+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1001807962": {
-    "p": 5000,
-    "f": "2026-06-16T14:43:32.664288+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i30-1-4-1001807962/",
-    "t": "Hyundai i30 1.4",
-    "ts": "2026-06-16T14:43:32.664288+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 230000
   },
   "__health__": {
     "wh": 0,
