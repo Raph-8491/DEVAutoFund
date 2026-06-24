@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "as:d5f3ef85-f94a-458e-810e-76a43462e1d2": {
+    "p": 8000,
+    "f": "2026-06-24T09:34:28.233068+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-mokka-x-mokka-x-1-4-ecoflex-start-stop-4x4-color-innovation-benzin-cat_ma54mo75480-d5f3ef85-f94a-458e-810e-76a43462e1d2",
+    "t": "Opel Mokka X",
+    "ts": "2026-06-24T09:34:28.233068+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Mokka X",
+    "y": 2016,
+    "km": 117600,
+    "b": ""
+  },
+  "wh:1418739705": {
+    "p": 6290,
+    "f": "2026-06-24T09:34:27.046328+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-ix35-2-0-crdi-premium-awd-1418739705/",
+    "t": "Hyundai iX35 2.0 CRDI Premium AWD",
+    "ts": "2026-06-24T09:34:27.046328+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2015,
+    "km": 213000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "as:73498179-ed38-4d84-adb8-b854eb9a175c": {
     "p": null,
     "f": "2026-06-24T09:33:26.909117+00:00",
@@ -216,7 +242,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1-0-903885925/",
     "t": "Seat Ibiza 1.0",
     "ts": "2026-06-24T09:30:54.577307+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Seat",
     "mo": "Ibiza",
     "y": 2016,
@@ -229,7 +255,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/smart-fortwo-smart-fortwo-passion-2012642143/",
     "t": "Smart fortwo smart fortwo Passion",
     "ts": "2026-06-24T09:30:54.577307+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2014,
@@ -144512,30 +144538,6 @@
     "km": null
   },
   "as:1f0de35f-f06e-4a1f-a5ca-0c8550abe67e": {
-    "p": null,
-    "f": "2026-06-16T01:01:56.267038+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:3e9a165a-e92a-44d0-bcd4-bba85aa5a498": {
-    "p": null,
-    "f": "2026-06-16T01:01:56.267038+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:0d2b6e33-9718-4903-bc37-b7eb4ec61b63": {
     "p": null,
     "f": "2026-06-16T01:01:56.267038+00:00",
     "u": null,
