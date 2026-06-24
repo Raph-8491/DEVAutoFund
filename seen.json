@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1255332718": {
+    "p": 11490,
+    "f": "2026-06-24T08:09:25.246693+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-2-0-tdci-kleinbus-1255332718/",
+    "t": "Ford Galaxy 2.0 TDCI Kleinbus",
+    "ts": "2026-06-24T08:09:25.246693+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2018,
+    "km": 231754,
+    "b": "Kleinbus"
+  },
+  "wh:1956592490": {
+    "p": 3000,
+    "f": "2026-06-24T08:09:25.246693+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-gt-1956592490/",
+    "t": "Seat Leon GT",
+    "ts": "2026-06-24T08:09:25.246693+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2010,
+    "km": 197000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:9add4ec4-3cb6-4f25-aa3d-bfbf2be4a1f5": {
     "p": null,
     "f": "2026-06-24T08:08:30.873164+00:00",
@@ -144384,30 +144410,6 @@
     "mo": "A-Klasse",
     "y": 2013,
     "km": 196000
-  },
-  "wh:1033477388": {
-    "p": 5900,
-    "f": "2026-06-15T20:19:29.180280+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-1033477388/",
-    "t": "Skoda Octavia",
-    "ts": "2026-06-15T20:19:29.180280+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2017,
-    "km": 291000
-  },
-  "wh:981752942": {
-    "p": 5600,
-    "f": "2026-06-15T20:17:27.888008+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-2-0-tdi-981752942/",
-    "t": "VW Passat 2.0 TDI",
-    "ts": "2026-06-15T20:17:27.888008+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2015,
-    "km": 309000
   },
   "__health__": {
     "wh": 0,
