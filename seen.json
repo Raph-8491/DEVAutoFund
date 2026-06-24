@@ -147,6 +147,60 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1763155667": {
+    "p": 13890,
+    "f": "2026-06-24T18:47:21.606404+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-sky-2-0-tdi-r-line-1763155667/",
+    "t": "VW Tiguan Sky 2,0 TDI R-Line",
+    "ts": "2026-06-24T18:47:21.606404+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Tiguan",
+    "y": 2015,
+    "km": 120000,
+    "b": "SUV / Gel\u00e4ndewagen",
+    "pu": "2026-06-24T18:47:21.606404+00:00"
+  },
+  "wh:1405879007": {
+    "p": 12000,
+    "f": "2026-06-24T18:47:21.606404+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-b-klasse-2-2-dizel-1405879007/",
+    "t": "Mercedes-Benz B-Klasse 2.2 dizel",
+    "ts": "2026-06-24T18:47:21.606404+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "B-Klasse",
+    "y": 2015,
+    "km": 150000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:926459106": {
+    "p": 123,
+    "f": "2026-06-24T18:47:21.606404+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-2-0tdi-926459106/",
+    "t": "Audi A6 2.0tdi",
+    "ts": "2026-06-24T18:47:21.606404+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A6",
+    "y": 2026,
+    "km": 123,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T18:47:21.606404+00:00"
+  },
+  "wh:1562813598": {
+    "p": 4800,
+    "f": "2026-06-24T18:47:21.606404+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-tsi-chili-1562813598/",
+    "t": "Seat Ibiza TSI Chili",
+    "ts": "2026-06-24T18:47:21.606404+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Ibiza",
+    "y": 2015,
+    "km": 178000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:eae0596b-0c98-4fcc-8ac8-d1dab7010f1f": {
     "p": null,
     "f": "2026-06-24T18:46:28.763796+00:00",
@@ -123396,7 +123450,8 @@
     "ma": "Mercedes-Benz",
     "mo": "B-Klasse",
     "y": 2008,
-    "km": 153211
+    "km": 153211,
+    "b": "Limousine"
   },
   "wh:1584359970": {
     "p": 10599,
@@ -145446,54 +145501,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:e513d538-4c92-4e39-915b-6c4e8620494e": {
-    "p": null,
-    "f": "2026-06-16T15:26:36.033554+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1478362603": {
-    "p": 9500,
-    "f": "2026-06-16T15:25:43.262211+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c5-exklusive-1478362603/",
-    "t": "Citro\u00ebn C5 Exklusive",
-    "ts": "2026-06-16T15:25:43.262211+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 85000
-  },
-  "wh:1191824767": {
-    "p": 5000,
-    "f": "2026-06-16T15:25:43.262211+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-rabbit-2012-tsi-1191824767/",
-    "t": "VW Golf Rabbit 2012 TSI",
-    "ts": "2026-06-16T15:25:43.262211+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2012,
-    "km": 169661
-  },
-  "wh:1025592904": {
-    "p": 8600,
-    "f": "2026-06-16T15:25:43.262211+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-6tdi-1025592904/",
-    "t": "VW Golf 1.6TDI",
-    "ts": "2026-06-16T15:25:43.262211+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2016,
-    "km": 188000
   },
   "__health__": {
     "wh": 0,
