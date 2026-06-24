@@ -147,6 +147,43 @@
     "y": 2009,
     "km": 235000
   },
+  "as:c7f41b33-02dc-4237-ab0e-32a4a0d83ccd": {
+    "p": null,
+    "f": "2026-06-24T11:16:29.293334+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:64aa878d-4862-4816-a89b-148040f49c22": {
+    "p": null,
+    "f": "2026-06-24T11:16:29.293334+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:1a9ae3ec-4501-4097-a7c5-3617891c1674": {
+    "p": 7800,
+    "f": "2026-06-24T11:16:29.293334+00:00",
+    "u": "https://www.autoscout24.at/angebote/citroen-c3-c3-pure-tech-110-stop-benzin-weiss-cat_ma21mo18264-1a9ae3ec-4501-4097-a7c5-3617891c1674",
+    "t": "Citroen C3",
+    "ts": "2026-06-24T11:16:29.293334+00:00",
+    "ch": null,
+    "ma": "Citroen",
+    "mo": "C3",
+    "y": 2017,
+    "km": 115000,
+    "b": ""
+  },
   "wh:1879501459": {
     "p": 2750,
     "f": "2026-06-24T11:15:39.276563+00:00",
@@ -144667,42 +144704,6 @@
     "mo": "500",
     "y": 2010,
     "km": 140000
-  },
-  "as:829df3b3-b8d6-40ca-9e56-159303cb859a": {
-    "p": 5200,
-    "f": "2026-06-16T07:03:27.210395+00:00",
-    "u": "https://www.autoscout24.at/angebote/fiat-500-500-0-9-twinair-turbo-lounge-lounge-benzin-weiss-cat_ma28mo15160-829df3b3-b8d6-40ca-9e56-159303cb859a",
-    "t": "Fiat 500",
-    "ts": "2026-06-16T07:03:27.210395+00:00",
-    "ch": "alive",
-    "ma": "Fiat",
-    "mo": "500",
-    "y": 2010,
-    "km": 140000
-  },
-  "wh:1479092906": {
-    "p": 6400,
-    "f": "2026-06-16T07:01:49.109156+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-2008-privatverkauf-1479092906/",
-    "t": "Peugeot 2008 Privatverkauf",
-    "ts": "2026-06-16T07:01:49.109156+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2015,
-    "km": 101000
-  },
-  "as:092cb51b-0d3d-4328-bfc1-d94e3c44df80": {
-    "p": null,
-    "f": "2026-06-16T06:58:26.718770+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
