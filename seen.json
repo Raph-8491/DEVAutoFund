@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2072058643": {
+    "p": 1000,
+    "f": "2026-06-24T20:10:57.234704+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-scenic-1-9-dci-2072058643/",
+    "t": "Renault Sc\u00e9nic 1.9 dCi",
+    "ts": "2026-06-24T20:10:57.234704+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 250000,
+    "b": "Kombi / Family Van"
+  },
   "wh:1719139502": {
     "p": 9900,
     "f": "2026-06-24T20:09:27.288299+00:00",
@@ -123239,16 +123252,17 @@
     "km": 172200
   },
   "wh:1483738566": {
-    "p": 8450,
+    "p": 7900,
     "f": "2026-06-17T20:11:29.579253+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-zafira-1-6-ctdi-touer-diesel-7-sitze-ahk-1483738566/",
     "t": "Opel Zafira 1.6 CTDI Touer Diesel 7 Sitze, AHK",
-    "ts": "2026-06-17T20:11:29.579253+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T20:10:57.234704+00:00",
+    "ch": null,
     "ma": "Opel",
     "mo": "Zafira",
     "y": 2015,
-    "km": 142900
+    "km": 142900,
+    "b": "Kombi / Family Van"
   },
   "wh:1544655051": {
     "p": 6800,
@@ -145629,18 +145643,6 @@
     "mo": "Crossland X",
     "y": 2020,
     "km": 81000
-  },
-  "as:b3450ad6-4914-4fed-a2e0-5cdc09d6f2ab": {
-    "p": null,
-    "f": "2026-06-16T16:34:32.523947+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
