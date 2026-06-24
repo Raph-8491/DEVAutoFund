@@ -147,6 +147,47 @@
     "y": 2009,
     "km": 235000
   },
+  "as:0c350425-eae5-44ec-ad45-33b2c0fb0ea9": {
+    "p": 4700,
+    "f": "2026-06-24T18:06:31.506735+00:00",
+    "u": "https://www.autoscout24.at/angebote/bmw-318-318d-dpf-touring-diesel-cat_ma13mo1640-0c350425-eae5-44ec-ad45-33b2c0fb0ea9",
+    "t": "BMW 318 318d DPF Touring",
+    "ts": "2026-06-24T18:06:31.506735+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "318",
+    "y": 2012,
+    "km": 227000,
+    "b": "",
+    "pu": "2026-06-24T18:06:31.506735+00:00"
+  },
+  "wh:1201669624": {
+    "p": 1500,
+    "f": "2026-06-24T18:06:28.207896+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-duster-1-5-dci-1201669624/",
+    "t": "Dacia Duster 1.5 DCI",
+    "ts": "2026-06-24T18:06:28.207896+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 278512,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1600034380": {
+    "p": 6900,
+    "f": "2026-06-24T18:06:28.207896+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-6-2-0-tdi-1600034380/",
+    "t": "VW Golf 6 2.0 TDI",
+    "ts": "2026-06-24T18:06:28.207896+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2009,
+    "km": 193000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-24T18:06:28.207896+00:00"
+  },
   "gw:32a68f05-5b23-4ca4-bd87-8195453d7bc2": {
     "p": 5200,
     "f": "2026-06-24T18:04:35.914794+00:00",
@@ -145365,42 +145406,6 @@
     "mo": "Auris",
     "y": 2011,
     "km": 81711
-  },
-  "as:b4765ab8-0689-4bd2-8421-772a32c33752": {
-    "p": 11000,
-    "f": "2026-06-16T14:38:41.937054+00:00",
-    "u": "https://www.autoscout24.at/angebote/mercedes-benz-c-250-c-250-bluetec-d-t-205-208-diesel-schwarz-cat_ma47mo15384-b4765ab8-0689-4bd2-8421-772a32c33752",
-    "t": "Mercedes-Benz C 250",
-    "ts": "2026-06-16T14:38:41.937054+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C 250",
-    "y": 2014,
-    "km": 135000
-  },
-  "as:d4b34002-0295-49c6-9225-051d0a014b0e": {
-    "p": 7900,
-    "f": "2026-06-16T14:37:29.911380+00:00",
-    "u": "https://www.autoscout24.at/angebote/bmw-318-318i-coupe-benzin-cat_ma13mo1640-d4b34002-0295-49c6-9225-051d0a014b0e",
-    "t": "BMW 318",
-    "ts": "2026-06-16T14:37:29.911380+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "318",
-    "y": 2013,
-    "km": 149150
-  },
-  "as:112d0a04-2fc0-4e04-b9b1-f9f8ec648ad2": {
-    "p": null,
-    "f": "2026-06-16T14:37:29.911380+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
