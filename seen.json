@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "as:af60c0e6-598d-4559-a9c2-c8fd8abcf5cf": {
+    "p": null,
+    "f": "2026-06-24T17:54:31.614781+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:971757673": {
+    "p": 12900,
+    "f": "2026-06-24T17:54:29.217238+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-2-0-tdi-quattro-971757673/",
+    "t": "Audi A4 2.0 tdi quattro",
+    "ts": "2026-06-24T17:54:29.217238+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2016,
+    "km": 255000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T17:54:29.217238+00:00"
+  },
   "as:b42279ea-c53f-498e-8072-273cd69e2420": {
     "p": null,
     "f": "2026-06-24T17:53:26.319163+00:00",
@@ -145352,30 +145378,6 @@
     "mo": "Ibiza",
     "y": 2009,
     "km": 153000
-  },
-  "wh:2018176202": {
-    "p": 3300,
-    "f": "2026-06-16T14:31:40.926045+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/subaru-impreza-awd-2-0-literboxer-disel-mit-frisch-pickal-2018176202/",
-    "t": "Subaru Impreza AWD 2.0 literBoxer Disel Mit frisch pickal",
-    "ts": "2026-06-16T14:31:40.926045+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 111000
-  },
-  "wh:1895591955": {
-    "p": 5500,
-    "f": "2026-06-16T14:31:40.926045+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-vito-1895591955/",
-    "t": "Mercedes-Benz Vito",
-    "ts": "2026-06-16T14:31:40.926045+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "Vito",
-    "y": 2013,
-    "km": 210000
   },
   "__health__": {
     "wh": 0,
