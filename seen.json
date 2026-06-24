@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1726512341": {
+    "p": 6300,
+    "f": "2026-06-24T18:31:27.863422+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/nissan-qashqai-1-5-dci-1726512341/",
+    "t": "Nissan Qashqai 1.5 dCi",
+    "ts": "2026-06-24T18:31:27.863422+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 207000,
+    "b": "Kombi / Family Van"
+  },
   "gw:c16c57da-86f1-4313-972e-241900e5656d": {
     "p": 14800,
     "f": "2026-06-24T18:29:36.399838+00:00",
@@ -123316,7 +123329,8 @@
     "ma": "Opel",
     "mo": "Insignia",
     "y": 2011,
-    "km": 240814
+    "km": 240814,
+    "b": "Kombi / Family Van"
   },
   "as:c458f012-9d0a-40f6-981f-cedf467a7bec": {
     "p": 2500,
@@ -145447,18 +145461,6 @@
     "mo": "Insignia",
     "y": 2009,
     "km": 165000
-  },
-  "wh:1231469980": {
-    "p": 10000,
-    "f": "2026-06-16T15:02:49.955518+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda6-1231469980/",
-    "t": "Mazda Mazda6",
-    "ts": "2026-06-16T15:02:49.955518+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2015,
-    "km": 166530
   },
   "__health__": {
     "wh": 0,
