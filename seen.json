@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "as:2eb418b7-9d30-40b8-902c-50979f8cd991": {
+    "p": 3100,
+    "f": "2026-06-24T09:02:32.814173+00:00",
+    "u": "https://www.autoscout24.at/angebote/seat-leon-1-4-tsi-stylance-benzin-cat_ma64mo15869-2eb418b7-9d30-40b8-902c-50979f8cd991",
+    "t": "SEAT Leon",
+    "ts": "2026-06-24T09:02:32.814173+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2009,
+    "km": 196600,
+    "b": ""
+  },
+  "wh:949317611": {
+    "p": 3995,
+    "f": "2026-06-24T09:02:29.875165+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-949317611/",
+    "t": "VW Golf",
+    "ts": "2026-06-24T09:02:29.875165+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2012,
+    "km": 222700,
+    "b": "Kombi / Family Van"
+  },
+  "wh:2027645618": {
+    "p": 1200,
+    "f": "2026-06-24T09:02:29.875165+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-twingo-2027645618/",
+    "t": "Renault Twingo",
+    "ts": "2026-06-24T09:02:29.875165+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 133000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1218617774": {
     "p": 4950,
     "f": "2026-06-24T09:01:24.335008+00:00",
@@ -144451,42 +144490,6 @@
     "mo": "A 180",
     "y": 2014,
     "km": 107000
-  },
-  "wh:961983903": {
-    "p": 2600,
-    "f": "2026-06-15T21:14:33.874280+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-logan-mcv-laureate-1-5-dci-961983903/",
-    "t": "Dacia Logan MCV Laureate 1,5 dCi",
-    "ts": "2026-06-15T21:14:33.874280+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 166589
-  },
-  "wh:2002997058": {
-    "p": 2800,
-    "f": "2026-06-15T21:14:33.874280+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-207-sw-outdoor-2002997058/",
-    "t": "Peugeot 207 SW Outdoor",
-    "ts": "2026-06-15T21:14:33.874280+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 123270
-  },
-  "wh:1593343881": {
-    "p": 1490,
-    "f": "2026-06-15T21:14:33.874280+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-corsa-1-4i-90ps-1593343881/",
-    "t": "Opel Corsa 1.4i 90ps",
-    "ts": "2026-06-15T21:14:33.874280+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Corsa",
-    "y": 2008,
-    "km": 106000
   },
   "__health__": {
     "wh": 0,
