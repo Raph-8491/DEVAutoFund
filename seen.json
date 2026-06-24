@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1767649230": {
+    "p": 9900,
+    "f": "2026-06-24T10:51:27.055424+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-allroad-2-0-tdi-quattro-dpf-1767649230/",
+    "t": "Audi A4 allroad 2,0 TDI quattro DPF",
+    "ts": "2026-06-24T10:51:27.055424+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2013,
+    "km": 172000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1341445446": {
+    "p": 5500,
+    "f": "2026-06-24T10:51:27.055424+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-mondeo-2-0-tdci-awd-defekt-1341445446/",
+    "t": "Ford Mondeo 2.0 TDCi AWD (Defekt)",
+    "ts": "2026-06-24T10:51:27.055424+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2016,
+    "km": 273000,
+    "b": "Kombi / Family Van"
+  },
   "gw:d0500e3e-f747-4910-aa14-abb16bd213bb": {
     "p": 3000,
     "f": "2026-06-24T10:50:49.796605+00:00",
@@ -144635,30 +144661,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:7d54ab45-5892-4d2f-8948-0035d421b1d1": {
-    "p": 11999,
-    "f": "2026-06-16T06:28:28.745553+00:00",
-    "u": "https://www.autoscout24.at/angebote/audi-a3-2-0-tdi-sportback-clean-die-quattro-s-tronic-ambition-diesel-cat_ma9mo1624-7d54ab45-5892-4d2f-8948-0035d421b1d1",
-    "t": "Audi A3",
-    "ts": "2026-06-16T06:28:28.745553+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A3",
-    "y": 2016,
-    "km": 195000
-  },
-  "wh:888867636": {
-    "p": 5000,
-    "f": "2026-06-16T06:28:24.673178+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-plus-1-6-tdi-888867636/",
-    "t": "VW Golf plus 1,6 Tdi",
-    "ts": "2026-06-16T06:28:24.673178+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2013,
-    "km": 202000
   },
   "__health__": {
     "wh": 0,
