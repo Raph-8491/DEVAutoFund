@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2074736302": {
+    "p": 12000,
+    "f": "2026-06-24T04:48:26.805699+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda6-2-2l-2074736302/",
+    "t": "Mazda Mazda6 2.2l",
+    "ts": "2026-06-24T04:48:26.805699+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2017,
+    "km": 157000,
+    "b": "Limousine"
+  },
+  "wh:915151437": {
+    "p": 12400,
+    "f": "2026-06-24T04:48:26.805699+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/lancia-voyager-platine-915151437/",
+    "t": "Lancia Voyager Platine",
+    "ts": "2026-06-24T04:48:26.805699+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2014,
+    "km": 183000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:990655475": {
+    "p": 13000,
+    "f": "2026-06-24T04:48:26.805699+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-7er-reihe-730d-990655475/",
+    "t": "BMW 7er-Reihe 730d",
+    "ts": "2026-06-24T04:48:26.805699+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "7er-Reihe",
+    "y": 2014,
+    "km": 228000,
+    "b": "Limousine"
+  },
   "gw:a0acf081-d5be-4885-8895-c48daa896281": {
     "p": 11900,
     "f": "2026-06-24T04:46:39.117265+00:00",
@@ -144167,42 +144206,6 @@
     "mo": "Caddy",
     "y": 2012,
     "km": 413000
-  },
-  "as:c5adbc6b-b6de-435e-9479-10a4cb4233f6": {
-    "p": null,
-    "f": "2026-06-15T18:32:33.144181+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:eff5b771-9d0e-4761-890b-fb99da0242af": {
-    "p": 9950,
-    "f": "2026-06-15T18:31:44.043142+00:00",
-    "u": "https://www.autoscout24.at/angebote/mazda-2-skyactiv-d-105-sports-line-diesel-cat_ma46mo18342-eff5b771-9d0e-4761-890b-fb99da0242af",
-    "t": "Mazda 2",
-    "ts": "2026-06-15T18:31:44.043142+00:00",
-    "ch": "alive",
-    "ma": "Mazda",
-    "mo": "2",
-    "y": 2016,
-    "km": 113500
-  },
-  "as:3a57b310-e686-49b1-ba7e-4356063b3b68": {
-    "p": 4500,
-    "f": "2026-06-15T18:31:44.043142+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-passat-variant-passat-variant-diesel-1-6-tdi-bluemotion-technology-trendline-diesel-silber-cat_ma74mo20338-3a57b310-e686-49b1-ba7e-4356063b3b68",
-    "t": "Volkswagen Passat Variant",
-    "ts": "2026-06-15T18:31:44.043142+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat Variant",
-    "y": 2011,
-    "km": 280000
   },
   "__health__": {
     "wh": 0,
