@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:7dbe6540-c4d4-4be9-bfc6-fb564b5de68c": {
+    "p": 11250,
+    "f": "2026-06-24T16:02:40.310473+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/mercedes-benz-a-180-blueefficiency-benzin-cat_ma47mo18486/7dbe6540-c4d4-4be9-bfc6-fb564b5de68c",
+    "t": "Mercedes-Benz A 180 (BlueEFFICIENCY)",
+    "ts": "2026-06-24T16:02:40.310473+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "A 180",
+    "y": 2013,
+    "km": 136500,
+    "b": ""
+  },
+  "as:86dfd595-1002-4bfe-903a-4d267268ea0a": {
+    "p": null,
+    "f": "2026-06-24T16:02:31.435482+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1400114396": {
     "p": 11500,
     "f": "2026-06-24T16:01:32.809956+00:00",
@@ -218,7 +243,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-530d-1943510734/",
     "t": "BMW 5er-Reihe 530d",
     "ts": "2026-06-24T15:59:27.576502+00:00",
-    "ch": null,
+    "ch": "dead",
     "ma": "BMW",
     "mo": "5er-Reihe",
     "y": 2019,
@@ -145162,30 +145187,6 @@
     "mo": "M-Klasse",
     "y": 2011,
     "km": 240000
-  },
-  "wh:1092321608": {
-    "p": 8900,
-    "f": "2026-06-16T12:40:53.221146+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-highline-bmt-1-6-tdi-dpf-dsg-automatik-navi-android-rueckfahrkamera-1092321608/",
-    "t": "VW Golf Variant Highline BMT 1,6 TDI DPF DSG - Automatik, Navi, Android, R\u00fcckfahrkamera",
-    "ts": "2026-06-16T12:40:53.221146+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2011,
-    "km": 200000
-  },
-  "wh:1195275532": {
-    "p": 3800,
-    "f": "2026-06-16T12:40:53.221146+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/nissan-note-1195275532/",
-    "t": "Nissan Note",
-    "ts": "2026-06-16T12:40:53.221146+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 186000
   },
   "__health__": {
     "wh": 0,
