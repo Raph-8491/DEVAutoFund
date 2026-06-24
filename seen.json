@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:8c942542-478b-44b1-8ed8-9eb3c64e5525": {
+    "p": 11500,
+    "f": "2026-06-24T08:40:54.332162+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/opel-zafira-tourer-1-6-ecotec-dit-aut-innovation-benzin-cat_ma54mo20381/8c942542-478b-44b1-8ed8-9eb3c64e5525",
+    "t": "Opel Zafira Tourer",
+    "ts": "2026-06-24T08:40:54.332162+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Zafira Tourer",
+    "y": 2015,
+    "km": 103000,
+    "b": ""
+  },
+  "as:8c942542-478b-44b1-8ed8-9eb3c64e5525": {
+    "p": 11500,
+    "f": "2026-06-24T08:40:46.040705+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-zafira-tourer-1-6-ecotec-dit-aut-innovation-benzin-cat_ma54mo20381-8c942542-478b-44b1-8ed8-9eb3c64e5525",
+    "t": "Opel Zafira Tourer",
+    "ts": "2026-06-24T08:40:46.040705+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Zafira Tourer",
+    "y": 2015,
+    "km": 103000,
+    "b": ""
+  },
   "wh:1090590144": {
     "p": 8200,
     "f": "2026-06-24T08:38:25.755474+00:00",
@@ -166,7 +192,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-tipo-1-6-1097200231/",
     "t": "Fiat Tipo 1.6",
     "ts": "2026-06-24T08:37:25.998227+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2018,
@@ -144429,30 +144455,6 @@
     "mo": null,
     "y": 2009,
     "km": 272900
-  },
-  "wh:951739008": {
-    "p": 9950,
-    "f": "2026-06-15T20:49:30.416619+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-variant-scr-highline-2-0-tdi-euro-6-951739008/",
-    "t": "VW Passat Variant SCR Highline 2,0 TDI EURO 6",
-    "ts": "2026-06-15T20:49:30.416619+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2015,
-    "km": 254493
-  },
-  "as:ec43373a-1494-481c-9a97-218662255d6b": {
-    "p": 6500,
-    "f": "2026-06-15T20:47:31.840627+00:00",
-    "u": "https://www.autoscout24.at/angebote/mercedes-benz-sprinter-diesel-cat_ma47mo15943-ec43373a-1494-481c-9a97-218662255d6b",
-    "t": "Mercedes-Benz Sprinter",
-    "ts": "2026-06-15T20:47:31.840627+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "Sprinter",
-    "y": 2013,
-    "km": 521812
   },
   "__health__": {
     "wh": 0,
