@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1432967303": {
+    "p": 8299,
+    "f": "2026-06-24T12:28:26.068106+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-elegance-1-6-tdi-8-fach-bereift-1432967303/",
+    "t": "Skoda Octavia Elegance, 1,6 TDI, 8-fach Bereift,",
+    "ts": "2026-06-24T12:28:26.068106+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Octavia",
+    "y": 2013,
+    "km": 215100,
+    "b": "Kombi / Family Van"
+  },
   "as:b86c3507-0141-4399-9825-82984b1b8d5a": {
     "p": null,
     "f": "2026-06-24T12:26:28.828499+00:00",
@@ -121801,7 +121814,8 @@
     "ma": null,
     "mo": null,
     "y": 2014,
-    "km": 273000
+    "km": 273000,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "wh:1477717983": {
     "p": 8499,
@@ -144799,18 +144813,6 @@
     "mo": null,
     "y": 2010,
     "km": 120800
-  },
-  "wh:2069237664": {
-    "p": 4290,
-    "f": "2026-06-16T08:29:22.373205+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/smart-fortwo-541-2069237664/",
-    "t": "Smart fortwo 541",
-    "ts": "2026-06-16T08:29:22.373205+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 93400
   },
   "__health__": {
     "wh": 0,
