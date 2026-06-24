@@ -147,6 +147,46 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:434d4afe-57ec-48ce-9796-8e2086dd4a8e": {
+    "p": 3200,
+    "f": "2026-06-24T19:48:37.342901+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-x3-x3-2-0d-oesterreich-paket-aut-oesterreich-paket-diesel-silber-cat_ma13mo18387/434d4afe-57ec-48ce-9796-8e2086dd4a8e",
+    "t": "BMW X3 X3 2,0d \u00d6sterreich-Paket Aut. \u00d6sterreich-Paket",
+    "ts": "2026-06-24T19:48:37.342901+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X3",
+    "y": 2008,
+    "km": 370000,
+    "b": ""
+  },
+  "as:434d4afe-57ec-48ce-9796-8e2086dd4a8e": {
+    "p": 3200,
+    "f": "2026-06-24T19:48:28.908048+00:00",
+    "u": "https://www.autoscout24.at/angebote/bmw-x3-x3-2-0d-oesterreich-paket-aut-oesterreich-paket-diesel-silber-cat_ma13mo18387-434d4afe-57ec-48ce-9796-8e2086dd4a8e",
+    "t": "BMW X3 X3 2,0d \u00d6sterreich-Paket Aut. \u00d6sterreich-Paket",
+    "ts": "2026-06-24T19:48:28.908048+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X3",
+    "y": 2008,
+    "km": 370000,
+    "b": ""
+  },
+  "wh:1704256301": {
+    "p": 1000,
+    "f": "2026-06-24T19:48:27.458296+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-1704256301/",
+    "t": "VW Polo",
+    "ts": "2026-06-24T19:48:27.458296+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Polo",
+    "y": 2009,
+    "km": 180700,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-24T19:48:27.458296+00:00"
+  },
   "as:5a6ae9b5-1f08-41ac-a42d-f80324e57af7": {
     "p": null,
     "f": "2026-06-24T19:46:30.016286+00:00",
@@ -145568,42 +145608,6 @@
     "mo": null,
     "y": 2013,
     "km": 219173
-  },
-  "wh:1740237222": {
-    "p": 4900,
-    "f": "2026-06-16T16:22:36.371622+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-318d-pickerl-bis-4-2027-4-xenon-automatik-1740237222/",
-    "t": "BMW 3er-Reihe 318D Pickerl bis 4/2027+4 Xenon Automatik",
-    "ts": "2026-06-16T16:22:36.371622+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2015,
-    "km": 260000
-  },
-  "as:c5c82b42-c792-4e5b-8950-e0efe83ba967": {
-    "p": null,
-    "f": "2026-06-16T16:21:41.654168+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:902188656": {
-    "p": 3700,
-    "f": "2026-06-16T16:21:35.113415+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-208-oe3-vti-82-5t-902188656/",
-    "t": "Peugeot 208 OE3 VTI 82 5T",
-    "ts": "2026-06-16T16:21:35.113415+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 119500
   },
   "__health__": {
     "wh": 0,
