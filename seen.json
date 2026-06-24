@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1024973859": {
+    "p": 6599,
+    "f": "2026-06-24T09:16:24.990763+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-chili-copa-1-6-tdi-cr-1024973859/",
+    "t": "Seat Leon Chili-Copa 1,6 TDI CR",
+    "ts": "2026-06-24T09:16:24.990763+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2012,
+    "km": 195644,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:30912547-c540-4ecb-89ae-371a8b981814": {
     "p": 14300,
     "f": "2026-06-24T09:15:46.507434+00:00",
@@ -217,7 +230,7 @@
     "u": "https://www.autoscout24.at/angebote/fiat-500-500-0-9-8v-twinair-dualogic-start-benzin-rot-cat_ma28mo15160-253b28fb-0926-4867-80b4-db87ad1276b7",
     "t": "Fiat 500",
     "ts": "2026-06-24T09:13:23.000961+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Fiat",
     "mo": "500",
     "y": 2015,
@@ -144491,18 +144504,6 @@
   "as:8bdcbc5e-0f22-4443-a631-58144f6d631e": {
     "p": null,
     "f": "2026-06-15T21:45:41.831561+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:4e9b20bc-7136-4ac8-86cc-4d5112fdc9e4": {
-    "p": null,
-    "f": "2026-06-15T21:43:32.527221+00:00",
     "u": null,
     "t": null,
     "ts": null,
