@@ -147,6 +147,46 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1345149613": {
+    "p": 14500,
+    "f": "2026-06-24T18:33:25.310971+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x5-4-8i-v8-1345149613/",
+    "t": "BMW X5 4,8i v8",
+    "ts": "2026-06-24T18:33:25.310971+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X5",
+    "y": 2008,
+    "km": 214000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:830920073": {
+    "p": 2500,
+    "f": "2026-06-24T18:33:25.310971+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/subaru-forester-2-0d-x-classic-830920073/",
+    "t": "Subaru Forester 2,0D X Classic",
+    "ts": "2026-06-24T18:33:25.310971+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 254250,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1270131497": {
+    "p": 9800,
+    "f": "2026-06-24T18:33:25.310971+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-sharan-1270131497/",
+    "t": "VW Sharan",
+    "ts": "2026-06-24T18:33:25.310971+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Sharan",
+    "y": 2013,
+    "km": 205000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T18:33:25.310971+00:00"
+  },
   "as:357dfc47-1c7f-451f-b33e-cfd5a0837109": {
     "p": null,
     "f": "2026-06-24T18:32:36.794637+00:00",
@@ -145425,42 +145465,6 @@
     "mo": "Polo",
     "y": 2011,
     "km": 190075
-  },
-  "wh:2026223736": {
-    "p": 600,
-    "f": "2026-06-16T15:04:43.309269+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-corsa-2026223736/",
-    "t": "Opel Corsa",
-    "ts": "2026-06-16T15:04:43.309269+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Corsa",
-    "y": 2009,
-    "km": 376000
-  },
-  "gw:13499f1c-aeca-4b2b-a5ae-bfd6d14f23d2": {
-    "p": 6500,
-    "f": "2026-06-16T15:03:52.767242+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/opel-insignia-2-0-cosmo-cdti-dpf-ecotec-aut-diesel-cat_ma54mo19101/13499f1c-aeca-4b2b-a5ae-bfd6d14f23d2",
-    "t": "Opel Insignia",
-    "ts": "2026-06-16T15:03:52.767242+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Insignia",
-    "y": 2009,
-    "km": 165000
-  },
-  "as:2a76d24d-5052-47db-99f1-5fe9701d6698": {
-    "p": null,
-    "f": "2026-06-16T15:03:44.924650+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
