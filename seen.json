@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1100049982": {
+    "p": 10000,
+    "f": "2026-06-24T06:58:23.852471+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-megane-bose-energy-dci-130-1100049982/",
+    "t": "Renault M\u00e9gane Bose Energy dCi 130",
+    "ts": "2026-06-24T06:58:23.852471+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2016,
+    "km": 114300,
+    "b": "Limousine"
+  },
   "wh:1157774730": {
     "p": 3000,
     "f": "2026-06-24T06:56:29.381880+00:00",
@@ -166,7 +179,7 @@
     "u": "https://www.autoscout24.at/angebote/hyundai-i30-1-4-classic-benzin-cat_ma33mo19065-f6540e62-b588-4c55-81b5-9ba7abd9c197",
     "t": "Hyundai i30",
     "ts": "2026-06-24T06:55:33.337217+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Hyundai",
     "mo": "i30",
     "y": 2010,
@@ -119938,7 +119951,8 @@
     "ma": "Opel",
     "mo": "Corsa",
     "y": 2017,
-    "km": 96000
+    "km": 96000,
+    "b": "Limousine"
   },
   "as:0695b5aa-9ee4-48ba-a235-dba9662d0485": {
     "p": null,
@@ -119962,7 +119976,8 @@
     "ma": null,
     "mo": null,
     "y": 2012,
-    "km": 149000
+    "km": 149000,
+    "b": "Kombi / Family Van"
   },
   "wh:1972133517": {
     "p": 8000,
@@ -119974,7 +119989,8 @@
     "ma": "VW",
     "mo": "Golf",
     "y": 2016,
-    "km": 219018
+    "km": 219018,
+    "b": "Kombi / Family Van"
   },
   "wh:899485857": {
     "p": 3500,
@@ -144302,18 +144318,6 @@
     "mo": "120",
     "y": 2008,
     "km": 143000
-  },
-  "as:e399a2d6-3bb2-41e5-a3ae-d62c9673fbe7": {
-    "p": 8500,
-    "f": "2026-06-15T19:20:50.669982+00:00",
-    "u": "https://www.autoscout24.at/angebote/citroen-jumper-30-l1h1-diesel-cat_ma21mo14710-e399a2d6-3bb2-41e5-a3ae-d62c9673fbe7",
-    "t": "Citroen Jumper",
-    "ts": "2026-06-15T19:20:50.669982+00:00",
-    "ch": "alive",
-    "ma": "Citroen",
-    "mo": "Jumper",
-    "y": 2012,
-    "km": 128400
   },
   "__health__": {
     "wh": 0,
