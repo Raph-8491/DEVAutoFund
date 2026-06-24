@@ -147,6 +147,44 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:32a68f05-5b23-4ca4-bd87-8195453d7bc2": {
+    "p": 5200,
+    "f": "2026-06-24T18:04:35.914794+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/opel-insignia-2-0-cdti-4x4-aut-edition-diesel-cat_ma54mo19101/32a68f05-5b23-4ca4-bd87-8195453d7bc2",
+    "t": "Opel Insignia 2.0 CDTI 4x4 Aut. Edition",
+    "ts": "2026-06-24T18:04:35.914794+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Insignia",
+    "y": 2012,
+    "km": 181000,
+    "b": ""
+  },
+  "as:32a68f05-5b23-4ca4-bd87-8195453d7bc2": {
+    "p": 5200,
+    "f": "2026-06-24T18:04:27.069505+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-insignia-2-0-cdti-4x4-aut-edition-diesel-cat_ma54mo19101-32a68f05-5b23-4ca4-bd87-8195453d7bc2",
+    "t": "Opel Insignia 2.0 CDTI 4x4 Aut. Edition",
+    "ts": "2026-06-24T18:04:27.069505+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Insignia",
+    "y": 2012,
+    "km": 181000,
+    "b": ""
+  },
+  "as:be341a73-d4e1-4b6e-b76c-005b4b52baaf": {
+    "p": null,
+    "f": "2026-06-24T18:04:27.069505+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:2625b46b-8a71-44d5-abb1-07230ee149ba": {
     "p": null,
     "f": "2026-06-24T18:03:26.385848+00:00",
@@ -145363,42 +145401,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:a7d06075-4b89-4cbe-9167-80d4807a84c6": {
-    "p": null,
-    "f": "2026-06-16T14:37:27.498349+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:848100134": {
-    "p": 2950,
-    "f": "2026-06-16T14:37:22.826284+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-207-1-4-848100134/",
-    "t": "Peugeot 207 1.4",
-    "ts": "2026-06-16T14:37:22.826284+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 145000
-  },
-  "wh:1639727190": {
-    "p": 6600,
-    "f": "2026-06-16T14:37:22.826284+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-2-tsi-rabbit-bluemotion-1639727190/",
-    "t": "VW Golf 1.2 TSi Rabbit Bluemotion",
-    "ts": "2026-06-23T14:37:29.083135+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2015,
-    "km": 111000
   },
   "__health__": {
     "wh": 0,
