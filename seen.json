@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1985348886": {
+    "p": 2200,
+    "f": "2026-06-24T04:01:27.967277+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i20-1985348886/",
+    "t": "Hyundai i20",
+    "ts": "2026-06-24T04:01:27.967277+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 15000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:f8ce069c-6996-4d4d-8e44-a784e4657f3b": {
     "p": null,
     "f": "2026-06-24T03:58:28.447462+00:00",
@@ -144167,18 +144180,6 @@
     "mo": "C-Klasse",
     "y": 2008,
     "km": 185576
-  },
-  "gw:b89aa116-ab8d-40de-8acd-21940c65724d": {
-    "p": 8000,
-    "f": "2026-06-15T18:22:51.373158+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/renault-trafic-kombi-4-tueren-diesel-weiss-cat_ma60mo2096/b89aa116-ab8d-40de-8acd-21940c65724d",
-    "t": "Renault Trafic",
-    "ts": "2026-06-15T18:22:51.373158+00:00",
-    "ch": "alive",
-    "ma": "Renault",
-    "mo": "Trafic",
-    "y": 2015,
-    "km": 160000
   },
   "__health__": {
     "wh": 0,
