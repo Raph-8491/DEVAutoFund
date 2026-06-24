@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "as:96bfd353-39b2-4aaa-8e2a-bf0f41c9f931": {
+    "p": 7899,
+    "f": "2026-06-24T18:19:29.430637+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-plus-team-bmt-aus-1-hand-sehr-gepflegt-diesel-grau-cat_ma74mo20026-96bfd353-39b2-4aaa-8e2a-bf0f41c9f931",
+    "t": "Volkswagen Golf Plus Team BMT aus 1. Hand sehr gepflegt",
+    "ts": "2026-06-24T18:19:29.430637+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf Plus",
+    "y": 2011,
+    "km": 122000,
+    "b": "",
+    "pu": "2026-06-24T18:19:29.430637+00:00"
+  },
+  "as:d169fcbf-773a-431f-b713-b0aa74ad7307": {
+    "p": 11999,
+    "f": "2026-06-24T18:19:29.430637+00:00",
+    "u": "https://www.autoscout24.at/angebote/bmw-320-320d-aut-diesel-cat_ma13mo1641-d169fcbf-773a-431f-b713-b0aa74ad7307",
+    "t": "BMW 320 320d Aut.",
+    "ts": "2026-06-24T18:19:29.430637+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "320",
+    "y": 2012,
+    "km": 221350,
+    "b": ""
+  },
   "gw:d169fcbf-773a-431f-b713-b0aa74ad7307": {
     "p": 11999,
     "f": "2026-06-24T18:18:32.496879+00:00",
@@ -145405,30 +145432,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:eb1e3d3f-5796-4398-92ca-69b61b2cdd1a": {
-    "p": null,
-    "f": "2026-06-16T14:53:36.761691+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:939097476": {
-    "p": 2000,
-    "f": "2026-06-16T14:53:33.445903+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-208-allure-1-4-vti-95-939097476/",
-    "t": "Peugeot 208 Allure 1,4 VTI 95",
-    "ts": "2026-06-16T14:53:33.445903+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2013,
-    "km": 120000
   },
   "__health__": {
     "wh": 0,
