@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1083686161": {
+    "p": 3500,
+    "f": "2026-06-24T16:25:36.424678+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-1083686161/",
+    "t": "Seat Leon",
+    "ts": "2026-06-24T16:25:36.424678+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2012,
+    "km": 139440,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1523406562": {
+    "p": 4500,
+    "f": "2026-06-24T16:25:36.424678+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1523406562/",
+    "t": "Seat Ibiza",
+    "ts": "2026-06-24T16:25:36.424678+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Ibiza",
+    "y": 2009,
+    "km": 130000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:2059124015": {
     "p": 1000,
     "f": "2026-06-24T16:24:25.116866+00:00",
@@ -190,7 +216,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-118i-urban-line-1973202780/",
     "t": "BMW 1er-Reihe 118i Urban Line",
     "ts": "2026-06-24T16:22:27.403227+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "1er-Reihe",
     "y": 2016,
@@ -145190,30 +145216,6 @@
     "mo": "Touran",
     "y": 2009,
     "km": 270000
-  },
-  "as:29ad1f9f-8e8b-4894-8ec8-c77d5ecdebcd": {
-    "p": null,
-    "f": "2026-06-16T13:03:30.221125+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:798188752": {
-    "p": 1200,
-    "f": "2026-06-16T13:03:28.132470+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-turnier-ii-1-6-798188752/",
-    "t": "Ford Focus Turnier II 1,6",
-    "ts": "2026-06-16T13:03:28.132470+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 212000
   },
   "__health__": {
     "wh": 0,
