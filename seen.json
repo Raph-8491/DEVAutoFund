@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:916053265": {
+    "p": 6990,
+    "f": "2026-06-24T19:10:42.734425+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-scenic-7-sitze-916053265/",
+    "t": "Renault Sc\u00e9nic 7 Sitze",
+    "ts": "2026-06-24T19:10:42.734425+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2016,
+    "km": 211000,
+    "b": "Kombi / Family Van"
+  },
   "wh:1178175620": {
     "p": 4300,
     "f": "2026-06-24T19:08:24.673932+00:00",
@@ -145532,18 +145545,6 @@
     "mo": "Fiesta",
     "y": 2011,
     "km": 125500
-  },
-  "wh:2047802532": {
-    "p": 7000,
-    "f": "2026-06-16T15:49:37.534394+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-2er-reihe-218-i-active-tourer-2047802532/",
-    "t": "BMW 2er-Reihe 218 i Active Tourer",
-    "ts": "2026-06-16T15:49:37.534394+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "2er-Reihe",
-    "y": 2015,
-    "km": 160000
   },
   "__health__": {
     "wh": 0,
