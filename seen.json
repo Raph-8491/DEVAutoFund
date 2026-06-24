@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1925680443": {
+    "p": 5500,
+    "f": "2026-06-24T18:52:28.504155+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-sandero-supreme-sce-75-1925680443/",
+    "t": "Dacia Sandero Supreme SCe 75",
+    "ts": "2026-06-24T18:52:28.504155+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2017,
+    "km": 75726,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:9181f56c-3046-467c-817e-5ab9812fb224": {
     "p": null,
     "f": "2026-06-24T18:50:43.032984+00:00",
@@ -145496,18 +145509,6 @@
     "mo": null,
     "y": 2013,
     "km": 195000
-  },
-  "wh:1998649325": {
-    "p": 5400,
-    "f": "2026-06-16T15:28:31.547909+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-c-max-titanium-1-6-tdci-dpf-1998649325/",
-    "t": "Ford C-MAX Titanium 1.6 TDCi DPF",
-    "ts": "2026-06-16T15:28:31.547909+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2013,
-    "km": 154000
   },
   "__health__": {
     "wh": 0,
