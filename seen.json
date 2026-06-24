@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1282166846": {
+    "p": 4300,
+    "f": "2026-06-24T20:25:34.365276+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-2-7-tdi-dpf-multitronic-1282166846/",
+    "t": "Audi A6 2,7 TDI DPF Multitronic",
+    "ts": "2026-06-24T20:25:34.365276+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A6",
+    "y": 2009,
+    "km": 312000,
+    "b": "Limousine"
+  },
   "wh:955391379": {
     "p": 6500,
     "f": "2026-06-24T20:24:25.676750+00:00",
@@ -145639,18 +145652,6 @@
   "as:5b2e59d7-606c-437d-97c5-8570e640059e": {
     "p": null,
     "f": "2026-06-16T16:43:33.083496+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:70e7a0d3-2353-4aa3-a57b-14c7aba393c1": {
-    "p": null,
-    "f": "2026-06-16T16:42:40.427770+00:00",
     "u": null,
     "t": null,
     "ts": null,
