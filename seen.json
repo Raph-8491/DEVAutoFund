@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1356080525": {
+    "p": 7900,
+    "f": "2026-06-24T14:56:28.317326+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-114i-1356080525/",
+    "t": "BMW 1er-Reihe 114i",
+    "ts": "2026-06-24T14:56:28.317326+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "1er-Reihe",
+    "y": 2014,
+    "km": 120000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-24T14:56:28.317326+00:00"
+  },
+  "wh:1303493345": {
+    "p": 3350,
+    "f": "2026-06-24T14:56:28.317326+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-1-6-tdi-titanium-1303493345/",
+    "t": "Ford Focus 1,6 TDI Titanium",
+    "ts": "2026-06-24T14:56:28.317326+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 153000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:dc429288-d39e-4ddf-ba36-69661d89a465": {
     "p": null,
     "f": "2026-06-24T14:55:38.585027+00:00",
@@ -204,7 +231,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-sport-1-2-1870330590/",
     "t": "VW Polo Sport 1,2",
     "ts": "2026-06-24T14:53:21.300649+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Polo",
     "y": 2014,
@@ -145043,30 +145070,6 @@
     "mo": "7er-Reihe",
     "y": 2015,
     "km": 296000
-  },
-  "wh:933753599": {
-    "p": 9300,
-    "f": "2026-06-16T11:32:42.272987+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-2-0-tdi-sport-bmt-933753599/",
-    "t": "VW Tiguan 2,0 TDI Sport BMT",
-    "ts": "2026-06-16T11:32:42.272987+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Tiguan",
-    "y": 2014,
-    "km": 216000
-  },
-  "gw:f5d6e9f2-ef0d-4dd8-ae7c-3d08554e2add": {
-    "p": 7500,
-    "f": "2026-06-16T11:31:49.734821+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/seat-alhambra-alhambra-business-2-0-tdi-cr-business-diesel-grau-cat_ma64mo2003/f5d6e9f2-ef0d-4dd8-ae7c-3d08554e2add",
-    "t": "SEAT Alhambra",
-    "ts": "2026-06-16T11:31:49.734821+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Alhambra",
-    "y": 2015,
-    "km": 248000
   },
   "__health__": {
     "wh": 0,
