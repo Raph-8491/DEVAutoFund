@@ -147,13 +147,39 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2058159217": {
+    "p": 12000,
+    "f": "2026-06-24T05:25:33.799564+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-transit-custom-l2h1-300k-variobus-2-2-tdci-trend-2058159217/",
+    "t": "Ford Transit Custom L2H1 300K Variobus 2,2 TDCi Trend",
+    "ts": "2026-06-24T05:25:33.799564+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2015,
+    "km": 250000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1707585443": {
+    "p": 13450,
+    "f": "2026-06-24T05:25:33.799564+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-variant-comfortline-2-0-tdi-dsg-led-radar-navi-1707585443/",
+    "t": "VW Passat Variant Comfortline 2.0 TDI DSG LED Radar Navi",
+    "ts": "2026-06-24T05:25:33.799564+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Passat",
+    "y": 2017,
+    "km": 143000,
+    "b": "Kombi / Family Van"
+  },
   "wh:1726090227": {
     "p": 2600,
     "f": "2026-06-24T05:22:28.915548+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-307-cc-cabrio-limousine-1726090227/",
     "t": "Peugeot 307 CC Cabrio Limousine",
     "ts": "2026-06-24T05:22:28.915548+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2008,
@@ -166,7 +192,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-1861706540/",
     "t": "Audi A3",
     "ts": "2026-06-24T05:22:28.915548+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A3",
     "y": 2008,
@@ -119873,16 +119899,17 @@
     "km": 117000
   },
   "wh:1322712071": {
-    "p": 12000,
+    "p": 11900,
     "f": "2026-06-17T05:31:25.180127+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-2er-reihe-active-tourer-216d-1322712071/",
     "t": "BMW 2er-Reihe Active Tourer 216d",
-    "ts": "2026-06-17T05:31:25.180127+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T05:25:33.799564+00:00",
+    "ch": null,
     "ma": "BMW",
     "mo": "2er-Reihe",
     "y": 2019,
-    "km": 111000
+    "km": 111000,
+    "b": "Limousine"
   },
   "gw:38c92caf-f405-4292-9e70-8d2aaf29e613": {
     "p": 5200,
@@ -144209,30 +144236,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1864875860": {
-    "p": 7000,
-    "f": "2026-06-15T18:44:36.384091+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-318d-oesterreich-paket-1864875860/",
-    "t": "BMW 3er-Reihe 318d \u00d6sterreich-Paket",
-    "ts": "2026-06-15T18:44:36.384091+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2008,
-    "km": 267000
-  },
-  "wh:1227966692": {
-    "p": 5000,
-    "f": "2026-06-15T18:44:36.384091+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-vw-golf-6-variant-1-6-tdi-gepflegt-sparsam-2-besitzer-neues-pickerl-1227966692/",
-    "t": "VW Golf VW Golf 6 Variant 1.6 TDI - gepflegt, sparsam, 2. Besitzer, neues Pickerl",
-    "ts": "2026-06-15T18:44:36.384091+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2010,
-    "km": 127000
   },
   "__health__": {
     "wh": 0,
