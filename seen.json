@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1105434927": {
+    "p": 650,
+    "f": "2026-06-24T20:40:42.014433+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-grande-punto-1105434927/",
+    "t": "Fiat Grande Punto",
+    "ts": "2026-06-24T20:40:42.014433+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 214000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1012484924": {
+    "p": 7499,
+    "f": "2026-06-24T20:40:42.014433+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touran-sky-1-6-tdi-1012484924/",
+    "t": "VW Touran Sky 1,6 tdi",
+    "ts": "2026-06-24T20:40:42.014433+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Touran",
+    "y": 2012,
+    "km": 208000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T20:40:42.014433+00:00"
+  },
   "wh:1166467957": {
     "p": 1800,
     "f": "2026-06-24T20:39:23.797777+00:00",
@@ -218,7 +245,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-avant-2-0-tdi-quattro-dpf-1026748962/",
     "t": "Audi A4 Avant 2,0 TDI quattro DPF",
     "ts": "2026-06-24T20:37:21.192719+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A4",
     "y": 2012,
@@ -145652,30 +145679,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:37468c20-0553-46c8-8d03-0509e402da31": {
-    "p": null,
-    "f": "2026-06-16T16:50:52.892704+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1976525199": {
-    "p": 6000,
-    "f": "2026-06-16T16:49:30.324324+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-comfortline-1-2-tsi-1976525199/",
-    "t": "VW Golf Comfortline 1,2 TSI",
-    "ts": "2026-06-16T16:49:30.324324+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2013,
-    "km": 183800
   },
   "__health__": {
     "wh": 0,
