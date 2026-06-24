@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:7ffc3f87-acf3-4b84-b674-6aff80df5755": {
+    "p": 13500,
+    "f": "2026-06-24T15:02:35.476366+00:00",
+    "u": "https://www.autoscout24.at/angebote/mercedes-benz-ml-350-ml-350-bluetec-4matic-7g-tronic-diesel-schwarz-cat_ma47mo18319-7ffc3f87-acf3-4b84-b674-6aff80df5755",
+    "t": "Mercedes-Benz ML 350 ML 350 BlueTEC 4MATIC 7G-TRONIC",
+    "ts": "2026-06-24T15:02:35.476366+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "ML 350",
+    "y": 2012,
+    "km": 252173,
+    "b": ""
+  },
   "as:3097f9c7-dfed-4566-a7af-28451043318e": {
     "p": null,
     "f": "2026-06-24T15:01:40.533427+00:00",
@@ -145058,18 +145071,6 @@
   "as:c34e4e1c-8543-4bb4-890f-c8a57549b2a1": {
     "p": null,
     "f": "2026-06-16T11:38:30.725547+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:7ccf27a5-3b62-4895-a14e-d273122392cb": {
-    "p": null,
-    "f": "2026-06-16T11:37:31.221740+00:00",
     "u": null,
     "t": null,
     "ts": null,
