@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:1cf5b717-0261-4229-ba11-eb3c7ba7f953": {
+    "p": 10390,
+    "f": "2026-06-24T18:57:31.959737+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/audi-a3-a3-sb-style-1-6-tdi-dpf-style-diesel-braun-cat_ma9mo1624/1cf5b717-0261-4229-ba11-eb3c7ba7f953",
+    "t": "Audi A3 A3 SB Style 1,6 TDI DPF Style",
+    "ts": "2026-06-24T18:57:31.959737+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A3",
+    "y": 2013,
+    "km": 183000,
+    "b": ""
+  },
+  "as:1cf5b717-0261-4229-ba11-eb3c7ba7f953": {
+    "p": 10390,
+    "f": "2026-06-24T18:57:22.451939+00:00",
+    "u": "https://www.autoscout24.at/angebote/audi-a3-a3-sb-style-1-6-tdi-dpf-style-diesel-braun-cat_ma9mo1624-1cf5b717-0261-4229-ba11-eb3c7ba7f953",
+    "t": "Audi A3 A3 SB Style 1,6 TDI DPF Style",
+    "ts": "2026-06-24T18:57:22.451939+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A3",
+    "y": 2013,
+    "km": 183000,
+    "b": "",
+    "pu": "2026-06-24T18:57:22.451939+00:00"
+  },
   "as:31461771-fa3a-4c4f-9bb8-74748d8d0649": {
     "p": 2500,
     "f": "2026-06-24T18:55:36.336234+00:00",
@@ -145495,30 +145522,6 @@
     "mo": "Q5",
     "y": 2012,
     "km": 351232
-  },
-  "wh:1285312920": {
-    "p": 4550,
-    "f": "2026-06-16T15:32:40.393908+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-punto-1285312920/",
-    "t": "Fiat Punto",
-    "ts": "2026-06-16T15:32:40.393908+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2013,
-    "km": 95795
-  },
-  "wh:1575572636": {
-    "p": 3900,
-    "f": "2026-06-16T15:32:40.393908+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-b-klasse-180-cdi-mit-pickerl-panorama-automatik-1575572636/",
-    "t": "Mercedes-Benz B-Klasse 180 CDI Mit pickerl Panorama Automatik",
-    "ts": "2026-06-16T15:32:40.393908+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "B-Klasse",
-    "y": 2010,
-    "km": 214000
   },
   "__health__": {
     "wh": 0,
