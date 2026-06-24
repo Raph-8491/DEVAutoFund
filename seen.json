@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1127480075": {
+    "p": 9850,
+    "f": "2026-06-24T07:04:33.549593+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-1127480075/",
+    "t": "Audi A5",
+    "ts": "2026-06-24T07:04:33.549593+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A5",
+    "y": 2011,
+    "km": 172000,
+    "b": "Cabrio / Roadster"
+  },
   "wh:1729532304": {
     "p": 9990,
     "f": "2026-06-24T07:02:23.270396+00:00",
@@ -792,12 +805,12 @@
     "b": "Limousine"
   },
   "wh:931459833": {
-    "p": 7250,
+    "p": 6950,
     "f": "2026-06-24T06:20:45.348329+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i10-life-1-0-931459833/",
     "t": "Hyundai i10 Life 1.0",
-    "ts": "2026-06-24T06:20:45.348329+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T07:04:33.549593+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2014,
@@ -1154,7 +1167,7 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/suzuki-vitara-1-6-ddis-4wd-flash-dct-aut-diesel-cat_ma68mo2037/cdb516b3-5b5f-41d0-bc47-d720af59e7b2",
     "t": "Suzuki Vitara",
     "ts": "2026-06-24T07:01:39.364355+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Suzuki",
     "mo": "Vitara",
     "y": 2016,
@@ -144311,18 +144324,6 @@
     "mo": "Golf",
     "y": 2012,
     "km": 263884
-  },
-  "as:6e7166f3-bbaf-44b1-9dd6-e481b8cc355f": {
-    "p": 3100,
-    "f": "2026-06-15T19:21:27.708763+00:00",
-    "u": "https://www.autoscout24.at/angebote/seat-ibiza-ibiza-st-1-2-tdi-cr-ecomotive-reference-diesel-grau-cat_ma64mo2006-6e7166f3-bbaf-44b1-9dd6-e481b8cc355f",
-    "t": "SEAT Ibiza",
-    "ts": "2026-06-15T19:21:27.708763+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2012,
-    "km": 234000
   },
   "__health__": {
     "wh": 0,
