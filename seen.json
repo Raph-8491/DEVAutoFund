@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:e791bb33-ff0f-4101-8e74-2a7e5627f67c": {
+    "p": null,
+    "f": "2026-06-24T13:07:30.743577+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:f31dee46-9874-4514-ad0b-03b92e2c8a45": {
     "p": null,
     "f": "2026-06-24T13:06:26.684935+00:00",
@@ -144861,18 +144873,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:0a4de15b-b4ef-431d-9353-bee5cdbb4554": {
-    "p": 9600,
-    "f": "2026-06-16T09:08:40.598268+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-t5-diesel-cat_ma74mo18370-0a4de15b-b4ef-431d-9353-bee5cdbb4554",
-    "t": "Volkswagen T5",
-    "ts": "2026-06-16T09:08:40.598268+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "T5",
-    "y": 2015,
-    "km": 240000
   },
   "__health__": {
     "wh": 0,
