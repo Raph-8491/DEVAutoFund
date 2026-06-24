@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:313fc95e-7b15-48f2-b7ed-f5fa8ee36284": {
+    "p": 4600,
+    "f": "2026-06-24T14:50:42.419963+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-astra-1-4-turbo-edition-benzin-cat_ma54mo1916-313fc95e-7b15-48f2-b7ed-f5fa8ee36284",
+    "t": "Opel Astra 1.4 Turbo Edition",
+    "ts": "2026-06-24T14:50:42.419963+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Astra",
+    "y": 2011,
+    "km": 110000,
+    "b": ""
+  },
   "gw:15e59127-88cd-43af-a497-643a17b30c4a": {
     "p": 3890,
     "f": "2026-06-24T14:49:32.369430+00:00",
@@ -203,7 +216,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-bmw-525d-xdrive-1343028613/",
     "t": "BMW 5er-Reihe Bmw 525d xdrive",
     "ts": "2026-06-24T14:47:27.526032+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "5er-Reihe",
     "y": 2012,
@@ -145042,18 +145055,6 @@
     "mo": "CL-Klasse",
     "y": 2009,
     "km": 170000
-  },
-  "wh:2113633361": {
-    "p": 10900,
-    "f": "2026-06-16T11:18:29.459736+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-tt-s-2113633361/",
-    "t": "Audi TT S",
-    "ts": "2026-06-16T11:18:29.459736+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "TT",
-    "y": 2008,
-    "km": 199950
   },
   "__health__": {
     "wh": 0,
