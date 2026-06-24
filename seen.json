@@ -147,6 +147,44 @@
     "y": 2009,
     "km": 235000
   },
+  "as:0655f199-cf03-4f6c-a121-09979c394dbe": {
+    "p": 4000,
+    "f": "2026-06-24T06:43:27.228696+00:00",
+    "u": "https://www.autoscout24.at/angebote/mercedes-benz-vito-vito-111-cdi-eco-bus-kompakt-eco-diesel-cat_ma47mo15942-0655f199-cf03-4f6c-a121-09979c394dbe",
+    "t": "Mercedes-Benz Vito",
+    "ts": "2026-06-24T06:43:27.228696+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "Vito",
+    "y": 2008,
+    "km": 280000,
+    "b": ""
+  },
+  "as:941e72a2-bda9-420e-bd4f-b12afc1f0a95": {
+    "p": null,
+    "f": "2026-06-24T06:43:27.228696+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:b5bd9ea3-a544-4e59-a4f9-9865cb56c6b2": {
+    "p": 2666,
+    "f": "2026-06-24T06:43:27.228696+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-corsa-color-edition-benzin-rot-cat_ma54mo1918-b5bd9ea3-a544-4e59-a4f9-9865cb56c6b2",
+    "t": "Opel Corsa",
+    "ts": "2026-06-24T06:43:27.228696+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Corsa",
+    "y": 2010,
+    "km": 139000,
+    "b": ""
+  },
   "gw:0655f199-cf03-4f6c-a121-09979c394dbe": {
     "p": 4000,
     "f": "2026-06-24T06:42:40.520718+00:00",
@@ -144258,42 +144296,6 @@
     "mo": "Ibiza",
     "y": 2009,
     "km": 200003
-  },
-  "wh:2088444726": {
-    "p": 4000,
-    "f": "2026-06-15T19:12:32.703316+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a1-attraction-2088444726/",
-    "t": "Audi A1 Attraction",
-    "ts": "2026-06-22T19:08:30.610544+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A1",
-    "y": 2012,
-    "km": 213000
-  },
-  "wh:1382956936": {
-    "p": 4390,
-    "f": "2026-06-15T19:12:32.703316+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-reference-1-2-1382956936/",
-    "t": "Seat Ibiza Reference 1,2",
-    "ts": "2026-06-15T19:12:32.703316+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2013,
-    "km": 109433
-  },
-  "gw:314f51e3-8d86-4ebc-83f2-87f9a0dae3d1": {
-    "p": 5100,
-    "f": "2026-06-15T19:11:46.906310+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-golf-plus-1-6-tdi-dpf-comfortline-diesel-cat_ma74mo20026/314f51e3-8d86-4ebc-83f2-87f9a0dae3d1",
-    "t": "Volkswagen Golf Plus",
-    "ts": "2026-06-15T19:11:46.906310+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf Plus",
-    "y": 2009,
-    "km": 187000
   },
   "__health__": {
     "wh": 0,
