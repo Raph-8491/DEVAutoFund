@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1508830508": {
+    "p": 8999,
+    "f": "2026-06-24T09:08:27.411719+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/volvo-v40-cross-country-d3-5-zylinder-1508830508/",
+    "t": "Volvo V40 Cross Country D3 5-Zylinder",
+    "ts": "2026-06-24T09:08:27.411719+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2014,
+    "km": 213000,
+    "b": "Limousine"
+  },
+  "wh:1004855846": {
+    "p": 13000,
+    "f": "2026-06-24T09:08:27.411719+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/suzuki-sx4-s-cross-1-4-ditc-allgrip-shine-1004855846/",
+    "t": "Suzuki SX4 S-Cross 1.4 DITC Allgrip shine",
+    "ts": "2026-06-24T09:08:27.411719+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2017,
+    "km": 99700,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "as:5a572ba6-a1ed-4ca2-a69b-3a485a33f428": {
     "p": null,
     "f": "2026-06-24T09:06:29.733327+00:00",
@@ -144470,30 +144496,6 @@
     "mo": "Touran",
     "y": 2013,
     "km": 227000
-  },
-  "wh:1038821673": {
-    "p": 2750,
-    "f": "2026-06-15T21:20:48.390335+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-2-0tdci-1038821673/",
-    "t": "Ford Galaxy 2.0TDCI",
-    "ts": "2026-06-15T21:20:48.390335+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 337000
-  },
-  "as:3f0fbfeb-9a75-4192-bcb2-26cfa2f3335f": {
-    "p": null,
-    "f": "2026-06-15T21:17:26.464180+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
