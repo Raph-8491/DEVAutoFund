@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:264c7215-3fb0-4f82-97ea-cc4a6a4ed06e": {
+    "p": null,
+    "f": "2026-06-24T16:19:24.399839+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1152568567": {
     "p": 6490,
     "f": "2026-06-24T16:18:28.951597+00:00",
@@ -145196,18 +145208,6 @@
     "mo": "C-Klasse",
     "y": 2009,
     "km": 267000
-  },
-  "wh:1946738144": {
-    "p": 4199,
-    "f": "2026-06-16T13:01:47.645209+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-traveller-trend-1-6ti-vct-ffv-1946738144/",
-    "t": "Ford Focus Traveller Trend 1,6Ti-VCT FFV",
-    "ts": "2026-06-16T13:01:47.645209+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 235000
   },
   "__health__": {
     "wh": 0,
