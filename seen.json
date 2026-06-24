@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:40f25345-b0c3-4604-bec0-48bbd2f88d05": {
+    "p": 7901,
+    "f": "2026-06-24T14:57:40.793042+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/dacia-logan-1-5-dci-prestige-diesel-cat_ma16360mo18498/40f25345-b0c3-4604-bec0-48bbd2f88d05",
+    "t": "Dacia Logan 1.5 dCi Prestige",
+    "ts": "2026-06-24T14:57:40.793042+00:00",
+    "ch": null,
+    "ma": "Dacia",
+    "mo": "Logan",
+    "y": 2019,
+    "km": 77000,
+    "b": ""
+  },
   "wh:1356080525": {
     "p": 7900,
     "f": "2026-06-24T14:56:28.317326+00:00",
@@ -145058,18 +145071,6 @@
     "mo": "3er-Reihe",
     "y": 2009,
     "km": 377000
-  },
-  "wh:903190075": {
-    "p": 6800,
-    "f": "2026-06-16T11:32:42.272987+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-7er-reihe-740d-xdrive-tausch-finanzierung-moeglich-903190075/",
-    "t": "BMW 7er-Reihe 740D xDrive Tausch/Finanzierung m\u00f6glich",
-    "ts": "2026-06-23T11:32:35.142379+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "7er-Reihe",
-    "y": 2015,
-    "km": 296000
   },
   "__health__": {
     "wh": 0,
