@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:23af340d-e624-470e-ab09-97833afc9165": {
+    "p": null,
+    "f": "2026-06-24T12:22:29.574684+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:1f9b68c1-9003-44db-b61a-084f45602d2c": {
     "p": 3900,
     "f": "2026-06-24T12:20:42.230684+00:00",
@@ -144791,18 +144803,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:817319482": {
-    "p": 6500,
-    "f": "2026-06-16T08:24:35.205789+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-sharan-trendline-bmt-2-0-tdi-dpf-dsg-817319482/",
-    "t": "VW Sharan Trendline BMT 2,0 TDI DPF DSG",
-    "ts": "2026-06-16T08:24:35.205789+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Sharan",
-    "y": 2013,
-    "km": 360000
   },
   "__health__": {
     "wh": 0,
