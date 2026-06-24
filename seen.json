@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:4346783e-d382-4bb5-a3a2-11f2c6db627c": {
+    "p": null,
+    "f": "2026-06-24T11:13:27.157677+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:6e5c8585-36bb-48b1-a595-4e0b5dc58546": {
     "p": null,
     "f": "2026-06-24T11:12:29.020798+00:00",
@@ -144688,18 +144700,6 @@
     "mo": null,
     "y": 2011,
     "km": 200000
-  },
-  "as:071226e6-bb47-4ae5-a5a3-4dedabee69a4": {
-    "p": 3999,
-    "f": "2026-06-16T06:53:32.895236+00:00",
-    "u": "https://www.autoscout24.at/angebote/kia-picanto-1-0-vision-benzin-cat_ma39mo18417-071226e6-bb47-4ae5-a5a3-4dedabee69a4",
-    "t": "Kia Picanto",
-    "ts": "2026-06-16T06:53:32.895236+00:00",
-    "ch": "alive",
-    "ma": "Kia",
-    "mo": "Picanto",
-    "y": 2014,
-    "km": 91000
   },
   "__health__": {
     "wh": 0,
