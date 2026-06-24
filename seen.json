@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:97c8212e-68a4-4c29-8970-270a78648f4e": {
+    "p": 11690,
+    "f": "2026-06-24T09:46:38.775798+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-golf-golf-sport-1-6-bmt-tdi-dsg-sport-diesel-schwarz-cat_ma74mo2084/97c8212e-68a4-4c29-8970-270a78648f4e",
+    "t": "Volkswagen Golf",
+    "ts": "2026-06-24T09:46:38.775798+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2015,
+    "km": 138000,
+    "b": ""
+  },
+  "as:c20b08e4-a87c-4eff-a08a-c2966bb0df3e": {
+    "p": null,
+    "f": "2026-06-24T09:46:29.174863+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:652016b3-bbd4-45e5-b578-2948628e6bbd": {
     "p": null,
     "f": "2026-06-24T09:45:42.928601+00:00",
@@ -144540,30 +144565,6 @@
     "mo": null,
     "y": 2012,
     "km": 170000
-  },
-  "wh:1698154252": {
-    "p": 11500,
-    "f": "2026-06-16T03:31:23.722320+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1-0-eco-tsi-xcellense-1698154252/",
-    "t": "Seat Ibiza 1,0 ECO TSI Xcellense",
-    "ts": "2026-06-16T03:31:23.722320+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2017,
-    "km": 32150
-  },
-  "wh:1098572161": {
-    "p": 8300,
-    "f": "2026-06-16T03:26:36.759370+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-meriva-1-6-cdti-ecotec-nur-58-000-km-sehr-gepflegt-1098572161/",
-    "t": "Opel Meriva 1.6 CDTI Ecotec - nur 58.000 km - sehr gepflegt",
-    "ts": "2026-06-16T03:26:36.759370+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Meriva",
-    "y": 2017,
-    "km": 58522
   },
   "__health__": {
     "wh": 0,
