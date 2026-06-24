@@ -147,6 +147,56 @@
     "y": 2009,
     "km": 235000
   },
+  "as:d092b6c8-4367-475b-adf7-7766dbf79fe7": {
+    "p": null,
+    "f": "2026-06-24T18:13:25.824742+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:ba6fc083-1e86-4033-8ca2-6b8e11002150": {
+    "p": 12800,
+    "f": "2026-06-24T18:13:25.824742+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-rabbit-40-2-0-tdi-diesel-cat_ma74mo2084-ba6fc083-1e86-4033-8ca2-6b8e11002150",
+    "t": "Volkswagen Golf Rabbit 40 2,0 TDI",
+    "ts": "2026-06-24T18:13:25.824742+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2018,
+    "km": 193000,
+    "b": ""
+  },
+  "as:f737581e-00eb-4c31-88ea-4902133edce8": {
+    "p": null,
+    "f": "2026-06-24T18:13:25.824742+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1332136766": {
+    "p": 4190,
+    "f": "2026-06-24T18:13:24.949982+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-sharan-2-0-dsg-1332136766/",
+    "t": "VW Sharan 2.0 dsg",
+    "ts": "2026-06-24T18:13:24.949982+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Sharan",
+    "y": 2011,
+    "km": 372000,
+    "b": "Kombi / Family Van"
+  },
   "gw:ba6fc083-1e86-4033-8ca2-6b8e11002150": {
     "p": 12800,
     "f": "2026-06-24T18:12:40.951491+00:00",
@@ -145370,54 +145420,6 @@
     "mo": null,
     "y": 2008,
     "km": 233238
-  },
-  "as:98903a94-5257-4534-a1f1-2aff2c24f7e0": {
-    "p": null,
-    "f": "2026-06-16T14:48:44.970201+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:898754730": {
-    "p": 3500,
-    "f": "2026-06-16T14:47:40.193449+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/suzuki-swift-1-3-gl-898754730/",
-    "t": "Suzuki Swift 1,3 GL",
-    "ts": "2026-06-16T14:47:40.193449+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 122000
-  },
-  "wh:1210906936": {
-    "p": 7200,
-    "f": "2026-06-16T14:47:40.193449+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-c220-cdi-1210906936/",
-    "t": "Mercedes-Benz C-Klasse c220 CDI",
-    "ts": "2026-06-16T14:47:40.193449+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C-Klasse",
-    "y": 2008,
-    "km": 125000
-  },
-  "as:6bb549bb-e009-4512-a0ca-bb119fdd8a05": {
-    "p": null,
-    "f": "2026-06-16T14:46:36.516705+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
