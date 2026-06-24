@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:5079cdc2-4755-4876-a81c-66c42623f1f2": {
+    "p": null,
+    "f": "2026-06-24T18:25:42.376165+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:9c16558b-a894-4c20-b2b8-380173b41253": {
+    "p": 3400,
+    "f": "2026-06-24T18:25:39.379143+00:00",
+    "u": "https://www.autoscout24.at/angebote/bmw-325-diesel-1-hand-6-zyl-scheckheftgepflegt-tuev-12-26-diesel-braun-cat_ma13mo1644-9c16558b-a894-4c20-b2b8-380173b41253",
+    "t": "BMW 325 Diesel 1. Hand 6 Zyl. scheckheftgepflegt T\u00fcv 12/26",
+    "ts": "2026-06-24T18:25:39.379143+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "325",
+    "y": 2012,
+    "km": 396176,
+    "b": ""
+  },
   "wh:1729666080": {
     "p": 1000,
     "f": "2026-06-24T18:24:30.619849+00:00",
@@ -220,7 +245,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-1-4-bluemotion-1001661426/",
     "t": "VW Polo 1.4 BlueMotion",
     "ts": "2026-06-24T18:22:22.595057+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Polo",
     "y": 2015,
@@ -145423,30 +145448,6 @@
     "mo": "XC60",
     "y": 2015,
     "km": 236000
-  },
-  "gw:070ab0d8-6df6-4d89-a9ba-9cef8e8586b7": {
-    "p": 9250,
-    "f": "2026-06-16T14:59:56.980975+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/mazda-6-sport-combi-cd150-revolution-diesel-cat_ma46mo18266/070ab0d8-6df6-4d89-a9ba-9cef8e8586b7",
-    "t": "Mazda 6",
-    "ts": "2026-06-16T14:59:56.980975+00:00",
-    "ch": "alive",
-    "ma": "Mazda",
-    "mo": "6",
-    "y": 2014,
-    "km": 146000
-  },
-  "as:3eefe500-e01c-4ea6-8dac-59dfe72536d1": {
-    "p": 8900,
-    "f": "2026-06-16T14:59:40.912358+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-tiguan-2-0-tdi-dpf-4motion-sport-style-diesel-cat_ma74mo19063-3eefe500-e01c-4ea6-8dac-59dfe72536d1",
-    "t": "Volkswagen Tiguan",
-    "ts": "2026-06-16T14:59:40.912358+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Tiguan",
-    "y": 2009,
-    "km": 199500
   },
   "__health__": {
     "wh": 0,
