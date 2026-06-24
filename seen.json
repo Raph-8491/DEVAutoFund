@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:56ea9bbd-44d5-4f39-ae36-ec1d3379e438": {
+    "p": null,
+    "f": "2026-06-24T11:34:27.312774+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:d5c82e77-6a10-43f1-b9f2-8d6733933315": {
     "p": null,
     "f": "2026-06-24T11:33:24.563914+00:00",
@@ -227,7 +239,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-sportback-1733878864/",
     "t": "Audi A3 Sportback",
     "ts": "2026-06-24T11:31:28.755617+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A3",
     "y": 2015,
@@ -254,7 +266,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-highline-1-6-tdi-r-line-1685815216/",
     "t": "VW Golf Variant Highline 1,6 TDI R-Line",
     "ts": "2026-06-24T11:31:28.755617+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2017,
@@ -144718,18 +144730,6 @@
     "mo": "Polo",
     "y": 2014,
     "km": 140000
-  },
-  "wh:2090338124": {
-    "p": 3500,
-    "f": "2026-06-16T07:24:30.443246+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-ka-trend-1-2-2090338124/",
-    "t": "Ford Ka Trend 1.2",
-    "ts": "2026-06-16T07:24:30.443246+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 98000
   },
   "__health__": {
     "wh": 0,
