@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1218617774": {
+    "p": 4950,
+    "f": "2026-06-24T09:01:24.335008+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-comfortline-1-2-tsi-1218617774/",
+    "t": "VW Golf Comfortline 1,2 TSI",
+    "ts": "2026-06-24T09:01:24.335008+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2013,
+    "km": 188000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:e32870b7-08f3-448c-8d05-a277b8c08040": {
     "p": null,
     "f": "2026-06-24T08:59:24.364201+00:00",
@@ -165,7 +178,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-2-0-tdi-avant-1869188647/",
     "t": "Audi A4 2.0 Tdi Avant",
     "ts": "2026-06-24T08:57:21.811717+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A4",
     "y": 2014,
@@ -178,7 +191,7 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/mini-cooper-s-mini-cooper-s-1-6-cooper-s-benzin-blau-cat_ma16338mo19743/b017d75d-7690-4c59-9a1e-11a3df3c38eb",
     "t": "MINI Cooper S",
     "ts": "2026-06-24T08:56:43.628158+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "MINI",
     "mo": "Cooper S",
     "y": 2013,
@@ -191,7 +204,7 @@
     "u": "https://www.autoscout24.at/angebote/mini-cooper-s-mini-cooper-s-1-6-cooper-s-benzin-blau-cat_ma16338mo19743-b017d75d-7690-4c59-9a1e-11a3df3c38eb",
     "t": "MINI Cooper S",
     "ts": "2026-06-24T08:56:33.423257+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "MINI",
     "mo": "Cooper S",
     "y": 2013,
@@ -144474,18 +144487,6 @@
     "mo": "Corsa",
     "y": 2008,
     "km": 106000
-  },
-  "as:7857856a-f8e3-4ebf-80cd-97e86446bd94": {
-    "p": null,
-    "f": "2026-06-15T21:11:42.174310+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
