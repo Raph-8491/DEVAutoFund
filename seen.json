@@ -147,6 +147,57 @@
     "y": 2009,
     "km": 235000
   },
+  "as:8fe43209-5997-4659-9d00-86f5eff245cc": {
+    "p": null,
+    "f": "2026-06-24T14:09:36.547745+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:a8ccf1db-9dd5-43fb-bed1-a81a7d270d0d": {
+    "p": null,
+    "f": "2026-06-24T14:09:36.547745+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1428383315": {
+    "p": 4800,
+    "f": "2026-06-24T14:09:33.517572+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-1428383315/",
+    "t": "Audi A3",
+    "ts": "2026-06-24T14:09:33.517572+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A3",
+    "y": 2009,
+    "km": 107476,
+    "b": "Limousine",
+    "pu": "2026-06-24T14:09:33.517572+00:00"
+  },
+  "wh:2104762780": {
+    "p": 2200,
+    "f": "2026-06-24T14:09:33.517572+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-107-1-0-wenig-kilometer-picker-bis-07-2027-2104762780/",
+    "t": "Peugeot 107 1.0 wenig Kilometer picker bis 07.2027",
+    "ts": "2026-06-24T14:09:33.517572+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 125254,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1583807891": {
     "p": 1400,
     "f": "2026-06-24T14:07:27.445044+00:00",
@@ -144936,54 +144987,6 @@
     "mo": null,
     "y": 2009,
     "km": 253500
-  },
-  "wh:1871219523": {
-    "p": 7500,
-    "f": "2026-06-16T10:22:32.309076+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-500-1-2-69-lounge-stadtperle-zu-verkaufen-1871219523/",
-    "t": "Fiat 500 1,2 69 Lounge | STADTPERLE ZU VERKAUFEN",
-    "ts": "2026-06-16T10:22:32.309076+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2015,
-    "km": 126000
-  },
-  "as:5e5a305a-7b6e-477a-9b19-b730759d74af": {
-    "p": 5300,
-    "f": "2026-06-16T10:20:54.992565+00:00",
-    "u": "https://www.autoscout24.at/angebote/seat-leon-leon-5-tuerer-1-8-tsi-start-benzin-weiss-cat_ma64mo15869-5e5a305a-7b6e-477a-9b19-b730759d74af",
-    "t": "SEAT Leon",
-    "ts": "2026-06-16T10:20:54.992565+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Leon",
-    "y": 2014,
-    "km": 172000
-  },
-  "as:362d2f4e-65ae-419e-b2e9-efa94e8695b6": {
-    "p": 4400,
-    "f": "2026-06-16T10:18:40.385218+00:00",
-    "u": "https://www.autoscout24.at/angebote/hyundai-ix35-1-7-crdi-life-dpf-diesel-cat_ma33mo19258-362d2f4e-65ae-419e-b2e9-efa94e8695b6",
-    "t": "Hyundai iX35",
-    "ts": "2026-06-16T10:18:40.385218+00:00",
-    "ch": "alive",
-    "ma": "Hyundai",
-    "mo": "iX35",
-    "y": 2012,
-    "km": 242500
-  },
-  "wh:1561015152": {
-    "p": 12000,
-    "f": "2026-06-16T10:18:35.153738+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-6-tdi-1561015152/",
-    "t": "VW Golf 1.6 TDI",
-    "ts": "2026-06-16T10:18:35.153738+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2019,
-    "km": 150000
   },
   "__health__": {
     "wh": 0,
