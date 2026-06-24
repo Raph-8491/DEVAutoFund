@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:aa216584-c681-4678-a4d1-02570da88632": {
+    "p": null,
+    "f": "2026-06-24T17:22:31.329311+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1446786230": {
     "p": 10500,
     "f": "2026-06-24T17:21:25.831404+00:00",
@@ -145304,18 +145316,6 @@
     "mo": "E-Klasse",
     "y": 2014,
     "km": 220340
-  },
-  "wh:1940325586": {
-    "p": 9000,
-    "f": "2026-06-16T13:52:39.326981+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-c220d-1940325586/",
-    "t": "Mercedes-Benz C-Klasse C220d",
-    "ts": "2026-06-23T13:53:34.355857+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C-Klasse",
-    "y": 2016,
-    "km": 257065
   },
   "__health__": {
     "wh": 0,
