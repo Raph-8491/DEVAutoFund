@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:aa701205-f64f-46f3-9567-90c23a4f6a4b": {
+    "p": null,
+    "f": "2026-06-24T18:39:26.730466+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1690941758": {
+    "p": 9500,
+    "f": "2026-06-24T18:39:25.180558+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/nissan-micra-1690941758/",
+    "t": "Nissan Micra",
+    "ts": "2026-06-24T18:39:25.180558+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2018,
+    "km": 91006,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1112052454": {
     "p": 7800,
     "f": "2026-06-24T18:38:27.193862+00:00",
@@ -145448,30 +145473,6 @@
     "mo": "Passat",
     "y": 2013,
     "km": 230355
-  },
-  "wh:1389131631": {
-    "p": 7980,
-    "f": "2026-06-16T15:12:30.069323+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mini-cooper-d-1389131631/",
-    "t": "MINI Cooper D",
-    "ts": "2026-06-16T15:12:30.069323+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 110000
-  },
-  "wh:1891002165": {
-    "p": 10000,
-    "f": "2026-06-16T15:12:30.069323+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-143-ps-1891002165/",
-    "t": "BMW 3er-Reihe 143 ps",
-    "ts": "2026-06-16T15:12:30.069323+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2015,
-    "km": 253000
   },
   "__health__": {
     "wh": 0,
