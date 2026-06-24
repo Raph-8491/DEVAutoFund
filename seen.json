@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1175570465": {
+    "p": 6000,
+    "f": "2026-06-24T04:22:25.011001+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-vw-polo-1-6-tdi-r-line-1175570465/",
+    "t": "VW Polo vw polo 1.6 tdi R line",
+    "ts": "2026-06-24T04:22:25.011001+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Polo",
+    "y": 2013,
+    "km": 178000,
+    "b": "Limousine"
+  },
   "wh:1745685279": {
     "p": 2350,
     "f": "2026-06-24T04:20:38.155283+00:00",
@@ -119700,7 +119713,8 @@
     "ma": "Mercedes-Benz",
     "mo": "Vito",
     "y": 2009,
-    "km": 265427
+    "km": 265427,
+    "b": "Kleinbus"
   },
   "wh:1871390477": {
     "p": 9000,
@@ -144173,18 +144187,6 @@
     "mo": null,
     "y": 2014,
     "km": 130000
-  },
-  "as:a0e84489-e796-4c34-a6a5-388b2498f2b8": {
-    "p": null,
-    "f": "2026-06-15T18:25:41.480906+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
