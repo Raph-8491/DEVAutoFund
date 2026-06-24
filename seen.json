@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "as:f4837466-e36b-4517-9b99-e072a471e016": {
+    "p": null,
+    "f": "2026-06-24T19:36:32.529001+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1196678996": {
+    "p": 6000,
+    "f": "2026-06-24T19:36:29.844243+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-530-d-1196678996/",
+    "t": "BMW 5er-Reihe 530 D",
+    "ts": "2026-06-24T19:36:29.844243+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "5er-Reihe",
+    "y": 2014,
+    "km": 320000,
+    "b": "Limousine",
+    "pu": "2026-06-24T19:36:29.844243+00:00"
+  },
+  "wh:1627349044": {
+    "p": 4900,
+    "f": "2026-06-24T19:36:29.844243+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-1627349044/",
+    "t": "Skoda Octavia",
+    "ts": "2026-06-24T19:36:29.844243+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Octavia",
+    "y": 2013,
+    "km": 285000,
+    "b": "Kombi / Family Van"
+  },
   "wh:2023492385": {
     "p": 7000,
     "f": "2026-06-24T19:34:26.786059+00:00",
@@ -193,7 +232,7 @@
     "u": "https://www.autoscout24.at/angebote/audi-a5-sb-3-0-tdi-quattro-sport-dpf-s-tronic-diesel-cat_ma9mo19047-de78bd80-52a2-4ec9-b447-6c6cbc8c6a84",
     "t": "Audi A5 SB 3,0 TDI quattro Sport DPF S-tronic",
     "ts": "2026-06-24T19:33:24.276347+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A5",
     "y": 2014,
@@ -145545,42 +145584,6 @@
     "mo": "A6",
     "y": 2011,
     "km": 180000
-  },
-  "gw:8c770aa7-ae17-4c2f-a707-f16b9cd87a68": {
-    "p": 900,
-    "f": "2026-06-16T16:08:51.139021+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/ford-mondeo-mondeo-traveller-ghia-2-0-tdci-dpf-ghia-diesel-cat_ma29mo1763/8c770aa7-ae17-4c2f-a707-f16b9cd87a68",
-    "t": "Ford Mondeo",
-    "ts": "2026-06-16T16:08:51.139021+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Mondeo",
-    "y": 2009,
-    "km": 260000
-  },
-  "wh:1702765592": {
-    "p": 3800,
-    "f": "2026-06-16T16:07:35.428516+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-320dxr-1702765592/",
-    "t": "BMW 3er-Reihe 320dxr",
-    "ts": "2026-06-16T16:07:35.428516+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2011,
-    "km": 214560
-  },
-  "wh:2074529415": {
-    "p": 3500,
-    "f": "2026-06-16T16:07:35.428516+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-2074529415/",
-    "t": "BMW 1er-Reihe",
-    "ts": "2026-06-16T16:07:35.428516+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "1er-Reihe",
-    "y": 2008,
-    "km": 200000
   },
   "__health__": {
     "wh": 0,
