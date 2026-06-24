@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2093249922": {
+    "p": 10000,
+    "f": "2026-06-24T06:51:26.074257+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-q5-2-0-tdi-quattro-s-tronic-2093249922/",
+    "t": "Audi Q5 2,0 TDI quattro S-tronic",
+    "ts": "2026-06-24T06:51:26.074257+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "Q5",
+    "y": 2010,
+    "km": 235000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1460640253": {
+    "p": 5000,
+    "f": "2026-06-24T06:51:26.074257+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-sharan-2-0-tdi-1460640253/",
+    "t": "VW Sharan 2.0 TDI",
+    "ts": "2026-06-24T06:51:26.074257+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Sharan",
+    "y": 2011,
+    "km": 292000,
+    "b": "Limousine"
+  },
+  "wh:1500506974": {
+    "p": 4990,
+    "f": "2026-06-24T06:51:26.074257+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-rabbit-1-6-tdi-dpf-1500506974/",
+    "t": "VW Golf Variant Rabbit 1,6 TDI DPF",
+    "ts": "2026-06-24T06:51:26.074257+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2011,
+    "km": 192000,
+    "b": "Kombi / Family Van"
+  },
   "gw:7ac94c93-dad0-4596-8def-c48daed6b487": {
     "p": 2950,
     "f": "2026-06-24T06:50:47.754472+00:00",
@@ -218,7 +257,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-6-1-4tsi-1628596871/",
     "t": "VW Golf 6 , 1,4Tsi",
     "ts": "2026-06-24T06:48:29.302436+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2009,
@@ -144269,42 +144308,6 @@
     "mo": null,
     "y": 2012,
     "km": 46500
-  },
-  "wh:1927220816": {
-    "p": 3950,
-    "f": "2026-06-15T19:17:25.151649+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-2-8-fsi-multitronic-1927220816/",
-    "t": "Audi A6 2,8 FSI Multitronic",
-    "ts": "2026-06-15T19:17:25.151649+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A6",
-    "y": 2011,
-    "km": 300000
-  },
-  "wh:865155110": {
-    "p": 3950,
-    "f": "2026-06-15T19:17:25.151649+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-c-max-easy-1-0-ecoboost-865155110/",
-    "t": "Ford C-MAX Easy 1,0 EcoBoost",
-    "ts": "2026-06-15T19:17:25.151649+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 120611
-  },
-  "wh:1149863519": {
-    "p": 5650,
-    "f": "2026-06-15T19:17:25.151649+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda5-1-8i-tx-1149863519/",
-    "t": "Mazda Mazda5 1,8i TX",
-    "ts": "2026-06-22T20:08:30.239302+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2013,
-    "km": 147050
   },
   "__health__": {
     "wh": 0,
