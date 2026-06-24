@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:60f70d71-da10-43d4-8c64-dde9118d0e09": {
+    "p": 5800,
+    "f": "2026-06-24T10:23:23.301115+00:00",
+    "u": "https://www.autoscout24.at/angebote/bmw-x1-x1-xdrive18d-diesel-schwarz-cat_ma13mo19242-60f70d71-da10-43d4-8c64-dde9118d0e09",
+    "t": "BMW X1",
+    "ts": "2026-06-24T10:23:23.301115+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X1",
+    "y": 2011,
+    "km": 228000,
+    "b": ""
+  },
   "gw:60f70d71-da10-43d4-8c64-dde9118d0e09": {
     "p": 5800,
     "f": "2026-06-24T10:22:38.073032+00:00",
@@ -144601,18 +144614,6 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/ford-galaxy-titanium-2-0-tdci-dpf-aut-diesel-cat_ma29mo1759/ba676993-a07f-4b06-9b91-e503c3eff172",
     "t": "Ford Galaxy",
     "ts": "2026-06-16T05:46:05.225430+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Galaxy",
-    "y": 2009,
-    "km": 355190
-  },
-  "as:ba676993-a07f-4b06-9b91-e503c3eff172": {
-    "p": 1700,
-    "f": "2026-06-16T05:45:53.997860+00:00",
-    "u": "https://www.autoscout24.at/angebote/ford-galaxy-titanium-2-0-tdci-dpf-aut-diesel-cat_ma29mo1759-ba676993-a07f-4b06-9b91-e503c3eff172",
-    "t": "Ford Galaxy",
-    "ts": "2026-06-16T05:45:53.997860+00:00",
     "ch": "alive",
     "ma": "Ford",
     "mo": "Galaxy",
