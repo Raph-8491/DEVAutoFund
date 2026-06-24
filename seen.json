@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:895759774": {
+    "p": 1450,
+    "f": "2026-06-24T15:47:28.793533+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-punto-895759774/",
+    "t": "Fiat Punto",
+    "ts": "2026-06-24T15:47:28.793533+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 122302,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1451153978": {
+    "p": 4890,
+    "f": "2026-06-24T15:47:28.793533+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/suzuki-swift-1-2-gl-1451153978/",
+    "t": "Suzuki Swift 1.2 GL",
+    "ts": "2026-06-24T15:47:28.793533+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 109000,
+    "b": "Sportwagen / Coup\u00e9"
+  },
+  "wh:1789224975": {
+    "p": 2500,
+    "f": "2026-06-24T15:47:28.793533+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-1789224975/",
+    "t": "Ford",
+    "ts": "2026-06-24T15:47:28.793533+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2015,
+    "km": 230000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:781156433": {
     "p": 2700,
     "f": "2026-06-24T15:46:32.379654+00:00",
@@ -123544,7 +123583,8 @@
     "ma": "Opel",
     "mo": "Meriva",
     "y": 2010,
-    "km": 61000
+    "km": 61000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:1501740322": {
     "p": 5500,
@@ -123604,7 +123644,8 @@
     "ma": null,
     "mo": null,
     "y": 2013,
-    "km": 150000
+    "km": 150000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:1026234734": {
     "p": 2400,
@@ -123619,16 +123660,17 @@
     "km": 158000
   },
   "wh:1396921622": {
-    "p": 2900,
+    "p": 2850,
     "f": "2026-06-17T15:47:37.383808+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-1-7-1396921622/",
     "t": "Opel Astra 1,7",
-    "ts": "2026-06-17T15:47:37.383808+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T15:47:28.793533+00:00",
+    "ch": null,
     "ma": "Opel",
     "mo": "Astra",
     "y": 2011,
-    "km": 225000
+    "km": 225000,
+    "b": "Kombi / Family Van"
   },
   "wh:964248348": {
     "p": 7490,
@@ -145108,42 +145150,6 @@
   "as:9b10f954-a0c1-48dc-baab-4fccdaad886e": {
     "p": null,
     "f": "2026-06-16T12:29:31.813422+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:89bc8216-a50d-45c7-9714-f1c675c0bdd5": {
-    "p": 1500,
-    "f": "2026-06-16T12:29:31.813422+00:00",
-    "u": "https://www.autoscout24.at/angebote/dacia-logan-logan-mcv-ambiance-dci-90-ambiance-diesel-weiss-cat_ma16360mo18498-89bc8216-a50d-45c7-9714-f1c675c0bdd5",
-    "t": "Dacia Logan",
-    "ts": "2026-06-16T12:29:31.813422+00:00",
-    "ch": "alive",
-    "ma": "Dacia",
-    "mo": "Logan",
-    "y": 2012,
-    "km": 267555
-  },
-  "as:777dbda4-837f-492d-83b0-22226ca59f9f": {
-    "p": 9999,
-    "f": "2026-06-16T12:29:31.813422+00:00",
-    "u": "https://www.autoscout24.at/angebote/bmw-x3-xdrive20d-aut-diesel-cat_ma13mo18387-777dbda4-837f-492d-83b0-22226ca59f9f",
-    "t": "BMW X3",
-    "ts": "2026-06-16T12:29:31.813422+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "X3",
-    "y": 2012,
-    "km": 340000
-  },
-  "as:15ff0aa9-252c-45d6-b7a3-559f1db42ab1": {
-    "p": null,
-    "f": "2026-06-16T12:27:30.988326+00:00",
     "u": null,
     "t": null,
     "ts": null,
