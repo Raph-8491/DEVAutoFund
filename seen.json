@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:9c9c83c0-b46a-41a2-8a3c-feb82b9f7a9a": {
+    "p": null,
+    "f": "2026-06-24T09:22:30.643033+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:39883306-a571-4537-9858-5416676b30b9": {
     "p": 2800,
     "f": "2026-06-24T09:20:57.100597+00:00",
@@ -329,12 +341,12 @@
     "b": "SUV / Gel\u00e4ndewagen"
   },
   "as:253b28fb-0926-4867-80b4-db87ad1276b7": {
-    "p": 7300,
+    "p": 7200,
     "f": "2026-06-24T09:13:23.000961+00:00",
     "u": "https://www.autoscout24.at/angebote/fiat-500-500-0-9-8v-twinair-dualogic-start-benzin-rot-cat_ma28mo15160-253b28fb-0926-4867-80b4-db87ad1276b7",
     "t": "Fiat 500",
-    "ts": "2026-06-24T09:13:23.000961+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T09:22:30.643033+00:00",
+    "ch": null,
     "ma": "Fiat",
     "mo": "500",
     "y": 2015,
@@ -144503,18 +144515,6 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/fiat-500-1-2-69-comic-edition-benzin-cat_ma28mo15160/94f6fed4-5ccb-455d-bbeb-42dac018aaa6",
     "t": "Fiat 500",
     "ts": "2026-06-15T21:58:42.094762+00:00",
-    "ch": null,
-    "ma": "Fiat",
-    "mo": "500",
-    "y": 2016,
-    "km": 99500
-  },
-  "as:94f6fed4-5ccb-455d-bbeb-42dac018aaa6": {
-    "p": 7900,
-    "f": "2026-06-15T21:54:28.661338+00:00",
-    "u": "https://www.autoscout24.at/angebote/fiat-500-1-2-69-comic-edition-benzin-cat_ma28mo15160-94f6fed4-5ccb-455d-bbeb-42dac018aaa6",
-    "t": "Fiat 500",
-    "ts": "2026-06-15T21:59:27.865078+00:00",
     "ch": null,
     "ma": "Fiat",
     "mo": "500",
