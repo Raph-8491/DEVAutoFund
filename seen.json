@@ -147,6 +147,57 @@
     "y": 2009,
     "km": 235000
   },
+  "as:7f2ebf08-bac5-45e9-8100-6020be6c72ac": {
+    "p": null,
+    "f": "2026-06-24T06:17:22.973316+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:917668437": {
+    "p": 13900,
+    "f": "2026-06-24T06:17:20.909194+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-gti-917668437/",
+    "t": "VW Polo GTI",
+    "ts": "2026-06-24T06:17:20.909194+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Polo",
+    "y": 2018,
+    "km": 215000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:947885229": {
+    "p": 4600,
+    "f": "2026-06-24T06:17:20.909194+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mini-cooper-1-5-947885229/",
+    "t": "MINI Cooper 1,5",
+    "ts": "2026-06-24T06:17:20.909194+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 137980,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1343203484": {
+    "p": 13000,
+    "f": "2026-06-24T06:17:20.909194+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i30-1-0-t-gdi-48v-mildhybrid-trend-imt-1343203484/",
+    "t": "Hyundai i30 1.0 T-GDI 48V-Mildhybrid Trend iMT",
+    "ts": "2026-06-24T06:17:20.909194+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2020,
+    "km": 31129,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:1d46b63f-5a29-4c29-b18d-9569d421bcf6": {
     "p": null,
     "f": "2026-06-24T06:10:45.494289+00:00",
@@ -144217,54 +144268,6 @@
     "mo": "1er-Reihe",
     "y": 2009,
     "km": 113000
-  },
-  "wh:1021594259": {
-    "p": 949,
-    "f": "2026-06-15T18:58:33.208793+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-punto-1-4-1021594259/",
-    "t": "Fiat Punto 1,4",
-    "ts": "2026-06-15T18:58:33.208793+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 306000
-  },
-  "wh:1431556600": {
-    "p": 7900,
-    "f": "2026-06-15T18:58:33.208793+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-sandero-comfort-sce-65-1431556600/",
-    "t": "Dacia Sandero Comfort SCe 65",
-    "ts": "2026-06-15T18:58:33.208793+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2021,
-    "km": 117000
-  },
-  "gw:170f24a1-95ca-46cb-afb3-b5dd36a071d8": {
-    "p": 9300,
-    "f": "2026-06-15T18:57:45.478674+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/citroen-c3-aircross-xbhy-diesel-silber-cat_ma21mo74804/170f24a1-95ca-46cb-afb3-b5dd36a071d8",
-    "t": "Citroen C3 Aircross",
-    "ts": "2026-06-15T18:57:45.478674+00:00",
-    "ch": "alive",
-    "ma": "Citroen",
-    "mo": "C3 Aircross",
-    "y": 2017,
-    "km": 63000
-  },
-  "as:7c5df00f-4390-425e-9a43-a1ad27a49485": {
-    "p": 6950,
-    "f": "2026-06-15T18:57:29.729602+00:00",
-    "u": "https://www.autoscout24.at/angebote/citroen-ds3-ds3-puretech-110-start-benzin-rot-cat_ma21mo19523-7c5df00f-4390-425e-9a43-a1ad27a49485",
-    "t": "Citroen DS3",
-    "ts": "2026-06-15T18:57:29.729602+00:00",
-    "ch": "alive",
-    "ma": "Citroen",
-    "mo": "DS3",
-    "y": 2018,
-    "km": 131000
   },
   "__health__": {
     "wh": 0,
