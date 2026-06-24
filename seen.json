@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:1464bb32-b5ee-4920-aeca-3eba8d896c0f": {
+    "p": null,
+    "f": "2026-06-24T08:07:27.390763+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1136296756": {
+    "p": 15000,
+    "f": "2026-06-24T08:07:24.093582+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-allroad-1136296756/",
+    "t": "Audi A4 allroad",
+    "ts": "2026-06-24T08:07:24.093582+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2018,
+    "km": 191000,
+    "b": "Kombi / Family Van"
+  },
   "wh:859783998": {
     "p": 7000,
     "f": "2026-06-24T08:05:38.276662+00:00",
@@ -179,7 +204,7 @@
     "u": "https://www.autoscout24.at/angebote/mazda-5-cd116-takumi-ii-navi-diesel-cat_ma46mo18624-33c29961-5ee1-4cc1-b2a2-6aade3ab2fd4",
     "t": "Mazda 5",
     "ts": "2026-06-24T08:04:36.254773+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Mazda",
     "mo": "5",
     "y": 2014,
@@ -192,7 +217,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touran-comfortline-1-6-bmt-tdi-dpf-1929120432/",
     "t": "VW Touran Comfortline 1,6 BMT TDI DPF",
     "ts": "2026-06-24T08:04:30.988189+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Touran",
     "y": 2015,
@@ -120138,16 +120163,17 @@
     "km": 82078
   },
   "wh:2136363288": {
-    "p": 9750,
+    "p": 9000,
     "f": "2026-06-17T08:12:27.586740+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-sky-1-2-tsi-2136363288/",
     "t": "VW Polo Sky 1,2 TSI",
-    "ts": "2026-06-17T08:12:27.586740+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T08:07:24.093582+00:00",
+    "ch": null,
     "ma": "VW",
     "mo": "Polo",
     "y": 2014,
-    "km": 104000
+    "km": 104000,
+    "b": "Limousine"
   },
   "wh:1280755354": {
     "p": 2990,
@@ -144382,30 +144408,6 @@
     "mo": null,
     "y": 2011,
     "km": 176236
-  },
-  "wh:1813973741": {
-    "p": 5500,
-    "f": "2026-06-15T20:17:27.888008+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-1-8-tfsi-1813973741/",
-    "t": "Audi A4 1.8 TFSI",
-    "ts": "2026-06-15T20:17:27.888008+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2011,
-    "km": 210000
-  },
-  "wh:2016199569": {
-    "p": 8500,
-    "f": "2026-06-15T20:15:47.117498+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/toyota-rav4-2016199569/",
-    "t": "Toyota RAV4",
-    "ts": "2026-06-15T20:15:47.117498+00:00",
-    "ch": "alive",
-    "ma": "Toyota",
-    "mo": "RAV4",
-    "y": 2010,
-    "km": 192500
   },
   "__health__": {
     "wh": 0,
