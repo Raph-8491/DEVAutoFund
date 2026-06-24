@@ -147,6 +147,20 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1993332030": {
+    "p": 6900,
+    "f": "2026-06-24T16:26:29.313864+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-lounge-1-6-tdi-1993332030/",
+    "t": "VW Golf Variant Lounge 1,6 TDI",
+    "ts": "2026-06-24T16:26:29.313864+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2015,
+    "km": 204000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T16:26:29.313864+00:00"
+  },
   "wh:1083686161": {
     "p": 3500,
     "f": "2026-06-24T16:25:36.424678+00:00",
@@ -123408,7 +123422,8 @@
     "ma": null,
     "mo": null,
     "y": 2014,
-    "km": 138000
+    "km": 138000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:877641686": {
     "p": 9500,
@@ -145204,18 +145219,6 @@
     "mo": "E-Klasse",
     "y": 2011,
     "km": 290000
-  },
-  "as:de2805ac-0957-4bf6-8799-6b0b7d488fa2": {
-    "p": 3900,
-    "f": "2026-06-16T13:05:40.792258+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-touran-touran-2-0-tdihighline-diesel-grau-cat_ma74mo18329-de2805ac-0957-4bf6-8799-6b0b7d488fa2",
-    "t": "Volkswagen Touran",
-    "ts": "2026-06-16T13:05:40.792258+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Touran",
-    "y": 2009,
-    "km": 270000
   },
   "__health__": {
     "wh": 0,
