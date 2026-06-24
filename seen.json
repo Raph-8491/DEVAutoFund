@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1455391733": {
+    "p": 7800,
+    "f": "2026-06-24T16:37:21.121749+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-1-0-1455391733/",
+    "t": "VW Polo 1,0",
+    "ts": "2026-06-24T16:37:21.121749+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Polo",
+    "y": 2017,
+    "km": 82000,
+    "b": "Limousine",
+    "pu": "2026-06-24T16:37:21.121749+00:00"
+  },
+  "wh:1555245999": {
+    "p": 1000,
+    "f": "2026-06-24T16:37:21.121749+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-116d-1555245999/",
+    "t": "BMW 1er-Reihe 116d",
+    "ts": "2026-06-24T16:37:21.121749+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "1er-Reihe",
+    "y": 2010,
+    "km": 263000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "gw:d1d15fd0-4a62-4932-ab9e-8d7559c3da36": {
     "p": 11500,
     "f": "2026-06-24T16:34:34.959916+00:00",
@@ -145208,30 +145235,6 @@
     "mo": null,
     "y": 2017,
     "km": 165000
-  },
-  "wh:1981199879": {
-    "p": 2800,
-    "f": "2026-06-16T13:16:36.120247+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-scenic-2-0-diesel-1981199879/",
-    "t": "Renault Sc\u00e9nic 2.0 Diesel",
-    "ts": "2026-06-16T13:16:36.120247+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 164000
-  },
-  "gw:d99987ca-b760-49b3-8bc9-29c63b033741": {
-    "p": 8199,
-    "f": "2026-06-16T13:14:52.186423+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-x5-3-0d-xdrive-topzustand-garagenfahrzeug-keinrost-diesel-silber-cat_ma13mo16406/d99987ca-b760-49b3-8bc9-29c63b033741",
-    "t": "BMW X5",
-    "ts": "2026-06-16T13:14:52.186423+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "X5",
-    "y": 2008,
-    "km": 313000
   },
   "__health__": {
     "wh": 0,
