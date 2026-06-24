@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:97c8212e-68a4-4c29-8970-270a78648f4e": {
+    "p": 11690,
+    "f": "2026-06-24T09:47:29.749549+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-golf-sport-1-6-bmt-tdi-dsg-sport-diesel-schwarz-cat_ma74mo2084-97c8212e-68a4-4c29-8970-270a78648f4e",
+    "t": "Volkswagen Golf",
+    "ts": "2026-06-24T09:47:29.749549+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2015,
+    "km": 138000,
+    "b": ""
+  },
+  "as:22702c1d-d4ef-49db-8da3-96670414edf3": {
+    "p": null,
+    "f": "2026-06-24T09:47:29.749549+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:97c8212e-68a4-4c29-8970-270a78648f4e": {
     "p": 11690,
     "f": "2026-06-24T09:46:38.775798+00:00",
@@ -202,7 +227,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-doblo-1-6jtd-7-sitze-navi-2009603754/",
     "t": "Fiat Dobl\u00f2 1.6Jtd 7 Sitze Navi",
     "ts": "2026-06-24T09:44:24.737499+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2017,
@@ -144541,30 +144566,6 @@
     "mo": "Golf",
     "y": 2016,
     "km": 315000
-  },
-  "wh:1431362264": {
-    "p": 10490,
-    "f": "2026-06-16T03:41:21.772088+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-scenic-energy-tce-115-intens-1431362264/",
-    "t": "Renault Sc\u00e9nic Energy TCe 115 Intens",
-    "ts": "2026-06-16T03:41:21.772088+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2017,
-    "km": 115000
-  },
-  "wh:1432727056": {
-    "p": 3000,
-    "f": "2026-06-16T03:37:24.451253+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-ceed-crdi-1-6-1432727056/",
-    "t": "KIA Ceed CRDI 1,6",
-    "ts": "2026-06-23T03:37:21.578566+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 170000
   },
   "__health__": {
     "wh": 0,
