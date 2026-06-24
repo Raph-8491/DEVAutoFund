@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:78fb6627-cff1-4931-8926-fc8f99cda7d9": {
+    "p": null,
+    "f": "2026-06-24T13:25:35.246865+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:d3b8d9bb-8873-4ecf-9f3d-f28766658fe3": {
     "p": null,
     "f": "2026-06-24T13:24:27.557665+00:00",
@@ -144892,18 +144904,6 @@
     "mo": "Avensis",
     "y": 2014,
     "km": 234000
-  },
-  "as:10b0a95c-83b2-4067-8e32-6f4322b32ab7": {
-    "p": null,
-    "f": "2026-06-16T09:24:35.753474+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
