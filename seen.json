@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:938844514": {
+    "p": 9000,
+    "f": "2026-06-24T04:33:23.235421+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-e-klasse-e-200-cdi-t-avantgarde-aut-938844514/",
+    "t": "Mercedes-Benz E-Klasse E 200 CDI T Avantgarde Aut.",
+    "ts": "2026-06-24T04:33:23.235421+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "E-Klasse",
+    "y": 2015,
+    "km": 348000,
+    "b": "Kombi / Family Van"
+  },
   "wh:1087663645": {
     "p": 500,
     "f": "2026-06-24T04:30:51.080763+00:00",
@@ -144180,18 +144193,6 @@
     "mo": "Meriva",
     "y": 2015,
     "km": 142000
-  },
-  "wh:1701293494": {
-    "p": 8250,
-    "f": "2026-06-15T18:26:34.706507+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-dokker-1701293494/",
-    "t": "Dacia Dokker",
-    "ts": "2026-06-15T18:26:34.706507+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2018,
-    "km": 103500
   },
   "__health__": {
     "wh": 0,
