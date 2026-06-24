@@ -147,6 +147,44 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:349af9f4-58de-4955-bdee-a5c1784e23d8": {
+    "p": 6760,
+    "f": "2026-06-24T14:35:46.905297+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/opel-insignia-insignia-st-2-0-cdti-ecoflex-sport-start-stop-system-sport-diesel-silber-cat_ma54mo19101/349af9f4-58de-4955-bdee-a5c1784e23d8",
+    "t": "Opel Insignia Insignia ST 2,0 CDTI ecoflex Sport Start/Stop System Sport",
+    "ts": "2026-06-24T14:35:46.905297+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Insignia",
+    "y": 2015,
+    "km": 222600,
+    "b": ""
+  },
+  "as:349af9f4-58de-4955-bdee-a5c1784e23d8": {
+    "p": 6760,
+    "f": "2026-06-24T14:35:38.957157+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-insignia-insignia-st-2-0-cdti-ecoflex-sport-start-stop-system-sport-diesel-silber-cat_ma54mo19101-349af9f4-58de-4955-bdee-a5c1784e23d8",
+    "t": "Opel Insignia Insignia ST 2,0 CDTI ecoflex Sport Start/Stop System Sport",
+    "ts": "2026-06-24T14:35:38.957157+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Insignia",
+    "y": 2015,
+    "km": 222600,
+    "b": ""
+  },
+  "as:a3a0a99e-ea6a-4d8e-aa63-6c54ac8e9faa": {
+    "p": null,
+    "f": "2026-06-24T14:35:38.957157+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:f8dcfa3a-9e82-4075-bf5c-99bc0c1d5ec2": {
     "p": 10500,
     "f": "2026-06-24T14:34:32.592955+00:00",
@@ -144991,42 +145029,6 @@
     "mo": "C-Klasse",
     "y": 2009,
     "km": 175000
-  },
-  "as:f76b1c50-ff14-46bf-8af5-79acba8ed189": {
-    "p": null,
-    "f": "2026-06-16T10:54:30.460367+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1808736185": {
-    "p": 3900,
-    "f": "2026-06-16T10:54:28.019959+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-superb-1-6-1808736185/",
-    "t": "Skoda Superb 1,6",
-    "ts": "2026-06-16T10:54:28.019959+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Superb",
-    "y": 2011,
-    "km": 324652
-  },
-  "wh:1383704778": {
-    "p": 4200,
-    "f": "2026-06-16T10:50:49.457486+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda6-sport-cd140-gta-1383704778/",
-    "t": "Mazda Mazda6 Sport CD140 GTA",
-    "ts": "2026-06-16T10:50:49.457486+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 220000
   },
   "__health__": {
     "wh": 0,
