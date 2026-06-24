@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:2ff77686-3392-418f-a1d6-0a526b64fbc0": {
+    "p": null,
+    "f": "2026-06-24T08:29:28.994569+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:2c2df98a-b3b5-4be4-91e1-b8a60c632f99": {
+    "p": 14500,
+    "f": "2026-06-24T08:29:28.994569+00:00",
+    "u": "https://www.autoscout24.at/angebote/jeep-compass-compass-1-4-multiair-longitude-benzin-schwarz-cat_ma38mo18967-2c2df98a-b3b5-4be4-91e1-b8a60c632f99",
+    "t": "Jeep Compass",
+    "ts": "2026-06-24T08:29:28.994569+00:00",
+    "ch": null,
+    "ma": "Jeep",
+    "mo": "Compass",
+    "y": 2019,
+    "km": 71500,
+    "b": ""
+  },
   "wh:1303464591": {
     "p": 13900,
     "f": "2026-06-24T08:28:25.513511+00:00",
@@ -144414,30 +144439,6 @@
     "mo": "Nemo",
     "y": 2012,
     "km": 65000
-  },
-  "gw:1909233f-c4b6-4c70-bff7-44a4ee555e71": {
-    "p": 9000,
-    "f": "2026-06-15T20:39:40.972680+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/iveco-daily-35-s-14-c-3000-2-3-hpt-dpf-diesel-cat_ma14882mo18670/1909233f-c4b6-4c70-bff7-44a4ee555e71",
-    "t": "Iveco Daily",
-    "ts": "2026-06-15T20:39:40.972680+00:00",
-    "ch": "alive",
-    "ma": "Iveco",
-    "mo": "Daily",
-    "y": 2011,
-    "km": 225000
-  },
-  "as:1909233f-c4b6-4c70-bff7-44a4ee555e71": {
-    "p": 9000,
-    "f": "2026-06-15T20:39:34.342717+00:00",
-    "u": "https://www.autoscout24.at/angebote/iveco-daily-35-s-14-c-3000-2-3-hpt-dpf-diesel-cat_ma14882mo18670-1909233f-c4b6-4c70-bff7-44a4ee555e71",
-    "t": "Iveco Daily",
-    "ts": "2026-06-15T20:39:34.342717+00:00",
-    "ch": "alive",
-    "ma": "Iveco",
-    "mo": "Daily",
-    "y": 2011,
-    "km": 225000
   },
   "__health__": {
     "wh": 0,
