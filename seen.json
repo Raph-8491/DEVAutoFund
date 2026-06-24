@@ -147,6 +147,44 @@
     "y": 2009,
     "km": 235000
   },
+  "as:8a37937d-b733-45f7-9a7a-ab59ed4c6c41": {
+    "p": null,
+    "f": "2026-06-24T07:36:33.133637+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1827334937": {
+    "p": 14999,
+    "f": "2026-06-24T07:36:28.645631+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-allroad-2-0-tdi-quattro-dpf-1827334937/",
+    "t": "Audi A4 allroad 2,0 TDI quattro DPF",
+    "ts": "2026-06-24T07:36:28.645631+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2013,
+    "km": 168000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:820298647": {
+    "p": 10000,
+    "f": "2026-06-24T07:36:28.645631+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-c-max-dxa-xxde1vx-5haaz6aa366-820298647/",
+    "t": "Ford C-MAX DXA/XXDE1VX/5HAAZ6AA366",
+    "ts": "2026-06-24T07:36:28.645631+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2018,
+    "km": 150000,
+    "b": "Kombi / Family Van"
+  },
   "as:09e1b017-a36a-405c-8e71-6ec770cabfbb": {
     "p": null,
     "f": "2026-06-24T07:35:40.095554+00:00",
@@ -914,12 +952,12 @@
     "b": "Limousine"
   },
   "wh:1500506974": {
-    "p": 4990,
+    "p": 3990,
     "f": "2026-06-24T06:51:26.074257+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-rabbit-1-6-tdi-dpf-1500506974/",
     "t": "VW Golf Variant Rabbit 1,6 TDI DPF",
-    "ts": "2026-06-24T06:51:26.074257+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T07:36:28.645631+00:00",
+    "ch": null,
     "ma": "VW",
     "mo": "Golf",
     "y": 2011,
@@ -144327,42 +144365,6 @@
     "mo": "X1",
     "y": 2014,
     "km": 143000
-  },
-  "wh:1608009424": {
-    "p": 990,
-    "f": "2026-06-15T19:48:38.876874+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-ka-1-2-collection-1608009424/",
-    "t": "Ford Ka 1,2 Collection",
-    "ts": "2026-06-15T19:48:38.876874+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 88719
-  },
-  "wh:1408127254": {
-    "p": 8900,
-    "f": "2026-06-15T19:48:38.876874+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-1408127254/",
-    "t": "Skoda Octavia",
-    "ts": "2026-06-15T19:48:38.876874+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2015,
-    "km": 172847
-  },
-  "wh:2045649244": {
-    "p": 1500,
-    "f": "2026-06-15T19:48:38.876874+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-207-sw-1-4-2045649244/",
-    "t": "Peugeot 207 SW 1,4",
-    "ts": "2026-06-15T19:48:38.876874+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 142030
   },
   "__health__": {
     "wh": 0,
