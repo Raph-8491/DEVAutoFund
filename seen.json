@@ -147,6 +147,30 @@
     "y": 2009,
     "km": 235000
   },
+  "as:b7df601d-4546-431d-9f6e-aedcf97b13a1": {
+    "p": null,
+    "f": "2026-06-24T15:11:26.729040+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:9bb9ac4e-554b-49c7-891c-e6ea22e975fc": {
+    "p": null,
+    "f": "2026-06-24T15:11:26.729040+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:40cd8ddd-f9e9-42f2-82e8-698ae145f80e": {
     "p": null,
     "f": "2026-06-24T15:10:49.608124+00:00",
@@ -145069,30 +145093,6 @@
     "mo": "CLS-Klasse",
     "y": 2010,
     "km": 372000
-  },
-  "wh:1280050795": {
-    "p": 2100,
-    "f": "2026-06-16T11:49:32.287596+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-1-7-cdti-1280050795/",
-    "t": "Opel Astra 1.7 CDTI",
-    "ts": "2026-06-16T11:49:32.287596+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Astra",
-    "y": 2009,
-    "km": 271000
-  },
-  "as:1c1df523-0ad5-47c0-bf1f-3f6a445e8a6d": {
-    "p": null,
-    "f": "2026-06-16T11:47:34.123220+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
