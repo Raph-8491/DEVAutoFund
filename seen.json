@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:25353ab3-3398-4352-8def-e9183c2cd632": {
+    "p": null,
+    "f": "2026-06-24T11:22:25.788083+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1600679487": {
     "p": 14800,
     "f": "2026-06-24T11:21:24.050749+00:00",
@@ -179,7 +191,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-trendline-bmt-1-6-tdi-1899204931/",
     "t": "VW Golf Variant Trendline BMT 1,6 TDI",
     "ts": "2026-06-24T11:19:25.536146+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2013,
@@ -144698,18 +144710,6 @@
     "mo": null,
     "y": 2008,
     "km": 240000
-  },
-  "wh:1268984842": {
-    "p": 4900,
-    "f": "2026-06-16T07:10:46.570884+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-330xd-touring-aut-1268984842/",
-    "t": "BMW 3er-Reihe 330xd Touring Aut.",
-    "ts": "2026-06-16T07:10:46.570884+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2008,
-    "km": 298000
   },
   "__health__": {
     "wh": 0,
