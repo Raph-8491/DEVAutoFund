@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:c1bdbd5d-fc22-4166-934e-e4b8f9e22fe9": {
+    "p": 3000,
+    "f": "2026-06-24T10:58:34.175229+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/skoda-octavia-octavia-1-6-solo-solo-benzin-grau-cat_ma65mo15222/c1bdbd5d-fc22-4166-934e-e4b8f9e22fe9",
+    "t": "Skoda Octavia",
+    "ts": "2026-06-24T10:58:34.175229+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Octavia",
+    "y": 2008,
+    "km": 138500,
+    "b": ""
+  },
+  "as:c1bdbd5d-fc22-4166-934e-e4b8f9e22fe9": {
+    "p": 3000,
+    "f": "2026-06-24T10:58:26.795190+00:00",
+    "u": "https://www.autoscout24.at/angebote/skoda-octavia-octavia-1-6-solo-solo-benzin-grau-cat_ma65mo15222-c1bdbd5d-fc22-4166-934e-e4b8f9e22fe9",
+    "t": "Skoda Octavia",
+    "ts": "2026-06-24T10:58:26.795190+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Octavia",
+    "y": 2008,
+    "km": 138500,
+    "b": ""
+  },
   "wh:1574810617": {
     "p": 11950,
     "f": "2026-06-24T10:57:26.029239+00:00",
@@ -144649,30 +144675,6 @@
     "mo": "A 180",
     "y": 2009,
     "km": 188060
-  },
-  "as:fd0da4e9-4fd0-4968-9a80-5c153c4ac01a": {
-    "p": null,
-    "f": "2026-06-16T06:40:47.542246+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:67406cb6-92e3-4e94-97d4-7372dff8addc": {
-    "p": null,
-    "f": "2026-06-16T06:39:28.131420+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
