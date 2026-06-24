@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:eb855cb3-98a1-4ee1-88df-9d07e4bdc5d7": {
+    "p": 4500,
+    "f": "2026-06-24T17:02:28.172380+00:00",
+    "u": "https://www.autoscout24.at/angebote/fiat-tipo-lounge-diesel-cat_ma28mo1752-eb855cb3-98a1-4ee1-88df-9d07e4bdc5d7",
+    "t": "Fiat Tipo Lounge",
+    "ts": "2026-06-24T17:02:28.172380+00:00",
+    "ch": null,
+    "ma": "Fiat",
+    "mo": "Tipo",
+    "y": 2017,
+    "km": 219087,
+    "b": ""
+  },
   "wh:1127548563": {
     "p": 1900,
     "f": "2026-06-24T17:01:25.988165+00:00",
@@ -145263,18 +145276,6 @@
     "mo": "Passat",
     "y": 2017,
     "km": 216000
-  },
-  "as:cf949560-c1f6-40a8-a77b-bedec3da2b34": {
-    "p": 2190,
-    "f": "2026-06-16T13:33:38.743849+00:00",
-    "u": "https://www.autoscout24.at/angebote/fiat-punto-1-2-8v-benzin-schwarz-cat_ma28mo1747-cf949560-c1f6-40a8-a77b-bedec3da2b34",
-    "t": "Fiat Punto",
-    "ts": "2026-06-16T13:45:54.540043+00:00",
-    "ch": "alive",
-    "ma": "Fiat",
-    "mo": "Punto",
-    "y": 2009,
-    "km": 103148
   },
   "__health__": {
     "wh": 0,
