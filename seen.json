@@ -147,6 +147,58 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1993795691": {
+    "p": 1200,
+    "f": "2026-06-24T07:30:49.504843+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/chevrolet-cruze-td-1993795691/",
+    "t": "Chevrolet Cruze TD",
+    "ts": "2026-06-24T07:30:49.504843+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 391000,
+    "b": "Limousine"
+  },
+  "wh:1344225275": {
+    "p": 13990,
+    "f": "2026-06-24T07:30:49.504843+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-st-line-business-1-5l-ecoblue-1344225275/",
+    "t": "Ford Focus ST-Line Business, 1.5l Ecoblue",
+    "ts": "2026-06-24T07:30:49.504843+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2019,
+    "km": 128950,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1300166743": {
+    "p": 10500,
+    "f": "2026-06-24T07:30:49.504843+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-1300166743/",
+    "t": "Audi A5",
+    "ts": "2026-06-24T07:30:49.504843+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A5",
+    "y": 2013,
+    "km": 210693,
+    "b": "Limousine"
+  },
+  "wh:1195350347": {
+    "p": 11900,
+    "f": "2026-06-24T07:30:49.504843+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-tipo-sport-1-6-s-design-1-6-diesel-1195350347/",
+    "t": "Fiat Tipo Sport 1,6 S-Design 1,6 Diesel",
+    "ts": "2026-06-24T07:30:49.504843+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2020,
+    "km": 82000,
+    "b": "Kombi / Family Van"
+  },
   "gw:6ed7b90c-dce3-49fb-920a-e634daeef570": {
     "p": 11500,
     "f": "2026-06-24T07:29:27.960674+00:00",
@@ -144307,54 +144359,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:61ee9ac6-4258-4a41-a83e-6db753c4dc46": {
-    "p": null,
-    "f": "2026-06-15T19:41:39.474855+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:965323710": {
-    "p": 5250,
-    "f": "2026-06-15T19:41:35.447677+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-clio-965323710/",
-    "t": "Renault Clio",
-    "ts": "2026-06-15T19:41:35.447677+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 103500
-  },
-  "wh:2063880188": {
-    "p": 1500,
-    "f": "2026-06-15T19:41:35.447677+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i30-1-6-crdi-style-dpf-2063880188/",
-    "t": "Hyundai i30 1,6 CRDi Style+ DPF",
-    "ts": "2026-06-15T19:41:35.447677+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 154000
-  },
-  "wh:1442281741": {
-    "p": 8850,
-    "f": "2026-06-15T19:41:35.447677+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-2l-tdi-1442281741/",
-    "t": "Audi A4 2l tdi",
-    "ts": "2026-06-15T19:41:35.447677+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2010,
-    "km": 233400
   },
   "__health__": {
     "wh": 0,
