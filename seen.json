@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:308a9908-19ad-40e1-906a-9abdacc64e12": {
+    "p": 10500,
+    "f": "2026-06-24T10:13:21.883092+00:00",
+    "u": "https://www.autoscout24.at/angebote/mercedes-benz-e-220-cdi-dpf-coupe-blueefficiency-7g-tronic-elegance-diesel-cat_ma47mo1863-308a9908-19ad-40e1-906a-9abdacc64e12",
+    "t": "Mercedes-Benz E 220",
+    "ts": "2026-06-24T10:13:21.883092+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "E 220",
+    "y": 2013,
+    "km": 227000,
+    "b": ""
+  },
+  "as:863ba3c9-7fe1-41e9-a83a-e576afe812e9": {
+    "p": null,
+    "f": "2026-06-24T10:13:21.883092+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:3031c977-adcf-4ce0-b41c-89d6187cec56": {
     "p": null,
     "f": "2026-06-24T10:12:30.153144+00:00",
@@ -144584,30 +144609,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:abf3bf5f-247c-4564-9118-aba8c229036c": {
-    "p": null,
-    "f": "2026-06-16T05:24:35.391775+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1141320944": {
-    "p": 7999,
-    "f": "2026-06-16T05:18:26.428042+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-c-320-amg-styling-automatik-4matic-1141320944/",
-    "t": "Mercedes-Benz C-Klasse C 320 AMG Styling Automatik 4Matic",
-    "ts": "2026-06-16T05:18:26.428042+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C-Klasse",
-    "y": 2008,
-    "km": 265000
   },
   "__health__": {
     "wh": 0,
