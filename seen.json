@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1492732060": {
+    "p": 10000,
+    "f": "2026-06-24T09:04:25.248313+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-yeti-elegance-2-0-tdi-4x4-1492732060/",
+    "t": "Skoda Yeti Elegance 2,0 TDI 4x4",
+    "ts": "2026-06-24T09:04:25.248313+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Yeti",
+    "y": 2014,
+    "km": 143000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:977488232": {
+    "p": 5000,
+    "f": "2026-06-24T09:04:25.248313+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-520i-oesterreich-paket-977488232/",
+    "t": "BMW 5er-Reihe 520i \u00d6sterreich Paket",
+    "ts": "2026-06-24T09:04:25.248313+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "5er-Reihe",
+    "y": 2008,
+    "km": 200000,
+    "b": "Limousine"
+  },
   "as:1a880227-fc0f-43ab-b986-14b73bb3c67f": {
     "p": null,
     "f": "2026-06-24T09:03:20.871216+00:00",
@@ -204,7 +230,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-comfortline-1-2-tsi-1218617774/",
     "t": "VW Golf Comfortline 1,2 TSI",
     "ts": "2026-06-24T09:01:24.335008+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2013,
@@ -144466,30 +144492,6 @@
     "mo": "E-Klasse",
     "y": 2010,
     "km": 310000
-  },
-  "wh:1601893652": {
-    "p": 2900,
-    "f": "2026-06-15T21:16:34.236306+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-6-tdi-1601893652/",
-    "t": "VW Golf 1,6 TDI",
-    "ts": "2026-06-15T21:16:34.236306+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2013,
-    "km": 290000
-  },
-  "gw:407e6f92-4752-4120-a5c3-d6f08bbfb018": {
-    "p": 12000,
-    "f": "2026-06-15T21:14:48.377845+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/mercedes-benz-a-180-elegance-a-edition-aut-benzin-cat_ma47mo18486/407e6f92-4752-4120-a5c3-d6f08bbfb018",
-    "t": "Mercedes-Benz A 180",
-    "ts": "2026-06-15T21:14:48.377845+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "A 180",
-    "y": 2014,
-    "km": 107000
   },
   "__health__": {
     "wh": 0,
