@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:31984d67-4130-4260-8fc1-59d3d8359dd9": {
+    "p": 6200,
+    "f": "2026-06-24T05:21:33.906523+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-sharan-sharan-comfortline-bmt-2-0-tdi-dpf-dsg-comfortline-diesel-silber-cat_ma74mo2093/31984d67-4130-4260-8fc1-59d3d8359dd9",
+    "t": "Volkswagen Sharan",
+    "ts": "2026-06-24T05:21:33.906523+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Sharan",
+    "y": 2011,
+    "km": 354000,
+    "b": ""
+  },
+  "as:31984d67-4130-4260-8fc1-59d3d8359dd9": {
+    "p": 6200,
+    "f": "2026-06-24T05:21:24.458306+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-sharan-sharan-comfortline-bmt-2-0-tdi-dpf-dsg-comfortline-diesel-silber-cat_ma74mo2093-31984d67-4130-4260-8fc1-59d3d8359dd9",
+    "t": "Volkswagen Sharan",
+    "ts": "2026-06-24T05:21:24.458306+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Sharan",
+    "y": 2011,
+    "km": 354000,
+    "b": ""
+  },
   "as:10843861-f604-4d8c-802a-8eb40fdcabd1": {
     "p": null,
     "f": "2026-06-24T05:16:30.177642+00:00",
@@ -144204,30 +144230,6 @@
     "mo": "Golf",
     "y": 2010,
     "km": 173000
-  },
-  "wh:1045789773": {
-    "p": 3499,
-    "f": "2026-06-15T18:44:36.384091+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-seat-ibiza-1-4-benzin-pickerl-neu-bis-04-2027-1045789773/",
-    "t": "Seat Ibiza SEAT Ibiza 1.4 Benzin | Pickerl neu bis 04.2027",
-    "ts": "2026-06-15T18:44:36.384091+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2008,
-    "km": 195000
-  },
-  "gw:1a143307-9f2b-4753-8092-aaf8233528dc": {
-    "p": 4000,
-    "f": "2026-06-15T18:43:35.571226+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/ford-mondeo-traveller-business-plus-2-0-tdci-aut-diesel-blau-cat_ma29mo1763/1a143307-9f2b-4753-8092-aaf8233528dc",
-    "t": "Ford Mondeo",
-    "ts": "2026-06-15T18:43:35.571226+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Mondeo",
-    "y": 2014,
-    "km": 224500
   },
   "__health__": {
     "wh": 0,
