@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:eebc71a8-e90a-421d-99ab-47e0c66d2472": {
+    "p": 7500,
+    "f": "2026-06-24T17:42:31.934018+00:00",
+    "u": "https://www.autoscout24.at/angebote/seat-ibiza-st-style-1-0-eco-tsi-start-stopp-benzin-cat_ma64mo2006-eebc71a8-e90a-421d-99ab-47e0c66d2472",
+    "t": "SEAT Ibiza ST Style 1,0 ECO TSI Start-Stopp",
+    "ts": "2026-06-24T17:42:31.934018+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Ibiza",
+    "y": 2016,
+    "km": 129347,
+    "b": ""
+  },
   "gw:eebc71a8-e90a-421d-99ab-47e0c66d2472": {
     "p": 7500,
     "f": "2026-06-24T17:41:30.349256+00:00",
@@ -291,7 +304,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-trendline-2-0-tdi-dpf-1726638943/",
     "t": "VW Golf Trendline 2,0 TDI DPF",
     "ts": "2026-06-24T17:39:22.485795+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2009,
@@ -145351,18 +145364,6 @@
     "mo": "Insignia",
     "y": 2015,
     "km": 150000
-  },
-  "as:1333edc6-3c83-46c4-a21f-b83fe00ea004": {
-    "p": null,
-    "f": "2026-06-16T14:19:32.073889+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
