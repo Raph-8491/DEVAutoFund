@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1673827538": {
+    "p": 13900,
+    "f": "2026-06-24T19:50:41.877057+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-1-0-tsi-1673827538/",
+    "t": "VW Polo 1.0 TSI",
+    "ts": "2026-06-24T19:50:41.877057+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Polo",
+    "y": 2023,
+    "km": 27020,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-24T19:50:41.877057+00:00"
+  },
+  "wh:944877472": {
+    "p": 6999,
+    "f": "2026-06-24T19:50:41.877057+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-b-klasse-b180-1-besitzer-944877472/",
+    "t": "Mercedes-Benz B-Klasse B180 1 Besitzer",
+    "ts": "2026-06-24T19:50:41.877057+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "B-Klasse",
+    "y": 2012,
+    "km": 186000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "gw:434d4afe-57ec-48ce-9796-8e2086dd4a8e": {
     "p": 3200,
     "f": "2026-06-24T19:48:37.342901+00:00",
@@ -145584,30 +145611,6 @@
     "mo": "Golf",
     "y": 2014,
     "km": 157200
-  },
-  "wh:974193175": {
-    "p": 7000,
-    "f": "2026-06-16T16:22:36.371622+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-c-200-cdi-974193175/",
-    "t": "Mercedes-Benz C-Klasse C 200 CDI",
-    "ts": "2026-06-16T16:22:36.371622+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C-Klasse",
-    "y": 2010,
-    "km": 195000
-  },
-  "wh:2013413004": {
-    "p": 5800,
-    "f": "2026-06-16T16:22:36.371622+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-s-max-2-0-tdi-2013413004/",
-    "t": "Ford S-MAX 2.0 Tdi",
-    "ts": "2026-06-16T16:22:36.371622+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2013,
-    "km": 219173
   },
   "__health__": {
     "wh": 0,
