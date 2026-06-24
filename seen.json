@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "as:31461771-fa3a-4c4f-9bb8-74748d8d0649": {
+    "p": 2500,
+    "f": "2026-06-24T18:55:36.336234+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-passat-benzin-grau-cat_ma74mo2089-31461771-fa3a-4c4f-9bb8-74748d8d0649",
+    "t": "Volkswagen Passat",
+    "ts": "2026-06-24T18:55:36.336234+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Passat",
+    "y": 2008,
+    "km": 239000,
+    "b": "",
+    "pu": "2026-06-24T18:55:36.336234+00:00"
+  },
+  "as:77ae819c-cc2a-494b-aca3-0f459b2452dc": {
+    "p": 8800,
+    "f": "2026-06-24T18:55:36.336234+00:00",
+    "u": "https://www.autoscout24.at/angebote/bmw-116-116d-oesterreich-paket-diesel-cat_ma13mo18480-77ae819c-cc2a-494b-aca3-0f459b2452dc",
+    "t": "BMW 116 116d \u00d6sterreich-Paket",
+    "ts": "2026-06-24T18:55:36.336234+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "116",
+    "y": 2013,
+    "km": 174000,
+    "b": ""
+  },
+  "as:321e1008-9c1b-43ef-9d78-7bd2d98849e9": {
+    "p": null,
+    "f": "2026-06-24T18:55:36.336234+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:77ae819c-cc2a-494b-aca3-0f459b2452dc": {
     "p": 8800,
     "f": "2026-06-24T18:54:36.518956+00:00",
@@ -383,11 +422,11 @@
     "km": null
   },
   "as:0f7860a5-0c2d-46fe-bb30-d6568a622dcd": {
-    "p": 3333,
+    "p": 2999,
     "f": "2026-06-24T18:45:40.398131+00:00",
     "u": "https://www.autoscout24.at/angebote/audi-a3-a3-1-8-tfsi-sportback-facelift-xenon-sportsitze-tuev-02-2027-benzin-schwarz-cat_ma9mo1624-0f7860a5-0c2d-46fe-bb30-d6568a622dcd",
     "t": "Audi A3 A3 1.8 TFSI SPORTBACK*FACELIFT*XENON*SPORTSITZE*T\u00dcV 02.2027*",
-    "ts": "2026-06-24T18:45:40.398131+00:00",
+    "ts": "2026-06-24T18:55:36.336234+00:00",
     "ch": null,
     "ma": "Audi",
     "mo": "A3",
@@ -145478,42 +145517,6 @@
     "mo": "B-Klasse",
     "y": 2010,
     "km": 214000
-  },
-  "gw:06e250b2-4031-4859-aa60-ddf8d3788309": {
-    "p": 7500,
-    "f": "2026-06-16T15:28:49.960915+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/peugeot-207-allure-benzin-grau-cat_ma55mo18797/06e250b2-4031-4859-aa60-ddf8d3788309",
-    "t": "Peugeot 207",
-    "ts": "2026-06-16T15:28:49.960915+00:00",
-    "ch": "alive",
-    "ma": "Peugeot",
-    "mo": "207",
-    "y": 2012,
-    "km": 73000
-  },
-  "as:2c2d6154-eb3e-4378-9ac2-5d9191ceba14": {
-    "p": null,
-    "f": "2026-06-16T15:28:39.160593+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:06e250b2-4031-4859-aa60-ddf8d3788309": {
-    "p": 7500,
-    "f": "2026-06-16T15:28:39.160593+00:00",
-    "u": "https://www.autoscout24.at/angebote/peugeot-207-allure-benzin-grau-cat_ma55mo18797-06e250b2-4031-4859-aa60-ddf8d3788309",
-    "t": "Peugeot 207",
-    "ts": "2026-06-16T15:28:39.160593+00:00",
-    "ch": "alive",
-    "ma": "Peugeot",
-    "mo": "207",
-    "y": 2012,
-    "km": 73000
   },
   "__health__": {
     "wh": 0,
