@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:97cda762-3f5e-44c6-9d85-295934b539cf": {
+    "p": null,
+    "f": "2026-06-24T10:38:26.069353+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:90c28043-5460-45e2-a9b3-5a06d1d363ef": {
     "p": 7800,
     "f": "2026-06-24T10:37:31.397151+00:00",
@@ -144632,18 +144644,6 @@
     "mo": "Tiguan",
     "y": 2010,
     "km": 144900
-  },
-  "wh:1432886661": {
-    "p": 3999,
-    "f": "2026-06-16T06:13:21.975512+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-mondeo-business-2-0-d-1432886661/",
-    "t": "Ford Mondeo Business 2.0 D",
-    "ts": "2026-06-16T06:13:21.975512+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 224500
   },
   "__health__": {
     "wh": 0,
