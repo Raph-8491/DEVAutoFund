@@ -147,6 +147,20 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1697829275": {
+    "p": 11111,
+    "f": "2026-06-24T14:11:44.491750+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-das-auto-ist-teurer-1697829275/",
+    "t": "Audi A6 Das Auto ist teurer",
+    "ts": "2026-06-24T14:11:44.491750+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A6",
+    "y": 2018,
+    "km": 159600,
+    "b": "Limousine",
+    "pu": "2026-06-24T14:11:44.491750+00:00"
+  },
   "as:8fe43209-5997-4659-9d00-86f5eff245cc": {
     "p": null,
     "f": "2026-06-24T14:09:36.547745+00:00",
@@ -144975,18 +144989,6 @@
     "mo": "A3",
     "y": 2008,
     "km": 125000
-  },
-  "wh:1837730038": {
-    "p": 2999,
-    "f": "2026-06-16T10:22:32.309076+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-grand-scenic-1-5-1837730038/",
-    "t": "Renault Grand Sc\u00e9nic 1.5",
-    "ts": "2026-06-16T10:22:32.309076+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 253500
   },
   "__health__": {
     "wh": 0,
