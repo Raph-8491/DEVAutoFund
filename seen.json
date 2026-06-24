@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "as:dc429288-d39e-4ddf-ba36-69661d89a465": {
+    "p": null,
+    "f": "2026-06-24T14:55:38.585027+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1361011014": {
+    "p": 8000,
+    "f": "2026-06-24T14:55:36.656510+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-cabriolet-1361011014/",
+    "t": "Audi A5 Cabriolet",
+    "ts": "2026-06-24T14:55:36.656510+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A5",
+    "y": 2009,
+    "km": 167000,
+    "b": "Cabrio / Roadster",
+    "pu": "2026-06-24T14:55:36.656510+00:00"
+  },
   "as:1a92aa1e-7846-494c-811c-0287f98f91f4": {
     "p": null,
     "f": "2026-06-24T14:54:28.017448+00:00",
@@ -145041,30 +145067,6 @@
     "mo": "Alhambra",
     "y": 2015,
     "km": 248000
-  },
-  "as:f5d6e9f2-ef0d-4dd8-ae7c-3d08554e2add": {
-    "p": 7500,
-    "f": "2026-06-16T11:31:38.146490+00:00",
-    "u": "https://www.autoscout24.at/angebote/seat-alhambra-alhambra-business-2-0-tdi-cr-business-diesel-grau-cat_ma64mo2003-f5d6e9f2-ef0d-4dd8-ae7c-3d08554e2add",
-    "t": "SEAT Alhambra",
-    "ts": "2026-06-16T11:31:38.146490+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Alhambra",
-    "y": 2015,
-    "km": 248000
-  },
-  "as:a25979a4-7028-4517-85ca-1800e6ce0747": {
-    "p": null,
-    "f": "2026-06-16T11:31:38.146490+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
