@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2056555592": {
+    "p": 4800,
+    "f": "2026-06-24T05:41:20.775474+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-2056555592/",
+    "t": "Seat Ibiza",
+    "ts": "2026-06-24T05:41:20.775474+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Ibiza",
+    "y": 2015,
+    "km": 169000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:98fef0ad-a104-4db8-84ce-cf6e764e315a": {
     "p": null,
     "f": "2026-06-24T05:40:44.144365+00:00",
@@ -119991,7 +120004,8 @@
     "ma": "Seat",
     "mo": "Ibiza",
     "y": 2014,
-    "km": 107000
+    "km": 107000,
+    "b": "Kombi / Family Van"
   },
   "as:e56b9eea-c2e0-4cfe-b711-b9209a1717a7": {
     "p": 6900,
@@ -144236,18 +144250,6 @@
     "mo": "Rapid",
     "y": 2015,
     "km": 87130
-  },
-  "as:506f8030-4755-454e-bf4e-d587ec63f673": {
-    "p": null,
-    "f": "2026-06-15T18:52:40.019674+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
