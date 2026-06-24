@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:01e58e4b-8add-42e4-8844-a5658b4f9234": {
+    "p": 14000,
+    "f": "2026-06-24T08:52:31.349207+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/ford-galaxy-2-0-tdci-titanium-start-stop-powershift-diesel-cat_ma29mo1759/01e58e4b-8add-42e4-8844-a5658b4f9234",
+    "t": "Ford Galaxy",
+    "ts": "2026-06-24T08:52:31.349207+00:00",
+    "ch": null,
+    "ma": "Ford",
+    "mo": "Galaxy",
+    "y": 2017,
+    "km": 213000,
+    "b": ""
+  },
+  "as:01e58e4b-8add-42e4-8844-a5658b4f9234": {
+    "p": 14000,
+    "f": "2026-06-24T08:52:25.838596+00:00",
+    "u": "https://www.autoscout24.at/angebote/ford-galaxy-2-0-tdci-titanium-start-stop-powershift-diesel-cat_ma29mo1759-01e58e4b-8add-42e4-8844-a5658b4f9234",
+    "t": "Ford Galaxy",
+    "ts": "2026-06-24T08:52:25.838596+00:00",
+    "ch": null,
+    "ma": "Ford",
+    "mo": "Galaxy",
+    "y": 2017,
+    "km": 213000,
+    "b": ""
+  },
+  "wh:776675426": {
+    "p": 6700,
+    "f": "2026-06-24T08:52:24.312266+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-200cdi-automatik-776675426/",
+    "t": "Mercedes-Benz C-Klasse 200Cdi*Automatik*",
+    "ts": "2026-06-24T08:52:24.312266+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "C-Klasse",
+    "y": 2015,
+    "km": 295000,
+    "b": "Kombi / Family Van"
+  },
   "gw:6793210b-83a1-43ea-9d37-ad400a0b86ac": {
     "p": 8990,
     "f": "2026-06-24T08:50:54.700024+00:00",
@@ -229,7 +268,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-c-220-t-bluetec-aut-1705236450/",
     "t": "(reserviert) Mercedes-Benz C-Klasse C 220 T BlueTEC Aut.",
     "ts": "2026-06-24T08:49:22.719405+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2014,
@@ -242,7 +281,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-2er-reihe-218i-active-tourer-luxury-line-1541651647/",
     "t": "BMW 2er-Reihe 218i Active Tourer Luxury Line",
     "ts": "2026-06-24T08:49:22.719405+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "2er-Reihe",
     "y": 2018,
@@ -255,7 +294,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-var-cl-bluemotion-technology-2-0-tdi-dpf-944376370/",
     "t": "VW Passat Var. CL BlueMotion Technology 2,0 TDI DPF",
     "ts": "2026-06-24T08:49:22.719405+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Passat",
     "y": 2010,
@@ -120524,16 +120563,17 @@
     "km": null
   },
   "wh:828511818": {
-    "p": 10900,
+    "p": 10700,
     "f": "2026-06-17T08:54:38.167557+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-dsg-4-motion-828511818/",
     "t": "VW Passat DSG 4-Motion",
-    "ts": "2026-06-17T08:54:38.167557+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T08:52:24.312266+00:00",
+    "ch": null,
     "ma": "VW",
     "mo": "Passat",
     "y": 2015,
-    "km": 239000
+    "km": 239000,
+    "b": "Kombi / Family Van"
   },
   "gw:0fe962ea-ff2d-4b05-9499-de7b2ed74ef3": {
     "p": 5000,
@@ -144437,42 +144477,6 @@
     "mo": "A4",
     "y": 2008,
     "km": 252420
-  },
-  "wh:1737432530": {
-    "p": 8500,
-    "f": "2026-06-15T21:04:36.606672+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-1-8-tfsi-top-zustand-1737432530/",
-    "t": "Audi A5 1.8 TFSI Top Zustand",
-    "ts": "2026-06-15T21:04:36.606672+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A5",
-    "y": 2011,
-    "km": 124900
-  },
-  "gw:357805e3-9724-42a9-a4c0-3c0b8158b078": {
-    "p": 4990,
-    "f": "2026-06-15T21:03:52.473440+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/ford-kuga-2-0-tdci-trend-start-stop-diesel-cat_ma29mo19072/357805e3-9724-42a9-a4c0-3c0b8158b078",
-    "t": "Ford Kuga",
-    "ts": "2026-06-15T21:03:52.473440+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Kuga",
-    "y": 2018,
-    "km": 494000
-  },
-  "as:357805e3-9724-42a9-a4c0-3c0b8158b078": {
-    "p": 4990,
-    "f": "2026-06-15T21:03:40.250853+00:00",
-    "u": "https://www.autoscout24.at/angebote/ford-kuga-2-0-tdci-trend-start-stop-diesel-cat_ma29mo19072-357805e3-9724-42a9-a4c0-3c0b8158b078",
-    "t": "Ford Kuga",
-    "ts": "2026-06-15T21:03:40.250853+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Kuga",
-    "y": 2018,
-    "km": 494000
   },
   "__health__": {
     "wh": 0,
