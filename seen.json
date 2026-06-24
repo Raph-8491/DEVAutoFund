@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:72f625d1-30f5-4802-af17-7bae9ab271b9": {
+    "p": null,
+    "f": "2026-06-24T04:24:27.771785+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1175570465": {
     "p": 6000,
     "f": "2026-06-24T04:22:25.011001+00:00",
@@ -166,7 +178,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda3-cd116-mirai-1745685279/",
     "t": "Mazda Mazda3 CD116 MIRAI",
     "ts": "2026-06-24T04:20:38.155283+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2011,
@@ -144175,18 +144187,6 @@
     "mo": "GT86",
     "y": 2020,
     "km": 120000
-  },
-  "wh:1783152915": {
-    "p": 1500,
-    "f": "2026-06-15T18:26:34.706507+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i10-1-2-comfort-mit-pickerl-1783152915/",
-    "t": "Hyundai i10 1.2 Comfort mit pickerl",
-    "ts": "2026-06-15T18:26:34.706507+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 130000
   },
   "__health__": {
     "wh": 0,
