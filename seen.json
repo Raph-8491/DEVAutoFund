@@ -147,6 +147,44 @@
     "y": 2009,
     "km": 235000
   },
+  "as:891e3cde-7371-431d-8eba-8d6ed46c906c": {
+    "p": null,
+    "f": "2026-06-24T11:53:22.787521+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:be3319c4-2a0d-48bc-97b8-0b6c73fc6240": {
+    "p": null,
+    "f": "2026-06-24T11:53:22.787521+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1951342689": {
+    "p": 9500,
+    "f": "2026-06-24T11:53:21.517954+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-2-tsi-1951342689/",
+    "t": "VW Golf 1,2 Tsi",
+    "ts": "2026-06-24T11:53:21.517954+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2014,
+    "km": 170000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-24T11:53:21.517954+00:00"
+  },
   "as:615299d9-95c3-4613-bdad-a1752fb0f947": {
     "p": null,
     "f": "2026-06-24T11:52:25.592150+00:00",
@@ -121889,7 +121927,8 @@
     "ma": "VW",
     "mo": "Golf",
     "y": 2014,
-    "km": 216000
+    "km": 216000,
+    "b": "Limousine"
   },
   "wh:1171883600": {
     "p": 9300,
@@ -121901,7 +121940,8 @@
     "ma": "VW",
     "mo": "Passat",
     "y": 2015,
-    "km": 242000
+    "km": 242000,
+    "b": "Kombi / Family Van"
   },
   "wh:2022061843": {
     "p": 5700,
@@ -144716,42 +144756,6 @@
   "as:9095a851-666b-4ac5-a9c1-1bbf09d9511a": {
     "p": null,
     "f": "2026-06-16T07:54:35.418412+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:6a5146b3-ad67-4df8-a6df-49700cf7907b": {
-    "p": null,
-    "f": "2026-06-16T07:54:35.418412+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:3e9da369-67fc-4ec1-b346-e55928047732": {
-    "p": null,
-    "f": "2026-06-16T07:54:35.418412+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:9cb33293-541d-404d-ba4c-15f42ac79d36": {
-    "p": null,
-    "f": "2026-06-16T07:52:31.546474+00:00",
     "u": null,
     "t": null,
     "ts": null,
