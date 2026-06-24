@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:e5c12aae-e901-4fb1-bfcb-c31ef8b279f2": {
+    "p": null,
+    "f": "2026-06-24T08:30:56.710054+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:f5d13158-1905-4080-97ec-a82e95c9c466": {
+    "p": 4100,
+    "f": "2026-06-24T08:30:56.710054+00:00",
+    "u": "https://www.autoscout24.at/angebote/toyota-auris-auris-1-4-vvt-i-benzin-grau-cat_ma70mo18992-f5d13158-1905-4080-97ec-a82e95c9c466",
+    "t": "Toyota Auris",
+    "ts": "2026-06-24T08:30:56.710054+00:00",
+    "ch": null,
+    "ma": "Toyota",
+    "mo": "Auris",
+    "y": 2009,
+    "km": 96000,
+    "b": ""
+  },
   "as:2ff77686-3392-418f-a1d6-0a526b64fbc0": {
     "p": null,
     "f": "2026-06-24T08:29:28.994569+00:00",
@@ -144410,30 +144435,6 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/citroen-nemo-1-4-i-benzin-cat_ma21mo19117/e7a2d09a-25da-4952-a296-733a6ab5a4bf",
     "t": "Citroen Nemo",
     "ts": "2026-06-15T20:40:57.158446+00:00",
-    "ch": "alive",
-    "ma": "Citroen",
-    "mo": "Nemo",
-    "y": 2012,
-    "km": 65000
-  },
-  "as:fe1c2826-e077-40c4-8298-73e4258bda3f": {
-    "p": null,
-    "f": "2026-06-15T20:40:47.228545+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:e7a2d09a-25da-4952-a296-733a6ab5a4bf": {
-    "p": 2600,
-    "f": "2026-06-15T20:40:47.228545+00:00",
-    "u": "https://www.autoscout24.at/angebote/citroen-nemo-1-4-i-benzin-cat_ma21mo19117-e7a2d09a-25da-4952-a296-733a6ab5a4bf",
-    "t": "Citroen Nemo",
-    "ts": "2026-06-15T20:40:47.228545+00:00",
     "ch": "alive",
     "ma": "Citroen",
     "mo": "Nemo",
