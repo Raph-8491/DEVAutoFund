@@ -147,6 +147,57 @@
     "y": 2009,
     "km": 235000
   },
+  "as:71fce5b7-596d-4a9c-99af-5e430277d070": {
+    "p": null,
+    "f": "2026-06-24T20:20:48.067551+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:8397a2de-aea4-4217-ae76-8bb45cc14616": {
+    "p": 7750,
+    "f": "2026-06-24T20:20:48.067551+00:00",
+    "u": "https://www.autoscout24.at/angebote/bmw-118-118d-aut-sport-line-diesel-schwarz-cat_ma13mo18481-8397a2de-aea4-4217-ae76-8bb45cc14616",
+    "t": "BMW 118 118d Aut. Sport Line",
+    "ts": "2026-06-24T20:20:48.067551+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "118",
+    "y": 2014,
+    "km": 177467,
+    "b": "",
+    "pu": "2026-06-24T20:20:48.067551+00:00"
+  },
+  "as:5c94e04d-edfa-495e-ab70-be63c8e4537a": {
+    "p": null,
+    "f": "2026-06-24T20:20:48.067551+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:87c31c49-3a54-496c-a602-114eef6949ee": {
+    "p": 5950,
+    "f": "2026-06-24T20:20:48.067551+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-antara-2-2-cdti-ecoflex-start-stop-design-edition-diesel-cat_ma54mo18827-87c31c49-3a54-496c-a602-114eef6949ee",
+    "t": "Opel Antara 2.2 CDTI ecoFLEX Start/Stop Design Edition",
+    "ts": "2026-06-24T20:20:48.067551+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Antara",
+    "y": 2015,
+    "km": 160000,
+    "b": ""
+  },
   "gw:132c32af-9200-485a-b601-590ef857ea33": {
     "p": 4700,
     "f": "2026-06-24T20:19:38.004026+00:00",
@@ -145603,54 +145654,6 @@
     "mo": "Vito",
     "y": 2010,
     "km": 390000
-  },
-  "wh:1505517418": {
-    "p": 3850,
-    "f": "2026-06-16T16:41:30.785558+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-1505517418/",
-    "t": "BMW 3er-Reihe",
-    "ts": "2026-06-16T16:41:30.785558+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2008,
-    "km": 315000
-  },
-  "as:549ad871-3f65-418c-831a-56c2fcd2fbd7": {
-    "p": null,
-    "f": "2026-06-16T16:39:40.571972+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1773183193": {
-    "p": 6999,
-    "f": "2026-06-16T16:39:37.877261+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-1-6-liter-cdti-1773183193/",
-    "t": "Opel Astra 1,6-Liter CDTI",
-    "ts": "2026-06-16T16:39:37.877261+00:00",
-    "ch": "dead",
-    "ma": "Opel",
-    "mo": "Astra",
-    "y": 2016,
-    "km": 168000
-  },
-  "wh:1539845501": {
-    "p": 7999,
-    "f": "2026-06-16T16:39:37.877261+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-1-8-tfsi-quattro-1539845501/",
-    "t": "Audi A4 1,8 TFSI quattro",
-    "ts": "2026-06-16T16:39:37.877261+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2011,
-    "km": 172922
   },
   "__health__": {
     "wh": 0,
