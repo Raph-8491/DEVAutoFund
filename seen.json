@@ -147,6 +147,46 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:9d2859df-ba6a-49ab-992f-b0776c5314b3": {
+    "p": 10900,
+    "f": "2026-06-24T13:50:55.494621+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/audi-a3-a3-sb-1-4-tfsi-attraction-attraction-benzin-schwarz-cat_ma9mo1624/9d2859df-ba6a-49ab-992f-b0776c5314b3",
+    "t": "Audi A3",
+    "ts": "2026-06-24T13:50:55.494621+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A3",
+    "y": 2013,
+    "km": 124000,
+    "b": ""
+  },
+  "as:9d2859df-ba6a-49ab-992f-b0776c5314b3": {
+    "p": 10900,
+    "f": "2026-06-24T13:50:45.604978+00:00",
+    "u": "https://www.autoscout24.at/angebote/audi-a3-a3-sb-1-4-tfsi-attraction-attraction-benzin-schwarz-cat_ma9mo1624-9d2859df-ba6a-49ab-992f-b0776c5314b3",
+    "t": "Audi A3",
+    "ts": "2026-06-24T13:50:45.604978+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A3",
+    "y": 2013,
+    "km": 124000,
+    "b": "",
+    "pu": "2026-06-24T13:50:45.604978+00:00"
+  },
+  "wh:2028925143": {
+    "p": 8699,
+    "f": "2026-06-24T13:50:42.533912+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda2-g75-takumi-2028925143/",
+    "t": "Mazda Mazda2 G75 Takumi",
+    "ts": "2026-06-24T13:50:42.533912+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2018,
+    "km": 104785,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1204414416": {
     "p": 7900,
     "f": "2026-06-24T13:48:33.198715+00:00",
@@ -144919,42 +144959,6 @@
     "mo": "A6",
     "y": 2009,
     "km": 110800
-  },
-  "wh:2033874953": {
-    "p": 5490,
-    "f": "2026-06-16T09:58:33.330853+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-2-0-tdi-2033874953/",
-    "t": "Audi A4 2.0 TDI",
-    "ts": "2026-06-16T09:58:33.330853+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2012,
-    "km": 300000
-  },
-  "wh:2081118229": {
-    "p": 3500,
-    "f": "2026-06-16T09:58:33.330853+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-titanium-2-0-tdci-dpf-aut-2081118229/",
-    "t": "Ford Focus Titanium 2,0 TDCi DPF Aut.",
-    "ts": "2026-06-16T09:58:33.330853+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 273000
-  },
-  "wh:985433986": {
-    "p": 1500,
-    "f": "2026-06-16T09:58:33.330853+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-motorschaden-golf-comfortline-1-2-tsi-985433986/",
-    "t": "VW Golf *Motorschaden* Golf Comfortline 1,2 TSI",
-    "ts": "2026-06-16T09:58:33.330853+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2013,
-    "km": 130000
   },
   "__health__": {
     "wh": 0,
