@@ -147,6 +147,58 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1987804735": {
+    "p": 3100,
+    "f": "2026-06-24T06:03:25.876178+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-mondeo-family-van-2-0-td-1987804735/",
+    "t": "Ford Mondeo Family Van 2.0 TD",
+    "ts": "2026-06-24T06:03:25.876178+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 224200,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1574244214": {
+    "p": 12990,
+    "f": "2026-06-24T06:03:25.876178+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-titanium-m6-start-stop-1574244214/",
+    "t": "Ford Galaxy TITANIUM M6 Start/Stop",
+    "ts": "2026-06-24T06:03:25.876178+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2017,
+    "km": 234880,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1960877014": {
+    "p": 2350,
+    "f": "2026-06-24T06:03:25.876178+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-116d-1960877014/",
+    "t": "BMW 1er-Reihe 116d",
+    "ts": "2026-06-24T06:03:25.876178+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "1er-Reihe",
+    "y": 2010,
+    "km": 320875,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:987939256": {
+    "p": 4500,
+    "f": "2026-06-24T06:03:25.876178+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-titanium-987939256/",
+    "t": "Ford Galaxy Titanium",
+    "ts": "2026-06-24T06:03:25.876178+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 243000,
+    "b": "Kombi / Family Van"
+  },
   "wh:1129297145": {
     "p": 12500,
     "f": "2026-06-24T06:01:28.161754+00:00",
@@ -236,12 +288,12 @@
     "b": "Kombi / Family Van"
   },
   "wh:930719369": {
-    "p": 2500,
+    "p": 2300,
     "f": "2026-06-24T05:46:29.064821+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mini-cooper-r56-n12-1-6-930719369/",
     "t": "MINI Cooper R56 N12, 1.6",
-    "ts": "2026-06-24T05:46:29.064821+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T06:03:25.876178+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2008,
@@ -119829,7 +119881,8 @@
     "ma": "VW",
     "mo": "Golf",
     "y": 2017,
-    "km": 149850
+    "km": 149850,
+    "b": "Limousine"
   },
   "wh:1163813222": {
     "p": 4950,
@@ -119853,7 +119906,8 @@
     "ma": null,
     "mo": null,
     "y": 2016,
-    "km": 108000
+    "km": 108000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "as:422f85d4-37ce-4921-806e-9f7daf796083": {
     "p": null,
@@ -144209,54 +144263,6 @@
     "mo": "Octavia",
     "y": 2017,
     "km": 246452
-  },
-  "wh:905050344": {
-    "p": 7900,
-    "f": "2026-06-15T18:56:34.012310+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/nissan-qashqai-905050344/",
-    "t": "Nissan Qashqai",
-    "ts": "2026-06-22T18:57:24.143454+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2015,
-    "km": 146000
-  },
-  "wh:869066902": {
-    "p": 8300,
-    "f": "2026-06-15T18:56:34.012310+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-2-0-150-ps-869066902/",
-    "t": "VW Passat 2.0 150 PS",
-    "ts": "2026-06-15T18:56:34.012310+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2015,
-    "km": 266000
-  },
-  "wh:2012131899": {
-    "p": 9500,
-    "f": "2026-06-15T18:56:34.012310+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-2-0-tfsi-2012131899/",
-    "t": "Audi A5 2.0 TFSI",
-    "ts": "2026-06-22T18:57:24.143454+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A5",
-    "y": 2009,
-    "km": 118400
-  },
-  "wh:1725473622": {
-    "p": 5490,
-    "f": "2026-06-15T18:56:34.012310+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-2-0-tdi-1725473622/",
-    "t": "VW Golf 2.0 TDI",
-    "ts": "2026-06-15T18:56:34.012310+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2016,
-    "km": 194230
   },
   "__health__": {
     "wh": 0,
