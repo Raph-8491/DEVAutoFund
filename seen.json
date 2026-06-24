@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:6ca36ec1-7e16-460a-91fc-14729d017844": {
+    "p": null,
+    "f": "2026-06-24T17:09:36.183650+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1857414275": {
     "p": 5050,
     "f": "2026-06-24T17:08:33.050555+00:00",
@@ -145276,18 +145288,6 @@
     "mo": null,
     "y": 2021,
     "km": 43000
-  },
-  "wh:1595442159": {
-    "p": 7600,
-    "f": "2026-06-16T13:37:33.714616+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-comfortline-bmt-1-6-tdi-dsg-kombi-family-1595442159/",
-    "t": "VW Golf Variant Comfortline BMT 1,6 TDI DSG Kombi / Family",
-    "ts": "2026-06-16T13:37:33.714616+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2014,
-    "km": 220000
   },
   "__health__": {
     "wh": 0,
