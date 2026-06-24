@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1399764755": {
+    "p": 7800,
+    "f": "2026-06-24T03:16:26.304202+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x1-2-0-1399764755/",
+    "t": "BMW X1 2.0",
+    "ts": "2026-06-24T03:16:26.304202+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X1",
+    "y": 2011,
+    "km": 234000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "wh:1252473580": {
     "p": 4500,
     "f": "2026-06-24T03:12:27.812289+00:00",
@@ -144160,18 +144173,6 @@
     "mo": null,
     "y": 2012,
     "km": 158000
-  },
-  "wh:1256763998": {
-    "p": 1550,
-    "f": "2026-06-15T18:20:47.744749+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda5-mazda-5-cd143-tx-plus-2-0-diesel-7-sitzer-1256763998/",
-    "t": "Mazda Mazda5 Mazda 5 CD143 TX Plus, 2.0 Diesel, 7-Sitzer",
-    "ts": "2026-06-15T18:20:47.744749+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 273000
   },
   "__health__": {
     "wh": 0,
