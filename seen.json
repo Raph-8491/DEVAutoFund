@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:2af070e4-ff57-49dc-ae98-07ec46ce762a": {
+    "p": null,
+    "f": "2026-06-24T14:23:25.338023+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:07dbdeb4-7103-4662-b8d4-795f8c22781e": {
     "p": null,
     "f": "2026-06-24T14:22:33.433071+00:00",
@@ -144995,18 +145007,6 @@
     "mo": "Leon",
     "y": 2010,
     "km": 230000
-  },
-  "gw:827b4f47-afc9-430c-98b7-fc85295de36b": {
-    "p": 1500,
-    "f": "2026-06-16T10:31:57.197627+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/citroen-c4-picasso-1-6-diesel-cat_ma21mo18915/827b4f47-afc9-430c-98b7-fc85295de36b",
-    "t": "Citroen C4 Picasso",
-    "ts": "2026-06-16T10:31:57.197627+00:00",
-    "ch": "alive",
-    "ma": "Citroen",
-    "mo": "C4 Picasso",
-    "y": 2008,
-    "km": 285000
   },
   "__health__": {
     "wh": 0,
