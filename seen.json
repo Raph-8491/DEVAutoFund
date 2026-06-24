@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2059124015": {
+    "p": 1000,
+    "f": "2026-06-24T16:24:25.116866+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-getz-2059124015/",
+    "t": "Hyundai Getz",
+    "ts": "2026-06-24T16:24:25.116866+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 146000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:00029506-dc6e-49f2-931c-dcb0f9147c3b": {
     "p": null,
     "f": "2026-06-24T16:22:29.746036+00:00",
@@ -145201,18 +145214,6 @@
     "mo": null,
     "y": 2010,
     "km": 212000
-  },
-  "as:0e80b6e9-6d78-44ab-a83f-0fab2bc0e948": {
-    "p": null,
-    "f": "2026-06-16T13:01:55.276816+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
