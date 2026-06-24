@@ -1,5 +1,5 @@
 """
-Fahrzeug-Watcher v1.4 (Haendler-Profil VW/Audi/BMW/Mercedes): 3 Plattformen + Marken-/BJ-/KM-/Limousinen-Filter (akzent-unempfindlich: Coupe=Coupé) + Push-Marker (pu=Zeitstempel echter Pushes fuer Analyse) + Karosserie-Feld (b) + Content-Dedup (gleiches Auto an Marke+Modell+BJ+km+Preis) + Cross-Push-Dedup + Block-Warnung + Template + Preis-Drop + Link-Check + Marktwert-DB + Header-Rotation.
+Fahrzeug-Watcher v1.5 (Haendler-Profil VW/Audi/BMW/Mercedes): 3 Plattformen + Marken-/BJ-/KM-/Limousinen-Filter (akzent-unempfindlich: Coupe=Coupé) + Push-Marker (pu) + Link-Check NUR fuer echt gepushte Autos (keine Seed-Altlasten) + Karosserie-Feld (b) + Content-Dedup (gleiches Auto an Marke+Modell+BJ+km+Preis) + Cross-Push-Dedup + Block-Warnung + Template + Preis-Drop + Link-Check + Marktwert-DB + Header-Rotation.
 """
 import os
 import json
@@ -980,6 +980,8 @@ def check_dead_listings(seen):
     for ad_id, info in list(seen.items()):
         if checks_done >= LINK_CHECK_LIMIT:
             break
+        if not info.get("pu"):
+            continue  # nur ECHT gepushte Autos pruefen, keine Seed-Altlasten
         ts = info.get("ts")
         url = info.get("u")
         ch = info.get("ch")
