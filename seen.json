@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1411740065": {
+    "p": 4250,
+    "f": "2026-06-24T19:53:28.946565+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-audi-a3-1411740065/",
+    "t": "Audi A3 Audi A3",
+    "ts": "2026-06-24T19:53:28.946565+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A3",
+    "y": 2010,
+    "km": 288000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:b26a676b-7c2d-42a9-adde-c0c8adbcc80a": {
     "p": null,
     "f": "2026-06-24T19:52:29.336018+00:00",
@@ -145600,18 +145613,6 @@
     "mo": null,
     "y": 2015,
     "km": 190000
-  },
-  "as:64dab9fa-3099-4e5b-b1b9-c907430cb3da": {
-    "p": null,
-    "f": "2026-06-16T16:23:37.365944+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
