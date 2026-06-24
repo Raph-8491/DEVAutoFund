@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2066634359": {
+    "p": 7000,
+    "f": "2026-06-24T17:37:23.520815+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/land-rover-freelander-2-s-2-2td4-autom-2066634359/",
+    "t": "Land Rover Freelander 2 S 2,2TD4 Autom.",
+    "ts": "2026-06-24T17:37:23.520815+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 164000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1376966512": {
+    "p": 11690,
+    "f": "2026-06-24T17:37:23.520815+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-7-lounge-1-6-bmt-tdi-dsg-1376966512/",
+    "t": "VW Golf 7 Lounge 1,6 BMT TDI DSG",
+    "ts": "2026-06-24T17:37:23.520815+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2015,
+    "km": 138000,
+    "b": "Limousine",
+    "pu": "2026-06-24T17:37:23.520815+00:00"
+  },
   "as:ec2cc0d3-202c-4be3-b7d6-2d5baa7a9eb6": {
     "p": null,
     "f": "2026-06-24T17:35:33.265456+00:00",
@@ -123079,7 +123106,8 @@
     "ma": "Audi",
     "mo": "A4",
     "y": 2018,
-    "km": 249000
+    "km": 249000,
+    "b": "Kombi / Family Van"
   },
   "wh:1820163975": {
     "p": 2900,
@@ -123175,7 +123203,8 @@
     "ma": null,
     "mo": null,
     "y": 2012,
-    "km": 197000
+    "km": 197000,
+    "b": "Kombi / Family Van"
   },
   "wh:1380164263": {
     "p": 3000,
@@ -145326,30 +145355,6 @@
     "mo": null,
     "y": 2019,
     "km": 142111
-  },
-  "as:c2480c37-d361-4ea9-91d7-4cb58f7bb199": {
-    "p": null,
-    "f": "2026-06-16T14:13:37.784904+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "gw:5cba0ae0-79e8-47fe-949e-0e68e8977d87": {
-    "p": 9599,
-    "f": "2026-06-16T14:12:57.129423+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/renault-kangoo-express-l1-1-5-dci-90-energy-extra-r-link-diesel-cat_ma60mo15317/5cba0ae0-79e8-47fe-949e-0e68e8977d87",
-    "t": "Renault Kangoo",
-    "ts": "2026-06-16T14:23:40.222901+00:00",
-    "ch": "alive",
-    "ma": "Renault",
-    "mo": "Kangoo",
-    "y": 2016,
-    "km": 160000
   },
   "__health__": {
     "wh": 0,
