@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:798370665": {
+    "p": 14300,
+    "f": "2026-06-24T03:32:25.897744+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-a-klasse-a-200-798370665/",
+    "t": "Mercedes-Benz A-Klasse A 200",
+    "ts": "2026-06-24T03:32:25.897744+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "A-Klasse",
+    "y": 2017,
+    "km": 71300,
+    "b": "Limousine"
+  },
   "wh:1090381780": {
     "p": 5000,
     "f": "2026-06-24T03:22:22.590410+00:00",
@@ -144162,18 +144175,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:2122164889": {
-    "p": 10500,
-    "f": "2026-06-15T18:20:47.744749+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touran-vw-touran-highline-2-0-tdi-dsg-170-ps-7-sitze-2122164889/",
-    "t": "VW Touran VW Touran Highline 2.0 TDI DSG (170 PS) 7-Sitze",
-    "ts": "2026-06-15T18:20:47.744749+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Touran",
-    "y": 2011,
-    "km": 199000
   },
   "__health__": {
     "wh": 0,
