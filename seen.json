@@ -147,6 +147,20 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1574595817": {
+    "p": 11350,
+    "f": "2026-06-24T20:59:23.849031+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-comfortline-2-0-tdi-dsg-1574595817/",
+    "t": "VW Golf Variant Comfortline 2,0 TDI DSG",
+    "ts": "2026-06-24T20:59:23.849031+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2018,
+    "km": 203660,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T20:59:23.849031+00:00"
+  },
   "as:80e81f46-5536-475f-8afb-ddc0850b2c42": {
     "p": null,
     "f": "2026-06-24T20:57:26.927822+00:00",
@@ -145678,18 +145692,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "gw:f38b9246-448c-43d1-bf31-22030246c20f": {
-    "p": 800,
-    "f": "2026-06-16T16:57:53.354768+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/fiat-panda-4x4-kein-pickerl-diesel-cat_ma28mo1746/f38b9246-448c-43d1-bf31-22030246c20f",
-    "t": "Fiat Panda",
-    "ts": "2026-06-16T16:57:53.354768+00:00",
-    "ch": "alive",
-    "ma": "Fiat",
-    "mo": "Panda",
-    "y": 2011,
-    "km": 6020
   },
   "__health__": {
     "wh": 0,
