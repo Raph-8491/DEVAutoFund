@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1884342411": {
+    "p": 990,
+    "f": "2026-06-24T17:03:23.364955+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-sharan-2-0-tdi-1884342411/",
+    "t": "VW Sharan 2.0 tdi",
+    "ts": "2026-06-24T17:03:23.364955+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Sharan",
+    "y": 2009,
+    "km": 332000,
+    "b": "Kombi / Family Van"
+  },
   "as:eb855cb3-98a1-4ee1-88df-9d07e4bdc5d7": {
     "p": 4500,
     "f": "2026-06-24T17:02:28.172380+00:00",
@@ -145264,18 +145277,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:2102824176": {
-    "p": 10900,
-    "f": "2026-06-16T13:35:43.386434+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-kombi-2102824176/",
-    "t": "VW Passat Kombi",
-    "ts": "2026-06-16T13:35:43.386434+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2017,
-    "km": 216000
   },
   "__health__": {
     "wh": 0,
