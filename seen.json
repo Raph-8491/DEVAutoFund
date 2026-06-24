@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "as:34d57f0b-93c1-4ff5-8029-a01037c8f398": {
+    "p": 7199,
+    "f": "2026-06-24T06:28:28.088448+00:00",
+    "u": "https://www.autoscout24.at/angebote/mitsubishi-space-star-space-star-1-0-benzin-weiss-cat_ma50mo15546-34d57f0b-93c1-4ff5-8029-a01037c8f398",
+    "t": "Mitsubishi Space Star",
+    "ts": "2026-06-24T06:28:28.088448+00:00",
+    "ch": null,
+    "ma": "Mitsubishi",
+    "mo": "Space Star",
+    "y": 2021,
+    "km": 49999,
+    "b": ""
+  },
+  "wh:1798596221": {
+    "p": 5999,
+    "f": "2026-06-24T06:28:26.817746+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-1-8-tfsi-quattro-ambiente-1798596221/",
+    "t": "Audi A3 1,8 TFSI quattro Ambiente",
+    "ts": "2026-06-24T06:28:26.817746+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A3",
+    "y": 2011,
+    "km": 193000,
+    "b": "Limousine"
+  },
   "gw:c471feed-74e2-4f68-aaec-ed0b795f9e55": {
     "p": 2499,
     "f": "2026-06-24T06:27:34.597143+00:00",
@@ -144254,30 +144280,6 @@
     "mo": "A4",
     "y": 2008,
     "km": 265000
-  },
-  "as:e76c6ef9-aa48-41cf-b0e8-5820a65ef15e": {
-    "p": 3999,
-    "f": "2026-06-15T19:05:46.458691+00:00",
-    "u": "https://www.autoscout24.at/angebote/skoda-octavia-diesel-schwarz-cat_ma65mo15222-e76c6ef9-aa48-41cf-b0e8-5820a65ef15e",
-    "t": "Skoda Octavia",
-    "ts": "2026-06-15T19:05:46.458691+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2011,
-    "km": 303834
-  },
-  "wh:1416295942": {
-    "p": 2900,
-    "f": "2026-06-15T19:05:42.768347+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-sedici-1416295942/",
-    "t": "Fiat Sedici",
-    "ts": "2026-06-15T19:05:42.768347+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 255644
   },
   "__health__": {
     "wh": 0,
