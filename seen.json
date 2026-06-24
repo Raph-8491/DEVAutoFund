@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2056413836": {
+    "p": 13600,
+    "f": "2026-06-24T06:32:28.819640+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-4er-reihe-418d-gran-coupe-f36-2056413836/",
+    "t": "BMW 4er-Reihe 418d Gran Coupe F36",
+    "ts": "2026-06-24T06:32:28.819640+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "4er-Reihe",
+    "y": 2015,
+    "km": 191900,
+    "b": "Sportwagen / Coup\u00e9"
+  },
+  "wh:898214580": {
+    "p": 5290,
+    "f": "2026-06-24T06:32:28.819640+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/smart-fortwo-cabrio-898214580/",
+    "t": "Smart fortwo Cabrio",
+    "ts": "2026-06-24T06:32:28.819640+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 129147,
+    "b": "Cabrio / Roadster"
+  },
   "wh:1482656074": {
     "p": 8000,
     "f": "2026-06-24T06:30:51.765993+00:00",
@@ -119852,16 +119878,17 @@
     "km": null
   },
   "wh:1684885831": {
-    "p": 6500,
+    "p": 6200,
     "f": "2026-06-17T06:31:33.547735+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-sportage-active-2-0-crdi-4wd-dpf-aut-1684885831/",
     "t": "KIA Sportage Active 2,0 CRDi 4WD DPF Aut.",
-    "ts": "2026-06-17T06:31:33.547735+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T06:32:28.819640+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2012,
-    "km": 236000
+    "km": 236000,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "wh:1172746588": {
     "p": 9000,
@@ -144258,30 +144285,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1424724170": {
-    "p": 6000,
-    "f": "2026-06-15T19:07:31.690961+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-318d-1424724170/",
-    "t": "BMW 3er-Reihe 318d",
-    "ts": "2026-06-22T19:41:32.907103+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2009,
-    "km": 279000
-  },
-  "wh:906658771": {
-    "p": 6000,
-    "f": "2026-06-15T19:07:31.690961+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touran-1-6-906658771/",
-    "t": "VW Touran 1,6",
-    "ts": "2026-06-15T19:07:31.690961+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Touran",
-    "y": 2013,
-    "km": 250360
   },
   "__health__": {
     "wh": 0,
