@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:b4fe7d6e-53fb-4b24-bd12-a7728a7a2796": {
+    "p": null,
+    "f": "2026-06-24T15:49:25.414591+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:895759774": {
     "p": 1450,
     "f": "2026-06-24T15:47:28.793533+00:00",
@@ -745,7 +757,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-tdi-4-motion-979490991/",
     "t": "VW Golf TDI 4 Motion",
     "ts": "2026-06-24T15:46:32.379654+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2013,
@@ -145146,18 +145158,6 @@
     "mo": "Logan",
     "y": 2012,
     "km": 267555
-  },
-  "as:9b10f954-a0c1-48dc-baab-4fccdaad886e": {
-    "p": null,
-    "f": "2026-06-16T12:29:31.813422+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
