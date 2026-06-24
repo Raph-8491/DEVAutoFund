@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1328899626": {
+    "p": 3650,
+    "f": "2026-06-24T04:54:24.097235+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-c-max-trend-1-6d-1328899626/",
+    "t": "Ford C-MAX Trend 1,6D",
+    "ts": "2026-06-24T04:54:24.097235+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 244000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1879209309": {
+    "p": 6500,
+    "f": "2026-06-24T04:54:24.097235+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a1-sportback-tfsi-1879209309/",
+    "t": "Audi A1 Sportback TFSI",
+    "ts": "2026-06-24T04:54:24.097235+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A1",
+    "y": 2012,
+    "km": 114000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1621783909": {
     "p": 11990,
     "f": "2026-06-24T04:52:27.500515+00:00",
@@ -144175,30 +144201,6 @@
   "as:cde681ad-9ae9-432b-be6f-ca57459c25d7": {
     "p": null,
     "f": "2026-06-15T18:34:39.793959+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1895006121": {
-    "p": 3000,
-    "f": "2026-06-15T18:34:37.177657+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-1-9-1895006121/",
-    "t": "VW Passat 1.9",
-    "ts": "2026-06-15T18:34:37.177657+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2008,
-    "km": 235000
-  },
-  "as:85b77e15-8210-43f4-beba-4f746505fcfb": {
-    "p": null,
-    "f": "2026-06-15T18:33:31.827923+00:00",
     "u": null,
     "t": null,
     "ts": null,
