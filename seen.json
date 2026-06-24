@@ -147,6 +147,20 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:955391379": {
+    "p": 6500,
+    "f": "2026-06-24T20:24:25.676750+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-7-tdi-bluemotion-955391379/",
+    "t": "VW Golf 7 TDI Bluemotion",
+    "ts": "2026-06-24T20:24:25.676750+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2016,
+    "km": 253000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T20:24:25.676750+00:00"
+  },
   "as:6edbd47a-1ad3-4bd6-9cb4-1c76260d5ad1": {
     "p": null,
     "f": "2026-06-24T20:23:23.146667+00:00",
@@ -190,7 +204,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-q5-audi-q5-2-0tdi-export-1218407970/",
     "t": "Audi Q5 Audi Q5 2.0TDI EXPORT",
     "ts": "2026-06-24T20:21:26.238904+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "Q5",
     "y": 2010,
@@ -216,7 +230,7 @@
     "u": "https://www.autoscout24.at/angebote/bmw-118-118d-aut-sport-line-diesel-schwarz-cat_ma13mo18481-8397a2de-aea4-4217-ae76-8bb45cc14616",
     "t": "BMW 118 118d Aut. Sport Line",
     "ts": "2026-06-24T20:20:48.067551+00:00",
-    "ch": null,
+    "ch": "dead",
     "ma": "BMW",
     "mo": "118",
     "y": 2014,
@@ -145635,18 +145649,6 @@
     "km": null
   },
   "as:70e7a0d3-2353-4aa3-a57b-14c7aba393c1": {
-    "p": null,
-    "f": "2026-06-16T16:42:40.427770+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:af148aa9-4d34-488e-95ac-38d2b4339d70": {
     "p": null,
     "f": "2026-06-16T16:42:40.427770+00:00",
     "u": null,
