@@ -147,6 +147,34 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1551948647": {
+    "p": 4200,
+    "f": "2026-06-24T19:59:26.155004+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touran-1551948647/",
+    "t": "VW Touran",
+    "ts": "2026-06-24T19:59:26.155004+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Touran",
+    "y": 2011,
+    "km": 225000,
+    "b": "Kleinbus",
+    "pu": "2026-06-24T19:59:26.155004+00:00"
+  },
+  "wh:1074168223": {
+    "p": 14500,
+    "f": "2026-06-24T19:59:26.155004+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-6-tdi-1074168223/",
+    "t": "VW Golf 1.6 TDI",
+    "ts": "2026-06-24T19:59:26.155004+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2019,
+    "km": 114500,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-24T19:59:26.155004+00:00"
+  },
   "gw:42afac94-3329-435e-abc4-a3d1400cbc8e": {
     "p": 5000,
     "f": "2026-06-24T19:57:29.890119+00:00",
@@ -145599,30 +145627,6 @@
     "mo": "1er-Reihe",
     "y": 2015,
     "km": 203000
-  },
-  "as:f42d432f-3f14-4365-aafa-69303a393136": {
-    "p": null,
-    "f": "2026-06-16T16:27:35.338309+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1793560351": {
-    "p": 12000,
-    "f": "2026-06-16T16:27:29.526278+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-arona-fast-lane-fr-ecotsi-1793560351/",
-    "t": "Seat Arona FAST LANE FR EcoTSI",
-    "ts": "2026-06-16T16:27:29.526278+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Arona",
-    "y": 2018,
-    "km": 107093
   },
   "__health__": {
     "wh": 0,
