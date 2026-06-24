@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1614216937": {
+    "p": 3900,
+    "f": "2026-06-24T16:51:24.141007+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-5008-1614216937/",
+    "t": "Peugeot 5008",
+    "ts": "2026-06-24T16:51:24.141007+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 247000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1592209814": {
+    "p": 3500,
+    "f": "2026-06-24T16:51:24.141007+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-120d-coupe-e82-1592209814/",
+    "t": "BMW 1er-Reihe 120d Coup\u00e9 (E82)",
+    "ts": "2026-06-24T16:51:24.141007+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "1er-Reihe",
+    "y": 2010,
+    "km": 323039,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1919517813": {
     "p": 650,
     "f": "2026-06-24T16:48:31.859463+00:00",
@@ -145221,30 +145247,6 @@
     "km": 311243
   },
   "as:7b40b4db-d070-40ce-ae04-911eb562f67f": {
-    "p": null,
-    "f": "2026-06-16T13:26:36.277849+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:9ae816c6-4cac-440e-86ab-263ad7c72500": {
-    "p": null,
-    "f": "2026-06-16T13:26:36.277849+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:fe744a7a-e31e-4482-93ae-7588d6edf531": {
     "p": null,
     "f": "2026-06-16T13:26:36.277849+00:00",
     "u": null,
