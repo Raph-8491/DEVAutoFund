@@ -147,6 +147,44 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:6713d260-adca-4a72-81a6-ad75490bc951": {
+    "p": 13500,
+    "f": "2026-06-24T11:05:44.839044+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/mazda-cx-3-cx-3-g120-takumi-takumi-benzin-weiss-cat_ma46mo21084/6713d260-adca-4a72-81a6-ad75490bc951",
+    "t": "Mazda CX-3",
+    "ts": "2026-06-24T11:05:44.839044+00:00",
+    "ch": null,
+    "ma": "Mazda",
+    "mo": "CX-3",
+    "y": 2017,
+    "km": 77000,
+    "b": ""
+  },
+  "as:6713d260-adca-4a72-81a6-ad75490bc951": {
+    "p": 13500,
+    "f": "2026-06-24T11:05:37.204969+00:00",
+    "u": "https://www.autoscout24.at/angebote/mazda-cx-3-cx-3-g120-takumi-takumi-benzin-weiss-cat_ma46mo21084-6713d260-adca-4a72-81a6-ad75490bc951",
+    "t": "Mazda CX-3",
+    "ts": "2026-06-24T11:05:37.204969+00:00",
+    "ch": null,
+    "ma": "Mazda",
+    "mo": "CX-3",
+    "y": 2017,
+    "km": 77000,
+    "b": ""
+  },
+  "as:d0ae6025-e260-4a10-a7dc-4bee8d42fd0f": {
+    "p": null,
+    "f": "2026-06-24T11:05:37.204969+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1789229164": {
     "p": 5000,
     "f": "2026-06-24T11:03:21.265662+00:00",
@@ -206,7 +244,7 @@
     "u": "https://www.autoscout24.at/angebote/volkswagen-touran-1-6-scr-tdi-diesel-cat_ma74mo18329-132ec284-432f-4e09-bb77-b1c16cb0cb33",
     "t": "Volkswagen Touran",
     "ts": "2026-06-24T11:02:29.603642+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Touran",
     "y": 2016,
@@ -144653,42 +144691,6 @@
     "mo": null,
     "y": 2018,
     "km": 130000
-  },
-  "wh:1540955308": {
-    "p": 8750,
-    "f": "2026-06-16T06:48:29.716095+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-reserviert-325d-1540955308/",
-    "t": "BMW 3er-Reihe RESERVIERT 325d",
-    "ts": "2026-06-16T06:48:29.716095+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2008,
-    "km": 250000
-  },
-  "wh:1025411180": {
-    "p": 7000,
-    "f": "2026-06-16T06:48:29.716095+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/suzuki-swift-nz-da2s-mt-1025411180/",
-    "t": "Suzuki Swift NZ/DA2S/MT",
-    "ts": "2026-06-16T06:48:29.716095+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 102634
-  },
-  "as:c61c3a6c-4364-4881-a07c-162261eb9c6e": {
-    "p": null,
-    "f": "2026-06-16T06:47:29.784310+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
