@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:6ee3ea3d-4d04-49e6-9729-11daaac6c75e": {
+    "p": null,
+    "f": "2026-06-24T16:47:24.462019+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:20193064-2987-4361-aecb-169eba27efb5": {
     "p": null,
     "f": "2026-06-24T16:46:32.999149+00:00",
@@ -145242,18 +145254,6 @@
     "mo": null,
     "y": 2011,
     "km": 162000
-  },
-  "wh:793193519": {
-    "p": 10800,
-    "f": "2026-06-16T13:26:33.509119+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-superb-1-6-tdi-793193519/",
-    "t": "Skoda Superb 1.6 Tdi",
-    "ts": "2026-06-16T13:26:33.509119+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Superb",
-    "y": 2015,
-    "km": 220000
   },
   "__health__": {
     "wh": 0,
