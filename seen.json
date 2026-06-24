@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1191700321": {
+    "p": 4490,
+    "f": "2026-06-24T13:08:27.918783+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-style-1-4-1191700321/",
+    "t": "Seat Ibiza Style 1,4",
+    "ts": "2026-06-24T13:08:27.918783+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Ibiza",
+    "y": 2012,
+    "km": 101500,
+    "b": "Limousine"
+  },
   "as:e791bb33-ff0f-4101-8e74-2a7e5627f67c": {
     "p": null,
     "f": "2026-06-24T13:07:30.743577+00:00",
@@ -122051,7 +122064,8 @@
     "ma": null,
     "mo": null,
     "y": 2014,
-    "km": 74000
+    "km": 74000,
+    "b": "Limousine"
   },
   "as:56c66c14-9af3-487d-a742-b5505fadfa06": {
     "p": null,
@@ -144861,18 +144875,6 @@
     "mo": "T5",
     "y": 2015,
     "km": 240000
-  },
-  "as:61c97971-2561-4f13-84e1-1c3688ba658d": {
-    "p": null,
-    "f": "2026-06-16T09:08:40.598268+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
