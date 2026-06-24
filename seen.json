@@ -147,6 +147,46 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2101137547": {
+    "p": 13600,
+    "f": "2026-06-24T19:38:27.057037+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-vito-113cdi-2101137547/",
+    "t": "Mercedes-Benz Vito 113CDI",
+    "ts": "2026-06-24T19:38:27.057037+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "Vito",
+    "y": 2013,
+    "km": 172000,
+    "b": "Kleinbus"
+  },
+  "wh:849922565": {
+    "p": 4400,
+    "f": "2026-06-24T19:38:27.057037+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-twingo-1-0-849922565/",
+    "t": "Renault Twingo 1,0",
+    "ts": "2026-06-24T19:38:27.057037+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2015,
+    "km": 116233,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:918047466": {
+    "p": 5900,
+    "f": "2026-06-24T19:38:27.057037+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-highline-1-6-tdi-cr-dpf-918047466/",
+    "t": "VW Golf Highline 1,6 TDI CR DPF",
+    "ts": "2026-06-24T19:38:27.057037+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2011,
+    "km": 229800,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-24T19:38:27.057037+00:00"
+  },
   "as:f4837466-e36b-4517-9b99-e072a471e016": {
     "p": null,
     "f": "2026-06-24T19:36:32.529001+00:00",
@@ -145548,42 +145588,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:400d054a-525d-45f9-876d-7d1b1fc4c26e": {
-    "p": 4399,
-    "f": "2026-06-16T16:09:38.296654+00:00",
-    "u": "https://www.autoscout24.at/angebote/suzuki-grand-vitara-1-9-ddis-vx-el-executive-l4-diesel-cat_ma68mo18170-400d054a-525d-45f9-876d-7d1b1fc4c26e",
-    "t": "Suzuki Grand Vitara",
-    "ts": "2026-06-16T16:09:38.296654+00:00",
-    "ch": "alive",
-    "ma": "Suzuki",
-    "mo": "Grand Vitara",
-    "y": 2014,
-    "km": 149400
-  },
-  "wh:1528457701": {
-    "p": 11999,
-    "f": "2026-06-16T16:09:35.032944+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-sportback-1-6-tdi-1528457701/",
-    "t": "Audi A3 Sportback 1,6 TDI",
-    "ts": "2026-06-16T16:09:35.032944+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A3",
-    "y": 2013,
-    "km": 126000
-  },
-  "wh:1792130192": {
-    "p": 10500,
-    "f": "2026-06-16T16:09:35.032944+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-2-0-tdi-dpf-1792130192/",
-    "t": "Audi A6 2.0 TDI DPF",
-    "ts": "2026-06-16T16:09:35.032944+00:00",
-    "ch": "dead",
-    "ma": "Audi",
-    "mo": "A6",
-    "y": 2011,
-    "km": 180000
   },
   "__health__": {
     "wh": 0,
