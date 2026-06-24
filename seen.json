@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:3c7e5d80-d55a-4df2-bd24-ce53673881f0": {
+    "p": 5800,
+    "f": "2026-06-24T17:05:43.402052+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-sharan-highline-bmt-2-0-tdi-dpf-4motion-diesel-cat_ma74mo2093/3c7e5d80-d55a-4df2-bd24-ce53673881f0",
+    "t": "Volkswagen Sharan Highline BMT 2,0 TDI DPF 4Motion",
+    "ts": "2026-06-24T17:05:43.402052+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Sharan",
+    "y": 2012,
+    "km": 342000,
+    "b": ""
+  },
+  "as:3c7e5d80-d55a-4df2-bd24-ce53673881f0": {
+    "p": 5800,
+    "f": "2026-06-24T17:05:35.998392+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-sharan-highline-bmt-2-0-tdi-dpf-4motion-diesel-cat_ma74mo2093-3c7e5d80-d55a-4df2-bd24-ce53673881f0",
+    "t": "Volkswagen Sharan Highline BMT 2,0 TDI DPF 4Motion",
+    "ts": "2026-06-24T17:05:35.998392+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Sharan",
+    "y": 2012,
+    "km": 342000,
+    "b": ""
+  },
   "as:27dc2d53-eddd-4102-b29f-8ca5aa7e0e32": {
     "p": 9990,
     "f": "2026-06-24T17:04:30.350886+00:00",
@@ -145254,30 +145280,6 @@
     "mo": "Leon",
     "y": 2015,
     "km": 124500
-  },
-  "as:be492b23-26f7-4765-86ae-2978b1454f65": {
-    "p": 9700,
-    "f": "2026-06-16T13:35:47.170635+00:00",
-    "u": "https://www.autoscout24.at/angebote/seat-leon-leon-style-1-6-tdi-style-diesel-weiss-cat_ma64mo15869-be492b23-26f7-4765-86ae-2978b1454f65",
-    "t": "SEAT Leon",
-    "ts": "2026-06-16T13:41:44.317781+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Leon",
-    "y": 2015,
-    "km": 124500
-  },
-  "as:d9ecf8f0-43df-481d-8a2e-aa17fb70a2ed": {
-    "p": 2300,
-    "f": "2026-06-16T13:35:47.170635+00:00",
-    "u": "https://www.autoscout24.at/angebote/renault-twingo-1-2-tuev-2027-steuerkette-erneurt-benzin-cat_ma60mo1979-d9ecf8f0-43df-481d-8a2e-aa17fb70a2ed",
-    "t": "Renault Twingo",
-    "ts": "2026-06-16T13:35:47.170635+00:00",
-    "ch": "alive",
-    "ma": "Renault",
-    "mo": "Twingo",
-    "y": 2008,
-    "km": 91500
   },
   "__health__": {
     "wh": 0,
