@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:357dfc47-1c7f-451f-b33e-cfd5a0837109": {
+    "p": null,
+    "f": "2026-06-24T18:32:36.794637+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1726512341": {
     "p": 6300,
     "f": "2026-06-24T18:31:27.863422+00:00",
@@ -218,7 +230,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-vw-golf-7-tdi-2088759557/",
     "t": "VW Golf Vw Golf 7 TDI",
     "ts": "2026-06-24T18:29:24.052413+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2015,
@@ -145449,18 +145461,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:13499f1c-aeca-4b2b-a5ae-bfd6d14f23d2": {
-    "p": 6500,
-    "f": "2026-06-16T15:03:44.924650+00:00",
-    "u": "https://www.autoscout24.at/angebote/opel-insignia-2-0-cosmo-cdti-dpf-ecotec-aut-diesel-cat_ma54mo19101-13499f1c-aeca-4b2b-a5ae-bfd6d14f23d2",
-    "t": "Opel Insignia",
-    "ts": "2026-06-16T15:03:44.924650+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Insignia",
-    "y": 2009,
-    "km": 165000
   },
   "__health__": {
     "wh": 0,
