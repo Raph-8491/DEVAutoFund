@@ -147,6 +147,30 @@
     "y": 2009,
     "km": 235000
   },
+  "as:6fce66d5-abed-4509-bf33-8981d5283777": {
+    "p": null,
+    "f": "2026-06-24T12:52:29.619904+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:6ff73faa-5110-4cf9-8bae-8314fd634418": {
+    "p": null,
+    "f": "2026-06-24T12:52:29.619904+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:87af277e-edec-4390-8e14-00525dfbfc6a": {
     "p": 2400,
     "f": "2026-06-24T12:50:52.757932+00:00",
@@ -231,7 +255,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-5-1-9tdi-neues-pickerl-bis-10-2027-1826330932/",
     "t": "VW Golf 5 1.9Tdi NEUES PICKERL BIS 10.2027",
     "ts": "2026-06-24T12:49:25.614220+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2009,
@@ -144827,30 +144851,6 @@
     "mo": null,
     "y": 2008,
     "km": 193000
-  },
-  "wh:1415598759": {
-    "p": 5000,
-    "f": "2026-06-16T08:52:32.469389+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-chili-1-2-1415598759/",
-    "t": "Seat Ibiza Chili 1,2",
-    "ts": "2026-06-16T08:52:32.469389+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2014,
-    "km": 151237
-  },
-  "wh:1090353656": {
-    "p": 7500,
-    "f": "2026-06-16T08:52:32.469389+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-7-bluemotion-1-6-bmt-tdi-dpf-1090353656/",
-    "t": "VW Golf 7 Bluemotion 1,6 BMT TDI DPF",
-    "ts": "2026-06-16T08:52:32.469389+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2013,
-    "km": 174500
   },
   "__health__": {
     "wh": 0,
