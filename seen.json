@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:125a4b6a-24d4-4627-80af-a51f58690422": {
+    "p": 7300,
+    "f": "2026-06-24T17:07:33.208403+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/subaru-impreza-hatchback-2-0d-sport-diesel-cat_ma67mo2023/125a4b6a-24d4-4627-80af-a51f58690422",
+    "t": "Subaru Impreza Hatchback 2,0D Sport",
+    "ts": "2026-06-24T17:07:33.208403+00:00",
+    "ch": null,
+    "ma": "Subaru",
+    "mo": "Impreza",
+    "y": 2011,
+    "km": 225963,
+    "b": ""
+  },
+  "as:125a4b6a-24d4-4627-80af-a51f58690422": {
+    "p": 7300,
+    "f": "2026-06-24T17:07:26.691040+00:00",
+    "u": "https://www.autoscout24.at/angebote/subaru-impreza-hatchback-2-0d-sport-diesel-cat_ma67mo2023-125a4b6a-24d4-4627-80af-a51f58690422",
+    "t": "Subaru Impreza Hatchback 2,0D Sport",
+    "ts": "2026-06-24T17:07:26.691040+00:00",
+    "ch": null,
+    "ma": "Subaru",
+    "mo": "Impreza",
+    "y": 2011,
+    "km": 225963,
+    "b": ""
+  },
   "as:e8eaadc3-3300-4fe6-8954-4d6f29493caa": {
     "p": null,
     "f": "2026-06-24T17:06:27.274774+00:00",
@@ -145256,30 +145282,6 @@
     "mo": null,
     "y": 2008,
     "km": 260000
-  },
-  "wh:1073180969": {
-    "p": 10000,
-    "f": "2026-06-16T13:37:33.714616+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-s3-2-0-quattro-1073180969/",
-    "t": "Audi A3 S3 2.0 Quattro",
-    "ts": "2026-06-16T13:37:33.714616+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A3",
-    "y": 2008,
-    "km": 240000
-  },
-  "wh:1780436229": {
-    "p": 4800,
-    "f": "2026-06-16T13:37:33.714616+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-c220-cdi-1780436229/",
-    "t": "Mercedes-Benz C-Klasse C220 CDI",
-    "ts": "2026-06-16T13:37:33.714616+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C-Klasse",
-    "y": 2010,
-    "km": 287000
   },
   "__health__": {
     "wh": 0,
