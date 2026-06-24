@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:60f70d71-da10-43d4-8c64-dde9118d0e09": {
+    "p": 5800,
+    "f": "2026-06-24T10:22:38.073032+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-x1-x1-xdrive18d-diesel-schwarz-cat_ma13mo19242/60f70d71-da10-43d4-8c64-dde9118d0e09",
+    "t": "BMW X1",
+    "ts": "2026-06-24T10:22:38.073032+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X1",
+    "y": 2011,
+    "km": 228000,
+    "b": ""
+  },
+  "wh:1547391712": {
+    "p": 14000,
+    "f": "2026-06-24T10:22:27.513379+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/volvo-v60-cross-country-1547391712/",
+    "t": "Volvo V60 Cross Country",
+    "ts": "2026-06-24T10:22:27.513379+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2018,
+    "km": 170000,
+    "b": "Kombi / Family Van"
+  },
   "gw:475003ff-9f4f-4a45-8299-8b13ae6d26fc": {
     "p": 6500,
     "f": "2026-06-24T10:20:54.159125+00:00",
@@ -121075,16 +121101,17 @@
     "km": 225000
   },
   "wh:984015034": {
-    "p": 4090,
+    "p": 3849,
     "f": "2026-06-17T10:22:29.300115+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-1-6-tdi-comfortline-4motion-dpf-984015034/",
     "t": "VW Golf Variant 1.6 TDI Comfortline 4Motion DPF",
-    "ts": "2026-06-17T10:22:29.300115+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T10:22:27.513379+00:00",
+    "ch": null,
     "ma": "VW",
     "mo": "Golf",
     "y": 2011,
-    "km": 223500
+    "km": 223500,
+    "b": "Kombi / Family Van"
   },
   "wh:854288354": {
     "p": 1000,
@@ -144591,30 +144618,6 @@
     "mo": "Galaxy",
     "y": 2009,
     "km": 355190
-  },
-  "wh:828612235": {
-    "p": 3200,
-    "f": "2026-06-16T05:45:51.734547+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i30-1-4-cvvt-europe-828612235/",
-    "t": "Hyundai i30 1,4 CVVT Europe",
-    "ts": "2026-06-16T05:45:51.734547+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 98000
-  },
-  "as:8f805047-8135-4db1-a9bd-61a0aa373b31": {
-    "p": null,
-    "f": "2026-06-16T05:44:33.407485+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
