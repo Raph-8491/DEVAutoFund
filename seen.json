@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1628596871": {
+    "p": 4900,
+    "f": "2026-06-24T06:48:29.302436+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-6-1-4tsi-1628596871/",
+    "t": "VW Golf 6 , 1,4Tsi",
+    "ts": "2026-06-24T06:48:29.302436+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2009,
+    "km": 144665,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "gw:b75d81b9-56ce-457d-bdcb-6cced47f51d4": {
     "p": 7700,
     "f": "2026-06-24T06:45:55.457813+00:00",
@@ -166,7 +179,7 @@
     "u": "https://www.autoscout24.at/angebote/ford-fiesta-st-line-1-1-start-stop-benzin-cat_ma29mo1758-b75d81b9-56ce-457d-bdcb-6cced47f51d4",
     "t": "Ford Fiesta",
     "ts": "2026-06-24T06:45:43.641301+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Ford",
     "mo": "Fiesta",
     "y": 2018,
@@ -144287,18 +144300,6 @@
     "mo": null,
     "y": 2018,
     "km": 125000
-  },
-  "gw:648264ba-ad90-4562-92cb-a748bebb2572": {
-    "p": 6990,
-    "f": "2026-06-15T19:12:49.979330+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-golf-lounge-1-6-tdi-bmt-diesel-cat_ma74mo2084/648264ba-ad90-4562-92cb-a748bebb2572",
-    "t": "Volkswagen Golf",
-    "ts": "2026-06-15T19:12:49.979330+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2015,
-    "km": 191000
   },
   "__health__": {
     "wh": 0,
