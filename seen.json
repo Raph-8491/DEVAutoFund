@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:b936618a-c7b8-4cc7-b46f-eda3e554c1ea": {
+    "p": null,
+    "f": "2026-06-24T16:39:27.333363+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:494d1f7a-afff-4caf-8aec-d5eb3da7b8f0": {
     "p": 5990,
     "f": "2026-06-24T16:38:34.816755+00:00",
@@ -145227,18 +145239,6 @@
     "mo": "Golf",
     "y": 2018,
     "km": 310000
-  },
-  "wh:808668502": {
-    "p": 8500,
-    "f": "2026-06-16T13:18:30.853815+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-mokka-1-7-cdti-808668502/",
-    "t": "Opel Mokka 1,7 CDTI",
-    "ts": "2026-06-16T13:18:30.853815+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Mokka",
-    "y": 2014,
-    "km": 110000
   },
   "__health__": {
     "wh": 0,
