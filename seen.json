@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2029139894": {
+    "p": 6500,
+    "f": "2026-06-24T08:17:41.140923+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-1-2-tfsi-8p-2029139894/",
+    "t": "Audi A3 1,2 TFSI 8P",
+    "ts": "2026-06-24T08:17:41.140923+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A3",
+    "y": 2010,
+    "km": 171000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1486454068": {
+    "p": 11000,
+    "f": "2026-06-24T08:17:41.140923+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-tipo-sport-city-kombi-1486454068/",
+    "t": "Fiat Tipo Sport City Kombi",
+    "ts": "2026-06-24T08:17:41.140923+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2021,
+    "km": 122800,
+    "b": "Kombi / Family Van"
+  },
   "as:8ac1b372-90f9-4b3b-a2d2-18f181a30bf8": {
     "p": null,
     "f": "2026-06-24T08:14:32.373609+00:00",
@@ -468,12 +494,12 @@
     "b": "Kombi / Family Van"
   },
   "wh:1313995344": {
-    "p": 11800,
+    "p": 10800,
     "f": "2026-06-24T08:01:40.660134+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-crossland-x-1-2-turbo-direct-injection-ultimate-st-1313995344/",
     "t": "Opel Crossland X 1,2 Turbo Direct Injection Ultimate St",
-    "ts": "2026-06-24T08:01:40.660134+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T08:17:41.140923+00:00",
+    "ch": null,
     "ma": "Opel",
     "mo": "Crossland",
     "y": 2017,
@@ -120148,7 +120174,8 @@
     "ma": null,
     "mo": null,
     "y": 2014,
-    "km": 146100
+    "km": 146100,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "wh:1001636070": {
     "p": 2000,
@@ -144396,30 +144423,6 @@
     "mo": "Octavia",
     "y": 2011,
     "km": 206254
-  },
-  "as:1addea8c-265a-4ecf-b240-9af301395327": {
-    "p": 7000,
-    "f": "2026-06-15T20:26:29.007241+00:00",
-    "u": "https://www.autoscout24.at/angebote/skoda-octavia-octavia-combi-rs-tdi-cr-dpf-rs-diesel-weiss-cat_ma65mo15222-1addea8c-265a-4ecf-b240-9af301395327",
-    "t": "Skoda Octavia",
-    "ts": "2026-06-15T20:26:29.007241+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2011,
-    "km": 206254
-  },
-  "gw:846b1c41-d55d-45dc-8732-62410f001cac": {
-    "p": 3500,
-    "f": "2026-06-15T20:25:50.350442+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/ford-transit-custom-l1h1-330k-variobus-2-2-tdci-basis-diesel-cat_ma29mo74248/846b1c41-d55d-45dc-8732-62410f001cac",
-    "t": "Ford Transit Custom",
-    "ts": "2026-06-15T20:25:50.350442+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Transit Custom",
-    "y": 2015,
-    "km": 355000
   },
   "__health__": {
     "wh": 0,
