@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:88f5f38e-75d3-4614-8440-753c884a66ed": {
+    "p": null,
+    "f": "2026-06-24T06:25:31.731054+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1299785318": {
     "p": 13990,
     "f": "2026-06-24T06:20:45.348329+00:00",
@@ -119787,7 +119799,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/volvo-xc60-2-4-d-1344351568/",
     "t": "Volvo XC60 2,4 D",
     "ts": "2026-06-24T06:22:26.835092+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2009,
@@ -144259,18 +144271,6 @@
     "mo": "Passat",
     "y": 2012,
     "km": 249000
-  },
-  "wh:1865635263": {
-    "p": 4000,
-    "f": "2026-06-15T19:02:39.304773+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/suzuki-swift-1-2-4wd-1865635263/",
-    "t": "Suzuki Swift 1.2 4wd",
-    "ts": "2026-06-15T19:02:39.304773+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 180002
   },
   "__health__": {
     "wh": 0,
