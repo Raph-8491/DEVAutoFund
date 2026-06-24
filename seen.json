@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1753650338": {
+    "p": 14000,
+    "f": "2026-06-24T10:17:23.818301+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-1-4-tsi-comfortline-sommer-aktion-1753650338/",
+    "t": "VW Tiguan 1,4 TSI Comfortline \"SOMMER AKTION\"",
+    "ts": "2026-06-24T10:17:23.818301+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Tiguan",
+    "y": 2017,
+    "km": 102200,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "as:e7cb70b5-6108-490e-8d57-639a429113aa": {
     "p": null,
     "f": "2026-06-24T10:16:24.414786+00:00",
@@ -190,7 +203,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-b8-5-1604699437/",
     "t": "Audi A4 B8,5",
     "ts": "2026-06-24T10:14:26.202974+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A4",
     "y": 2014,
@@ -144599,18 +144612,6 @@
     "mo": "up!",
     "y": 2013,
     "km": 119000
-  },
-  "wh:2006840516": {
-    "p": 7500,
-    "f": "2026-06-16T05:34:32.580810+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-2-2-2006840516/",
-    "t": "Mercedes-Benz C-Klasse 2.2",
-    "ts": "2026-06-16T05:34:32.580810+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C-Klasse",
-    "y": 2010,
-    "km": 196200
   },
   "__health__": {
     "wh": 0,
