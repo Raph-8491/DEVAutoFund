@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:fff6abe7-7fef-4585-86b6-25a329439815": {
+    "p": 7500,
+    "f": "2026-06-24T20:48:33.116674+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/citroen-c4-picasso-1-6-attraction-hdi-fap-diesel-cat_ma21mo18915/fff6abe7-7fef-4585-86b6-25a329439815",
+    "t": "Citroen C4 Picasso 1,6 Attraction HDi FAP",
+    "ts": "2026-06-24T20:48:33.116674+00:00",
+    "ch": null,
+    "ma": "Citroen",
+    "mo": "C4 Picasso",
+    "y": 2012,
+    "km": 170000,
+    "b": ""
+  },
+  "as:fff6abe7-7fef-4585-86b6-25a329439815": {
+    "p": 7500,
+    "f": "2026-06-24T20:48:25.714226+00:00",
+    "u": "https://www.autoscout24.at/angebote/citroen-c4-picasso-1-6-attraction-hdi-fap-diesel-cat_ma21mo18915-fff6abe7-7fef-4585-86b6-25a329439815",
+    "t": "Citroen C4 Picasso 1,6 Attraction HDi FAP",
+    "ts": "2026-06-24T20:48:25.714226+00:00",
+    "ch": null,
+    "ma": "Citroen",
+    "mo": "C4 Picasso",
+    "y": 2012,
+    "km": 170000,
+    "b": ""
+  },
   "wh:1867944094": {
     "p": 4000,
     "f": "2026-06-24T20:47:22.741841+00:00",
@@ -145656,30 +145682,6 @@
     "u": "https://www.autoscout24.at/angebote/kia-sportage-active-pro-diesel-cat_ma39mo1812-5439c78a-94dd-4c2e-ae9d-0d0886efffb8",
     "t": "Kia Sportage",
     "ts": "2026-06-16T16:54:41.632205+00:00",
-    "ch": "alive",
-    "ma": "Kia",
-    "mo": "Sportage",
-    "y": 2011,
-    "km": 155000
-  },
-  "as:ff1d01aa-c874-4cc9-aaa3-f0ccec80430d": {
-    "p": null,
-    "f": "2026-06-16T16:54:41.632205+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "gw:5439c78a-94dd-4c2e-ae9d-0d0886efffb8": {
-    "p": 8800,
-    "f": "2026-06-16T16:52:52.548489+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/kia-sportage-active-pro-diesel-cat_ma39mo1812/5439c78a-94dd-4c2e-ae9d-0d0886efffb8",
-    "t": "Kia Sportage",
-    "ts": "2026-06-16T16:52:52.548489+00:00",
     "ch": "alive",
     "ma": "Kia",
     "mo": "Sportage",
