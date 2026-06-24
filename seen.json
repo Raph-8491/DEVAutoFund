@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:1a880227-fc0f-43ab-b986-14b73bb3c67f": {
+    "p": null,
+    "f": "2026-06-24T09:03:20.871216+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:2eb418b7-9d30-40b8-902c-50979f8cd991": {
     "p": 3100,
     "f": "2026-06-24T09:02:32.814173+00:00",
@@ -144473,18 +144485,6 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/mercedes-benz-a-180-elegance-a-edition-aut-benzin-cat_ma47mo18486/407e6f92-4752-4120-a5c3-d6f08bbfb018",
     "t": "Mercedes-Benz A 180",
     "ts": "2026-06-15T21:14:48.377845+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "A 180",
-    "y": 2014,
-    "km": 107000
-  },
-  "as:407e6f92-4752-4120-a5c3-d6f08bbfb018": {
-    "p": 12000,
-    "f": "2026-06-15T21:14:37.151005+00:00",
-    "u": "https://www.autoscout24.at/angebote/mercedes-benz-a-180-elegance-a-edition-aut-benzin-cat_ma47mo18486-407e6f92-4752-4120-a5c3-d6f08bbfb018",
-    "t": "Mercedes-Benz A 180",
-    "ts": "2026-06-15T21:14:37.151005+00:00",
     "ch": "alive",
     "ma": "Mercedes-Benz",
     "mo": "A 180",
