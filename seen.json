@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:1f9b68c1-9003-44db-b61a-084f45602d2c": {
+    "p": 3900,
+    "f": "2026-06-24T12:20:42.230684+00:00",
+    "u": "https://www.autoscout24.at/angebote/ford-focus-traveller-1-5-tdci-trend-diesel-cat_ma29mo15537-1f9b68c1-9003-44db-b61a-084f45602d2c",
+    "t": "Ford Focus",
+    "ts": "2026-06-24T12:20:42.230684+00:00",
+    "ch": null,
+    "ma": "Ford",
+    "mo": "Focus",
+    "y": 2015,
+    "km": 223976,
+    "b": ""
+  },
   "as:520ec6ef-1279-4728-830a-a4badb63b7bd": {
     "p": null,
     "f": "2026-06-24T12:17:31.968459+00:00",
@@ -178,7 +191,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touran-2-0-tdi-140ps-dsg-highline-xenon-camera-navi-pano-1433946901/",
     "t": "VW Touran 2.0 TDI 140ps DSG *Highline*Xenon,Camera,Navi,Pano",
     "ts": "2026-06-24T12:17:28.812325+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Touran",
     "y": 2012,
@@ -205,7 +218,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-allroad-3-0-1394139817/",
     "t": "Audi A6 allroad 3.0",
     "ts": "2026-06-24T12:17:28.812325+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A6",
     "y": 2017,
@@ -144790,18 +144803,6 @@
     "mo": "Sharan",
     "y": 2013,
     "km": 360000
-  },
-  "gw:e8a9d332-e945-4f5a-ba43-cec15cbbb6fa": {
-    "p": 9500,
-    "f": "2026-06-16T08:21:04.336017+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-golf-1-6-bluetdi-dsg-trendline-diesel-cat_ma74mo2084/e8a9d332-e945-4f5a-ba43-cec15cbbb6fa",
-    "t": "Volkswagen Golf",
-    "ts": "2026-06-16T08:21:04.336017+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2015,
-    "km": 160000
   },
   "__health__": {
     "wh": 0,
