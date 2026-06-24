@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "as:0aaa13b6-abfe-4280-b597-3eb7ca236276": {
+    "p": 6500,
+    "f": "2026-06-24T11:39:22.097384+00:00",
+    "u": "https://www.autoscout24.at/angebote/bmw-116-116i-edition-lifestyle-benzin-blau-cat_ma13mo18480-0aaa13b6-abfe-4280-b597-3eb7ca236276",
+    "t": "BMW 116",
+    "ts": "2026-06-24T11:39:22.097384+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "116",
+    "y": 2011,
+    "km": 160000,
+    "b": "",
+    "pu": "2026-06-24T11:39:22.097384+00:00"
+  },
+  "as:6e7abebd-4ff9-4a06-8484-0d8b2586aa9f": {
+    "p": 6500,
+    "f": "2026-06-24T11:39:22.097384+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-astra-astra-k-sports-tourer-b16-diesel-1-6-cdti-35-diesel-schwarz-cat_ma54mo1916-6e7abebd-4ff9-4a06-8484-0d8b2586aa9f",
+    "t": "Opel Astra",
+    "ts": "2026-06-24T11:39:22.097384+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Astra",
+    "y": 2018,
+    "km": 149500,
+    "b": ""
+  },
   "gw:e0274054-6023-47a4-8839-f4a0c45fd817": {
     "p": 2000,
     "f": "2026-06-24T11:38:36.041679+00:00",
@@ -295,7 +322,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-2-0-4motion-110tdid7a-1727651051/",
     "t": "VW Tiguan 2,0 4Motion 110TDID7A",
     "ts": "2026-06-24T11:35:39.453240+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Tiguan",
     "y": 2016,
@@ -144719,30 +144746,6 @@
     "mo": "Ducato",
     "y": 2011,
     "km": 173000
-  },
-  "as:3709a8cd-915b-4ce7-9677-8b0ac21f2a08": {
-    "p": 4100,
-    "f": "2026-06-16T07:37:26.287674+00:00",
-    "u": "https://www.autoscout24.at/angebote/fiat-ducato-2-2l-100-multijet-pickerl-neu-diesel-weiss-cat_ma28mo14783-3709a8cd-915b-4ce7-9677-8b0ac21f2a08",
-    "t": "Fiat Ducato",
-    "ts": "2026-06-16T07:37:26.287674+00:00",
-    "ch": "alive",
-    "ma": "Fiat",
-    "mo": "Ducato",
-    "y": 2011,
-    "km": 173000
-  },
-  "as:9bef21cd-7bca-4d97-8542-7ccb3f2ee479": {
-    "p": null,
-    "f": "2026-06-16T07:36:36.757530+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
