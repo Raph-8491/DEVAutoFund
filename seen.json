@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:cdd49816-6576-4a27-bae8-54afe79e5a9f": {
+    "p": null,
+    "f": "2026-06-24T04:37:22.077767+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1061222276": {
+    "p": 10800,
+    "f": "2026-06-24T04:37:20.800354+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-st-fr-1-4-tsi-dsg-150-ps-erstbesitz-standheizung-1061222276/",
+    "t": "Seat Leon ST FR 1.4 TSI DSG 150 PS |Erstbesitz| Standheizung",
+    "ts": "2026-06-24T04:37:20.800354+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2016,
+    "km": 139100,
+    "b": "Kombi / Family Van"
+  },
   "as:da86ecda-62c6-4062-a384-19604e3b5955": {
     "p": null,
     "f": "2026-06-24T04:35:42.334940+00:00",
@@ -191,7 +216,7 @@
     "u": "https://www.autoscout24.at/angebote/ford-fiesta-st-line-1-0-ecoboost-start-stop-benzin-cat_ma29mo1758-1d287e3d-54b1-4157-b401-4de86ae64c90",
     "t": "Ford Fiesta",
     "ts": "2026-06-24T04:34:31.698603+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Ford",
     "mo": "Fiesta",
     "y": 2017,
@@ -144172,30 +144197,6 @@
     "mo": "Leon",
     "y": 2015,
     "km": 163000
-  },
-  "wh:2063615642": {
-    "p": 3000,
-    "f": "2026-06-15T18:28:34.050148+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-twingo-2063615642/",
-    "t": "Renault Twingo",
-    "ts": "2026-06-15T18:28:34.050148+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 155000
-  },
-  "wh:2040232067": {
-    "p": 11199,
-    "f": "2026-06-15T18:28:34.050148+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-sharan-1-9-tdi-7n-dsg-getrieb-2040232067/",
-    "t": "VW Sharan 1,9 Tdi 7N DSG Getrieb",
-    "ts": "2026-06-15T18:28:34.050148+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Sharan",
-    "y": 2013,
-    "km": 270000
   },
   "__health__": {
     "wh": 0,
