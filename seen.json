@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1729532304": {
+    "p": 9990,
+    "f": "2026-06-24T07:02:23.270396+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a1-audi-a1-1-6-s-line-1600-cm-1729532304/",
+    "t": "Audi A1 Audi A1 1,6 s-line 1600 cm\u00b2",
+    "ts": "2026-06-24T07:02:23.270396+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A1",
+    "y": 2014,
+    "km": 149600,
+    "b": "Limousine"
+  },
+  "wh:1717061572": {
+    "p": 10900,
+    "f": "2026-06-24T07:02:23.270396+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-2er-reihe-f46-gran-tourer-m-sportpaket-1717061572/",
+    "t": "BMW 2er-Reihe F46 Gran Tourer M-Sportpaket",
+    "ts": "2026-06-24T07:02:23.270396+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "2er-Reihe",
+    "y": 2016,
+    "km": 198600,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1444868812": {
+    "p": 4000,
+    "f": "2026-06-24T07:02:23.270396+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-agila-1-2-edition-1444868812/",
+    "t": "Opel Agila 1,2 Edition",
+    "ts": "2026-06-24T07:02:23.270396+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Agila",
+    "y": 2008,
+    "km": 55000,
+    "b": "Kombi / Family Van"
+  },
   "wh:1100049982": {
     "p": 10000,
     "f": "2026-06-24T06:58:23.852471+00:00",
@@ -1123,12 +1162,12 @@
     "b": ""
   },
   "as:cdb516b3-5b5f-41d0-bc47-d720af59e7b2": {
-    "p": 14000,
+    "p": 13500,
     "f": "2026-06-24T05:31:23.648895+00:00",
     "u": "https://www.autoscout24.at/angebote/suzuki-vitara-1-6-ddis-4wd-flash-dct-aut-diesel-cat_ma68mo2037-cdb516b3-5b5f-41d0-bc47-d720af59e7b2",
     "t": "Suzuki Vitara",
-    "ts": "2026-06-24T05:31:23.648895+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T07:02:27.275917+00:00",
+    "ch": null,
     "ma": "Suzuki",
     "mo": "Vitara",
     "y": 2016,
@@ -119798,16 +119837,17 @@
     "km": 160000
   },
   "wh:1345650994": {
-    "p": 6600,
+    "p": 6500,
     "f": "2026-06-17T07:07:29.131228+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-scenic-115-tce-1-2-4cyl-1345650994/",
     "t": "Renault Sc\u00e9nic 115 TCe 1.2 4Cyl",
-    "ts": "2026-06-17T07:07:29.131228+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T07:02:23.270396+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2015,
-    "km": 88500
+    "km": 88500,
+    "b": "Kombi / Family Van"
   },
   "as:9f3502c0-6b09-4514-802e-dfbe3779390f": {
     "p": null,
@@ -119870,16 +119910,17 @@
     "km": 133888
   },
   "wh:2051667878": {
-    "p": 7750,
+    "p": 7450,
     "f": "2026-06-17T07:03:22.701969+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mini-cooper-s-r56-n18-2051667878/",
     "t": "MINI Cooper S R56 N18",
-    "ts": "2026-06-17T07:03:22.701969+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T07:02:23.270396+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2010,
-    "km": 88966
+    "km": 88966,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:1634040360": {
     "p": 5100,
@@ -144282,42 +144323,6 @@
     "mo": "Ibiza",
     "y": 2012,
     "km": 234000
-  },
-  "as:9f58448f-29fd-4990-a7d3-8ac7af9b02c6": {
-    "p": null,
-    "f": "2026-06-15T19:21:27.708763+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "gw:e399a2d6-3bb2-41e5-a3ae-d62c9673fbe7": {
-    "p": 8500,
-    "f": "2026-06-15T19:21:01.482720+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/citroen-jumper-30-l1h1-diesel-cat_ma21mo14710/e399a2d6-3bb2-41e5-a3ae-d62c9673fbe7",
-    "t": "Citroen Jumper",
-    "ts": "2026-06-15T19:21:01.482720+00:00",
-    "ch": "alive",
-    "ma": "Citroen",
-    "mo": "Jumper",
-    "y": 2012,
-    "km": 128400
-  },
-  "gw:bc9d9a70-5000-486f-a0ce-ef5f771fcadc": {
-    "p": 10000,
-    "f": "2026-06-15T19:21:01.482720+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-120-120d-coupe-oesterreich-paket-diesel-cat_ma13mo18482/bc9d9a70-5000-486f-a0ce-ef5f771fcadc",
-    "t": "BMW 120",
-    "ts": "2026-06-15T19:21:01.482720+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "120",
-    "y": 2008,
-    "km": 143000
   },
   "__health__": {
     "wh": 0,
