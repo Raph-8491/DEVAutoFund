@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:935550018": {
+    "p": 14500,
+    "f": "2026-06-24T07:06:23.593940+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/land-rover-range-rover-evoque-2-2-sd4-awd-935550018/",
+    "t": "Land Rover Range Rover Evoque 2.2 SD4 AWD",
+    "ts": "2026-06-24T07:06:23.593940+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 173000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "gw:db576bb5-3e5e-4b7d-93b0-68322326c148": {
     "p": 2350,
     "f": "2026-06-24T07:05:52.356633+00:00",
@@ -144314,18 +144327,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1843248624": {
-    "p": 3499,
-    "f": "2026-06-15T19:24:32.032653+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-superb-2-0-diesel-dsg-1843248624/",
-    "t": "Skoda Superb 2.0 Diesel /DSG/",
-    "ts": "2026-06-15T19:24:32.032653+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Superb",
-    "y": 2010,
-    "km": 290000
   },
   "__health__": {
     "wh": 0,
