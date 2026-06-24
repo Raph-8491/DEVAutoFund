@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:4c00d551-fcc0-4d90-b59e-9a0c30e1ad5d": {
+    "p": null,
+    "f": "2026-06-24T08:45:40.605554+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:8c5120bd-2d26-4b2d-952e-652aedc3b6b6": {
     "p": 990,
     "f": "2026-06-24T08:44:31.280326+00:00",
@@ -229,7 +241,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/alfa-romeo-159-1320890750/",
     "t": "Alfa Romeo 159",
     "ts": "2026-06-24T08:42:27.384284+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": null,
     "mo": null,
     "y": 2008,
@@ -242,7 +254,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-2-0-tdi-797179075/",
     "t": "VW Golf 2.0 TDI",
     "ts": "2026-06-24T08:42:27.384284+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2009,
@@ -255,7 +267,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-320i-cabrio-oesterreich-paket-aut-1414322831/",
     "t": "BMW 3er-Reihe 320i Cabrio \u00d6sterreich-Paket Aut.",
     "ts": "2026-06-24T08:42:27.384284+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "3er-Reihe",
     "y": 2008,
@@ -268,7 +280,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-mokka-1-4-turbo-ecotec-cosmo-start-stop-system-1031833224/",
     "t": "Opel Mokka 1,4 Turbo Ecotec Cosmo Start/Stop System",
     "ts": "2026-06-24T08:42:27.384284+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Opel",
     "mo": "Mokka",
     "y": 2014,
@@ -144452,18 +144464,6 @@
     "mo": "Caravelle",
     "y": 2009,
     "km": 283000
-  },
-  "as:95f204c9-b1e2-44e0-8845-f7f3bb5a1f43": {
-    "p": null,
-    "f": "2026-06-15T20:53:28.773341+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
