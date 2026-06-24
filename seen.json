@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1425055079": {
+    "p": 14990,
+    "f": "2026-06-24T18:01:34.422629+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/nissan-juke-1-6-dig-t-nismo-rs-1425055079/",
+    "t": "Nissan Juke 1,6 DIG-T Nismo RS",
+    "ts": "2026-06-24T18:01:34.422629+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2016,
+    "km": 101000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1621333552": {
+    "p": 800,
+    "f": "2026-06-24T18:01:34.422629+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-2-0ctdi-1621333552/",
+    "t": "Opel Insignia 2.0CTDI",
+    "ts": "2026-06-24T18:01:34.422629+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Insignia",
+    "y": 2010,
+    "km": 287000,
+    "b": "Kombi / Family Van"
+  },
   "wh:2093392006": {
     "p": 6200,
     "f": "2026-06-24T17:59:23.526169+00:00",
@@ -258,7 +284,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-plus-trendline-1-6-tdi-dpf-1564240432/",
     "t": "VW Golf Plus Trendline 1,6 TDI DPF",
     "ts": "2026-06-24T17:58:28.512721+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2009,
@@ -285,7 +311,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-e91-318d-lci-m-paket-1946621948/",
     "t": "BMW 3er-Reihe E91 318d LCI M-Paket",
     "ts": "2026-06-24T17:58:28.512721+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "3er-Reihe",
     "y": 2011,
@@ -145373,30 +145399,6 @@
     "mo": "Ibiza",
     "y": 2014,
     "km": 84400
-  },
-  "wh:1199796685": {
-    "p": 850,
-    "f": "2026-06-16T14:37:22.826284+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-punto-1-4i-1199796685/",
-    "t": "Fiat Punto 1.4i",
-    "ts": "2026-06-16T14:37:22.826284+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 191000
-  },
-  "wh:858014863": {
-    "p": 5000,
-    "f": "2026-06-16T14:35:48.437468+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-2-0-tdi-858014863/",
-    "t": "Audi A4 2.0 TDI",
-    "ts": "2026-06-16T14:35:48.437468+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2009,
-    "km": 259000
   },
   "__health__": {
     "wh": 0,
