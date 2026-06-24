@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1867944094": {
+    "p": 4000,
+    "f": "2026-06-24T20:47:22.741841+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-1-7-cdti-neues-oeamtc-pickel-bis-05-2027-4-monat-1867944094/",
+    "t": "Opel Astra 1.7 cdti neues \u00d6AMTC Pickel bis 05.2027 + 4 Monat",
+    "ts": "2026-06-24T20:47:22.741841+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Astra",
+    "y": 2011,
+    "km": 204000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1810382053": {
     "p": 6500,
     "f": "2026-06-24T20:43:22.011090+00:00",
@@ -123156,7 +123169,8 @@
     "ma": "Opel",
     "mo": "Insignia",
     "y": 2015,
-    "km": 157000
+    "km": 157000,
+    "b": "Kombi / Family Van"
   },
   "wh:878433405": {
     "p": 2500,
@@ -145671,18 +145685,6 @@
     "mo": "Sportage",
     "y": 2011,
     "km": 155000
-  },
-  "as:1798afea-40da-494a-9e0c-8ef9720218e4": {
-    "p": null,
-    "f": "2026-06-16T16:52:43.094381+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
