@@ -147,6 +147,20 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1343028613": {
+    "p": 12200,
+    "f": "2026-06-24T14:47:27.526032+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-bmw-525d-xdrive-1343028613/",
+    "t": "BMW 5er-Reihe Bmw 525d xdrive",
+    "ts": "2026-06-24T14:47:27.526032+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "5er-Reihe",
+    "y": 2012,
+    "km": 210000,
+    "b": "Limousine",
+    "pu": "2026-06-24T14:47:27.526032+00:00"
+  },
   "gw:fe8e9805-fa8f-403e-abd3-1fb69de54e2e": {
     "p": 1800,
     "f": "2026-06-24T14:45:50.390976+00:00",
@@ -145038,18 +145052,6 @@
     "mo": "A3",
     "y": 2017,
     "km": 249200
-  },
-  "wh:1160280314": {
-    "p": 3900,
-    "f": "2026-06-16T11:12:26.599742+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-c-max-grand-easy-1-0l-1160280314/",
-    "t": "Ford C-MAX Grand Easy 1,0l",
-    "ts": "2026-06-23T11:13:24.011620+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 139500
   },
   "__health__": {
     "wh": 0,
