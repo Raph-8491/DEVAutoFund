@@ -147,6 +147,43 @@
     "y": 2009,
     "km": 235000
   },
+  "as:d3e613c7-362e-4258-903f-c795256bf7f3": {
+    "p": null,
+    "f": "2026-06-24T09:50:42.935275+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:56953424-d0f7-4903-871d-f460f5a9c075": {
+    "p": null,
+    "f": "2026-06-24T09:50:42.935275+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1559539855": {
+    "p": 5499,
+    "f": "2026-06-24T09:50:40.979327+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/land-rover-freelander-land-rover-freelander-2-td4-s-scheckheft-bei-land-rover-pickerl-bis-03-2027-1559539855/",
+    "t": "Land Rover Freelander Land Rover Freelander 2 TD4 S Scheckheft bei Land Rover Pickerl bis 03 2027",
+    "ts": "2026-06-24T09:50:40.979327+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 308000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "as:b8caf2a3-c0f6-44b6-a8fd-32e4c219488e": {
     "p": null,
     "f": "2026-06-24T09:48:26.476174+00:00",
@@ -217,7 +254,7 @@
     "u": "https://www.autoscout24.at/angebote/volkswagen-golf-golf-sport-1-6-bmt-tdi-dsg-sport-diesel-schwarz-cat_ma74mo2084-97c8212e-68a4-4c29-8970-270a78648f4e",
     "t": "Volkswagen Golf",
     "ts": "2026-06-24T09:47:29.749549+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2015,
@@ -144534,42 +144571,6 @@
     "mo": "Focus",
     "y": 2014,
     "km": 129000
-  },
-  "gw:d9e7e3f0-d696-410d-9401-88e2441a983e": {
-    "p": 6500,
-    "f": "2026-06-16T04:06:33.430834+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-golf-2012-1-6-tdi-dpf-diesel-cat_ma74mo2084/d9e7e3f0-d696-410d-9401-88e2441a983e",
-    "t": "Volkswagen Golf",
-    "ts": "2026-06-16T04:06:33.430834+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2012,
-    "km": 146200
-  },
-  "as:d9e7e3f0-d696-410d-9401-88e2441a983e": {
-    "p": 6500,
-    "f": "2026-06-16T04:06:26.369712+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-2012-1-6-tdi-dpf-diesel-cat_ma74mo2084-d9e7e3f0-d696-410d-9401-88e2441a983e",
-    "t": "Volkswagen Golf",
-    "ts": "2026-06-16T04:06:26.369712+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2012,
-    "km": 146200
-  },
-  "wh:984932725": {
-    "p": 1000,
-    "f": "2026-06-16T04:05:41.156229+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c4-picasso-984932725/",
-    "t": "Citro\u00ebn C4 Picasso",
-    "ts": "2026-06-16T04:05:41.156229+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 102000
   },
   "__health__": {
     "wh": 0,
