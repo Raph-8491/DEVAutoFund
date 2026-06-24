@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:18a8fd58-e577-4057-bc60-3b9d0058afe7": {
+    "p": null,
+    "f": "2026-06-24T11:57:26.942711+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1834843275": {
     "p": 9900,
     "f": "2026-06-24T11:55:35.640495+00:00",
@@ -144748,18 +144760,6 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/citroen-berlingo-1-6-hdi-fap-90-l2-standard-diesel-cat_ma21mo15142/0e616970-5789-4048-806b-985ea0096d2d",
     "t": "Citroen Berlingo",
     "ts": "2026-06-16T07:54:46.690858+00:00",
-    "ch": "alive",
-    "ma": "Citroen",
-    "mo": "Berlingo",
-    "y": 2012,
-    "km": 260000
-  },
-  "as:0e616970-5789-4048-806b-985ea0096d2d": {
-    "p": 2200,
-    "f": "2026-06-16T07:54:35.418412+00:00",
-    "u": "https://www.autoscout24.at/angebote/citroen-berlingo-1-6-hdi-fap-90-l2-standard-diesel-cat_ma21mo15142-0e616970-5789-4048-806b-985ea0096d2d",
-    "t": "Citroen Berlingo",
-    "ts": "2026-06-16T07:54:35.418412+00:00",
     "ch": "alive",
     "ma": "Citroen",
     "mo": "Berlingo",
