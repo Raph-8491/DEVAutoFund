@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:995961410": {
+    "p": 11900,
+    "f": "2026-06-24T10:27:25.001325+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-q5-2-0-tdi-995961410/",
+    "t": "Audi Q5 2,0 TDI",
+    "ts": "2026-06-24T10:27:25.001325+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "Q5",
+    "y": 2011,
+    "km": 253000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1118753652": {
+    "p": 1650,
+    "f": "2026-06-24T10:27:25.001325+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-207-1-6-hdi-1118753652/",
+    "t": "Peugeot 207 1.6 HDI",
+    "ts": "2026-06-24T10:27:25.001325+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 240000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:800685416": {
+    "p": 4500,
+    "f": "2026-06-24T10:27:25.001325+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-cabrio-2-0-tfsi-800685416/",
+    "t": "Audi A5 Cabrio 2,0 TFSI",
+    "ts": "2026-06-24T10:27:25.001325+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A5",
+    "y": 2011,
+    "km": 237000,
+    "b": "Cabrio / Roadster"
+  },
   "wh:944837348": {
     "p": 8500,
     "f": "2026-06-24T10:26:25.852586+00:00",
@@ -179,7 +218,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-facelift-lci-pano-navi-kette-neu-1402810981/",
     "t": "BMW 3er-Reihe Facelift LCI//Pano//Navi//Kette Neu",
     "ts": "2026-06-24T10:24:26.629428+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "3er-Reihe",
     "y": 2010,
@@ -121069,16 +121108,17 @@
     "km": 139000
   },
   "wh:1226962129": {
-    "p": 8500,
+    "p": 8000,
     "f": "2026-06-17T10:28:27.045539+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/nissan-juke-1-5-dci-acenta-1226962129/",
     "t": "Nissan Juke 1,5 dCi Acenta",
-    "ts": "2026-06-17T10:28:27.045539+00:00",
-    "ch": "alive",
+    "ts": "2026-06-24T10:27:25.001325+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2015,
-    "km": 143000
+    "km": 143000,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "wh:1635984680": {
     "p": 9990,
@@ -121090,7 +121130,8 @@
     "ma": null,
     "mo": null,
     "y": 2016,
-    "km": 47590
+    "km": 47590,
+    "b": "Limousine"
   },
   "as:d182031c-fdb8-4879-be46-d0ccc5705c9b": {
     "p": null,
@@ -144587,42 +144628,6 @@
     "mo": "Golf",
     "y": 2009,
     "km": 232000
-  },
-  "gw:4a51c9bf-5ad7-40de-9316-1ed6c700831a": {
-    "p": 12000,
-    "f": "2026-06-16T05:51:35.844160+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/peugeot-partner-partner-standard-bluehdi-100-s-diesel-weiss-cat_ma55mo14822/4a51c9bf-5ad7-40de-9316-1ed6c700831a",
-    "t": "Peugeot Partner",
-    "ts": "2026-06-16T05:51:35.844160+00:00",
-    "ch": "alive",
-    "ma": "Peugeot",
-    "mo": "Partner",
-    "y": 2021,
-    "km": 114232
-  },
-  "as:4a51c9bf-5ad7-40de-9316-1ed6c700831a": {
-    "p": 12000,
-    "f": "2026-06-16T05:51:26.181074+00:00",
-    "u": "https://www.autoscout24.at/angebote/peugeot-partner-partner-standard-bluehdi-100-s-diesel-weiss-cat_ma55mo14822-4a51c9bf-5ad7-40de-9316-1ed6c700831a",
-    "t": "Peugeot Partner",
-    "ts": "2026-06-16T05:51:26.181074+00:00",
-    "ch": "alive",
-    "ma": "Peugeot",
-    "mo": "Partner",
-    "y": 2021,
-    "km": 114232
-  },
-  "as:e3f83bac-6695-4d9a-a476-e5caab4ec989": {
-    "p": null,
-    "f": "2026-06-16T05:50:45.719215+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
