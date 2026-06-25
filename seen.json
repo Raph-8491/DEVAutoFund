@@ -148,6 +148,45 @@
     "y": 2009,
     "km": 235000
   },
+  "as:8913e3c2-044e-4bd9-9d8b-c3ed1e398978": {
+    "p": null,
+    "f": "2026-06-25T13:41:33.310720+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1786717811": {
+    "p": 15000,
+    "f": "2026-06-25T13:41:29.774569+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mini-cooper-1786717811/",
+    "t": "MINI Cooper",
+    "ts": "2026-06-25T13:41:29.774569+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2019,
+    "km": 52000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1497783054": {
+    "p": 12500,
+    "f": "2026-06-25T13:41:29.774569+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-1497783054/",
+    "t": "BMW 5er-Reihe",
+    "ts": "2026-06-25T13:41:29.774569+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "5er-Reihe",
+    "y": 2010,
+    "km": 196100,
+    "b": "Limousine",
+    "pu": "2026-06-25T13:41:29.774569+00:00"
+  },
   "as:7824031a-5097-44c4-8bb6-995a94ab7c4a": {
     "p": null,
     "f": "2026-06-25T13:40:45.097221+00:00",
@@ -146581,42 +146620,6 @@
     "mo": "Q3",
     "y": 2012,
     "km": 248923
-  },
-  "wh:2039404818": {
-    "p": 9900,
-    "f": "2026-06-17T10:12:29.733443+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-s-max-titanium-2-0-tdci-7-sitzer-2039404818/",
-    "t": "Ford S-MAX Titanium 2.0 TDCi, 7 Sitzer",
-    "ts": "2026-06-17T10:12:29.733443+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2013,
-    "km": 175000
-  },
-  "as:34877542-4b52-469e-b2b3-8cd3a9a92d19": {
-    "p": null,
-    "f": "2026-06-17T10:10:47.398018+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "gw:6f93a6bc-40a4-4d62-a19d-6fedbe9f5255": {
-    "p": 5900,
-    "f": "2026-06-17T10:09:45.550446+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/audi-a4-avant-2-0-tdi-dpf-pickerl-neu-diesel-cat_ma9mo1626/6f93a6bc-40a4-4d62-a19d-6fedbe9f5255",
-    "t": "Audi A4",
-    "ts": "2026-06-17T10:09:45.550446+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2008,
-    "km": 275000
   },
   "__health__": {
     "wh": 0,
