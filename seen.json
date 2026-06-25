@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1691546551": {
+    "p": 9800,
+    "f": "2026-06-25T05:32:29.716174+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-pickerl-neu-1-6-tdi-style-1691546551/",
+    "t": "Skoda Octavia PICKERL NEU 1,6 TDI Style",
+    "ts": "2026-06-25T05:32:29.716174+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Octavia",
+    "y": 2017,
+    "km": 176000,
+    "b": "Kombi / Family Van"
+  },
   "wh:1394717329": {
     "p": 12490,
     "f": "2026-06-25T05:28:35.156339+00:00",
@@ -123488,7 +123501,8 @@
     "ma": "VW",
     "mo": "Golf",
     "y": 2015,
-    "km": 195204
+    "km": 195204,
+    "b": "Kombi / Family Van"
   },
   "wh:2110797352": {
     "p": 8760,
@@ -123500,7 +123514,8 @@
     "ma": null,
     "mo": null,
     "y": 2012,
-    "km": 27000
+    "km": 27000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "as:5e933ceb-dd58-47c4-9280-39db768e989f": {
     "p": null,
@@ -145839,18 +145854,6 @@
     "mo": "Corsa",
     "y": 2010,
     "km": 145000
-  },
-  "gw:b3578ab2-bf98-40e8-918c-22e190621729": {
-    "p": 10000,
-    "f": "2026-06-16T18:09:38.572796+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-318-318d-xdrive-touring-diesel-cat_ma13mo1640/b3578ab2-bf98-40e8-918c-22e190621729",
-    "t": "BMW 318",
-    "ts": "2026-06-16T18:32:00.526119+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "318",
-    "y": 2013,
-    "km": 203000
   },
   "__health__": {
     "wh": 0,
