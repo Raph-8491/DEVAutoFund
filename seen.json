@@ -148,6 +148,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:504f49d6-a8ee-418e-afdd-4447b4bb86ae": {
+    "p": null,
+    "f": "2026-06-25T12:18:26.850847+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:885994891": {
+    "p": 2999,
+    "f": "2026-06-25T12:18:25.608828+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-megane-renault-megane-1-6-neues-pickerl-885994891/",
+    "t": "Renault M\u00e9gane Renault M\u00e9gane 1.6 NEUES PICKERL!!",
+    "ts": "2026-06-25T12:18:25.608828+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 190000,
+    "b": "Sportwagen / Coup\u00e9"
+  },
   "as:85b2d92b-2af9-4a61-bc52-95235efdbbe2": {
     "p": 3500,
     "f": "2026-06-25T12:17:26.455271+00:00",
@@ -125748,16 +125773,17 @@
     "km": 129000
   },
   "wh:1698703857": {
-    "p": 2799,
+    "p": 2500,
     "f": "2026-06-18T12:18:31.175637+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-207-1-4-oe3-1698703857/",
     "t": "Peugeot 207 1.4 \u00d63",
-    "ts": "2026-06-18T12:18:31.175637+00:00",
-    "ch": "alive",
+    "ts": "2026-06-25T12:18:25.608828+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2011,
-    "km": 169000
+    "km": 169000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:1073888726": {
     "p": 4590,
@@ -146481,30 +146507,6 @@
     "mo": "Golf",
     "y": 2011,
     "km": 210000
-  },
-  "wh:1882731855": {
-    "p": 9800,
-    "f": "2026-06-17T08:51:30.092579+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-st-style-1-6-tdi-start-stopp-1882731855/",
-    "t": "Seat Leon ST Style 1,6 TDI Start-Stopp",
-    "ts": "2026-06-17T08:51:30.092579+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Leon",
-    "y": 2017,
-    "km": 205411
-  },
-  "wh:1790030112": {
-    "p": 5999,
-    "f": "2026-06-17T08:49:29.981492+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-fabia-1-2-tsi-active-klima-pickerl-bis-02-2027-1790030112/",
-    "t": "Skoda Fabia 1,2 TSI \"ACTIVE\" KLIMA PICKERL bis 02/2027",
-    "ts": "2026-06-17T08:49:29.981492+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Fabia",
-    "y": 2015,
-    "km": 135000
   },
   "__health__": {
     "wh": 0,
