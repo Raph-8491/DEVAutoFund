@@ -148,6 +148,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:909301964": {
+    "p": 5990,
+    "f": "2026-06-25T12:58:27.118141+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c4-picasso-e-hdi-115-909301964/",
+    "t": "Citro\u00ebn C4 Picasso e-HDI 115...",
+    "ts": "2026-06-25T12:58:27.118141+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 117000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:953172177": {
+    "p": 4000,
+    "f": "2026-06-25T12:58:27.118141+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-500-1-2-69-ps-953172177/",
+    "t": "Fiat 500 1.2 69 PS",
+    "ts": "2026-06-25T12:58:27.118141+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 130000,
+    "b": "Limousine"
+  },
+  "wh:1586151918": {
+    "p": 6990,
+    "f": "2026-06-25T12:58:27.118141+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-kuga-trend-4wd-2-0d-1586151918/",
+    "t": "Ford Kuga TREND 4WD 2,0D",
+    "ts": "2026-06-25T12:58:27.118141+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2014,
+    "km": 140000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "as:7ab3690d-812c-45fc-bec0-cfb77d929c7e": {
     "p": null,
     "f": "2026-06-25T12:56:39.896355+00:00",
@@ -125810,7 +125849,8 @@
     "ma": "Seat",
     "mo": "Exeo",
     "y": 2009,
-    "km": 192133
+    "km": 192133,
+    "b": "Limousine"
   },
   "wh:1926886177": {
     "p": 8990,
@@ -146524,42 +146564,6 @@
     "mo": "Passat Variant",
     "y": 2010,
     "km": 275000
-  },
-  "as:97432eab-583c-4216-9bde-8deac86da36f": {
-    "p": null,
-    "f": "2026-06-17T09:36:39.668174+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:2ebdd877-f60d-4adb-8aaa-1335375daafe": {
-    "p": null,
-    "f": "2026-06-17T09:36:39.668174+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:6742cf8c-5a37-4a94-b189-fbc1e5981671": {
-    "p": null,
-    "f": "2026-06-17T09:34:31.510219+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
