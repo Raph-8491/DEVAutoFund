@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:f1e1a4d4-f715-4bf9-95a3-cc5e0a462f2b": {
+    "p": null,
+    "f": "2026-06-25T10:26:29.786013+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1325436600": {
     "p": 11200,
     "f": "2026-06-25T10:25:36.931028+00:00",
@@ -146281,19 +146293,6 @@
     "mo": "Colt",
     "y": 2012,
     "km": 117000
-  },
-  "wh:1322712071": {
-    "p": 11900,
-    "f": "2026-06-17T05:31:25.180127+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-2er-reihe-active-tourer-216d-1322712071/",
-    "t": "BMW 2er-Reihe Active Tourer 216d",
-    "ts": "2026-06-24T05:25:33.799564+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "2er-Reihe",
-    "y": 2019,
-    "km": 111000,
-    "b": "Limousine"
   },
   "__health__": {
     "wh": 0,
