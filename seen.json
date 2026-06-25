@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:fea01c25-00d4-4d31-8358-fc74a2bbce3f": {
+    "p": 8600,
+    "f": "2026-06-25T14:09:46.225137+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/audi-a3-a3-sb-attraction-2-0-tdi-s-tronic-attraction-diesel-grau-cat_ma9mo1624/fea01c25-00d4-4d31-8358-fc74a2bbce3f",
+    "t": "Audi A3 A3 SB Attraction 2,0 TDI S-tronic Attraction",
+    "ts": "2026-06-25T14:09:46.225137+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A3",
+    "y": 2015,
+    "km": 297000,
+    "b": ""
+  },
   "as:fc7df253-8cd9-489b-aadb-1a09f7afd2d5": {
     "p": null,
     "f": "2026-06-25T14:08:35.514907+00:00",
@@ -178,7 +191,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-116d-f20-1656786658/",
     "t": "BMW 1er-Reihe 116d F20",
     "ts": "2026-06-25T14:06:26.912822+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "1er-Reihe",
     "y": 2013,
@@ -192,7 +205,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touran-1-6-tdi-937917669/",
     "t": "VW Touran 1.6 TDI",
     "ts": "2026-06-25T14:06:26.912822+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Touran",
     "y": 2012,
@@ -146640,18 +146653,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1691969618": {
-    "p": 5500,
-    "f": "2026-06-17T10:37:28.111676+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c4-puretech-110-feel-1691969618/",
-    "t": "Citro\u00ebn C4 PureTech 110 Feel",
-    "ts": "2026-06-17T10:37:28.111676+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2017,
-    "km": 72400
   },
   "__health__": {
     "wh": 0,
