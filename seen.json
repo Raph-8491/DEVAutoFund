@@ -148,6 +148,20 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:928059366": {
+    "p": 14500,
+    "f": "2026-06-25T15:48:26.488255+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-928059366/",
+    "t": "VW Golf",
+    "ts": "2026-06-25T15:48:26.488255+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2014,
+    "km": 130000,
+    "b": "Sportwagen / Coup\u00e9",
+    "pu": "2026-06-25T15:48:26.488255+00:00"
+  },
   "gw:1539049d-9a96-4d3e-9251-9c7ad7c4c1d5": {
     "p": 5700,
     "f": "2026-06-25T15:45:45.971148+00:00",
@@ -126218,7 +126232,8 @@
     "ma": "VW",
     "mo": "Passat",
     "y": 2016,
-    "km": 322000
+    "km": 322000,
+    "b": "Kombi / Family Van"
   },
   "wh:901402766": {
     "p": 1800,
@@ -146790,18 +146805,6 @@
     "mo": "Fiesta",
     "y": 2018,
     "km": 100177
-  },
-  "as:7ddead2c-6ce9-4c0a-86bb-1ce4f19cfc32": {
-    "p": 12000,
-    "f": "2026-06-17T13:01:41.709762+00:00",
-    "u": "https://www.autoscout24.at/angebote/peugeot-partner-partner-kw-standard-bluehdi-10-diesel-weiss-cat_ma55mo14822-7ddead2c-6ce9-4c0a-86bb-1ce4f19cfc32",
-    "t": "Peugeot Partner",
-    "ts": "2026-06-17T13:01:41.709762+00:00",
-    "ch": "alive",
-    "ma": "Peugeot",
-    "mo": "Partner",
-    "y": 2021,
-    "km": 113110
   },
   "__health__": {
     "wh": 0,
