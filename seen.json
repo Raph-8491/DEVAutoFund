@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:5bbb7874-2f38-4d86-b10b-43004b04cacd": {
+    "p": null,
+    "f": "2026-06-25T09:39:26.086662+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:cf9f8af0-23c2-4320-8a79-83686f97acfc": {
     "p": null,
     "f": "2026-06-25T09:38:29.218220+00:00",
@@ -205,7 +217,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1653179528/",
     "t": "VW Golf",
     "ts": "2026-06-25T09:36:29.595410+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2013,
@@ -146204,19 +146216,6 @@
     "mo": null,
     "y": 2012,
     "km": 183000
-  },
-  "wh:1780641118": {
-    "p": 8999,
-    "f": "2026-06-17T01:01:39.794959+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-f30-1780641118/",
-    "t": "BMW 3er-Reihe F30",
-    "ts": "2026-06-17T01:01:39.794959+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2013,
-    "km": 237000,
-    "b": "Limousine"
   },
   "__health__": {
     "wh": 0,
