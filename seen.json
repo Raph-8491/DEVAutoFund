@@ -147,6 +147,34 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1505243851": {
+    "p": 12000,
+    "f": "2026-06-25T07:55:33.652931+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-q5-2-0-tdi-quattro-intense-s-tronic-1505243851/",
+    "t": "Audi Q5 2,0 TDI quattro Intense S-tronic",
+    "ts": "2026-06-25T07:55:33.652931+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "Q5",
+    "y": 2015,
+    "km": 250000,
+    "b": "SUV / Gel\u00e4ndewagen",
+    "pu": "2026-06-25T07:55:33.652931+00:00"
+  },
+  "wh:1074282278": {
+    "p": 9800,
+    "f": "2026-06-25T07:55:33.652931+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-bmw320-touring-aut-garantie-pickler-neu-service-1074282278/",
+    "t": "BMW 3er-Reihe BMW320 Touring Aut/Garantie-Pickler|Neu|Service",
+    "ts": "2026-06-25T07:55:33.652931+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "3er-Reihe",
+    "y": 2017,
+    "km": 334000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T07:55:33.652931+00:00"
+  },
   "as:185ee2c9-7200-4a14-89d4-0ec4573405df": {
     "p": null,
     "f": "2026-06-25T07:53:26.420870+00:00",
@@ -123459,7 +123487,8 @@
     "ma": "Seat",
     "mo": "Leon",
     "y": 2019,
-    "km": 212441
+    "km": 212441,
+    "b": "Kombi / Family Van"
   },
   "wh:1963227507": {
     "p": 4700,
@@ -145999,30 +146028,6 @@
     "km": null
   },
   "as:e3cbc456-6d9a-4efb-9807-dbc778879e68": {
-    "p": null,
-    "f": "2026-06-16T19:14:38.687517+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:c04a7bc7-9631-4bdb-8aa0-c33c5814cb18": {
-    "p": null,
-    "f": "2026-06-16T19:14:38.687517+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:7a093ab8-e68d-49de-b8db-51d3ff3bb357": {
     "p": null,
     "f": "2026-06-16T19:14:38.687517+00:00",
     "u": null,
