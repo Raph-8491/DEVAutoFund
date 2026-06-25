@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:2197f385-dccf-4d9f-8449-84e87e4284d8": {
+    "p": null,
+    "f": "2026-06-25T15:39:27.560008+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1719059770": {
     "p": 3500,
     "f": "2026-06-25T15:38:26.863517+00:00",
@@ -180,7 +192,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-2-0-1595918174/",
     "t": "BMW 1er-Reihe 2.0",
     "ts": "2026-06-25T15:36:28.889200+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "1er-Reihe",
     "y": 2013,
@@ -146772,18 +146784,6 @@
     "mo": "Scirocco",
     "y": 2012,
     "km": 126000
-  },
-  "wh:784567040": {
-    "p": 2890,
-    "f": "2026-06-17T12:40:49.429210+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-megane-renault-megane-1-6benzin-cabrio-leder-pano-169tkm-784567040/",
-    "t": "Renault M\u00e9gane Renault Megane 1,6Benzin/Cabrio/Leder/Pano/169TKM",
-    "ts": "2026-06-17T12:40:49.429210+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 169000
   },
   "__health__": {
     "wh": 0,
