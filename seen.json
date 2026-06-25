@@ -148,6 +148,34 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1007302197": {
+    "p": 4995,
+    "f": "2026-06-25T16:22:26.660121+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-trendline-1-4-1007302197/",
+    "t": "VW Golf Trendline 1,4",
+    "ts": "2026-06-25T16:22:26.660121+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2009,
+    "km": 160000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T16:22:26.660121+00:00"
+  },
+  "wh:774741650": {
+    "p": 7500,
+    "f": "2026-06-25T16:22:26.660121+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-774741650/",
+    "t": "VW Polo",
+    "ts": "2026-06-25T16:22:26.660121+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Polo",
+    "y": 2017,
+    "km": 52500,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T16:22:26.660121+00:00"
+  },
   "gw:aac01b93-9771-4333-9031-2d87b6c7cbd9": {
     "p": 3800,
     "f": "2026-06-25T16:19:34.498524+00:00",
@@ -126559,16 +126587,17 @@
     "km": 241491
   },
   "wh:1887787466": {
-    "p": 3300,
+    "p": 3000,
     "f": "2026-06-18T16:26:27.992894+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-rio-1-4-crdi-isg-cool-1887787466/",
     "t": "KIA Rio 1,4 CRDi ISG Cool",
-    "ts": "2026-06-18T16:26:27.992894+00:00",
-    "ch": "alive",
+    "ts": "2026-06-25T16:22:26.660121+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2013,
-    "km": 170704
+    "km": 170704,
+    "b": "Limousine"
   },
   "wh:1078607752": {
     "p": 8000,
@@ -146847,30 +146876,6 @@
     "mo": "Golf",
     "y": 2011,
     "km": 275600
-  },
-  "wh:1559408793": {
-    "p": 10900,
-    "f": "2026-06-17T13:59:31.404647+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-e-klasse-350-4matic-1559408793/",
-    "t": "Mercedes-Benz E-Klasse 350 4MATIC",
-    "ts": "2026-06-17T13:59:31.404647+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "E-Klasse",
-    "y": 2013,
-    "km": 276000
-  },
-  "gw:6fa74967-02bd-4ead-9e86-3b64f20143e9": {
-    "p": 7990,
-    "f": "2026-06-17T13:58:51.312973+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/ford-focus-1-0-ecoboost-trend-benzin-cat_ma29mo15537/6fa74967-02bd-4ead-9e86-3b64f20143e9",
-    "t": "Ford Focus",
-    "ts": "2026-06-17T13:58:51.312973+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Focus",
-    "y": 2014,
-    "km": 97980
   },
   "__health__": {
     "wh": 0,
