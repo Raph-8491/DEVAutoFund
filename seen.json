@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1895073792": {
+    "p": 2500,
+    "f": "2026-06-25T07:21:27.962034+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-cordoba-fresh-1-2-1895073792/",
+    "t": "Seat Cordoba Fresh 1,2",
+    "ts": "2026-06-25T07:21:27.962034+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Cordoba",
+    "y": 2009,
+    "km": 107000,
+    "b": "Limousine"
+  },
   "as:e6e7f16d-4eef-4d65-9f50-9c32e6d34966": {
     "p": null,
     "f": "2026-06-25T07:20:44.715435+00:00",
@@ -145980,18 +145993,6 @@
     "mo": "C-Klasse",
     "y": 2009,
     "km": 235000
-  },
-  "wh:1747355259": {
-    "p": 2200,
-    "f": "2026-06-16T18:54:46.847971+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-116d-advantage-1747355259/",
-    "t": "BMW 1er-Reihe 116d Advantage",
-    "ts": "2026-06-16T18:54:46.847971+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "1er-Reihe",
-    "y": 2009,
-    "km": 247000
   },
   "__health__": {
     "wh": 0,
