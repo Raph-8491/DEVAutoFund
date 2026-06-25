@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:986610047": {
+    "p": 14500,
+    "f": "2026-06-25T04:43:25.699642+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-bmw-116i-m-sport-edition-986610047/",
+    "t": "BMW 1er-Reihe BMW 116i M-Sport Edition",
+    "ts": "2026-06-25T04:43:25.699642+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "1er-Reihe",
+    "y": 2018,
+    "km": 125000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T04:43:25.699642+00:00"
+  },
+  "wh:1561307364": {
+    "p": 12200,
+    "f": "2026-06-25T04:43:25.699642+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-b8-facelift-pickerl-neu-1561307364/",
+    "t": "(reserviert) Audi A4 B8 Facelift | Pickerl neu |",
+    "ts": "2026-06-25T04:43:25.699642+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2015,
+    "km": 220761,
+    "b": "Kombi / Family Van"
+  },
   "wh:1464055294": {
     "p": 14800,
     "f": "2026-06-25T04:38:28.490817+00:00",
@@ -123369,7 +123396,8 @@
     "ma": null,
     "mo": null,
     "y": 2019,
-    "km": 83500
+    "km": 83500,
+    "b": "Limousine"
   },
   "wh:1494005761": {
     "p": 9500,
@@ -145784,30 +145812,6 @@
     "mo": "2",
     "y": 2016,
     "km": 156000
-  },
-  "as:47071231-7009-40d3-93da-47278714a019": {
-    "p": 5900,
-    "f": "2026-06-16T17:50:50.385935+00:00",
-    "u": "https://www.autoscout24.at/angebote/mazda-2-skyactiv-d-105-exclusive-line-diesel-cat_ma46mo18342-47071231-7009-40d3-93da-47278714a019",
-    "t": "Mazda 2",
-    "ts": "2026-06-16T17:50:50.385935+00:00",
-    "ch": "alive",
-    "ma": "Mazda",
-    "mo": "2",
-    "y": 2016,
-    "km": 156000
-  },
-  "gw:ea8568b2-640e-4357-8d1c-14046e2673b4": {
-    "p": 3500,
-    "f": "2026-06-16T17:49:45.928370+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/honda-jazz-1-2i-style-benzin-cat_ma31mo16490/ea8568b2-640e-4357-8d1c-14046e2673b4",
-    "t": "Honda Jazz",
-    "ts": "2026-06-16T17:49:45.928370+00:00",
-    "ch": "alive",
-    "ma": "Honda",
-    "mo": "Jazz",
-    "y": 2010,
-    "km": 181000
   },
   "__health__": {
     "wh": 0,
