@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:c6819569-d28f-4d24-acd3-61a357d45b19": {
+    "p": null,
+    "f": "2026-06-25T09:12:26.709423+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:94016873-6eb4-4b04-98ba-a1e53dd20c64": {
     "p": null,
     "f": "2026-06-25T09:11:32.093114+00:00",
@@ -219,7 +231,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-316d-1176033461/",
     "t": "BMW 3er-Reihe 316d",
     "ts": "2026-06-25T09:09:25.596932+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "3er-Reihe",
     "y": 2016,
@@ -146160,18 +146172,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1896935087": {
-    "p": 2200,
-    "f": "2026-06-16T20:52:43.789518+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-st-2-0-cosmo-cdti-dpf-aut-1896935087/",
-    "t": "Opel Insignia ST 2,0 Cosmo CDTI DPF Aut.",
-    "ts": "2026-06-16T20:52:43.789518+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Insignia",
-    "y": 2012,
-    "km": 350255
   },
   "__health__": {
     "wh": 0,
