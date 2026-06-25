@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:797b6930-2bab-4ef6-9d30-58900acd6eff": {
+    "p": null,
+    "f": "2026-06-25T12:40:42.957009+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:322a9f92-d736-4cb5-b393-73516049472c": {
     "p": null,
     "f": "2026-06-25T12:39:27.149426+00:00",
@@ -146529,18 +146541,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:58f8ff47-4505-42c1-b486-42063ced8756": {
-    "p": 6600,
-    "f": "2026-06-17T09:14:29.812658+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-caddy-caddy-2-0-tdi-5-si-dsg-bmt-edition-30-diesel-violett-cat_ma74mo15734-58f8ff47-4505-42c1-b486-42063ced8756",
-    "t": "Volkswagen Caddy",
-    "ts": "2026-06-17T09:14:29.812658+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Caddy",
-    "y": 2014,
-    "km": 422000
   },
   "__health__": {
     "wh": 0,
