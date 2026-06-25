@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:26eaa6e3-1c18-4dd2-b337-fd3333b025e0": {
+    "p": null,
+    "f": "2026-06-25T05:10:45.196321+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1507607128": {
     "p": 4900,
     "f": "2026-06-25T05:07:21.938947+00:00",
@@ -145820,18 +145832,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1462637950": {
-    "p": 3800,
-    "f": "2026-06-16T18:01:34.554607+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-punto-1-2l-1462637950/",
-    "t": "Fiat Punto 1.2l",
-    "ts": "2026-06-16T18:01:34.554607+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 112056
   },
   "__health__": {
     "wh": 0,
