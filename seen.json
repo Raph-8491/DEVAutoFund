@@ -150,10 +150,10 @@
   },
   "as:f7ffd973-a98f-4616-9182-561cb5df1cf1": {
     "p": 3990,
-    "f": "2026-06-25T14:30:59.925663+00:00",
+    "f": "2026-06-25T14:31:34.026278+00:00",
     "u": "https://www.autoscout24.at/angebote/opel-astra-edition-111-jahre-benzin-schwarz-cat_ma54mo1916-f7ffd973-a98f-4616-9182-561cb5df1cf1",
     "t": "Opel Astra Edition \"111 Jahre\"",
-    "ts": "2026-06-25T14:30:59.925663+00:00",
+    "ts": "2026-06-25T14:31:34.026278+00:00",
     "ch": null,
     "ma": "Opel",
     "mo": "Astra",
@@ -161,19 +161,45 @@
     "km": 128689,
     "b": ""
   },
+  "wh:1402910622": {
+    "p": 10350,
+    "f": "2026-06-25T14:31:32.200903+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-benzin-erdgas-1402910622/",
+    "t": "Seat Ibiza Benzin/Erdgas",
+    "ts": "2026-06-25T14:31:32.200903+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Ibiza",
+    "y": 2020,
+    "km": 95000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1737476897": {
+    "p": 12999,
+    "f": "2026-06-25T14:31:32.200903+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-superb-2-0-tdi-l-k-1737476897/",
+    "t": "Skoda Superb 2.0 TDI L&K",
+    "ts": "2026-06-25T14:31:32.200903+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Superb",
+    "y": 2017,
+    "km": 260451,
+    "b": "Kombi / Family Van"
+  },
   "wh:1736142264": {
     "p": 6990,
-    "f": "2026-06-25T14:30:57.024419+00:00",
+    "f": "2026-06-25T14:31:32.200903+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-6-tdi-1736142264/",
     "t": "VW Golf 1.6 TDi",
-    "ts": "2026-06-25T14:30:57.024419+00:00",
+    "ts": "2026-06-25T14:31:32.200903+00:00",
     "ch": null,
     "ma": "VW",
     "mo": "Golf",
     "y": 2012,
     "km": 190500,
     "b": "Limousine",
-    "pu": "2026-06-25T14:30:57.024419+00:00"
+    "pu": "2026-06-25T14:31:32.200903+00:00"
   },
   "as:a518548c-78ad-4209-8772-472405f5c37f": {
     "p": null,
@@ -212,18 +238,18 @@
     "km": null
   },
   "wh:1589042881": {
-    "p": 14500,
+    "p": 13000,
     "f": "2026-06-25T14:28:43.001436+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-bmw-116d-sport-line-m-paket-1589042881/",
     "t": "BMW 1er-Reihe BMW 116d Sport Line M-Paket",
-    "ts": "2026-06-25T14:28:43.001436+00:00",
+    "ts": "2026-06-25T14:31:32.200903+00:00",
     "ch": null,
     "ma": "BMW",
     "mo": "1er-Reihe",
     "y": 2016,
     "km": 103200,
     "b": "Limousine",
-    "pu": "2026-06-25T14:28:43.001436+00:00"
+    "pu": "2026-06-25T14:31:32.200903+00:00"
   },
   "wh:1513153158": {
     "p": 8900,
@@ -146656,30 +146682,6 @@
     "mo": "Octavia",
     "y": 2018,
     "km": 250000
-  },
-  "as:898affc7-165a-4db3-8c94-b749a14545b7": {
-    "p": 9000,
-    "f": "2026-06-17T11:03:24.453187+00:00",
-    "u": "https://www.autoscout24.at/angebote/skoda-octavia-combi-1-6-tdi-ambition-dsg-diesel-cat_ma65mo15222-898affc7-165a-4db3-8c94-b749a14545b7",
-    "t": "Skoda Octavia",
-    "ts": "2026-06-17T11:03:24.453187+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2018,
-    "km": 250000
-  },
-  "as:7a345ed3-beaf-461e-a606-bf487d7ad504": {
-    "p": null,
-    "f": "2026-06-17T11:02:29.303900+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
