@@ -148,6 +148,32 @@
     "y": 2009,
     "km": 235000
   },
+  "as:0d949229-4b91-49e2-8b31-21643dd08882": {
+    "p": 8950,
+    "f": "2026-06-25T15:50:43.983986+00:00",
+    "u": "https://www.autoscout24.at/angebote/hyundai-kona-1-0-t-gdi-premium-benzin-cat_ma33mo74663-0d949229-4b91-49e2-8b31-21643dd08882",
+    "t": "Hyundai KONA 1.0 T-GDI Premium",
+    "ts": "2026-06-25T15:50:43.983986+00:00",
+    "ch": null,
+    "ma": "Hyundai",
+    "mo": "KONA",
+    "y": 2018,
+    "km": 95000,
+    "b": ""
+  },
+  "wh:937223147": {
+    "p": 3200,
+    "f": "2026-06-25T15:50:41.859247+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-2-0-dpf-937223147/",
+    "t": "Opel Insignia 2.0. DPF",
+    "ts": "2026-06-25T15:50:41.859247+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Insignia",
+    "y": 2012,
+    "km": 250000,
+    "b": "Kombi / Family Van"
+  },
   "gw:f5174660-b510-40e7-bd8d-8147aa1381ea": {
     "p": 8000,
     "f": "2026-06-25T15:49:30.220480+00:00",
@@ -146784,30 +146810,6 @@
     "mo": null,
     "y": 2016,
     "km": 187000
-  },
-  "wh:1093213311": {
-    "p": 10500,
-    "f": "2026-06-17T13:02:34.764676+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-3-0tdi-1093213311/",
-    "t": "Audi A6 3.0TdI",
-    "ts": "2026-06-17T13:02:34.764676+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A6",
-    "y": 2015,
-    "km": 315478
-  },
-  "gw:8b227015-9a40-4012-8916-73ec35223ecd": {
-    "p": 11000,
-    "f": "2026-06-17T13:01:50.968539+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/ford-fiesta-1-0-ecoboost-start-stop-st-line-benzin-cat_ma29mo1758/8b227015-9a40-4012-8916-73ec35223ecd",
-    "t": "Ford Fiesta",
-    "ts": "2026-06-17T13:01:50.968539+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Fiesta",
-    "y": 2018,
-    "km": 100177
   },
   "__health__": {
     "wh": 0,
