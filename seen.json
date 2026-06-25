@@ -148,6 +148,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1122561793": {
+    "p": 9999,
+    "f": "2026-06-25T15:52:25.732571+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x5-neupreis-1122561793/",
+    "t": "BMW X5 Neupreis!!!",
+    "ts": "2026-06-25T15:52:25.732571+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X5",
+    "y": 2012,
+    "km": 315000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1196180434": {
+    "p": 1999,
+    "f": "2026-06-25T15:52:25.732571+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/tata-indica-1-4-benzin-mit-klimaanlage-1196180434/",
+    "t": "Tata Indica 1.4 Benzin mit Klimaanlage",
+    "ts": "2026-06-25T15:52:25.732571+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 55000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:884554536": {
+    "p": 1999,
+    "f": "2026-06-25T15:52:25.732571+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-kette-neu-motor-nur-150-000km-884554536/",
+    "t": "Audi A6 KETTE NEU - motor nur 150.000km -",
+    "ts": "2026-06-25T15:52:25.732571+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A6",
+    "y": 2009,
+    "km": 280000,
+    "b": "Limousine"
+  },
   "as:4e25a25a-f67c-4627-bef9-cb347c94e370": {
     "p": null,
     "f": "2026-06-25T15:51:36.321134+00:00",
@@ -205,7 +244,7 @@
     "u": "https://www.autoscout24.at/angebote/audi-a4-kombi-2-0-tdi-diesel-cat_ma9mo1626-f5174660-b510-40e7-bd8d-8147aa1381ea",
     "t": "Audi A4 Kombi 2.0 TDI",
     "ts": "2026-06-25T15:49:23.579974+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A4",
     "y": 2011,
@@ -126120,16 +126159,17 @@
     "km": 89000
   },
   "wh:1970405603": {
-    "p": 8500,
+    "p": 8499,
     "f": "2026-06-18T15:53:26.243111+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-sharan-highline-dsg-pano-ahk-1970405603/",
     "t": "VW Sharan Highline*DSG*Pano*AHK",
-    "ts": "2026-06-18T15:53:26.243111+00:00",
-    "ch": "alive",
+    "ts": "2026-06-25T15:52:25.732571+00:00",
+    "ch": null,
     "ma": "VW",
     "mo": "Sharan",
     "y": 2013,
-    "km": 294000
+    "km": 294000,
+    "b": "Kombi / Family Van"
   },
   "wh:1087125496": {
     "p": 2100,
@@ -146773,43 +146813,6 @@
     "mo": null,
     "y": 2010,
     "km": 82500
-  },
-  "gw:49730fb3-1a66-4a92-aaaf-59d1d61157ef": {
-    "p": 190,
-    "f": "2026-06-17T13:06:04.932166+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/opel-meriva-1-4-16v-enjoy-benzin-cat_ma54mo18341/49730fb3-1a66-4a92-aaaf-59d1d61157ef",
-    "t": "Opel Meriva",
-    "ts": "2026-06-17T13:06:04.932166+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Meriva",
-    "y": 2010,
-    "km": 255000
-  },
-  "as:49730fb3-1a66-4a92-aaaf-59d1d61157ef": {
-    "p": 190,
-    "f": "2026-06-17T13:05:54.635812+00:00",
-    "u": "https://www.autoscout24.at/angebote/opel-meriva-1-4-16v-enjoy-benzin-cat_ma54mo18341-49730fb3-1a66-4a92-aaaf-59d1d61157ef",
-    "t": "Opel Meriva",
-    "ts": "2026-06-17T13:05:54.635812+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Meriva",
-    "y": 2010,
-    "km": 255000
-  },
-  "wh:1030380084": {
-    "p": 11000,
-    "f": "2026-06-17T13:04:34.643987+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mini-cooper-works-cabrio-r57n-1030380084/",
-    "t": "MINI Cooper Works Cabrio R57N",
-    "ts": "2026-06-17T13:04:34.643987+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2013,
-    "km": 197000,
-    "b": "Cabrio / Roadster"
   },
   "__health__": {
     "wh": 0,
