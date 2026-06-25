@@ -148,6 +148,56 @@
     "y": 2009,
     "km": 235000
   },
+  "as:adf9a381-dc40-4caa-91d8-840eedb80a5c": {
+    "p": null,
+    "f": "2026-06-25T15:02:30.303604+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:96117b2c-cac1-4c00-b96b-5e6c207c4499": {
+    "p": null,
+    "f": "2026-06-25T15:02:30.303604+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1954916533": {
+    "p": 3750,
+    "f": "2026-06-25T15:02:28.821320+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-meriva-1954916533/",
+    "t": "Opel Meriva",
+    "ts": "2026-06-25T15:02:28.821320+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Meriva",
+    "y": 2015,
+    "km": 150086,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1974874844": {
+    "p": 3000,
+    "f": "2026-06-25T15:02:28.821320+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mini-clubman-1-6-1974874844/",
+    "t": "MINI Clubman 1,6",
+    "ts": "2026-06-25T15:02:28.821320+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 215000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:802529381": {
     "p": 1980,
     "f": "2026-06-25T15:01:34.458484+00:00",
@@ -146686,54 +146736,6 @@
     "mo": null,
     "y": 2017,
     "km": 138000
-  },
-  "wh:2002351449": {
-    "p": 6200,
-    "f": "2026-06-17T11:52:28.932663+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-6-tdi-2002351449/",
-    "t": "VW Golf 1.6 TDI",
-    "ts": "2026-06-17T11:52:28.932663+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2012,
-    "km": 278000
-  },
-  "as:6f305675-3f98-44f1-a0bb-badb47d3eeec": {
-    "p": 8900,
-    "f": "2026-06-17T11:51:32.144370+00:00",
-    "u": "https://www.autoscout24.at/angebote/audi-a5-1-8-tfsi-sportback-benzin-cat_ma9mo19047-6f305675-3f98-44f1-a0bb-badb47d3eeec",
-    "t": "Audi A5",
-    "ts": "2026-06-17T11:51:32.144370+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A5",
-    "y": 2013,
-    "km": 178000
-  },
-  "as:e2a842db-7056-40ea-a867-a8ffe68af516": {
-    "p": 4900,
-    "f": "2026-06-17T11:51:32.144370+00:00",
-    "u": "https://www.autoscout24.at/angebote/bmw-118-118d-diesel-blau-cat_ma13mo18481-e2a842db-7056-40ea-a867-a8ffe68af516",
-    "t": "BMW 118",
-    "ts": "2026-06-17T11:51:32.144370+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "118",
-    "y": 2009,
-    "km": 215427
-  },
-  "as:43b1209c-2a24-4e09-91e3-3c6c9ac4e134": {
-    "p": null,
-    "f": "2026-06-17T11:51:32.144370+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
