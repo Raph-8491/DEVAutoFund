@@ -148,6 +148,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1175228336": {
+    "p": 9500,
+    "f": "2026-06-25T10:41:22.234659+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-114d-1175228336/",
+    "t": "BMW 1er-Reihe 114d",
+    "ts": "2026-06-25T10:41:22.234659+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "1er-Reihe",
+    "y": 2016,
+    "km": 145000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T10:41:22.234659+00:00"
+  },
+  "wh:1131896821": {
+    "p": 2790,
+    "f": "2026-06-25T10:41:22.234659+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-rio-cvvt-1-2-cool-notverkauf-1131896821/",
+    "t": "KIA Rio CVVT 1.2 COOL /Notverkauf",
+    "ts": "2026-06-25T10:41:22.234659+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 168000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "gw:9276f7c1-f722-46d2-b6ac-eecff79255de": {
     "p": 14590,
     "f": "2026-06-25T10:40:59.245971+00:00",
@@ -146293,30 +146320,6 @@
     "mo": null,
     "y": 2009,
     "km": 11000
-  },
-  "wh:1413562895": {
-    "p": 9590,
-    "f": "2026-06-17T06:10:49.531108+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-1413562895/",
-    "t": "VW Passat",
-    "ts": "2026-06-17T06:10:49.531108+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2017,
-    "km": 254000
-  },
-  "as:b473572d-3733-4edf-96ce-3f3b66d79749": {
-    "p": null,
-    "f": "2026-06-17T06:08:32.759614+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
