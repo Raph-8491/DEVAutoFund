@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:424ecf63-1ffb-49cc-bc4e-a5c1c0cf5e7e": {
+    "p": null,
+    "f": "2026-06-25T08:34:27.940395+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1846578031": {
     "p": 5990,
     "f": "2026-06-25T08:33:39.116179+00:00",
@@ -146096,18 +146108,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "gw:bc5de2d2-bf65-47a0-93a8-d52d6d25719d": {
-    "p": 2000,
-    "f": "2026-06-16T19:53:47.809714+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/kia-ceed-cee-d-1-4-cvvt-ex-benzin-cat_ma39mo18923/bc5de2d2-bf65-47a0-93a8-d52d6d25719d",
-    "t": "Kia Ceed / cee'd",
-    "ts": "2026-06-16T19:53:47.809714+00:00",
-    "ch": "alive",
-    "ma": "Kia",
-    "mo": "Ceed / cee'd",
-    "y": 2008,
-    "km": 200000
   },
   "__health__": {
     "wh": 0,
