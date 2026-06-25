@@ -148,13 +148,40 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2044094129": {
+    "p": 14500,
+    "f": "2026-06-25T13:37:25.947740+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-t5-transporter-2-0-tdi-2044094129/",
+    "t": "VW T5 Transporter 2.0 Tdi",
+    "ts": "2026-06-25T13:37:25.947740+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "T5",
+    "y": 2012,
+    "km": 236608,
+    "b": "Kleinbus",
+    "pu": "2026-06-25T13:37:25.947740+00:00"
+  },
+  "wh:1383787800": {
+    "p": 7650,
+    "f": "2026-06-25T13:37:25.947740+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-captur-1383787800/",
+    "t": "Renault Captur",
+    "ts": "2026-06-25T13:37:25.947740+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2014,
+    "km": 63900,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1593612682": {
     "p": 8499,
     "f": "2026-06-25T13:34:23.767654+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-2-0-tdi-jubilaeumsmodell-1593612682/",
     "t": "Audi A4 2.0 TDI Jubil\u00e4umsmodell",
     "ts": "2026-06-25T13:34:23.767654+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A4",
     "y": 2010,
@@ -125739,7 +125766,8 @@
     "ma": "BMW",
     "mo": "5er-Reihe",
     "y": 2011,
-    "km": 239000
+    "km": 239000,
+    "b": "Kombi / Family Van"
   },
   "gw:13a7c88d-a1f7-45ec-896a-b6234f69dee8": {
     "p": 11700,
@@ -146586,30 +146614,6 @@
     "mo": "Mokka",
     "y": 2016,
     "km": 192000
-  },
-  "wh:1737886621": {
-    "p": 12000,
-    "f": "2026-06-17T10:09:25.966677+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-b8-2-0l-tdi-4motion-dsg-1737886621/",
-    "t": "VW Passat B8 / 2.0l TDI 4Motion DSG",
-    "ts": "2026-06-17T10:09:25.966677+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2015,
-    "km": 258000
-  },
-  "wh:2072149680": {
-    "p": 2400,
-    "f": "2026-06-17T10:09:25.966677+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-clio-2072149680/",
-    "t": "Renault Clio",
-    "ts": "2026-06-17T10:09:25.966677+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 200000
   },
   "__health__": {
     "wh": 0,
