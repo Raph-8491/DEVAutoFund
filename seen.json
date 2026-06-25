@@ -148,6 +148,46 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1438857415": {
+    "p": 1450,
+    "f": "2026-06-25T11:53:25.160952+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/toyota-aygo-1-0-vvt-1-1438857415/",
+    "t": "Toyota Aygo 1,0 VVT-1",
+    "ts": "2026-06-25T11:53:25.160952+00:00",
+    "ch": null,
+    "ma": "Toyota",
+    "mo": "Aygo",
+    "y": 2009,
+    "km": 131600,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:923877079": {
+    "p": 8500,
+    "f": "2026-06-25T11:53:25.160952+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-vrs-923877079/",
+    "t": "Skoda Octavia vrs",
+    "ts": "2026-06-25T11:53:25.160952+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Octavia",
+    "y": 2015,
+    "km": 317000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1465268120": {
+    "p": 5999,
+    "f": "2026-06-25T11:53:25.160952+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-f10-535d-xdrive-m-ab-werk-1465268120/",
+    "t": "BMW 5er-Reihe F10 535D xDrive M-AB WERK",
+    "ts": "2026-06-25T11:53:25.160952+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "5er-Reihe",
+    "y": 2011,
+    "km": 315000,
+    "b": "Limousine",
+    "pu": "2026-06-25T11:53:25.160952+00:00"
+  },
   "gw:1744f647-9fc8-462b-84a3-5eda09916afe": {
     "p": 2990,
     "f": "2026-06-25T11:52:36.537471+00:00",
@@ -146415,42 +146455,6 @@
     "mo": "Meriva",
     "y": 2012,
     "km": 118000
-  },
-  "wh:1008401733": {
-    "p": 1400,
-    "f": "2026-06-17T08:09:30.680576+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/toyota-auris-1-4-d-4d-90-dpf-high-eco-1008401733/",
-    "t": "Toyota Auris 1,4 D-4D 90 DPF High Eco",
-    "ts": "2026-06-17T08:09:30.680576+00:00",
-    "ch": "alive",
-    "ma": "Toyota",
-    "mo": "Auris",
-    "y": 2010,
-    "km": 80150
-  },
-  "wh:1167690511": {
-    "p": 5400,
-    "f": "2026-06-17T08:07:26.390783+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-eos-1167690511/",
-    "t": "VW Eos",
-    "ts": "2026-06-17T08:07:26.390783+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Eos",
-    "y": 2008,
-    "km": 187000
-  },
-  "wh:1178879948": {
-    "p": 1750,
-    "f": "2026-06-17T08:07:26.390783+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/volvo-c30-1-6-1178879948/",
-    "t": "Volvo C30 1.6",
-    "ts": "2026-06-17T08:07:26.390783+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 168000
   },
   "__health__": {
     "wh": 0,
