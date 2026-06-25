@@ -147,6 +147,20 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:989472901": {
+    "p": 12900,
+    "f": "2026-06-25T08:56:25.582366+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-t-cross-united-tsi-dsg-989472901/",
+    "t": "VW T-Cross United TSI DSG",
+    "ts": "2026-06-25T08:56:25.582366+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "T-Cross",
+    "y": 2020,
+    "km": 134905,
+    "b": "SUV / Gel\u00e4ndewagen",
+    "pu": "2026-06-25T08:56:25.582366+00:00"
+  },
   "as:780ea5b0-1c61-467b-a189-e4c4fb08581c": {
     "p": 2000,
     "f": "2026-06-25T08:55:38.950976+00:00",
@@ -146136,18 +146150,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1100948791": {
-    "p": 10000,
-    "f": "2026-06-16T20:26:27.945192+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-arona-1-0l-1100948791/",
-    "t": "Seat Arona 1,0L",
-    "ts": "2026-06-16T20:26:27.945192+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Arona",
-    "y": 2018,
-    "km": 95500
   },
   "__health__": {
     "wh": 0,
