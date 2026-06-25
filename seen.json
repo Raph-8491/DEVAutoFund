@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:10a6345f-a5d3-4f09-a3d2-1dcd1cdce26a": {
+    "p": null,
+    "f": "2026-06-25T17:07:25.761459+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:ab6053a4-d362-4c2c-b8da-e462b8b6e326": {
     "p": null,
     "f": "2026-06-25T17:06:31.001488+00:00",
@@ -146940,18 +146952,6 @@
     "mo": "One",
     "y": 2010,
     "km": 164000
-  },
-  "gw:9000a47a-d52a-4b54-9f89-f8a68c97f375": {
-    "p": 3300,
-    "f": "2026-06-17T14:59:39.048473+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/citroen-c3-neues-pickerl-bis-8-27-1-4-benzin-benzin-cat_ma21mo18264/9000a47a-d52a-4b54-9f89-f8a68c97f375",
-    "t": "Citroen C3",
-    "ts": "2026-06-17T14:59:39.048473+00:00",
-    "ch": "alive",
-    "ma": "Citroen",
-    "mo": "C3",
-    "y": 2010,
-    "km": 152000
   },
   "__health__": {
     "wh": 0,
