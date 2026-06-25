@@ -148,6 +148,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1693607635": {
+    "p": 5000,
+    "f": "2026-06-25T10:22:30.591080+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-1-9-tdi-1693607635/",
+    "t": "Audi A3 1.9 TDI",
+    "ts": "2026-06-25T10:22:30.591080+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A3",
+    "y": 2008,
+    "km": 109500,
+    "b": "Limousine",
+    "pu": "2026-06-25T10:22:30.591080+00:00"
+  },
+  "wh:1551261509": {
+    "p": 10600,
+    "f": "2026-06-25T10:22:30.591080+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-clio-gt-1551261509/",
+    "t": "Renault Clio GT",
+    "ts": "2026-06-25T10:22:30.591080+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2015,
+    "km": 70000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "gw:1d797218-891a-4157-8c55-f0b0bcba1975": {
     "p": 3250,
     "f": "2026-06-25T10:20:57.811392+00:00",
@@ -246,7 +273,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-180diesel-968308887/",
     "t": "Mercedes-Benz C-Klasse 180diesel",
     "ts": "2026-06-25T10:18:37.739135+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Mercedes-Benz",
     "mo": "C-Klasse",
     "y": 2012,
@@ -124488,7 +124515,8 @@
     "ma": "Opel",
     "mo": "Astra",
     "y": 2019,
-    "km": 42000
+    "km": 42000,
+    "b": "Limousine"
   },
   "wh:1591019731": {
     "p": 4300,
@@ -124500,7 +124528,8 @@
     "ma": "VW",
     "mo": "Passat",
     "y": 2009,
-    "km": 151000
+    "km": 151000,
+    "b": "Kombi / Family Van"
   },
   "wh:1047096600": {
     "p": 4490,
@@ -124512,7 +124541,8 @@
     "ma": "VW",
     "mo": "Golf",
     "y": 2012,
-    "km": 198362
+    "km": 198362,
+    "b": "Limousine"
   },
   "wh:1595966369": {
     "p": 2500,
@@ -146262,30 +146292,6 @@
     "mo": "6",
     "y": 2009,
     "km": 211148
-  },
-  "as:567b3a06-7bad-4dc2-a727-8611ec856237": {
-    "p": null,
-    "f": "2026-06-17T05:29:29.655733+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1055260335": {
-    "p": 8800,
-    "f": "2026-06-17T05:28:23.627726+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-2-0-tdi-top-zustand-preis-vb-1055260335/",
-    "t": "Skoda Octavia 2.0 TDI - TOP Zustand - Preis VB",
-    "ts": "2026-06-17T05:28:23.627726+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2017,
-    "km": 173300
   },
   "__health__": {
     "wh": 0,
