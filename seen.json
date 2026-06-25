@@ -148,6 +148,56 @@
     "y": 2009,
     "km": 235000
   },
+  "as:a518548c-78ad-4209-8772-472405f5c37f": {
+    "p": null,
+    "f": "2026-06-25T14:28:47.773611+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:806c552b-1cad-40ec-8d29-f973fb361443": {
+    "p": null,
+    "f": "2026-06-25T14:28:47.773611+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:29fff170-e90a-4f1f-8872-90231b4919d1": {
+    "p": null,
+    "f": "2026-06-25T14:28:47.773611+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1589042881": {
+    "p": 14500,
+    "f": "2026-06-25T14:28:43.001436+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-bmw-116d-sport-line-m-paket-1589042881/",
+    "t": "BMW 1er-Reihe BMW 116d Sport Line M-Paket",
+    "ts": "2026-06-25T14:28:43.001436+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "1er-Reihe",
+    "y": 2016,
+    "km": 103200,
+    "b": "Limousine",
+    "pu": "2026-06-25T14:28:43.001436+00:00"
+  },
   "wh:1513153158": {
     "p": 8900,
     "f": "2026-06-25T14:26:27.933825+00:00",
@@ -146628,54 +146678,6 @@
     "mo": "Dokker",
     "y": 2018,
     "km": 116000
-  },
-  "as:1f1b9e95-2484-4b38-bb78-602608a778c4": {
-    "p": 7900,
-    "f": "2026-06-17T11:01:41.411825+00:00",
-    "u": "https://www.autoscout24.at/angebote/dacia-dokker-dokker-stepway-sce-100-s-benzin-grau-cat_ma16360mo20186-1f1b9e95-2484-4b38-bb78-602608a778c4",
-    "t": "Dacia Dokker",
-    "ts": "2026-06-17T11:01:41.411825+00:00",
-    "ch": "alive",
-    "ma": "Dacia",
-    "mo": "Dokker",
-    "y": 2018,
-    "km": 116000
-  },
-  "as:c12108d0-86c4-4a6d-bc95-26792d7cefc3": {
-    "p": null,
-    "f": "2026-06-17T11:01:41.411825+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:972132a5-0cdb-43a7-a776-ad8ebf2063c3": {
-    "p": null,
-    "f": "2026-06-17T11:01:41.411825+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:18da259f-7da0-4370-b7be-a1ef8ba99e61": {
-    "p": null,
-    "f": "2026-06-17T10:59:24.725873+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
