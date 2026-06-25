@@ -148,6 +148,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:153e1b7f-2fa8-4e31-ac32-48358fcfdb8b": {
+    "p": null,
+    "f": "2026-06-25T10:06:28.897669+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1011604306": {
+    "p": 1700,
+    "f": "2026-06-25T10:06:27.878998+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-c-max-1-6tdci-1011604306/",
+    "t": "Ford C-MAX 1.6TDCI",
+    "ts": "2026-06-25T10:06:27.878998+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 269000,
+    "b": "Kombi / Family Van"
+  },
   "gw:806e9669-6b91-478e-b980-69d8852a81a8": {
     "p": 10999,
     "f": "2026-06-25T10:05:42.214296+00:00",
@@ -146243,31 +146268,6 @@
     "mo": "Bravo",
     "y": 2008,
     "km": 130000
-  },
-  "as:0a38094f-bd66-4dd6-851f-5dd4a10dd925": {
-    "p": 3700,
-    "f": "2026-06-17T04:32:34.518735+00:00",
-    "u": "https://www.autoscout24.at/angebote/fiat-bravo-1-4-16v-benzin-cat_ma28mo1741-0a38094f-bd66-4dd6-851f-5dd4a10dd925",
-    "t": "Fiat Bravo",
-    "ts": "2026-06-17T04:32:34.518735+00:00",
-    "ch": "alive",
-    "ma": "Fiat",
-    "mo": "Bravo",
-    "y": 2008,
-    "km": 130000
-  },
-  "wh:2047231652": {
-    "p": 10000,
-    "f": "2026-06-17T04:32:32.907608+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-sportstourer-2047231652/",
-    "t": "Seat Leon Sportstourer",
-    "ts": "2026-06-24T04:30:51.080763+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Leon",
-    "y": 2020,
-    "km": 56000,
-    "b": "Kombi / Family Van"
   },
   "__health__": {
     "wh": 0,
