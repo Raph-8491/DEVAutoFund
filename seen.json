@@ -148,6 +148,44 @@
     "y": 2009,
     "km": 235000
   },
+  "as:e7a122b8-0d68-4a56-a06c-7e8a785a62c6": {
+    "p": null,
+    "f": "2026-06-25T16:34:32.411560+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:60392b75-c8f4-4abe-aacd-d7e82527c752": {
+    "p": null,
+    "f": "2026-06-25T16:34:32.411560+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1397835787": {
+    "p": 3000,
+    "f": "2026-06-25T16:34:30.534863+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-2-0-tdi-1397835787/",
+    "t": "VW Passat 2.0 TDI",
+    "ts": "2026-06-25T16:34:30.534863+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Passat",
+    "y": 2026,
+    "km": 260000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T16:34:30.534863+00:00"
+  },
   "as:0575a969-1de3-4b18-b290-9480a628cd8c": {
     "p": null,
     "f": "2026-06-25T16:33:35.727769+00:00",
@@ -178,7 +216,7 @@
     "u": "https://www.autoscout24.at/angebote/bmw-520-520-d-diesel-grau-cat_ma13mo1648-b599ead3-5ab7-4d52-b951-fe0baa519163",
     "t": "BMW 520 520 d",
     "ts": "2026-06-25T16:30:51.628466+00:00",
-    "ch": null,
+    "ch": "dead",
     "ma": "BMW",
     "mo": "520",
     "y": 2011,
@@ -146861,42 +146899,6 @@
     "mo": "530",
     "y": 2013,
     "km": 350000
-  },
-  "as:ad8cd686-4c36-4560-9b6e-7ab9130f4d5d": {
-    "p": 6200,
-    "f": "2026-06-17T14:17:31.708796+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-t5-transporter-kastenwagen-2-0-entry-tdi-d-pf-diesel-cat_ma74mo75216-ad8cd686-4c36-4560-9b6e-7ab9130f4d5d",
-    "t": "Volkswagen T5 Transporter",
-    "ts": "2026-06-17T14:17:31.708796+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "T5 Transporter",
-    "y": 2010,
-    "km": 282000
-  },
-  "wh:1932475574": {
-    "p": 7000,
-    "f": "2026-06-17T14:17:28.283809+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/honda-cr-v-1932475574/",
-    "t": "Honda CR-V",
-    "ts": "2026-06-17T14:17:28.283809+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 70000
-  },
-  "wh:1346792035": {
-    "p": 6100,
-    "f": "2026-06-17T14:17:28.283809+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-dokker-supreme-tce-115-abnehmbare-ahk-8fach-bereift-1346792035/",
-    "t": "Dacia Dokker Supreme TCe 115, abnehmbare AHK, 8fach bereift",
-    "ts": "2026-06-17T14:17:28.283809+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 128000
   },
   "__health__": {
     "wh": 0,
