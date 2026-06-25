@@ -148,6 +148,46 @@
     "y": 2009,
     "km": 235000
   },
+  "as:1ba88c57-264e-46e6-9c69-21b634c8ed26": {
+    "p": 12800,
+    "f": "2026-06-25T11:20:48.198509+00:00",
+    "u": "https://www.autoscout24.at/angebote/hyundai-i30-i30-cw-1-0-t-gdi-feel-good-feel-good-benzin-grau-cat_ma33mo19065-1ba88c57-264e-46e6-9c69-21b634c8ed26",
+    "t": "Hyundai i30 i30 CW 1,0 T-GDI Feel Good Feel Good",
+    "ts": "2026-06-25T11:20:48.198509+00:00",
+    "ch": null,
+    "ma": "Hyundai",
+    "mo": "i30",
+    "y": 2021,
+    "km": 110000,
+    "b": ""
+  },
+  "wh:1692996312": {
+    "p": 10500,
+    "f": "2026-06-25T11:20:44.756236+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-coupe-3-0-tdi-1692996312/",
+    "t": "Audi A5 Coup\u00e9 3.0 TDI",
+    "ts": "2026-06-25T11:20:44.756236+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A5",
+    "y": 2008,
+    "km": 226000,
+    "b": "Sportwagen / Coup\u00e9",
+    "pu": "2026-06-25T11:20:44.756236+00:00"
+  },
+  "wh:976515415": {
+    "p": 2490,
+    "f": "2026-06-25T11:20:44.756236+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-9-tdi-pickerl-neu-976515415/",
+    "t": "VW Golf 1.9 TDI Pickerl Neu!",
+    "ts": "2026-06-25T11:20:44.756236+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2008,
+    "km": 251000,
+    "b": "Limousine"
+  },
   "gw:1ba88c57-264e-46e6-9c69-21b634c8ed26": {
     "p": 12800,
     "f": "2026-06-25T11:19:32.995075+00:00",
@@ -146356,42 +146396,6 @@
     "mo": "3er-Reihe",
     "y": 2013,
     "km": 215000
-  },
-  "gw:687db5e0-6c01-48d8-bf46-9be4f1941f29": {
-    "p": 3600,
-    "f": "2026-06-17T07:27:37.148952+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/citroen-berlingo-berlingo-bj-2020-3-motorproblem-diesel-weiss-cat_ma21mo15142/687db5e0-6c01-48d8-bf46-9be4f1941f29",
-    "t": "Citroen Berlingo",
-    "ts": "2026-06-17T07:27:37.148952+00:00",
-    "ch": "alive",
-    "ma": "Citroen",
-    "mo": "Berlingo",
-    "y": 2020,
-    "km": 190000
-  },
-  "as:687db5e0-6c01-48d8-bf46-9be4f1941f29": {
-    "p": 3600,
-    "f": "2026-06-17T07:27:27.084526+00:00",
-    "u": "https://www.autoscout24.at/angebote/citroen-berlingo-berlingo-bj-2020-3-motorproblem-diesel-weiss-cat_ma21mo15142-687db5e0-6c01-48d8-bf46-9be4f1941f29",
-    "t": "Citroen Berlingo",
-    "ts": "2026-06-17T07:27:27.084526+00:00",
-    "ch": "alive",
-    "ma": "Citroen",
-    "mo": "Berlingo",
-    "y": 2020,
-    "km": 190000
-  },
-  "as:3bab4127-39e5-4dd8-8ddc-da84c6af5466": {
-    "p": null,
-    "f": "2026-06-17T07:25:37.119240+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
