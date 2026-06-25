@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1662593466": {
+    "p": 10000,
+    "f": "2026-06-25T06:14:25.551338+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-alhambra-exekutive-tdi-1662593466/",
+    "t": "Seat Alhambra Exekutive TDI",
+    "ts": "2026-06-25T06:14:25.551338+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Alhambra",
+    "y": 2017,
+    "km": 135000,
+    "b": "Kombi / Family Van"
+  },
   "as:d68363ac-a25c-45a3-a1d4-512ef2b2d45b": {
     "p": 5000,
     "f": "2026-06-25T06:12:27.694689+00:00",
@@ -145881,18 +145894,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1195927398": {
-    "p": 7600,
-    "f": "2026-06-16T18:22:30.841466+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-adam-sport-1-0-turbo-1195927398/",
-    "t": "Opel Adam Sport 1.0 Turbo",
-    "ts": "2026-06-16T18:22:30.841466+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Adam",
-    "y": 2015,
-    "km": 101000
   },
   "__health__": {
     "wh": 0,
