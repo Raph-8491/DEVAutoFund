@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1471955319": {
+    "p": 1200,
+    "f": "2026-06-25T05:20:43.530027+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1-2-tdi-1471955319/",
+    "t": "Seat Ibiza 1.2 TDI",
+    "ts": "2026-06-25T05:20:43.530027+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Ibiza",
+    "y": 2010,
+    "km": 220000,
+    "b": "Kleinbus"
+  },
+  "wh:1110453480": {
+    "p": 2900,
+    "f": "2026-06-25T05:20:43.530027+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-ghia-2-2td-1110453480/",
+    "t": "Ford Galaxy GHIA 2,2TD",
+    "ts": "2026-06-25T05:20:43.530027+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 318000,
+    "b": "Kombi / Family Van"
+  },
   "as:a759d171-c19c-4fb0-a70b-1ea093da550b": {
     "p": null,
     "f": "2026-06-25T05:19:28.233891+00:00",
@@ -145817,30 +145843,6 @@
     "ch": "alive",
     "ma": "VW",
     "mo": "Tiguan",
-    "y": 2012,
-    "km": 105000
-  },
-  "wh:1992712130": {
-    "p": 8750,
-    "f": "2026-06-16T18:08:31.731806+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-1992712130/",
-    "t": "VW Tiguan",
-    "ts": "2026-06-16T18:12:35.240397+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Tiguan",
-    "y": 2009,
-    "km": 225000
-  },
-  "wh:1410109840": {
-    "p": 2499,
-    "f": "2026-06-16T18:08:31.731806+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mitsubishi-colt-1-1-inform-ct-austria-1410109840/",
-    "t": "Mitsubishi Colt 1,1 Inform CT Austria",
-    "ts": "2026-06-16T18:08:31.731806+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
     "y": 2012,
     "km": 105000
   },
