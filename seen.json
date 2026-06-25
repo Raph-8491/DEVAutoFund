@@ -148,6 +148,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1601238844": {
+    "p": 5900,
+    "f": "2026-06-25T11:13:24.711568+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-clio-4-1601238844/",
+    "t": "Renault Clio 4",
+    "ts": "2026-06-25T11:13:24.711568+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 54700,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1774746944": {
+    "p": 7990,
+    "f": "2026-06-25T11:13:24.711568+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-2-1774746944/",
+    "t": "VW Golf 1,2",
+    "ts": "2026-06-25T11:13:24.711568+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2012,
+    "km": 55000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T11:13:24.711568+00:00"
+  },
   "as:05537fe7-8430-4a41-91bc-d0e6ce3d8758": {
     "p": null,
     "f": "2026-06-25T11:12:27.936929+00:00",
@@ -146354,30 +146381,6 @@
     "y": 2015,
     "km": 88500,
     "b": "Kombi / Family Van"
-  },
-  "as:9f3502c0-6b09-4514-802e-dfbe3779390f": {
-    "p": null,
-    "f": "2026-06-17T07:06:27.812755+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:c6d84291-943c-4cb0-b2f8-d07d3cd59153": {
-    "p": null,
-    "f": "2026-06-17T07:05:41.851522+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
