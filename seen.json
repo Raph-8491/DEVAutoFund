@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "as:03ddd61d-7b11-4adc-95d6-729e7712f9c6": {
+    "p": null,
+    "f": "2026-06-25T03:42:32.059520+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1223250993": {
+    "p": 7800,
+    "f": "2026-06-25T03:42:25.840666+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-fabia-110ps-combi-style-family-van-1223250993/",
+    "t": "Skoda Fabia 110PS/combi style/family van",
+    "ts": "2026-06-25T03:42:25.840666+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Fabia",
+    "y": 2017,
+    "km": 98000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1267679338": {
+    "p": 12500,
+    "f": "2026-06-25T03:42:25.840666+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-oemtc-9-2026-4monate-1267679338/",
+    "t": "BMW 5er-Reihe \u00d6mtc 9.2026+ 4monate",
+    "ts": "2026-06-25T03:42:25.840666+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "5er-Reihe",
+    "y": 2012,
+    "km": 215000,
+    "b": "Limousine",
+    "pu": "2026-06-25T03:42:25.840666+00:00"
+  },
   "gw:d4f62415-1ec8-407d-8443-6acd6916a8d4": {
     "p": 5500,
     "f": "2026-06-25T03:39:43.576746+00:00",
@@ -166,7 +205,7 @@
     "u": "https://www.autoscout24.at/angebote/volkswagen-golf-golf-trendline-bmt-1-6-tdi-dpf-trendline-diesel-schwarz-cat_ma74mo2084-d4f62415-1ec8-407d-8443-6acd6916a8d4",
     "t": "Volkswagen Golf Golf Trendline BMT 1,6 TDI DPF Trendline",
     "ts": "2026-06-25T03:39:36.181565+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2012,
@@ -145755,42 +145794,6 @@
     "mo": null,
     "y": 2009,
     "km": 206000
-  },
-  "wh:1451614036": {
-    "p": 8500,
-    "f": "2026-06-16T17:46:37.206814+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-f11-lci-525d-xdrive-oesterreich-paket-touring-aut-1451614036/",
-    "t": "BMW 5er-Reihe F11 Lci 525d xDrive \u00d6sterreich-Paket Touring Aut.",
-    "ts": "2026-06-16T17:46:37.206814+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "5er-Reihe",
-    "y": 2013,
-    "km": 291135
-  },
-  "wh:1436537834": {
-    "p": 4500,
-    "f": "2026-06-16T17:46:37.206814+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-trendline-1-6-tdi-dpf-1436537834/",
-    "t": "VW Golf Variant Trendline 1,6 TDI DPF",
-    "ts": "2026-06-16T17:46:37.206814+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2011,
-    "km": 208500
-  },
-  "wh:792210279": {
-    "p": 3990,
-    "f": "2026-06-16T17:44:41.548994+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-792210279/",
-    "t": "VW Polo",
-    "ts": "2026-06-16T17:44:41.548994+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2009,
-    "km": 141000
   },
   "__health__": {
     "wh": 0,
