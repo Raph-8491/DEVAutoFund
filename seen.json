@@ -148,6 +148,58 @@
     "y": 2009,
     "km": 235000
   },
+  "as:79c537e0-9288-45e3-8cc6-52bd30dbf9df": {
+    "p": 4500,
+    "f": "2026-06-25T10:53:23.752990+00:00",
+    "u": "https://www.autoscout24.at/angebote/peugeot-207-cc-active-1-6-vti-16v-benzin-cat_ma55mo18797-79c537e0-9288-45e3-8cc6-52bd30dbf9df",
+    "t": "Peugeot 207 CC Active 1,6 VTi 16V",
+    "ts": "2026-06-25T10:53:23.752990+00:00",
+    "ch": null,
+    "ma": "Peugeot",
+    "mo": "207",
+    "y": 2011,
+    "km": 134500,
+    "b": ""
+  },
+  "wh:2038197750": {
+    "p": 12690,
+    "f": "2026-06-25T10:53:22.608264+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-kadjar-tce-160-edc-pf-techno-2038197750/",
+    "t": "Renault Kadjar TCe 160 EDC PF Techno",
+    "ts": "2026-06-25T10:53:22.608264+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2021,
+    "km": 108900,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1602531350": {
+    "p": 4350,
+    "f": "2026-06-25T10:53:22.608264+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-corsa-1602531350/",
+    "t": "Opel Corsa",
+    "ts": "2026-06-25T10:53:22.608264+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Corsa",
+    "y": 2014,
+    "km": 193000,
+    "b": "Limousine"
+  },
+  "wh:1469550201": {
+    "p": 4690,
+    "f": "2026-06-25T10:53:22.608264+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda5-1469550201/",
+    "t": "Mazda Mazda5",
+    "ts": "2026-06-25T10:53:22.608264+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 193500,
+    "b": "Kombi / Family Van"
+  },
   "gw:79c537e0-9288-45e3-8cc6-52bd30dbf9df": {
     "p": 4500,
     "f": "2026-06-25T10:52:42.981808+00:00",
@@ -124873,7 +124925,8 @@
     "ma": "VW",
     "mo": "Golf",
     "y": 2016,
-    "km": 86000
+    "km": 86000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:1019378105": {
     "p": 4500,
@@ -146293,54 +146346,6 @@
     "y": 2010,
     "km": 268375,
     "b": "SUV / Gel\u00e4ndewagen"
-  },
-  "wh:881763937": {
-    "p": 3200,
-    "f": "2026-06-17T06:38:36.325013+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-2-0-tdci-881763937/",
-    "t": "Ford Galaxy 2.0 TDCI",
-    "ts": "2026-06-17T06:38:36.325013+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 269000
-  },
-  "as:e3fb2cbc-279e-4938-8d81-a0c803a0cda1": {
-    "p": null,
-    "f": "2026-06-17T06:37:30.022779+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1112197384": {
-    "p": 10900,
-    "f": "2026-06-17T06:35:41.413971+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-1-6-cdti-ecoflex-1112197384/",
-    "t": "Opel Astra 1,6 CDTI EcoFlex",
-    "ts": "2026-06-17T06:35:41.413971+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Astra",
-    "y": 2017,
-    "km": 84000
-  },
-  "wh:2076237673": {
-    "p": 2100,
-    "f": "2026-06-17T06:35:41.413971+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-6j-2076237673/",
-    "t": "Seat Ibiza 6J",
-    "ts": "2026-06-17T06:35:41.413971+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2013,
-    "km": 189359
   },
   "__health__": {
     "wh": 0,
