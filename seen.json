@@ -147,6 +147,44 @@
     "y": 2009,
     "km": 235000
   },
+  "as:49c26305-dc48-4dc1-97bd-6743a9dcedc1": {
+    "p": null,
+    "f": "2026-06-25T07:59:23.886385+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:779278075": {
+    "p": 200,
+    "f": "2026-06-25T07:59:22.882739+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-clio-779278075/",
+    "t": "Renault Clio",
+    "ts": "2026-06-25T07:59:22.882739+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 174370,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:921527879": {
+    "p": 10999,
+    "f": "2026-06-25T07:59:22.882739+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-m-klasse-350cdi-4matic-921527879/",
+    "t": "Mercedes-Benz M-Klasse 350CDi.4Matic",
+    "ts": "2026-06-25T07:59:22.882739+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "M-Klasse",
+    "y": 2012,
+    "km": 380000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "wh:1974306052": {
     "p": 2850,
     "f": "2026-06-25T07:57:25.815637+00:00",
@@ -146006,42 +146044,6 @@
     "mo": null,
     "y": 2011,
     "km": 201023
-  },
-  "wh:1403858370": {
-    "p": 5600,
-    "f": "2026-06-16T19:16:31.937478+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-2-litar-150-ps-automatik-1403858370/",
-    "t": "Ford Focus 2.litar 150/ps Automatik",
-    "ts": "2026-06-16T19:16:31.937478+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2015,
-    "km": 225000
-  },
-  "wh:1628594725": {
-    "p": 5900,
-    "f": "2026-06-16T19:16:31.937478+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-logan-mcv-1-5-dci-supreme-pi-service-neu-1628594725/",
-    "t": "Dacia Logan MCV 1.5 dCi Supreme *Pi+Service NEU*",
-    "ts": "2026-06-16T19:16:31.937478+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2016,
-    "km": 167500
-  },
-  "wh:1439477416": {
-    "p": 5500,
-    "f": "2026-06-16T19:16:31.937478+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-kuga-titanium-2-0-d-1439477416/",
-    "t": "Ford Kuga Titanium 2,0 D",
-    "ts": "2026-06-16T19:16:31.937478+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 184250
   },
   "__health__": {
     "wh": 0,
