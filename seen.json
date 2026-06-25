@@ -148,6 +148,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1131989593": {
+    "p": 9950,
+    "f": "2026-06-25T10:37:22.943207+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-st-1-6-tdi-1131989593/",
+    "t": "Seat Leon ST 1,6 TDI",
+    "ts": "2026-06-25T10:37:22.943207+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2015,
+    "km": 160000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:925868671": {
+    "p": 13500,
+    "f": "2026-06-25T10:37:22.943207+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-corsa-1-5-euro-6-4-elegance-matrix-navi-keyless-925868671/",
+    "t": "Opel Corsa 1,5 Euro 6.4 Elegance MATRIX*NAVI*KEYLESS",
+    "ts": "2026-06-25T10:37:22.943207+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Corsa",
+    "y": 2022,
+    "km": 72000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1322066116": {
     "p": 8500,
     "f": "2026-06-25T10:36:29.791760+00:00",
@@ -146291,30 +146317,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "gw:d99b24e0-3279-4a82-8d9d-6f5113946140": {
-    "p": 3500,
-    "f": "2026-06-17T05:58:42.954329+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/chevrolet-spark-spark-ls-1-0-ls-benzin-blau-cat_ma19mo19221/d99b24e0-3279-4a82-8d9d-6f5113946140",
-    "t": "Chevrolet Spark",
-    "ts": "2026-06-17T05:58:42.954329+00:00",
-    "ch": "alive",
-    "ma": "Chevrolet",
-    "mo": "Spark",
-    "y": 2012,
-    "km": 53000
-  },
-  "as:d99b24e0-3279-4a82-8d9d-6f5113946140": {
-    "p": 3500,
-    "f": "2026-06-17T05:58:34.769234+00:00",
-    "u": "https://www.autoscout24.at/angebote/chevrolet-spark-spark-ls-1-0-ls-benzin-blau-cat_ma19mo19221-d99b24e0-3279-4a82-8d9d-6f5113946140",
-    "t": "Chevrolet Spark",
-    "ts": "2026-06-17T05:58:34.769234+00:00",
-    "ch": "alive",
-    "ma": "Chevrolet",
-    "mo": "Spark",
-    "y": 2012,
-    "km": 53000
   },
   "__health__": {
     "wh": 0,
