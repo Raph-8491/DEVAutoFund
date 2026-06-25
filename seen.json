@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:cedfcc20-ae84-49a5-a531-238dbb6a5e8c": {
+    "p": 8300,
+    "f": "2026-06-25T12:12:41.291809+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/toyota-verso-1-6-edition-benzin-cat_ma70mo19225/cedfcc20-ae84-49a5-a531-238dbb6a5e8c",
+    "t": "Toyota Verso 1.6 Edition",
+    "ts": "2026-06-25T12:12:41.291809+00:00",
+    "ch": null,
+    "ma": "Toyota",
+    "mo": "Verso",
+    "y": 2010,
+    "km": 138177,
+    "b": ""
+  },
   "wh:946347306": {
     "p": 5900,
     "f": "2026-06-25T12:11:22.717234+00:00",
@@ -146483,18 +146496,6 @@
     "y": 2014,
     "km": 58300,
     "b": "Klein-/ Kompaktwagen"
-  },
-  "wh:1116611577": {
-    "p": 9300,
-    "f": "2026-06-17T08:41:26.877781+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-3-2-fsi-265-ps-quattro-1116611577/",
-    "t": "Audi A4 3.2 FSI 265 ps Quattro",
-    "ts": "2026-06-17T08:41:26.877781+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2008,
-    "km": 219000
   },
   "__health__": {
     "wh": 0,
