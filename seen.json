@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2063533109": {
+    "p": 7900,
+    "f": "2026-06-25T07:37:28.130745+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/toyota-yaris-1-0-vvt-i-edition-75-mit-pickerl-bis-05-27-2063533109/",
+    "t": "Toyota Yaris 1,0 VVT-i Edition 75 mit Pickerl bis 05/27",
+    "ts": "2026-06-25T07:37:28.130745+00:00",
+    "ch": null,
+    "ma": "Toyota",
+    "mo": "Yaris",
+    "y": 2014,
+    "km": 27875,
+    "b": "Limousine"
+  },
+  "wh:1746516218": {
+    "p": 8300,
+    "f": "2026-06-25T07:37:28.130745+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-1-0-ecoboost-titanium-1746516218/",
+    "t": "Ford Focus 1.0 Ecoboost Titanium",
+    "ts": "2026-06-25T07:37:28.130745+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2017,
+    "km": 98600,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1741211802": {
     "p": 2000,
     "f": "2026-06-25T07:35:37.688177+00:00",
@@ -166,7 +192,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-avant-40-tdi-s-line-s-tronic-1520044666/",
     "t": "Audi A4 Avant 40 TDI S-line S-tronic",
     "ts": "2026-06-25T07:34:27.386850+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A4",
     "y": 2018,
@@ -180,7 +206,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-eos-1-4-l-1986183015/",
     "t": "VW Eos 1,4 L",
     "ts": "2026-06-25T07:34:27.386850+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Eos",
     "y": 2009,
@@ -123503,7 +123529,8 @@
     "ma": "VW",
     "mo": "Golf",
     "y": 2009,
-    "km": 39000
+    "km": 39000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:1804899238": {
     "p": 4500,
@@ -145989,30 +146016,6 @@
     "mo": "Ibiza",
     "y": 2018,
     "km": 93564
-  },
-  "wh:1539785643": {
-    "p": 7000,
-    "f": "2026-06-16T19:02:37.570944+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-1-6-tdi-1539785643/",
-    "t": "Seat Leon 1.6 TDI",
-    "ts": "2026-06-16T19:02:37.570944+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Leon",
-    "y": 2015,
-    "km": 206000
-  },
-  "wh:1634489450": {
-    "p": 1200,
-    "f": "2026-06-16T19:02:37.570944+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-cool-family-1-2-1634489450/",
-    "t": "VW Polo Cool Family 1,2",
-    "ts": "2026-06-16T19:02:37.570944+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2008,
-    "km": 148381
   },
   "__health__": {
     "wh": 0,
