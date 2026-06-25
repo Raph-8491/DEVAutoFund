@@ -148,6 +148,58 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:e365c439-bddf-482b-b1a4-e54f93872df8": {
+    "p": 5490,
+    "f": "2026-06-25T15:29:34.153733+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/peugeot-boxer-luxusbus-3000-l1h1-2-2-hdi-130-fap-euro5-diesel-cat_ma55mo14821/e365c439-bddf-482b-b1a4-e54f93872df8",
+    "t": "Peugeot Boxer Luxusbus 3000 L1H1 2,2 HDi 130 FAP Euro5",
+    "ts": "2026-06-25T15:29:34.153733+00:00",
+    "ch": null,
+    "ma": "Peugeot",
+    "mo": "Boxer",
+    "y": 2014,
+    "km": 270000,
+    "b": ""
+  },
+  "as:b3909277-57c4-4616-91f5-6aaecf39d7b5": {
+    "p": null,
+    "f": "2026-06-25T15:29:26.577607+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:e365c439-bddf-482b-b1a4-e54f93872df8": {
+    "p": 5490,
+    "f": "2026-06-25T15:29:26.577607+00:00",
+    "u": "https://www.autoscout24.at/angebote/peugeot-boxer-luxusbus-3000-l1h1-2-2-hdi-130-fap-euro5-diesel-cat_ma55mo14821-e365c439-bddf-482b-b1a4-e54f93872df8",
+    "t": "Peugeot Boxer Luxusbus 3000 L1H1 2,2 HDi 130 FAP Euro5",
+    "ts": "2026-06-25T15:29:26.577607+00:00",
+    "ch": null,
+    "ma": "Peugeot",
+    "mo": "Boxer",
+    "y": 2014,
+    "km": 270000,
+    "b": ""
+  },
+  "wh:817734902": {
+    "p": 10900,
+    "f": "2026-06-25T15:29:24.900647+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-318d-automatik-touring-817734902/",
+    "t": "BMW 3er-Reihe 318d Automatik Touring",
+    "ts": "2026-06-25T15:29:24.900647+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "3er-Reihe",
+    "y": 2012,
+    "km": 128500,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T15:29:24.900647+00:00"
+  },
   "as:e0f1b9af-a67e-4d0d-8b43-60997269c2c9": {
     "p": null,
     "f": "2026-06-25T15:28:29.669706+00:00",
@@ -146723,54 +146775,6 @@
     "y": 2014,
     "km": 273000,
     "b": "SUV / Gel\u00e4ndewagen"
-  },
-  "wh:1477717983": {
-    "p": 8499,
-    "f": "2026-06-17T12:31:34.903158+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-corsa-1-2-edition-1477717983/",
-    "t": "Opel Corsa 1,2 Edition",
-    "ts": "2026-06-17T12:31:34.903158+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Corsa",
-    "y": 2020,
-    "km": 84855
-  },
-  "wh:1138782511": {
-    "p": 8900,
-    "f": "2026-06-17T12:28:28.186808+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-530d-xdrive-oesterreich-paket-aut-1138782511/",
-    "t": "BMW 5er-Reihe 530d xDrive \u00d6sterreich-Paket Aut.",
-    "ts": "2026-06-17T12:28:28.186808+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "5er-Reihe",
-    "y": 2012,
-    "km": 400000
-  },
-  "wh:1686705010": {
-    "p": 10600,
-    "f": "2026-06-17T12:28:28.186808+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-2-0-tdi-dpf-1686705010/",
-    "t": "Audi A4 2,0 TDI DPF",
-    "ts": "2026-06-17T12:28:28.186808+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2013,
-    "km": 217000
-  },
-  "wh:1739756885": {
-    "p": 4500,
-    "f": "2026-06-17T12:28:28.186808+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-a-klasse-a-160-avantgarde-1739756885/",
-    "t": "Mercedes-Benz A-Klasse A 160 Avantgarde",
-    "ts": "2026-06-17T12:28:28.186808+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "A-Klasse",
-    "y": 2011,
-    "km": 120000
   },
   "__health__": {
     "wh": 0,
