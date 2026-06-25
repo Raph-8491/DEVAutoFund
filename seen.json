@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1507607128": {
+    "p": 4900,
+    "f": "2026-06-25T05:07:21.938947+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-zafira-tourer-2-0-1507607128/",
+    "t": "Opel Zafira Tourer 2.0",
+    "ts": "2026-06-25T05:07:21.938947+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Zafira",
+    "y": 2012,
+    "km": 141000,
+    "b": "Kombi / Family Van"
+  },
   "gw:a19ef192-ec0d-4684-9e24-5f8dbf73d808": {
     "p": 6790,
     "f": "2026-06-25T05:05:38.041083+00:00",
@@ -145819,18 +145832,6 @@
     "mo": null,
     "y": 2010,
     "km": 112056
-  },
-  "as:a0e353c9-1e78-4dea-93b9-60a448dd2bbc": {
-    "p": 5900,
-    "f": "2026-06-16T17:59:35.056507+00:00",
-    "u": "https://www.autoscout24.at/angebote/renault-scenic-scenic-2-0-16v-140-cvt-dynamique-benzin-cat_ma60mo14786-a0e353c9-1e78-4dea-93b9-60a448dd2bbc",
-    "t": "Renault Scenic",
-    "ts": "2026-06-16T17:59:35.056507+00:00",
-    "ch": "alive",
-    "ma": "Renault",
-    "mo": "Scenic",
-    "y": 2012,
-    "km": 169000
   },
   "__health__": {
     "wh": 0,
