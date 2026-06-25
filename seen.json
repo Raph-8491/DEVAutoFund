@@ -147,13 +147,25 @@
     "y": 2009,
     "km": 235000
   },
+  "as:95c63f4c-849a-4ebb-a03d-bdab08e65a69": {
+    "p": null,
+    "f": "2026-06-25T07:17:25.830872+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1930740610": {
     "p": 13400,
     "f": "2026-06-25T07:14:27.691171+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-vw-polo-1930740610/",
     "t": "VW Polo VW Polo",
     "ts": "2026-06-25T07:14:27.691171+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Polo",
     "y": 2023,
@@ -145975,18 +145987,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1740741665": {
-    "p": 12000,
-    "f": "2026-06-16T18:52:31.622702+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-mercedes-benz-1740741665/",
-    "t": "Mercedes-Benz C-Klasse mercedes-benz",
-    "ts": "2026-06-16T18:52:31.622702+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C-Klasse",
-    "y": 2016,
-    "km": 161000
   },
   "__health__": {
     "wh": 0,
