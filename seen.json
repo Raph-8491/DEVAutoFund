@@ -148,6 +148,44 @@
     "y": 2009,
     "km": 235000
   },
+  "as:fd840684-a340-45ec-837f-b82ea31208af": {
+    "p": null,
+    "f": "2026-06-25T11:16:26.356632+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:849304662": {
+    "p": 5790,
+    "f": "2026-06-25T11:16:25.275880+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-849304662/",
+    "t": "Ford Galaxy",
+    "ts": "2026-06-25T11:16:25.275880+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2015,
+    "km": 273000,
+    "b": "Kleinbus"
+  },
+  "wh:1978787503": {
+    "p": 6490,
+    "f": "2026-06-25T11:16:25.275880+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-j-gtc-1978787503/",
+    "t": "Opel Astra J GTC",
+    "ts": "2026-06-25T11:16:25.275880+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Astra",
+    "y": 2012,
+    "km": 179000,
+    "b": "Sportwagen / Coup\u00e9"
+  },
   "gw:d06bc254-a787-407b-979d-64d5f5b62dd0": {
     "p": 3300,
     "f": "2026-06-25T11:15:47.409187+00:00",
@@ -297,7 +335,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-2-1774746944/",
     "t": "VW Golf 1,2",
     "ts": "2026-06-25T11:13:24.711568+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2012,
@@ -146350,44 +146388,6 @@
     "mo": "116",
     "y": 2010,
     "km": 320000
-  },
-  "as:f8206b5f-c283-4375-8934-250d03c5b7c4": {
-    "p": 2550,
-    "f": "2026-06-17T07:17:28.606157+00:00",
-    "u": "https://www.autoscout24.at/angebote/bmw-116-116d-diesel-weiss-cat_ma13mo18480-f8206b5f-c283-4375-8934-250d03c5b7c4",
-    "t": "BMW 116",
-    "ts": "2026-06-17T07:17:28.606157+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "116",
-    "y": 2010,
-    "km": 320000
-  },
-  "wh:1758468125": {
-    "p": 8000,
-    "f": "2026-06-17T07:17:25.083503+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-rabbit-1-6-tdi-bmt-1758468125/",
-    "t": "VW Golf Rabbit 1,6 TDI BMT",
-    "ts": "2026-06-24T07:17:25.597468+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2014,
-    "km": 165500,
-    "b": "Klein-/ Kompaktwagen"
-  },
-  "wh:1035070680": {
-    "p": 1850,
-    "f": "2026-06-17T07:17:25.083503+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mitsubishi-colt-mitsubishi-colt-1-1-mpi-wenig-km-pickerl-1035070680/",
-    "t": "Mitsubishi Colt Mitsubishi Colt 1.1 MPI | wenig km | Pickerl",
-    "ts": "2026-06-17T07:17:25.083503+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 103000,
-    "b": "Klein-/ Kompaktwagen"
   },
   "__health__": {
     "wh": 0,
