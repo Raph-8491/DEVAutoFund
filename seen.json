@@ -148,6 +148,47 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1775318913": {
+    "p": 13000,
+    "f": "2026-06-25T16:14:29.111859+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x1-xdrive18d-1775318913/",
+    "t": "BMW X1 xDrive18d",
+    "ts": "2026-06-25T16:14:29.111859+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X1",
+    "y": 2016,
+    "km": 135000,
+    "b": "SUV / Gel\u00e4ndewagen",
+    "pu": "2026-06-25T16:14:29.111859+00:00"
+  },
+  "wh:1053818733": {
+    "p": 12900,
+    "f": "2026-06-25T16:14:29.111859+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-stonic-1053818733/",
+    "t": "KIA Stonic",
+    "ts": "2026-06-25T16:14:29.111859+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2020,
+    "km": 25400,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:2063142276": {
+    "p": 10500,
+    "f": "2026-06-25T16:14:29.111859+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-gti-2063142276/",
+    "t": "VW Golf GTI",
+    "ts": "2026-06-25T16:14:29.111859+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2010,
+    "km": 164000,
+    "b": "Sportwagen / Coup\u00e9",
+    "pu": "2026-06-25T16:14:29.111859+00:00"
+  },
   "as:79badd8b-0ecf-4362-8835-8c9e6cfc5663": {
     "p": null,
     "f": "2026-06-25T16:13:29.470536+00:00",
@@ -146820,42 +146861,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1825807989": {
-    "p": 8500,
-    "f": "2026-06-17T13:47:24.958854+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-3-0-s-line-1825807989/",
-    "t": "Audi A5 3,0 S-Line",
-    "ts": "2026-06-17T13:47:24.958854+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A5",
-    "y": 2008,
-    "km": 306058
-  },
-  "wh:1143739616": {
-    "p": 5600,
-    "f": "2026-06-17T13:47:24.958854+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-sportage-active-pro-1-7-crdi-dpf-1143739616/",
-    "t": "KIA Sportage Active Pro 1,7 CRDi DPF",
-    "ts": "2026-06-17T13:47:24.958854+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 208000
-  },
-  "wh:1682604007": {
-    "p": 1500,
-    "f": "2026-06-17T13:47:24.958854+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-kangoo-express-1682604007/",
-    "t": "Renault Kangoo express",
-    "ts": "2026-06-17T13:47:24.958854+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 250000
   },
   "__health__": {
     "wh": 0,
