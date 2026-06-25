@@ -147,6 +147,20 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1652783841": {
+    "p": 8500,
+    "f": "2026-06-25T04:05:30.789053+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-c-180-cdi-blueefficiency-1652783841/",
+    "t": "Mercedes-Benz C-Klasse C 180 CDI BlueEfficiency",
+    "ts": "2026-06-25T04:05:30.789053+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "C-Klasse",
+    "y": 2011,
+    "km": 150000,
+    "b": "Limousine",
+    "pu": "2026-06-25T04:05:30.789053+00:00"
+  },
   "wh:1124003905": {
     "p": 9300,
     "f": "2026-06-25T03:56:27.205222+00:00",
@@ -145788,18 +145802,6 @@
     "mo": "Fabia",
     "y": 2010,
     "km": 225000
-  },
-  "as:91a588b2-92df-4b54-945b-8aa91d7e8f96": {
-    "p": 7000,
-    "f": "2026-06-16T17:48:35.463427+00:00",
-    "u": "https://www.autoscout24.at/angebote/mercedes-benz-c-200-cdi-dpf-automatik-blueefficiency-diesel-grau-cat_ma47mo1860-91a588b2-92df-4b54-945b-8aa91d7e8f96",
-    "t": "Mercedes-Benz C 200",
-    "ts": "2026-06-16T17:48:35.463427+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C 200",
-    "y": 2010,
-    "km": 195000
   },
   "__health__": {
     "wh": 0,
