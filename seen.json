@@ -147,6 +147,20 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:835694601": {
+    "p": 13490,
+    "f": "2026-06-25T08:23:24.458263+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-318d-xdrive-oesterreich-paket-835694601/",
+    "t": "BMW 3er-Reihe 318d xDrive \u00d6sterreich-Paket",
+    "ts": "2026-06-25T08:23:24.458263+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "3er-Reihe",
+    "y": 2014,
+    "km": 167626,
+    "b": "Limousine",
+    "pu": "2026-06-25T08:23:24.458263+00:00"
+  },
   "wh:1649592175": {
     "p": 6200,
     "f": "2026-06-25T08:22:28.031259+00:00",
@@ -123566,7 +123580,8 @@
     "ma": "Toyota",
     "mo": "Auris",
     "y": 2008,
-    "km": 36171
+    "km": 36171,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:1915718684": {
     "p": 2700,
@@ -123614,7 +123629,8 @@
     "ma": "VW",
     "mo": "Golf",
     "y": 2008,
-    "km": 198650
+    "km": 198650,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:1741371125": {
     "p": 8000,
@@ -146072,18 +146088,6 @@
     "mo": null,
     "y": 2008,
     "km": 208000
-  },
-  "wh:885955604": {
-    "p": 8900,
-    "f": "2026-06-16T19:43:39.657818+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-dokker-stepway-885955604/",
-    "t": "Dacia Dokker Stepway",
-    "ts": "2026-06-16T19:43:39.657818+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2018,
-    "km": 115450
   },
   "__health__": {
     "wh": 0,
