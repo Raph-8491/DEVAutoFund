@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:ef9417c4-568b-40f1-85a3-8e79d151c6ef": {
+    "p": null,
+    "f": "2026-06-25T05:34:30.240395+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1691546551": {
     "p": 9800,
     "f": "2026-06-25T05:32:29.716174+00:00",
@@ -145842,18 +145854,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1622898003": {
-    "p": 2500,
-    "f": "2026-06-16T18:10:51.823261+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-corsa-d-1-4-ccm-1622898003/",
-    "t": "Opel Corsa D 1.4 ccm",
-    "ts": "2026-06-16T18:10:51.823261+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Corsa",
-    "y": 2010,
-    "km": 145000
   },
   "__health__": {
     "wh": 0,
