@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:a926453d-e870-4cde-a1a6-d9964145cccd": {
+    "p": 4000,
+    "f": "2026-06-25T12:44:31.478650+00:00",
+    "u": "https://www.autoscout24.at/angebote/citroen-c1-feel-benzin-rot-cat_ma21mo18651-a926453d-e870-4cde-a1a6-d9964145cccd",
+    "t": "Citroen C1 Feel",
+    "ts": "2026-06-25T12:44:31.478650+00:00",
+    "ch": null,
+    "ma": "Citroen",
+    "mo": "C1",
+    "y": 2015,
+    "km": 87200,
+    "b": ""
+  },
   "as:23e748b9-5bfc-4af1-a9da-fc1a1082ee36": {
     "p": null,
     "f": "2026-06-25T12:43:26.265840+00:00",
@@ -190,7 +203,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-7-variant-1-6-tdi-1494685908/",
     "t": "VW Golf 7 Variant 1.6 TDI",
     "ts": "2026-06-25T12:41:25.014130+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2016,
@@ -146532,18 +146545,6 @@
     "mo": "Duster",
     "y": 2018,
     "km": 119600
-  },
-  "wh:1076842265": {
-    "p": 1500,
-    "f": "2026-06-17T09:19:24.535571+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda6-1076842265/",
-    "t": "Mazda Mazda6",
-    "ts": "2026-06-17T09:19:24.535571+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 256000
   },
   "__health__": {
     "wh": 0,
