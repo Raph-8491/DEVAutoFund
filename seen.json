@@ -148,6 +148,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1765497001": {
+    "p": 12500,
+    "f": "2026-06-25T10:51:24.016131+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c4-picasso-1765497001/",
+    "t": "Citro\u00ebn C4 Picasso",
+    "ts": "2026-06-25T10:51:24.016131+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2015,
+    "km": 42000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:2091807462": {
+    "p": 1000,
+    "f": "2026-06-25T10:51:24.016131+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-2091807462/",
+    "t": "Ford Fiesta",
+    "ts": "2026-06-25T10:51:24.016131+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 150000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1305247702": {
+    "p": 8340,
+    "f": "2026-06-25T10:51:24.016131+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-berlingo-multispace-bluehdi-100-family-1305247702/",
+    "t": "Citro\u00ebn Berlingo Multispace BlueHDI 100 Family",
+    "ts": "2026-06-25T10:51:24.016131+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2018,
+    "km": 195200,
+    "b": "Kombi / Family Van"
+  },
   "as:f04865d7-473b-430b-8098-e27aa4b7f1e3": {
     "p": null,
     "f": "2026-06-25T10:50:42.076369+00:00",
@@ -146299,43 +146338,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1684885831": {
-    "p": 6200,
-    "f": "2026-06-17T06:31:33.547735+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-sportage-active-2-0-crdi-4wd-dpf-aut-1684885831/",
-    "t": "KIA Sportage Active 2,0 CRDi 4WD DPF Aut.",
-    "ts": "2026-06-24T06:32:28.819640+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 236000,
-    "b": "SUV / Gel\u00e4ndewagen"
-  },
-  "wh:1172746588": {
-    "p": 9000,
-    "f": "2026-06-17T06:31:33.547735+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-dokker-stepway-tce-115-s-s-1172746588/",
-    "t": "Dacia Dokker Stepway TCe 115 S&S",
-    "ts": "2026-06-17T06:31:33.547735+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2015,
-    "km": 160000
-  },
-  "wh:1640726410": {
-    "p": 2490,
-    "f": "2026-06-17T06:31:33.547735+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-bmw-320-diesel-1640726410/",
-    "t": "BMW 3er-Reihe BMW 320 Diesel",
-    "ts": "2026-06-17T06:31:33.547735+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2012,
-    "km": 276000
   },
   "__health__": {
     "wh": 0,
