@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2099329922": {
+    "p": 13000,
+    "f": "2026-06-25T08:40:38.891109+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-alltrack-4-motion-2-0-tdi-ahk-2099329922/",
+    "t": "VW Passat Alltrack 4 Motion 2.0 TDI AHK",
+    "ts": "2026-06-25T08:40:38.891109+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Passat",
+    "y": 2014,
+    "km": 145000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T08:40:38.891109+00:00"
+  },
+  "wh:1421077517": {
+    "p": 2450,
+    "f": "2026-06-25T08:40:38.891109+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/toyota-prius-1421077517/",
+    "t": "Toyota Prius",
+    "ts": "2026-06-25T08:40:38.891109+00:00",
+    "ch": null,
+    "ma": "Toyota",
+    "mo": "Prius",
+    "y": 2011,
+    "km": 250000,
+    "b": "Limousine"
+  },
   "wh:1800749828": {
     "p": 5500,
     "f": "2026-06-25T08:38:25.048322+00:00",
@@ -146089,30 +146116,6 @@
     "y": 2008,
     "km": 160000,
     "b": "SUV / Gel\u00e4ndewagen"
-  },
-  "wh:1724498403": {
-    "p": 1500,
-    "f": "2026-06-16T19:58:34.180341+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-1-7-1724498403/",
-    "t": "Opel Astra 1.7",
-    "ts": "2026-06-16T19:58:34.180341+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Astra",
-    "y": 2013,
-    "km": 265000
-  },
-  "wh:808356629": {
-    "p": 4500,
-    "f": "2026-06-16T19:58:34.180341+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-808356629/",
-    "t": "BMW 3er-Reihe",
-    "ts": "2026-06-16T19:58:34.180341+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2009,
-    "km": 210000
   },
   "__health__": {
     "wh": 0,
