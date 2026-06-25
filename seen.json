@@ -148,6 +148,45 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:5f4100db-8ab1-4d0b-9700-b950b6209a87": {
+    "p": 10500,
+    "f": "2026-06-25T11:28:39.476636+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/mercedes-benz-sprinter-316-cdi-bluetec-906-235-7g-tronic-plus-diesel-weiss-cat_ma47mo15943/5f4100db-8ab1-4d0b-9700-b950b6209a87",
+    "t": "Mercedes-Benz Sprinter 316 CDI (BlueTec) 906.235 7G-TRONIC Plus",
+    "ts": "2026-06-25T11:28:39.476636+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "Sprinter",
+    "y": 2016,
+    "km": 242000,
+    "b": ""
+  },
+  "as:5f4100db-8ab1-4d0b-9700-b950b6209a87": {
+    "p": 10500,
+    "f": "2026-06-25T11:28:28.585238+00:00",
+    "u": "https://www.autoscout24.at/angebote/mercedes-benz-sprinter-316-cdi-bluetec-906-235-7g-tronic-plus-diesel-weiss-cat_ma47mo15943-5f4100db-8ab1-4d0b-9700-b950b6209a87",
+    "t": "Mercedes-Benz Sprinter 316 CDI (BlueTec) 906.235 7G-TRONIC Plus",
+    "ts": "2026-06-25T11:28:28.585238+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "Sprinter",
+    "y": 2016,
+    "km": 242000,
+    "b": ""
+  },
+  "wh:1617316989": {
+    "p": 5500,
+    "f": "2026-06-25T11:28:26.639968+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-1-6-tdi-1617316989/",
+    "t": "Seat Leon 1,6 TDI",
+    "ts": "2026-06-25T11:28:26.639968+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2012,
+    "km": 210000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:a1be541d-32af-4ca4-8ef6-f2ecb84d119b": {
     "p": null,
     "f": "2026-06-25T11:26:26.961162+00:00",
@@ -146368,42 +146407,6 @@
     "mo": "Octavia",
     "y": 2016,
     "km": 178000
-  },
-  "as:73a44250-d5f3-4c57-85ae-7772b6353b20": {
-    "p": null,
-    "f": "2026-06-17T07:33:30.513017+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "gw:e086747a-b5b9-4e8f-b785-a0083f213e00": {
-    "p": 1800,
-    "f": "2026-06-17T07:32:45.149765+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/chevrolet-cruze-station-wagon-1-7td-lt+-diesel-cat_ma19mo19172/e086747a-b5b9-4e8f-b785-a0083f213e00",
-    "t": "Chevrolet Cruze",
-    "ts": "2026-06-17T07:32:45.149765+00:00",
-    "ch": "alive",
-    "ma": "Chevrolet",
-    "mo": "Cruze",
-    "y": 2013,
-    "km": 200000
-  },
-  "as:e086747a-b5b9-4e8f-b785-a0083f213e00": {
-    "p": 1800,
-    "f": "2026-06-17T07:32:35.551981+00:00",
-    "u": "https://www.autoscout24.at/angebote/chevrolet-cruze-station-wagon-1-7td-lt+-diesel-cat_ma19mo19172-e086747a-b5b9-4e8f-b785-a0083f213e00",
-    "t": "Chevrolet Cruze",
-    "ts": "2026-06-17T07:32:35.551981+00:00",
-    "ch": "alive",
-    "ma": "Chevrolet",
-    "mo": "Cruze",
-    "y": 2013,
-    "km": 200000
   },
   "__health__": {
     "wh": 0,
