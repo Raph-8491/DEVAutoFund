@@ -148,6 +148,57 @@
     "y": 2009,
     "km": 235000
   },
+  "as:a42b2e2f-6e73-4a7f-a148-137cedd794d7": {
+    "p": null,
+    "f": "2026-06-25T10:14:25.351543+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:ffec2665-9173-4090-b8c4-679d69a24ff9": {
+    "p": 6990,
+    "f": "2026-06-25T10:14:25.351543+00:00",
+    "u": "https://www.autoscout24.at/angebote/nissan-nv400-kastenwagen-diesel-weiss-cat_ma52mo19781-ffec2665-9173-4090-b8c4-679d69a24ff9",
+    "t": "Nissan NV400 Kastenwagen",
+    "ts": "2026-06-25T10:14:25.351543+00:00",
+    "ch": null,
+    "ma": "Nissan",
+    "mo": "NV400",
+    "y": 2015,
+    "km": 206000,
+    "b": ""
+  },
+  "wh:1562021626": {
+    "p": 7800,
+    "f": "2026-06-25T10:14:24.300918+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-2-0-tdi-vrs-1562021626/",
+    "t": "Skoda Octavia 2.0 TDI VRS",
+    "ts": "2026-06-25T10:14:24.300918+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Octavia",
+    "y": 2011,
+    "km": 148000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:2139618319": {
+    "p": 7200,
+    "f": "2026-06-25T10:14:24.300918+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-clio-grandtour-tce-120-edc-2139618319/",
+    "t": "Renault Clio Grandtour TCe 120 EDC",
+    "ts": "2026-06-25T10:14:24.300918+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2014,
+    "km": 113000,
+    "b": "Kombi / Family Van"
+  },
   "gw:ffec2665-9173-4090-b8c4-679d69a24ff9": {
     "p": 6990,
     "f": "2026-06-25T10:13:32.289723+00:00",
@@ -146224,55 +146275,6 @@
     "mo": null,
     "y": 2011,
     "km": 135000
-  },
-  "wh:1588750672": {
-    "p": 2200,
-    "f": "2026-06-17T04:55:35.436181+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-kangoo-1-5dci-1588750672/",
-    "t": "Renault Kangoo 1.5dCi",
-    "ts": "2026-06-24T03:01:38.233191+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 257000,
-    "b": "Kombi / Family Van"
-  },
-  "wh:1390834419": {
-    "p": 9900,
-    "f": "2026-06-17T04:47:25.788379+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-208-allure-bluehdi-100-s-s-1390834419/",
-    "t": "Peugeot 208 Allure BlueHDi 100 S&S",
-    "ts": "2026-06-17T04:47:25.788379+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2022,
-    "km": 108950
-  },
-  "wh:1646443905": {
-    "p": 11500,
-    "f": "2026-06-17T04:45:44.647800+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-comfortline-bmt-1-6-tdi-4motion-1646443905/",
-    "t": "VW Golf Variant Comfortline BMT 1,6 TDI 4Motion",
-    "ts": "2026-06-17T04:45:44.647800+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2013,
-    "km": 150000
-  },
-  "wh:898744738": {
-    "p": 1500,
-    "f": "2026-06-17T04:44:24.364690+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-898744738/",
-    "t": "BMW 1er-Reihe",
-    "ts": "2026-06-17T04:44:24.364690+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "1er-Reihe",
-    "y": 2010,
-    "km": 292000
   },
   "__health__": {
     "wh": 0,
