@@ -148,6 +148,47 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1039909740": {
+    "p": 9199,
+    "f": "2026-06-25T12:32:37.623516+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-1-6-dsg-neues-pickerl-1039909740/",
+    "t": "Skoda Octavia 1.6 DSG Neues Pickerl!! !!",
+    "ts": "2026-06-25T12:32:37.623516+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Octavia",
+    "y": 2017,
+    "km": 209500,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1239059407": {
+    "p": 8500,
+    "f": "2026-06-25T12:32:37.623516+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x1-1-8-d-xdrive-1239059407/",
+    "t": "BMW X1 1.8 D xDrive",
+    "ts": "2026-06-25T12:32:37.623516+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X1",
+    "y": 2012,
+    "km": 205000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T12:32:37.623516+00:00"
+  },
+  "wh:1889095815": {
+    "p": 8500,
+    "f": "2026-06-25T12:32:37.623516+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-b-klasse-b-180-d-aut-1889095815/",
+    "t": "Mercedes-Benz B-Klasse B 180 d Aut.",
+    "ts": "2026-06-25T12:32:37.623516+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "B-Klasse",
+    "y": 2017,
+    "km": 198500,
+    "b": "Limousine",
+    "pu": "2026-06-25T12:32:37.623516+00:00"
+  },
   "wh:858530017": {
     "p": 4500,
     "f": "2026-06-25T12:31:30.119875+00:00",
@@ -146492,42 +146533,6 @@
     "mo": "A5",
     "y": 2010,
     "km": 30500
-  },
-  "wh:1842792944": {
-    "p": 9400,
-    "f": "2026-06-17T09:11:33.442976+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-5f-tsi-1842792944/",
-    "t": "Seat Leon 5F TSI",
-    "ts": "2026-06-17T09:11:33.442976+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Leon",
-    "y": 2016,
-    "km": 178451
-  },
-  "wh:1096300244": {
-    "p": 9700,
-    "f": "2026-06-17T09:11:33.442976+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-s-line-1096300244/",
-    "t": "Audi A4 s line",
-    "ts": "2026-06-17T09:11:33.442976+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2009,
-    "km": 169000
-  },
-  "as:d92a4cdb-6f7a-4163-b0e1-30f4b4414dc2": {
-    "p": null,
-    "f": "2026-06-17T09:10:45.641430+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
