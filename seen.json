@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:cea60df9-9bea-4e82-aa82-44e603e790b3": {
+    "p": null,
+    "f": "2026-06-25T13:56:34.770614+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1609968933": {
     "p": 3500,
     "f": "2026-06-25T13:53:24.738600+00:00",
@@ -146624,18 +146636,6 @@
     "mo": null,
     "y": 2010,
     "km": 120000
-  },
-  "wh:1024190887": {
-    "p": 6500,
-    "f": "2026-06-17T10:22:29.300115+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-4motion-2-0tdi-1024190887/",
-    "t": "VW Tiguan 4Motion 2.0TDi",
-    "ts": "2026-06-17T10:22:29.300115+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Tiguan",
-    "y": 2010,
-    "km": 165000
   },
   "__health__": {
     "wh": 0,
