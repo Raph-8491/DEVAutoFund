@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:42e85b71-2c08-417d-9343-2b6aba8fddea": {
+    "p": null,
+    "f": "2026-06-25T09:53:23.507225+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:e00ce1f0-0750-4e8a-89dd-084ae3acb19e": {
     "p": 14500,
     "f": "2026-06-25T09:52:38.643018+00:00",
@@ -146241,18 +146253,6 @@
     "mo": null,
     "y": 2016,
     "km": 99500
-  },
-  "wh:1513820283": {
-    "p": 900,
-    "f": "2026-06-17T02:24:26.308478+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-ceed-pro-ceed-crd-1-6-1513820283/",
-    "t": "KIA Ceed Pro Ceed CRD 1.6",
-    "ts": "2026-06-17T02:24:26.308478+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 216000
   },
   "__health__": {
     "wh": 0,
