@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:4c8801c0-8ef6-4aaa-92af-43d63f97fd9b": {
+    "p": null,
+    "f": "2026-06-25T10:55:41.025824+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:79c537e0-9288-45e3-8cc6-52bd30dbf9df": {
     "p": 4500,
     "f": "2026-06-25T10:53:23.752990+00:00",
@@ -226,18 +238,18 @@
     "km": null
   },
   "as:2fb463b4-eb3f-4159-ba85-b79f77433219": {
-    "p": 12000,
+    "p": 11000,
     "f": "2026-06-25T10:52:30.490962+00:00",
     "u": "https://www.autoscout24.at/angebote/volkswagen-golf-1-2-tsi-bluemotion-technology-dsg-allstar-benzin-cat_ma74mo2084-2fb463b4-eb3f-4159-ba85-b79f77433219",
     "t": "Volkswagen Golf 1.2 TSI BlueMotion Technology DSG Allstar",
-    "ts": "2026-06-25T10:52:30.490962+00:00",
+    "ts": "2026-06-25T10:55:37.543854+00:00",
     "ch": null,
     "ma": "VW",
     "mo": "Golf",
     "y": 2016,
     "km": 165000,
     "b": "",
-    "pu": "2026-06-25T10:52:30.490962+00:00"
+    "pu": "2026-06-25T10:55:37.543854+00:00"
   },
   "wh:1765497001": {
     "p": 12500,
@@ -146333,19 +146345,6 @@
     "mo": "Passat",
     "y": 2011,
     "km": 270000
-  },
-  "wh:2081614575": {
-    "p": 4500,
-    "f": "2026-06-17T06:38:36.325013+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c-crosser-2-4-2081614575/",
-    "t": "Citro\u00ebn C-Crosser 2,4",
-    "ts": "2026-06-17T06:38:36.325013+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 268375,
-    "b": "SUV / Gel\u00e4ndewagen"
   },
   "__health__": {
     "wh": 0,
