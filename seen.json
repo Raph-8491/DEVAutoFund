@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1161380052": {
+    "p": 7500,
+    "f": "2026-06-25T16:01:34.705325+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-alhambra-family-2-0-tdi-cr-dpf-1161380052/",
+    "t": "Seat Alhambra Family 2,0 TDI CR DPF",
+    "ts": "2026-06-25T16:01:34.705325+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Alhambra",
+    "y": 2013,
+    "km": 224440,
+    "b": "Kombi / Family Van"
+  },
   "as:078ef0bc-1565-4f20-86c4-bb05e128ce1f": {
     "p": null,
     "f": "2026-06-25T15:59:27.244307+00:00",
@@ -179,7 +192,7 @@
     "u": "https://www.autoscout24.at/angebote/volkswagen-golf-golf-highline-1-6-bmt-tdi-highline-diesel-grau-cat_ma74mo2084-3f916ae8-da4e-4a10-8658-29edb23b0d80",
     "t": "Volkswagen Golf Golf Highline 1,6 BMT TDI Highline",
     "ts": "2026-06-25T15:58:29.398782+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2018,
@@ -146820,18 +146833,6 @@
     "mo": null,
     "y": 2008,
     "km": 76000
-  },
-  "gw:f49b9b16-41e0-4f8d-b5b2-966cd1ea8a04": {
-    "p": 6800,
-    "f": "2026-06-17T13:17:43.157673+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-520-520d-diesel-silber-cat_ma13mo1648/f49b9b16-41e0-4f8d-b5b2-966cd1ea8a04",
-    "t": "BMW 520",
-    "ts": "2026-06-17T13:17:43.157673+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "520",
-    "y": 2011,
-    "km": 270000
   },
   "__health__": {
     "wh": 0,
