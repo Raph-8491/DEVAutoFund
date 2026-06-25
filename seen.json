@@ -147,6 +147,47 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1926328166": {
+    "p": 15000,
+    "f": "2026-06-25T08:03:24.124706+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-s-line-1926328166/",
+    "t": "Audi A3 S line",
+    "ts": "2026-06-25T08:03:24.124706+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A3",
+    "y": 2019,
+    "km": 75000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T08:03:24.124706+00:00"
+  },
+  "wh:1705705513": {
+    "p": 5200,
+    "f": "2026-06-25T08:03:24.124706+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-7-1705705513/",
+    "t": "VW Golf 7",
+    "ts": "2026-06-25T08:03:24.124706+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2017,
+    "km": 200392,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T08:03:24.124706+00:00"
+  },
+  "wh:939065069": {
+    "p": 8000,
+    "f": "2026-06-25T08:03:24.124706+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-caddy-kombi-trendline-2-0-tdi-dpf-4motion-939065069/",
+    "t": "VW Caddy Kombi Trendline 2,0 TDI DPF 4MOTION",
+    "ts": "2026-06-25T08:03:24.124706+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Caddy",
+    "y": 2012,
+    "km": 244000,
+    "b": "Kombi / Family Van"
+  },
   "as:e63492e3-4ce6-44db-b809-5c894531e6f4": {
     "p": null,
     "f": "2026-06-25T08:02:28.394664+00:00",
@@ -146011,42 +146052,6 @@
     "mo": "Passat",
     "y": 2008,
     "km": 309586
-  },
-  "as:c0cab00b-bbd1-46f4-b572-ff24f4a1cb7c": {
-    "p": null,
-    "f": "2026-06-16T19:22:31.991925+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1956837216": {
-    "p": 1800,
-    "f": "2026-06-16T19:20:55.993743+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-1956837216/",
-    "t": "Ford Galaxy",
-    "ts": "2026-06-16T19:20:55.993743+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 322600
-  },
-  "wh:2054815105": {
-    "p": 3500,
-    "f": "2026-06-16T19:20:55.993743+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-logan-2054815105/",
-    "t": "Dacia Logan",
-    "ts": "2026-06-16T19:20:55.993743+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2017,
-    "km": 122063
   },
   "__health__": {
     "wh": 0,
