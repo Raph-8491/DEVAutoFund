@@ -148,6 +148,33 @@
     "y": 2009,
     "km": 235000
   },
+  "as:72bc9718-1d35-4631-89e2-3650fa0ace48": {
+    "p": 5250,
+    "f": "2026-06-25T15:10:43.357815+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-tiguan-2-0-tdi-dpf-4motion-sport-style-diesel-cat_ma74mo19063-72bc9718-1d35-4631-89e2-3650fa0ace48",
+    "t": "Volkswagen Tiguan 2.0 TDI DPF 4Motion Sport & Style",
+    "ts": "2026-06-25T15:10:43.357815+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Tiguan",
+    "y": 2008,
+    "km": 223000,
+    "b": "",
+    "pu": "2026-06-25T15:10:43.357815+00:00"
+  },
+  "wh:1882395628": {
+    "p": 2500,
+    "f": "2026-06-25T15:10:42.560750+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-1-25i-titanium-neues-pickerl-1882395628/",
+    "t": "Ford Fiesta 1.25i Titanium *Neues Pickerl*",
+    "ts": "2026-06-25T15:10:42.560750+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 184000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:5920ad54-379c-4787-813a-20c556c50d02": {
     "p": 1900,
     "f": "2026-06-25T15:09:23.931948+00:00",
@@ -146717,30 +146744,6 @@
   "as:1f374e4d-38ea-4d15-b29c-fa74ae1fe6dc": {
     "p": null,
     "f": "2026-06-17T12:04:48.622423+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:f291ecf9-b2c3-428a-89b0-c820be244589": {
-    "p": null,
-    "f": "2026-06-17T12:04:46.080846+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:372ba818-9be1-41d6-ae01-1dd87f28898c": {
-    "p": null,
-    "f": "2026-06-17T12:04:46.080846+00:00",
     "u": null,
     "t": null,
     "ts": null,
