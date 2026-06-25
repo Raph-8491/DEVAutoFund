@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:07cc8b3b-2b15-4889-8b14-bbb3961a25ae": {
+    "p": 10100,
+    "f": "2026-06-25T13:39:27.082053+00:00",
+    "u": "https://www.autoscout24.at/angebote/fiat-500c-500-c-500-c-0-9-8v-twinair-turbo-start-benzin-weiss-cat_ma28mo19533-07cc8b3b-2b15-4889-8b14-bbb3961a25ae",
+    "t": "Fiat 500C 500 C 500 C 0.9 8V TwinAir Turbo Start",
+    "ts": "2026-06-25T13:39:27.082053+00:00",
+    "ch": null,
+    "ma": "Fiat",
+    "mo": "500C",
+    "y": 2017,
+    "km": 68800,
+    "b": ""
+  },
   "as:e1074cac-8721-42c8-a664-2d4d6ae4c035": {
     "p": 2199,
     "f": "2026-06-25T13:38:33.213419+00:00",
@@ -146604,18 +146617,6 @@
     "mo": "A4",
     "y": 2008,
     "km": 275000
-  },
-  "as:d80cb48f-4dd8-4b27-b59d-a8979075d8e8": {
-    "p": null,
-    "f": "2026-06-17T10:09:34.431677+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
