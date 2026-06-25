@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:fea01c25-00d4-4d31-8358-fc74a2bbce3f": {
+    "p": 8600,
+    "f": "2026-06-25T14:10:48.710689+00:00",
+    "u": "https://www.autoscout24.at/angebote/audi-a3-a3-sb-attraction-2-0-tdi-s-tronic-attraction-diesel-grau-cat_ma9mo1624-fea01c25-00d4-4d31-8358-fc74a2bbce3f",
+    "t": "Audi A3 A3 SB Attraction 2,0 TDI S-tronic Attraction",
+    "ts": "2026-06-25T14:10:48.710689+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A3",
+    "y": 2015,
+    "km": 297000,
+    "b": ""
+  },
   "gw:fea01c25-00d4-4d31-8358-fc74a2bbce3f": {
     "p": 8600,
     "f": "2026-06-25T14:09:46.225137+00:00",
@@ -146641,18 +146654,6 @@
     "mo": "Golf",
     "y": 2015,
     "km": 170000
-  },
-  "as:4416ed7d-d31e-4fbf-af59-d51512ea04df": {
-    "p": null,
-    "f": "2026-06-17T10:37:30.481273+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
