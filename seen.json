@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1928085252": {
+    "p": 10000,
+    "f": "2026-06-25T07:27:24.566842+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-t5-hd-kombi-lr-2-0-tdi-4motion-d-pf-1928085252/",
+    "t": "VW T5 HD-Kombi LR 2,0 TDI 4motion D-PF",
+    "ts": "2026-06-25T07:27:24.566842+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "T5",
+    "y": 2010,
+    "km": 300800,
+    "b": "Kleinbus"
+  },
+  "wh:1986818597": {
+    "p": 12900,
+    "f": "2026-06-25T07:27:24.566842+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-captur-101-ps-2021-model-intens-tce-led-l-1986818597/",
+    "t": "Renault Captur 101 PS 2021 Model Intens TCe led L",
+    "ts": "2026-06-25T07:27:24.566842+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2020,
+    "km": 68000,
+    "b": "Limousine"
+  },
+  "wh:1846558864": {
+    "p": 10999,
+    "f": "2026-06-25T07:27:24.566842+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-m-klasse-350cdi-4matic-1846558864/",
+    "t": "Mercedes-Benz M-Klasse 350CDi.4Matic",
+    "ts": "2026-06-25T07:27:24.566842+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "M-Klasse",
+    "y": 2012,
+    "km": 380000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "wh:2025992576": {
     "p": 6500,
     "f": "2026-06-25T07:25:37.636277+00:00",
@@ -145965,42 +146004,6 @@
     "mo": "B-Klasse",
     "y": 2011,
     "km": 130900
-  },
-  "wh:871963373": {
-    "p": 9000,
-    "f": "2026-06-16T19:01:43.659974+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c4-picasso-871963373/",
-    "t": "Citro\u00ebn C4 Picasso",
-    "ts": "2026-06-16T19:01:43.659974+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2016,
-    "km": 242000
-  },
-  "as:caa420dc-22fd-495b-bbf6-e8bd147242a5": {
-    "p": null,
-    "f": "2026-06-16T18:59:33.817111+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1955093390": {
-    "p": 4300,
-    "f": "2026-06-16T18:58:28.568454+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-1-9tdi-facelift-sportback-1955093390/",
-    "t": "Audi A3 1,9TDI/Facelift/Sportback",
-    "ts": "2026-06-16T18:58:28.568454+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A3",
-    "y": 2009,
-    "km": 252350
   },
   "__health__": {
     "wh": 0,
