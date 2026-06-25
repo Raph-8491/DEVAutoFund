@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:a731d5d0-c391-4bd6-984f-4a0623af650a": {
+    "p": null,
+    "f": "2026-06-25T04:06:29.922065+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1652783841": {
     "p": 8500,
     "f": "2026-06-25T04:05:30.789053+00:00",
@@ -145790,18 +145802,6 @@
     "mo": "C 200",
     "y": 2010,
     "km": 195000
-  },
-  "as:60fa4bba-2844-474a-b618-ebea64f392cb": {
-    "p": 2500,
-    "f": "2026-06-16T17:48:35.463427+00:00",
-    "u": "https://www.autoscout24.at/angebote/skoda-fabia-style-edition-benzin-grau-cat_ma65mo15878-60fa4bba-2844-474a-b618-ebea64f392cb",
-    "t": "Skoda Fabia",
-    "ts": "2026-06-16T17:48:35.463427+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Fabia",
-    "y": 2010,
-    "km": 225000
   },
   "__health__": {
     "wh": 0,
