@@ -148,6 +148,47 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:39844ebd-07e0-4707-b28a-452d57ff255b": {
+    "p": 7500,
+    "f": "2026-06-25T11:55:47.007820+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-golf-golf-comfortline-1-2-tsi-comfortline-benzin-schwarz-cat_ma74mo2084/39844ebd-07e0-4707-b28a-452d57ff255b",
+    "t": "Volkswagen Golf Golf Comfortline 1,2 TSI Comfortline",
+    "ts": "2026-06-25T11:55:47.007820+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2011,
+    "km": 140000,
+    "b": "",
+    "pu": "2026-06-25T11:55:47.007820+00:00"
+  },
+  "wh:833639801": {
+    "p": 13499,
+    "f": "2026-06-25T11:55:37.314443+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touran-comfortline-2-0-bmt-tdi-dsg-833639801/",
+    "t": "VW Touran Comfortline 2,0 BMT TDI DSG",
+    "ts": "2026-06-25T11:55:37.314443+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Touran",
+    "y": 2016,
+    "km": 197000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T11:55:37.314443+00:00"
+  },
+  "wh:1894078098": {
+    "p": 5000,
+    "f": "2026-06-25T11:55:37.314443+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-1894078098/",
+    "t": "Audi A6",
+    "ts": "2026-06-25T11:55:37.314443+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A6",
+    "y": 2008,
+    "km": 272000,
+    "b": "Limousine"
+  },
   "wh:1438857415": {
     "p": 1450,
     "f": "2026-06-25T11:53:25.160952+00:00",
@@ -146418,43 +146459,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1157545648": {
-    "p": 400,
-    "f": "2026-06-17T08:12:27.586740+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-corsa-1157545648/",
-    "t": "Opel Corsa",
-    "ts": "2026-06-17T08:12:27.586740+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Corsa",
-    "y": 2011,
-    "km": 82078
-  },
-  "wh:2136363288": {
-    "p": 9000,
-    "f": "2026-06-17T08:12:27.586740+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-sky-1-2-tsi-2136363288/",
-    "t": "VW Polo Sky 1,2 TSI",
-    "ts": "2026-06-24T08:07:24.093582+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2014,
-    "km": 104000,
-    "b": "Limousine"
-  },
-  "wh:1280755354": {
-    "p": 2990,
-    "f": "2026-06-17T08:09:30.680576+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-meriva-1-4-ecoflex-edition-start-stop-1280755354/",
-    "t": "Opel Meriva 1,4 ecoFlex Edition Start&Stop",
-    "ts": "2026-06-17T08:09:30.680576+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Meriva",
-    "y": 2012,
-    "km": 118000
   },
   "__health__": {
     "wh": 0,
