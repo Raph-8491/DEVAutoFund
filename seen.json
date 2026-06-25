@@ -148,6 +148,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1628766647": {
+    "p": 750,
+    "f": "2026-06-25T13:12:24.697681+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/lancia-musa-1-4-16v-1628766647/",
+    "t": "Lancia Musa 1.4 16v",
+    "ts": "2026-06-25T13:12:24.697681+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 130000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1958768261": {
+    "p": 850,
+    "f": "2026-06-25T13:12:24.697681+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-twingo-1958768261/",
+    "t": "Renault Twingo",
+    "ts": "2026-06-25T13:12:24.697681+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 132887,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1430888340": {
+    "p": 2300,
+    "f": "2026-06-25T13:12:24.697681+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-1-25-1430888340/",
+    "t": "Ford Fiesta 1.25",
+    "ts": "2026-06-25T13:12:24.697681+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 172000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:bc5ebaf7-5bc2-4a31-975e-0a1d4f9dc5b1": {
     "p": 7200,
     "f": "2026-06-25T13:10:45.855274+00:00",
@@ -146540,42 +146579,6 @@
     "mo": null,
     "y": 2008,
     "km": 146600
-  },
-  "gw:23875f7b-f6c8-454d-83c1-cd5714a83141": {
-    "p": 5500,
-    "f": "2026-06-17T09:47:37.647200+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/opel-mokka-1-6-cdti-ecoflex-start-stop-color-edition-diesel-cat_ma54mo20148/23875f7b-f6c8-454d-83c1-cd5714a83141",
-    "t": "Opel Mokka",
-    "ts": "2026-06-17T09:47:37.647200+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Mokka",
-    "y": 2016,
-    "km": 192000
-  },
-  "as:23875f7b-f6c8-454d-83c1-cd5714a83141": {
-    "p": 5500,
-    "f": "2026-06-17T09:47:28.835683+00:00",
-    "u": "https://www.autoscout24.at/angebote/opel-mokka-1-6-cdti-ecoflex-start-stop-color-edition-diesel-cat_ma54mo20148-23875f7b-f6c8-454d-83c1-cd5714a83141",
-    "t": "Opel Mokka",
-    "ts": "2026-06-17T09:47:28.835683+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Mokka",
-    "y": 2016,
-    "km": 192000
-  },
-  "as:b006877a-ab7d-45a2-b821-c75f3780fe88": {
-    "p": 6800,
-    "f": "2026-06-17T09:46:38.891894+00:00",
-    "u": "https://www.autoscout24.at/angebote/seat-ibiza-ibiza-sc-1-4-tdi-s-diesel-grau-cat_ma64mo2006-b006877a-ab7d-45a2-b821-c75f3780fe88",
-    "t": "SEAT Ibiza",
-    "ts": "2026-06-17T09:46:38.891894+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2017,
-    "km": 108300
   },
   "__health__": {
     "wh": 0,
