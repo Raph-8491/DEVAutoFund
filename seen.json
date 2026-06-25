@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2021676954": {
+    "p": 8500,
+    "f": "2026-06-25T15:06:26.003467+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-sharan-2021676954/",
+    "t": "VW Sharan",
+    "ts": "2026-06-25T15:06:26.003467+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Sharan",
+    "y": 2012,
+    "km": 325000,
+    "b": "Kombi / Family Van"
+  },
   "as:2f1f1884-82b2-49e4-b958-cc4e41db57ca": {
     "p": null,
     "f": "2026-06-25T15:05:42.025569+00:00",
@@ -126042,7 +126055,8 @@
     "ma": "Opel",
     "mo": "Astra",
     "y": 2009,
-    "km": 228000
+    "km": 228000,
+    "b": "Kombi / Family Van"
   },
   "wh:902936717": {
     "p": 3800,
@@ -146727,18 +146741,6 @@
     "mo": "Polo",
     "y": 2009,
     "km": 200000
-  },
-  "as:1983a2d2-9a14-4ca6-adc2-417e86ccab8e": {
-    "p": null,
-    "f": "2026-06-17T11:55:41.579975+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
