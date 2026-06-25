@@ -147,6 +147,57 @@
     "y": 2009,
     "km": 235000
   },
+  "as:219c19dc-1c70-4adb-b2ea-9db8a433459d": {
+    "p": null,
+    "f": "2026-06-25T09:03:28.965043+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1458501740": {
+    "p": 4350,
+    "f": "2026-06-25T09:03:27.088297+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i20-1-2-comfort-1458501740/",
+    "t": "Hyundai i20 1.2 Comfort",
+    "ts": "2026-06-25T09:03:27.088297+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 66500,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:2042136431": {
+    "p": 3000,
+    "f": "2026-06-25T09:03:27.088297+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-ecosport-tr-1-6-dpf-kombi-2042136431/",
+    "t": "Ford Focus Ecosport TR 1.6 DPF(Kombi)",
+    "ts": "2026-06-25T09:03:27.088297+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 155856,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1141530925": {
+    "p": 500,
+    "f": "2026-06-25T09:03:27.088297+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-espace-2-0-1141530925/",
+    "t": "Renault Espace 2,0",
+    "ts": "2026-06-25T09:03:27.088297+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 300000,
+    "b": "Kombi / Family Van"
+  },
   "as:567ffea8-283e-4ab8-bb9e-dc56a6af5e59": {
     "p": null,
     "f": "2026-06-25T09:02:30.162122+00:00",
@@ -146105,55 +146156,6 @@
     "mo": "X1",
     "y": 2011,
     "km": 131000
-  },
-  "wh:966731935": {
-    "p": 11700,
-    "f": "2026-06-16T20:31:32.202912+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x5-xdrive30d-oesterreich-paket-aut-966731935/",
-    "t": "BMW X5 xDrive30d \u00d6sterreich-Paket Aut.",
-    "ts": "2026-06-16T20:31:32.202912+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "X5",
-    "y": 2012,
-    "km": 240500,
-    "b": "SUV / Gel\u00e4ndewagen"
-  },
-  "wh:1149836796": {
-    "p": 3500,
-    "f": "2026-06-16T20:31:32.202912+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/alfa-romeo-mito-1149836796/",
-    "t": "Alfa Romeo MiTo",
-    "ts": "2026-06-16T20:31:32.202912+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 130000
-  },
-  "wh:851258093": {
-    "p": 3550,
-    "f": "2026-06-16T20:31:32.202912+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-altea-xl-1-6-tdi-chili-851258093/",
-    "t": "Seat Altea XL 1.6 TDI Chili",
-    "ts": "2026-06-16T20:31:32.202912+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Altea",
-    "y": 2013,
-    "km": 215000
-  },
-  "as:b13cc06a-f4b8-43a5-b091-43fa08aebfb8": {
-    "p": null,
-    "f": "2026-06-16T20:28:37.517542+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
