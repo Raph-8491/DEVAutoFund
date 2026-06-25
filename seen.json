@@ -148,6 +148,20 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1322066116": {
+    "p": 8500,
+    "f": "2026-06-25T10:36:29.791760+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x3-xdrive20d-aut-1322066116/",
+    "t": "BMW X3 xDrive20d Aut.",
+    "ts": "2026-06-25T10:36:29.791760+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X3",
+    "y": 2011,
+    "km": 234000,
+    "b": "SUV / Gel\u00e4ndewagen",
+    "pu": "2026-06-25T10:36:29.791760+00:00"
+  },
   "gw:55d7732f-2b00-43f1-9b58-648eccd3afec": {
     "p": 7500,
     "f": "2026-06-25T10:33:32.590955+00:00",
@@ -167,7 +181,7 @@
     "u": "https://www.autoscout24.at/angebote/volkswagen-tiguan-tiguan-2-0-tdi-bmt-4motion-sky-dpf-sky-diesel-grau-cat_ma74mo19063-55d7732f-2b00-43f1-9b58-648eccd3afec",
     "t": "Volkswagen Tiguan Tiguan 2,0 TDI BMT 4Motion Sky DPF Sky",
     "ts": "2026-06-25T10:33:25.324806+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Tiguan",
     "y": 2011,
@@ -181,7 +195,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-318d-819169292/",
     "t": "BMW 3er-Reihe 318d",
     "ts": "2026-06-25T10:33:21.634225+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "3er-Reihe",
     "y": 2010,
@@ -195,7 +209,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-cabrio-rabbit-1-6-tdi-dpf-1921751388/",
     "t": "VW Golf Cabrio Rabbit 1.6 TDI DPF",
     "ts": "2026-06-25T10:33:21.634225+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2015,
@@ -146301,18 +146315,6 @@
     "mo": "Spark",
     "y": 2012,
     "km": 53000
-  },
-  "as:8771b52e-3ade-4352-8648-3dffb8dd0c9e": {
-    "p": null,
-    "f": "2026-06-17T05:58:34.769234+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
