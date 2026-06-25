@@ -147,6 +147,72 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1349608558": {
+    "p": 12500,
+    "f": "2026-06-25T06:47:21.056128+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-a-klasse-a160-1349608558/",
+    "t": "Mercedes-Benz A-Klasse A160",
+    "ts": "2026-06-25T06:47:21.056128+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "A-Klasse",
+    "y": 2016,
+    "km": 136860,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1384634321": {
+    "p": 4500,
+    "f": "2026-06-25T06:47:21.056128+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-1-6-cdti-1384634321/",
+    "t": "Opel Astra 1,6 CDTI",
+    "ts": "2026-06-25T06:47:21.056128+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Astra",
+    "y": 2015,
+    "km": 203000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:849355122": {
+    "p": 7200,
+    "f": "2026-06-25T06:47:21.056128+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a1-1-6-tdi-105-ps-849355122/",
+    "t": "Audi A1 1.6 TDi 105 PS",
+    "ts": "2026-06-25T06:47:21.056128+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A1",
+    "y": 2012,
+    "km": 190000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T06:47:21.056128+00:00"
+  },
+  "wh:846491599": {
+    "p": 14300,
+    "f": "2026-06-25T06:47:21.056128+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-c350e-t-modell-avantgarde-aut-phev-pickerl-neu-846491599/",
+    "t": "Mercedes-Benz C-Klasse C350e T-Modell Avantgarde, Aut. PHEV *PICKERL NEU*",
+    "ts": "2026-06-25T06:47:21.056128+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "C-Klasse",
+    "y": 2016,
+    "km": 158000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1388425945": {
+    "p": 2750,
+    "f": "2026-06-25T06:47:21.056128+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-2-0-diesel-pickerl-bis-03-2027-4-1388425945/",
+    "t": "Opel Insignia 2.0 Diesel Pickerl bis 03/2027+4",
+    "ts": "2026-06-25T06:47:21.056128+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Insignia",
+    "y": 2010,
+    "km": 242000,
+    "b": "Kombi / Family Van"
+  },
   "as:0972e34f-5785-4a4e-97f4-389dec497955": {
     "p": null,
     "f": "2026-06-25T06:45:40.743694+00:00",
@@ -123275,7 +123341,8 @@
     "ma": "Audi",
     "mo": "A3",
     "y": 2015,
-    "km": 118000
+    "km": 118000,
+    "b": "Limousine"
   },
   "wh:1447086960": {
     "p": 1500,
@@ -145873,66 +145940,6 @@
     "mo": "500",
     "y": 2009,
     "km": 77800
-  },
-  "wh:953984950": {
-    "p": 4000,
-    "f": "2026-06-16T18:36:38.933142+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-yeti-4x4-twenty-elegance-2-0-tdi-cr-dpf-953984950/",
-    "t": "Skoda Yeti 4x4 Twenty Elegance 2,0 TDI CR DPF",
-    "ts": "2026-06-16T18:36:38.933142+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Yeti",
-    "y": 2012,
-    "km": 192932
-  },
-  "wh:1692552625": {
-    "p": 3200,
-    "f": "2026-06-16T18:36:38.933142+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-rio-1-2-cool-benzin-1692552625/",
-    "t": "KIA Rio 1.2 Cool ( Benzin )",
-    "ts": "2026-06-16T18:36:38.933142+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 298000
-  },
-  "wh:1217400396": {
-    "p": 8990,
-    "f": "2026-06-16T18:36:38.933142+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-st-executive-1-6-tdi-cr-4drive-1217400396/",
-    "t": "Seat Leon ST Executive 1,6 TDI CR 4Drive",
-    "ts": "2026-06-16T18:36:38.933142+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Leon",
-    "y": 2015,
-    "km": 212000
-  },
-  "gw:332c73d0-6438-42a4-8156-5d372b7c7b6f": {
-    "p": 3000,
-    "f": "2026-06-16T18:35:57.265044+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/nissan-note-1-4-visia-maengel-freies-oemtc-pickerl-benzin-cat_ma52mo18682/332c73d0-6438-42a4-8156-5d372b7c7b6f",
-    "t": "Nissan Note",
-    "ts": "2026-06-16T18:35:57.265044+00:00",
-    "ch": "alive",
-    "ma": "Nissan",
-    "mo": "Note",
-    "y": 2010,
-    "km": 138000
-  },
-  "as:08f472ae-15a6-4752-9fd5-f314215abd85": {
-    "p": null,
-    "f": "2026-06-16T18:35:52.189921+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
