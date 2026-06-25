@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:2d7a8423-3066-4d7b-a014-4074b184c5d2": {
+    "p": 6900,
+    "f": "2026-06-25T07:04:38.491056+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/fiat-ducato-diesel-weiss-cat_ma28mo14783/2d7a8423-3066-4d7b-a014-4074b184c5d2",
+    "t": "Fiat Ducato",
+    "ts": "2026-06-25T07:04:38.491056+00:00",
+    "ch": null,
+    "ma": "Fiat",
+    "mo": "Ducato",
+    "y": 2026,
+    "km": 187940,
+    "b": ""
+  },
+  "as:aa7a643f-64eb-4ca4-99dc-903b948a8703": {
+    "p": null,
+    "f": "2026-06-25T07:04:30.111959+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:3b700755-ae9c-446a-b007-4ff9c94b4b8d": {
     "p": null,
     "f": "2026-06-25T07:03:26.489417+00:00",
@@ -145937,30 +145962,6 @@
     "mo": "208",
     "y": 2013,
     "km": 114000
-  },
-  "as:98ae84fd-85ac-4dce-8669-3d0bd2dd746b": {
-    "p": 6000,
-    "f": "2026-06-16T18:46:31.744154+00:00",
-    "u": "https://www.autoscout24.at/angebote/peugeot-208-active-1-2-e-vti-82-asg-automatik-benzin-weiss-cat_ma55mo20057-98ae84fd-85ac-4dce-8669-3d0bd2dd746b",
-    "t": "Peugeot 208",
-    "ts": "2026-06-16T18:46:31.744154+00:00",
-    "ch": "alive",
-    "ma": "Peugeot",
-    "mo": "208",
-    "y": 2013,
-    "km": 114000
-  },
-  "wh:1134528925": {
-    "p": 4300,
-    "f": "2026-06-16T18:45:49.293416+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-vw-golf-vi-rabbit-1134528925/",
-    "t": "VW Golf VW Golf VI Rabbit",
-    "ts": "2026-06-16T18:45:49.293416+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2010,
-    "km": 236820
   },
   "__health__": {
     "wh": 0,
