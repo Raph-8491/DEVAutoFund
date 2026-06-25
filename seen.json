@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1929522907": {
+    "p": 5700,
+    "f": "2026-06-25T13:26:26.885777+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-ghia-2-0-tdi-1929522907/",
+    "t": "Ford Galaxy Ghia 2 .0 TDI",
+    "ts": "2026-06-25T13:26:26.885777+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 210500,
+    "b": "Kombi / Family Van"
+  },
   "as:19cc4cf2-7fb4-4118-afee-b5f7ae2d66c4": {
     "p": null,
     "f": "2026-06-25T13:24:28.000978+00:00",
@@ -126599,12 +126612,12 @@
     "b": "Limousine"
   },
   "wh:883400635": {
-    "p": 2800,
+    "p": 2500,
     "f": "2026-06-18T12:38:29.581394+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-titanium-2-0-tdci-dpf-aut-883400635/",
     "t": "Ford Focus Titanium 2,0 TDCi DPF Aut.",
-    "ts": "2026-06-18T12:38:29.581394+00:00",
-    "ch": "alive",
+    "ts": "2026-06-25T13:26:26.885777+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2012,
@@ -146585,18 +146598,6 @@
     "mo": "520",
     "y": 2010,
     "km": 260000
-  },
-  "as:2a9b4d3f-5f18-4051-bc46-07c0ffcdc558": {
-    "p": null,
-    "f": "2026-06-17T10:01:43.554142+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
