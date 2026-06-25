@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:23bda8f1-f7ff-4020-8ad2-bc34c66057df": {
+    "p": null,
+    "f": "2026-06-25T08:49:26.965713+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:87e17ff8-2f1d-4f99-8a91-0d10b3bf9c7f": {
     "p": null,
     "f": "2026-06-25T08:47:24.978019+00:00",
@@ -246,7 +258,7 @@
     "u": "https://www.autoscout24.at/angebote/audi-a4-avant-2-0-tdi-2xsline-diesel-cat_ma9mo1626-9209de65-c173-4c52-bb67-adb1cf974e33",
     "t": "Audi A4 Avant 2,0 TDI 2xSline",
     "ts": "2026-06-25T08:46:26.973849+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A4",
     "y": 2015,
@@ -272,7 +284,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-q7-1903250704/",
     "t": "Audi Q7",
     "ts": "2026-06-25T08:46:24.837907+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "Q7",
     "y": 2017,
@@ -350,7 +362,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1646446892/",
     "t": "VW Golf",
     "ts": "2026-06-25T08:46:24.837907+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2009,
@@ -146121,18 +146133,6 @@
     "mo": null,
     "y": 2015,
     "km": 214000
-  },
-  "as:cfa35e5c-3f21-4f6c-9b62-a0899c70dad5": {
-    "p": null,
-    "f": "2026-06-16T20:08:45.526406+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
