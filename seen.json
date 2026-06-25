@@ -148,6 +148,73 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1402575151": {
+    "p": 11950,
+    "f": "2026-06-25T11:03:22.092210+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mx-5-1402575151/",
+    "t": "Mazda MX-5",
+    "ts": "2026-06-25T11:03:22.092210+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 140000,
+    "b": "Cabrio / Roadster"
+  },
+  "wh:1576945912": {
+    "p": 3900,
+    "f": "2026-06-25T11:03:22.092210+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-2-0-allrad-vollausstatung-1576945912/",
+    "t": "VW Golf 2.0 *Allrad* Vollausstatung",
+    "ts": "2026-06-25T11:03:22.092210+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2009,
+    "km": 223000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T11:03:22.092210+00:00"
+  },
+  "wh:1749754962": {
+    "p": 11500,
+    "f": "2026-06-25T11:03:22.092210+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-cx-5-2-0-benzin-1749754962/",
+    "t": "Mazda CX-5 2,0 Benzin",
+    "ts": "2026-06-25T11:03:22.092210+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 99000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1954287547": {
+    "p": 9900,
+    "f": "2026-06-25T11:03:22.092210+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-rabbit-1-6-tdi-bmt-pickerl-bis-03-27-anhaengekupplung-1954287547/",
+    "t": "VW Golf Rabbit 1,6 TDI BMT / Pickerl bis 03/27 / Anh\u00e4ngekupplung",
+    "ts": "2026-06-25T11:03:22.092210+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2015,
+    "km": 151000,
+    "b": "Limousine",
+    "pu": "2026-06-25T11:03:22.092210+00:00"
+  },
+  "wh:1900588332": {
+    "p": 3800,
+    "f": "2026-06-25T11:03:22.092210+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-jumpy-kombi-l1-1-6-hdi-standard-1900588332/",
+    "t": "Citro\u00ebn Jumpy Kombi L1 1,6 HDi Standard",
+    "ts": "2026-06-25T11:03:22.092210+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 139000,
+    "b": "Kleinbus"
+  },
   "wh:1552727423": {
     "p": 1100,
     "f": "2026-06-25T11:02:28.685336+00:00",
@@ -124951,7 +125018,8 @@
     "ma": "BMW",
     "mo": "5er-Reihe",
     "y": 2013,
-    "km": 246000
+    "km": 246000,
+    "b": "Kombi / Family Van"
   },
   "wh:1589568305": {
     "p": 11200,
@@ -146300,66 +146368,6 @@
     "mo": "Verso",
     "y": 2015,
     "km": 95722
-  },
-  "wh:1867261855": {
-    "p": 10600,
-    "f": "2026-06-17T06:57:26.431516+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-lounge-1867261855/",
-    "t": "VW Tiguan Lounge",
-    "ts": "2026-06-17T06:57:26.431516+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Tiguan",
-    "y": 2015,
-    "km": 134000
-  },
-  "gw:db0029d5-323d-458e-b395-7ee4e51f020b": {
-    "p": 8400,
-    "f": "2026-06-17T06:55:42.972462+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/mitsubishi-space-star-space-star-1-0-mivec-inform-as-benzin-weiss-cat_ma50mo15546/db0029d5-323d-458e-b395-7ee4e51f020b",
-    "t": "Mitsubishi Space Star",
-    "ts": "2026-06-17T06:55:42.972462+00:00",
-    "ch": "alive",
-    "ma": "Mitsubishi",
-    "mo": "Space Star",
-    "y": 2021,
-    "km": 41500
-  },
-  "as:db0029d5-323d-458e-b395-7ee4e51f020b": {
-    "p": 8400,
-    "f": "2026-06-17T06:55:36.326446+00:00",
-    "u": "https://www.autoscout24.at/angebote/mitsubishi-space-star-space-star-1-0-mivec-inform-as-benzin-weiss-cat_ma50mo15546-db0029d5-323d-458e-b395-7ee4e51f020b",
-    "t": "Mitsubishi Space Star",
-    "ts": "2026-06-17T06:55:36.326446+00:00",
-    "ch": "alive",
-    "ma": "Mitsubishi",
-    "mo": "Space Star",
-    "y": 2021,
-    "km": 41500
-  },
-  "as:42bc42ac-d763-4dc4-aa7a-0cf0b10382b5": {
-    "p": null,
-    "f": "2026-06-17T06:55:36.326446+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:3c335511-7ac0-4f59-b2a6-1e2eded865a9": {
-    "p": 7500,
-    "f": "2026-06-17T06:51:24.319981+00:00",
-    "u": "https://www.autoscout24.at/angebote/bmw-116-116d-efficientdynamics-edition-diesel-cat_ma13mo18480-3c335511-7ac0-4f59-b2a6-1e2eded865a9",
-    "t": "BMW 116",
-    "ts": "2026-06-17T06:51:24.319981+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "116",
-    "y": 2013,
-    "km": 184000
   },
   "__health__": {
     "wh": 0,
