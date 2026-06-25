@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:4bd2ea15-d776-4124-a3fe-4a02bb9a7fb3": {
+    "p": null,
+    "f": "2026-06-25T15:19:24.208073+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:19768f61-efef-46e4-9214-8907fb6d99e9": {
     "p": 10000,
     "f": "2026-06-25T15:17:53.412536+00:00",
@@ -146751,18 +146763,6 @@
     "y": 2010,
     "km": 117000,
     "b": "Klein-/ Kompaktwagen"
-  },
-  "as:75042756-4cb9-4e23-b315-03b64d588f80": {
-    "p": 3333,
-    "f": "2026-06-17T12:10:55.575615+00:00",
-    "u": "https://www.autoscout24.at/angebote/fiat-punto-evo-punto-evo-1-4-16v-multiair-dynamic-start-benzin-grau-cat_ma28mo19259-75042756-4cb9-4e23-b315-03b64d588f80",
-    "t": "Fiat Punto Evo",
-    "ts": "2026-06-17T12:10:55.575615+00:00",
-    "ch": "alive",
-    "ma": "Fiat",
-    "mo": "Punto Evo",
-    "y": 2010,
-    "km": 97500
   },
   "__health__": {
     "wh": 0,
