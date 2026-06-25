@@ -148,6 +148,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1459250347": {
+    "p": 3900,
+    "f": "2026-06-25T15:22:25.959400+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-titanium-frontscheibenheizung-service-neu-1459250347/",
+    "t": "Ford Fiesta Titanium Frontscheibenheizung Service Neu",
+    "ts": "2026-06-25T15:22:25.959400+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 172000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1110540954": {
+    "p": 8200,
+    "f": "2026-06-25T15:22:25.959400+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-6-1110540954/",
+    "t": "VW Golf 1.6",
+    "ts": "2026-06-25T15:22:25.959400+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2017,
+    "km": 193000,
+    "b": "Kombi / Family Van"
+  },
   "wh:1921391362": {
     "p": 11500,
     "f": "2026-06-25T15:20:41.544631+00:00",
@@ -146741,30 +146767,6 @@
     "y": 2017,
     "km": 126200,
     "b": "Limousine"
-  },
-  "wh:858957737": {
-    "p": 10800,
-    "f": "2026-06-17T12:14:34.601643+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x1-2-0-858957737/",
-    "t": "BMW X1 2.0",
-    "ts": "2026-06-17T12:14:34.601643+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "X1",
-    "y": 2012,
-    "km": 210000
-  },
-  "as:1cf93aa6-4117-45d2-8cb6-8b85e5fded25": {
-    "p": 6500,
-    "f": "2026-06-17T12:13:36.164414+00:00",
-    "u": "https://www.autoscout24.at/angebote/bmw-116-116i-oesterreich-paket-benzin-cat_ma13mo18480-1cf93aa6-4117-45d2-8cb6-8b85e5fded25",
-    "t": "BMW 116",
-    "ts": "2026-06-17T12:13:36.164414+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "116",
-    "y": 2014,
-    "km": 198000
   },
   "__health__": {
     "wh": 0,
