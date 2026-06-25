@@ -148,6 +148,20 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:c294b8b7-b1c2-4429-93c9-9ab77c1e2c67": {
+    "p": 13000,
+    "f": "2026-06-25T14:22:46.341757+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-golf-variant-comfortline-1-6-tdi-scr-diesel-silber-cat_ma74mo20340/c294b8b7-b1c2-4429-93c9-9ab77c1e2c67",
+    "t": "Volkswagen Golf Variant Comfortline 1,6 TDI SCR",
+    "ts": "2026-06-25T14:22:46.341757+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf Variant",
+    "y": 2020,
+    "km": 143386,
+    "b": "",
+    "pu": "2026-06-25T14:22:46.341757+00:00"
+  },
   "as:a125910a-30eb-4cb7-b24e-c17dea1c13c1": {
     "p": null,
     "f": "2026-06-25T14:20:53.073267+00:00",
@@ -146654,18 +146668,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1952343365": {
-    "p": 4300,
-    "f": "2026-06-17T10:52:31.357448+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/nissan-qashqai-1-5-dci-1952343365/",
-    "t": "Nissan Qashqai 1.5 dci",
-    "ts": "2026-06-17T10:52:31.357448+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 141000
   },
   "__health__": {
     "wh": 0,
