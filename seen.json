@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1431621146": {
+    "p": 5200,
+    "f": "2026-06-25T12:54:23.730225+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-scudo-2-0-1431621146/",
+    "t": "Fiat Scudo 2.0",
+    "ts": "2026-06-25T12:54:23.730225+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 315527,
+    "b": "Kleinbus"
+  },
   "wh:2033515509": {
     "p": 1650,
     "f": "2026-06-25T12:52:29.583089+00:00",
@@ -167,7 +180,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-pickarl-neu-06-2027-klima-tempomat-pdc-1-besitz-1790119592/",
     "t": "VW Polo Pickarl Neu 06-2027|Klima|Tempomat|PDC|1.Besitz",
     "ts": "2026-06-25T12:50:43.196368+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Polo",
     "y": 2012,
@@ -146539,18 +146552,6 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/renault-clio-clio-grandtour-dynamique-tce-100-dynamique-benzin-weiss-cat_ma60mo1961/8f128b05-5078-4847-9778-b89dedfb9229",
     "t": "Renault Clio",
     "ts": "2026-06-17T09:27:41.814278+00:00",
-    "ch": "alive",
-    "ma": "Renault",
-    "mo": "Clio",
-    "y": 2012,
-    "km": 163000
-  },
-  "as:8f128b05-5078-4847-9778-b89dedfb9229": {
-    "p": 4100,
-    "f": "2026-06-17T09:27:32.225581+00:00",
-    "u": "https://www.autoscout24.at/angebote/renault-clio-clio-grandtour-dynamique-tce-100-dynamique-benzin-weiss-cat_ma60mo1961-8f128b05-5078-4847-9778-b89dedfb9229",
-    "t": "Renault Clio",
-    "ts": "2026-06-17T09:27:32.225581+00:00",
     "ch": "alive",
     "ma": "Renault",
     "mo": "Clio",
