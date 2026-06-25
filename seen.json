@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1457171251": {
+    "p": 1500,
+    "f": "2026-06-25T03:28:26.323226+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-punto-1-4-1457171251/",
+    "t": "Fiat Punto 1.4",
+    "ts": "2026-06-25T03:28:26.323226+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 220000,
+    "b": "Limousine"
+  },
   "wh:1484729393": {
     "p": 2900,
     "f": "2026-06-25T03:11:24.403760+00:00",
@@ -145774,18 +145787,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:787831559": {
-    "p": 5250,
-    "f": "2026-06-16T17:42:37.202431+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-ghia-2-0-tdci-787831559/",
-    "t": "Ford Galaxy Ghia 2.0 TDCi",
-    "ts": "2026-06-16T17:42:37.202431+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 210000
   },
   "__health__": {
     "wh": 0,
