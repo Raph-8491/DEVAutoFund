@@ -148,6 +148,57 @@
     "y": 2009,
     "km": 235000
   },
+  "as:d24ffd00-1f3f-480d-86ba-b93717ac5a64": {
+    "p": null,
+    "f": "2026-06-25T16:16:32.512541+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1660307384": {
+    "p": 6800,
+    "f": "2026-06-25T16:16:31.367402+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i20-hyundai-i20-1-25-go-1660307384/",
+    "t": "Hyundai i20 Hyundai I20 1.25 GO",
+    "ts": "2026-06-25T16:16:31.367402+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2016,
+    "km": 93000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1149379288": {
+    "p": 1500,
+    "f": "2026-06-25T16:16:31.367402+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touran-trendline-bmt-1-9-tdi-dpf-1149379288/",
+    "t": "VW Touran Trendline BMT 1,9 TDI DPF",
+    "ts": "2026-06-25T16:16:31.367402+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Touran",
+    "y": 2010,
+    "km": 280000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1642380732": {
+    "p": 13000,
+    "f": "2026-06-25T16:16:31.367402+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-crossland-x-1642380732/",
+    "t": "Opel Crossland X",
+    "ts": "2026-06-25T16:16:31.367402+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Crossland",
+    "y": 2019,
+    "km": 133400,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "wh:1775318913": {
     "p": 13000,
     "f": "2026-06-25T16:14:29.111859+00:00",
@@ -146813,54 +146864,6 @@
     "y": 2008,
     "km": 269000,
     "b": "Kombi / Family Van"
-  },
-  "wh:1778506373": {
-    "p": 3700,
-    "f": "2026-06-17T13:51:37.929706+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-1-6-1778506373/",
-    "t": "Opel Insignia 1.6",
-    "ts": "2026-06-17T13:51:37.929706+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Insignia",
-    "y": 2009,
-    "km": 178000
-  },
-  "wh:1899485947": {
-    "p": 2700,
-    "f": "2026-06-17T13:51:37.929706+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/alfa-romeo-mito-alfa-mito-1-4-turbojet-distinctive-1899485947/",
-    "t": "Alfa Romeo MiTo Alfa MiTo 1,4 Turbojet Distinctive",
-    "ts": "2026-06-17T13:51:37.929706+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 233200
-  },
-  "as:9b2cafe5-0431-499a-9679-94e67e59538a": {
-    "p": 7500,
-    "f": "2026-06-17T13:50:47.684767+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-golf-1-6-tdi-bluemotion-allrad-4-motion-cup-diesel-schwarz-cat_ma74mo2084-9b2cafe5-0431-499a-9679-94e67e59538a",
-    "t": "Volkswagen Golf",
-    "ts": "2026-06-17T13:50:47.684767+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2014,
-    "km": 155000
-  },
-  "as:e8cb8538-3df3-4d0d-be12-2e6ad993f6dc": {
-    "p": null,
-    "f": "2026-06-17T13:48:35.700631+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
