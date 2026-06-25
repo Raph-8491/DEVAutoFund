@@ -148,6 +148,20 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1598926539": {
+    "p": 5999,
+    "f": "2026-06-25T12:14:25.271428+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-schiebedach-servicefrisch-1598926539/",
+    "t": "VW Golf Schiebedach/Servicefrisch",
+    "ts": "2026-06-25T12:14:25.271428+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2011,
+    "km": 109000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T12:14:25.271428+00:00"
+  },
   "as:cedfcc20-ae84-49a5-a531-238dbb6a5e8c": {
     "p": 8300,
     "f": "2026-06-25T12:13:23.180237+00:00",
@@ -146476,18 +146490,6 @@
   "as:708685e4-5094-446a-aadd-12ba06546c71": {
     "p": null,
     "f": "2026-06-17T08:43:30.319069+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:f96051d6-1805-41e9-aff6-511c4edc6146": {
-    "p": null,
-    "f": "2026-06-17T08:42:32.295743+00:00",
     "u": null,
     "t": null,
     "ts": null,
