@@ -148,6 +148,32 @@
     "y": 2009,
     "km": 235000
   },
+  "as:0312239f-9ca4-4e7d-b26c-3c1654bc7945": {
+    "p": 5200,
+    "f": "2026-06-25T10:47:22.531908+00:00",
+    "u": "https://www.autoscout24.at/angebote/ford-fiesta-1-25-trend-82-neue-pickerl-oeamtc-benzin-cat_ma29mo1758-0312239f-9ca4-4e7d-b26c-3c1654bc7945",
+    "t": "Ford Fiesta 1.25 Trend 82 (NEUE PICKERL \u00d6AMTC )",
+    "ts": "2026-06-25T10:47:22.531908+00:00",
+    "ch": null,
+    "ma": "Ford",
+    "mo": "Fiesta",
+    "y": 2010,
+    "km": 117000,
+    "b": ""
+  },
+  "wh:1675807818": {
+    "p": 14000,
+    "f": "2026-06-25T10:47:21.328775+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-combi-4x4-ambition-tdi-1675807818/",
+    "t": "Skoda Octavia Combi 4x4 Ambition TDI",
+    "ts": "2026-06-25T10:47:21.328775+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Octavia",
+    "y": 2017,
+    "km": 124000,
+    "b": "Kombi / Family Van"
+  },
   "gw:0312239f-9ca4-4e7d-b26c-3c1654bc7945": {
     "p": 5200,
     "f": "2026-06-25T10:46:45.575135+00:00",
@@ -146311,31 +146337,6 @@
     "mo": null,
     "y": 2014,
     "km": 146000
-  },
-  "wh:1344351568": {
-    "p": 6800,
-    "f": "2026-06-17T06:23:26.923259+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/volvo-xc60-2-4-d-1344351568/",
-    "t": "Volvo XC60 2,4 D",
-    "ts": "2026-06-24T06:22:26.835092+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 281600,
-    "b": "SUV / Gel\u00e4ndewagen"
-  },
-  "wh:1944283998": {
-    "p": 9900,
-    "f": "2026-06-17T06:23:26.923259+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-rcz-1-6-thp-155-1944283998/",
-    "t": "Peugeot RCZ 1,6 THP 155",
-    "ts": "2026-06-17T06:23:26.923259+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 115500
   },
   "__health__": {
     "wh": 0,
