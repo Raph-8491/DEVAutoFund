@@ -148,6 +148,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1325436600": {
+    "p": 11200,
+    "f": "2026-06-25T10:25:36.931028+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-trend-1-1-start-stop-1325436600/",
+    "t": "Ford Fiesta Trend 1,1 Start/Stop",
+    "ts": "2026-06-25T10:25:36.931028+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2019,
+    "km": 51500,
+    "b": "Limousine"
+  },
+  "wh:1213568913": {
+    "p": 5300,
+    "f": "2026-06-25T10:25:36.931028+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1-2-tsi-1213568913/",
+    "t": "Seat Ibiza 1.2 TSI",
+    "ts": "2026-06-25T10:25:36.931028+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Ibiza",
+    "y": 2013,
+    "km": 124700,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:0cfb1f30-7c68-4257-95c6-8f394812f73b": {
     "p": null,
     "f": "2026-06-25T10:23:26.268702+00:00",
@@ -166,7 +192,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-1-9-tdi-1693607635/",
     "t": "Audi A3 1.9 TDI",
     "ts": "2026-06-25T10:22:30.591080+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A3",
     "y": 2008,
@@ -267,11 +293,11 @@
     "km": null
   },
   "wh:2004527410": {
-    "p": 8500,
+    "p": 8200,
     "f": "2026-06-25T10:18:37.739135+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-s-max-2-2-tdci-2004527410/",
     "t": "Ford S-MAX 2.2 TDCI",
-    "ts": "2026-06-25T10:18:37.739135+00:00",
+    "ts": "2026-06-25T10:25:36.931028+00:00",
     "ch": null,
     "ma": null,
     "mo": null,
@@ -146268,30 +146294,6 @@
     "y": 2019,
     "km": 111000,
     "b": "Limousine"
-  },
-  "gw:38c92caf-f405-4292-9e70-8d2aaf29e613": {
-    "p": 5200,
-    "f": "2026-06-17T05:29:39.429556+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/mazda-6-mazda-6-sport-combi-2-0i-te-plus-te-plus-benzin-schwarz-cat_ma46mo18266/38c92caf-f405-4292-9e70-8d2aaf29e613",
-    "t": "Mazda 6",
-    "ts": "2026-06-17T05:29:39.429556+00:00",
-    "ch": "alive",
-    "ma": "Mazda",
-    "mo": "6",
-    "y": 2009,
-    "km": 211148
-  },
-  "as:652879ed-0564-4cd9-9470-2b3f891f7776": {
-    "p": null,
-    "f": "2026-06-17T05:29:29.655733+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
