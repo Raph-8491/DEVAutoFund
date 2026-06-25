@@ -148,6 +148,46 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1584181191": {
+    "p": 9990,
+    "f": "2026-06-25T14:47:23.055523+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-200-t-bluetec-1584181191/",
+    "t": "Mercedes-Benz C-Klasse 200 T Bluetec",
+    "ts": "2026-06-25T14:47:23.055523+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "C-Klasse",
+    "y": 2014,
+    "km": 278000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1127797488": {
+    "p": 14800,
+    "f": "2026-06-25T14:47:23.055523+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-2-0-tdi-scr-comfortline-3xr-line-1127797488/",
+    "t": "VW Tiguan 2,0 TDI SCR Comfortline 3xR-Line",
+    "ts": "2026-06-25T14:47:23.055523+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Tiguan",
+    "y": 2017,
+    "km": 219000,
+    "b": "SUV / Gel\u00e4ndewagen",
+    "pu": "2026-06-25T14:47:23.055523+00:00"
+  },
+  "wh:2131524697": {
+    "p": 9900,
+    "f": "2026-06-25T14:47:23.055523+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-rio-edition7-2131524697/",
+    "t": "KIA Rio Edition7",
+    "ts": "2026-06-25T14:47:23.055523+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2021,
+    "km": 81500,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:7d908ca8-5436-41cc-a380-c645c2074c89": {
     "p": null,
     "f": "2026-06-25T14:46:27.846125+00:00",
@@ -125788,7 +125828,8 @@
     "ma": "Opel",
     "mo": "Adam",
     "y": 2017,
-    "km": 69000
+    "km": 69000,
+    "b": "Sportwagen / Coup\u00e9"
   },
   "gw:eefcc701-eb7a-4e9b-8f01-258a72d1bdd4": {
     "p": 2850,
@@ -146669,42 +146710,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:83ef8bf6-f4be-4bf5-a378-c176aa809328": {
-    "p": null,
-    "f": "2026-06-17T11:23:24.857018+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1362542440": {
-    "p": 7999,
-    "f": "2026-06-17T11:22:30.312730+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-2-0-tdi-1362542440/",
-    "t": "VW Tiguan 2.0 Tdi",
-    "ts": "2026-06-17T11:22:30.312730+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Tiguan",
-    "y": 2012,
-    "km": 270000
-  },
-  "wh:1008386401": {
-    "p": 7200,
-    "f": "2026-06-17T11:22:30.312730+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-sportage-20-jahre-edition-1-7-crdi-2wd-isg-1008386401/",
-    "t": "KIA Sportage 20 Jahre Edition 1,7 CRDi 2WD ISG",
-    "ts": "2026-06-17T11:22:30.312730+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2015,
-    "km": 254000
   },
   "__health__": {
     "wh": 0,
