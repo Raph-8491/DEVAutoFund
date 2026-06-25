@@ -148,6 +148,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:617d6c3f-69b1-4763-8911-3b1c6ef224c0": {
+    "p": null,
+    "f": "2026-06-25T14:24:30.869135+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:c294b8b7-b1c2-4429-93c9-9ab77c1e2c67": {
+    "p": 13000,
+    "f": "2026-06-25T14:24:30.869135+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-variant-comfortline-1-6-tdi-scr-diesel-silber-cat_ma74mo20340-c294b8b7-b1c2-4429-93c9-9ab77c1e2c67",
+    "t": "Volkswagen Golf Variant Comfortline 1,6 TDI SCR",
+    "ts": "2026-06-25T14:24:30.869135+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf Variant",
+    "y": 2020,
+    "km": 143386,
+    "b": ""
+  },
   "as:8eee6058-47ac-4441-b041-d742077ff961": {
     "p": null,
     "f": "2026-06-25T14:23:29.248512+00:00",
@@ -245,7 +270,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-b8-1758545105/",
     "t": "Audi A4 B8",
     "ts": "2026-06-25T14:20:48.809670+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A4",
     "y": 2015,
@@ -259,7 +284,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-tt-1-8t-1203439426/",
     "t": "Audi TT 1,8T",
     "ts": "2026-06-25T14:20:48.809670+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "TT",
     "y": 2022,
@@ -146648,30 +146673,6 @@
     "mo": null,
     "y": 2014,
     "km": 161700
-  },
-  "wh:1883535645": {
-    "p": 6400,
-    "f": "2026-06-17T10:58:25.231219+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-6-tdi-ahk-zr-neu-massage-navi-1883535645/",
-    "t": "VW Golf 1,6 tdi *AHK * ZR Neu *Massage *Navi",
-    "ts": "2026-06-17T10:58:25.231219+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2016,
-    "km": 241360
-  },
-  "as:b4ea9076-1061-4484-86bd-946664fe1c87": {
-    "p": null,
-    "f": "2026-06-17T10:54:28.450865+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
