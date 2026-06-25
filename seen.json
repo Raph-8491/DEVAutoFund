@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "as:b6d4226e-e874-4f76-b265-3fc9e7994e1b": {
+    "p": 1500,
+    "f": "2026-06-25T08:58:33.759697+00:00",
+    "u": "https://www.autoscout24.at/angebote/ford-fiesta-fiesta-1-25-champions-edition-benzin-gruen-cat_ma29mo1758-b6d4226e-e874-4f76-b265-3fc9e7994e1b",
+    "t": "Ford Fiesta Fiesta 1.25 Champions Edition",
+    "ts": "2026-06-25T08:58:33.759697+00:00",
+    "ch": null,
+    "ma": "Ford",
+    "mo": "Fiesta",
+    "y": 2012,
+    "km": 258250,
+    "b": ""
+  },
+  "wh:904722420": {
+    "p": 9100,
+    "f": "2026-06-25T08:58:30.404826+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-c-200-cdi-904722420/",
+    "t": "Mercedes-Benz C-Klasse C 200 CDI",
+    "ts": "2026-06-25T08:58:30.404826+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "C-Klasse",
+    "y": 2011,
+    "km": 183600,
+    "b": "Limousine",
+    "pu": "2026-06-25T08:58:30.404826+00:00"
+  },
   "as:1d7e0747-1b43-4b14-998d-e25df4621fb8": {
     "p": 3900,
     "f": "2026-06-25T08:57:22.706677+00:00",
@@ -205,7 +232,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-530d-xdrive-oesterreich-paket-aut-983598252/",
     "t": "BMW 5er-Reihe 530d xDrive \u00d6sterreich-Paket Aut.",
     "ts": "2026-06-25T08:54:31.554527+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "5er-Reihe",
     "y": 2015,
@@ -146127,30 +146154,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:5e36555e-d3c5-4d10-995b-79604d102548": {
-    "p": 2400,
-    "f": "2026-06-16T20:28:37.517542+00:00",
-    "u": "https://www.autoscout24.at/angebote/ford-c-max-c-max-diesel-1-6-tdci-titanium-diesel-schwarz-cat_ma29mo19089-5e36555e-d3c5-4d10-995b-79604d102548",
-    "t": "Ford C-Max",
-    "ts": "2026-06-16T20:28:37.517542+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "C-Max",
-    "y": 2011,
-    "km": 249200
-  },
-  "wh:1221466790": {
-    "p": 1100,
-    "f": "2026-06-16T20:28:35.217978+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touran-1-9-tdi-1221466790/",
-    "t": "VW Touran 1.9 TDI",
-    "ts": "2026-06-16T20:28:35.217978+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Touran",
-    "y": 2008,
-    "km": 272000
   },
   "__health__": {
     "wh": 0,
