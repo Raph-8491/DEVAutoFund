@@ -148,6 +148,45 @@
     "y": 2009,
     "km": 235000
   },
+  "as:7b0e84af-7691-462f-bb0b-1ee784a1808c": {
+    "p": null,
+    "f": "2026-06-25T14:45:42.995647+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1031433814": {
+    "p": 1490,
+    "f": "2026-06-25T14:45:40.326142+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-mondeo-2-0tdci-1031433814/",
+    "t": "Ford Mondeo 2.0TDCI",
+    "ts": "2026-06-25T14:45:40.326142+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 410000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1660594801": {
+    "p": 5950,
+    "f": "2026-06-25T14:45:40.326142+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-jetta-1-6-1660594801/",
+    "t": "VW Jetta 1,6",
+    "ts": "2026-06-25T14:45:40.326142+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Jetta",
+    "y": 2011,
+    "km": 212000,
+    "b": "Limousine",
+    "pu": "2026-06-25T14:45:40.326142+00:00"
+  },
   "as:a99f1a1b-f4aa-4e65-9ab5-20518f48a50c": {
     "p": 6590,
     "f": "2026-06-25T14:43:34.179726+00:00",
@@ -146666,42 +146705,6 @@
     "mo": "GL-Klasse",
     "y": 2014,
     "km": 173000
-  },
-  "as:ccd1d09b-d871-459f-a781-d766053a088e": {
-    "p": null,
-    "f": "2026-06-17T11:19:29.079951+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:885524522": {
-    "p": 8500,
-    "f": "2026-06-17T11:17:25.753891+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-trend-1-1-start-stop-erstbesitz-885524522/",
-    "t": "Ford Fiesta Trend 1,1 Start/Stop Erstbesitz",
-    "ts": "2026-06-17T11:17:25.753891+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2019,
-    "km": 103000
-  },
-  "wh:1030434704": {
-    "p": 9300,
-    "f": "2026-06-17T11:17:25.753891+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-q3-2-0-1030434704/",
-    "t": "Audi Q3 2.0",
-    "ts": "2026-06-17T11:17:25.753891+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "Q3",
-    "y": 2013,
-    "km": 163000
   },
   "__health__": {
     "wh": 0,
