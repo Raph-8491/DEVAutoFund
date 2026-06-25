@@ -148,6 +148,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:964028700": {
+    "p": 8000,
+    "f": "2026-06-25T10:09:21.773674+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-megane-grandtour-bose-edition-energy-dci-110-964028700/",
+    "t": "Renault M\u00e9gane Grandtour Bose Edition Energy dCi 110",
+    "ts": "2026-06-25T10:09:21.773674+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2016,
+    "km": 180000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1428750371": {
+    "p": 2950,
+    "f": "2026-06-25T10:09:21.773674+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i20-mit-pickerl-1428750371/",
+    "t": "Hyundai i20 Mit Pickerl",
+    "ts": "2026-06-25T10:09:21.773674+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 137000,
+    "b": "Limousine"
+  },
   "as:eb606687-fb03-4a98-bc69-0cc2b0689687": {
     "p": null,
     "f": "2026-06-25T10:07:26.708948+00:00",
@@ -124469,16 +124495,17 @@
     "km": 193000
   },
   "wh:1756319449": {
-    "p": 4800,
+    "p": 4700,
     "f": "2026-06-18T10:07:28.698090+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-laguna-1-5-bose-edition-1756319449/",
     "t": "Renault Laguna 1,5 BOSE EDITION",
-    "ts": "2026-06-18T10:07:28.698090+00:00",
-    "ch": "alive",
+    "ts": "2026-06-25T10:09:21.773674+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2015,
-    "km": 234000
+    "km": 234000,
+    "b": "Kombi / Family Van"
   },
   "wh:1651055381": {
     "p": 1400,
@@ -146244,30 +146271,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:93a9ac33-bb76-441c-9fdf-f8648681b025": {
-    "p": 2000,
-    "f": "2026-06-17T04:36:36.537024+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-fox-1-2-style-benzin-cat_ma74mo18599-93a9ac33-bb76-441c-9fdf-f8648681b025",
-    "t": "Volkswagen Fox",
-    "ts": "2026-06-17T04:36:36.537024+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Fox",
-    "y": 2011,
-    "km": 240000
-  },
-  "wh:906613621": {
-    "p": 8700,
-    "f": "2026-06-17T04:34:33.288787+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-e-klasse-350cdi-906613621/",
-    "t": "Mercedes-Benz E-Klasse 350cdi",
-    "ts": "2026-06-17T04:34:33.288787+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "E-Klasse",
-    "y": 2010,
-    "km": 255000
   },
   "__health__": {
     "wh": 0,
