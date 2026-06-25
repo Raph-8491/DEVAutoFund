@@ -148,6 +148,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2018489845": {
+    "p": 9000,
+    "f": "2026-06-25T10:59:25.782977+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-duster-1-4-tdi-4x4-2018489845/",
+    "t": "Dacia Duster 1,4 TDI 4x4",
+    "ts": "2026-06-25T10:59:25.782977+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 145000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1704070053": {
+    "p": 1000,
+    "f": "2026-06-25T10:59:25.782977+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-206-1704070053/",
+    "t": "Peugeot 206",
+    "ts": "2026-06-25T10:59:25.782977+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 73000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:976071842": {
+    "p": 3990,
+    "f": "2026-06-25T10:59:25.782977+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-6-tdi-976071842/",
+    "t": "VW Golf 1.6 TDI",
+    "ts": "2026-06-25T10:59:25.782977+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2010,
+    "km": 265000,
+    "b": "Kombi / Family Van"
+  },
   "wh:1484969371": {
     "p": 13900,
     "f": "2026-06-25T10:58:26.952883+00:00",
@@ -146318,42 +146357,6 @@
     "mo": "Clio",
     "y": 2019,
     "km": 110770
-  },
-  "wh:1335450682": {
-    "p": 1990,
-    "f": "2026-06-17T06:49:23.351934+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-meriva-1-6-16v-edition-easytronic-1335450682/",
-    "t": "Opel Meriva 1,6 16V Edition Easytronic",
-    "ts": "2026-06-17T06:49:23.351934+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Meriva",
-    "y": 2008,
-    "km": 117466
-  },
-  "wh:1519643402": {
-    "p": 7800,
-    "f": "2026-06-17T06:49:23.351934+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-6-tdi-1519643402/",
-    "t": "VW Golf 1.6 tdi",
-    "ts": "2026-06-17T06:49:23.351934+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2012,
-    "km": 164417
-  },
-  "wh:1589207268": {
-    "p": 10800,
-    "f": "2026-06-17T06:49:23.351934+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-1-6-tdi-1589207268/",
-    "t": "Audi A3 1.6 tdi",
-    "ts": "2026-06-17T06:49:23.351934+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A3",
-    "y": 2014,
-    "km": 230000
   },
   "__health__": {
     "wh": 0,
