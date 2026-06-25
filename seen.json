@@ -148,6 +148,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1296009942": {
+    "p": 2800,
+    "f": "2026-06-25T12:04:28.278775+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mini-cooper-mini-one-r56-n12-1-4-1296009942/",
+    "t": "MINI Cooper MINI ONE R56 N12 1.4",
+    "ts": "2026-06-25T12:04:28.278775+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 227000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1208427297": {
+    "p": 9999,
+    "f": "2026-06-25T12:04:28.278775+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-1-6-tdi-opc-line-1208427297/",
+    "t": "Opel Insignia 1,6 TDI OPC Line",
+    "ts": "2026-06-25T12:04:28.278775+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Insignia",
+    "y": 2016,
+    "km": 125332,
+    "b": "Limousine"
+  },
   "as:a4535251-5c16-4cb2-b637-17df39d783c9": {
     "p": null,
     "f": "2026-06-25T12:03:29.142272+00:00",
@@ -292,7 +318,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-842278536/",
     "t": "Audi A3",
     "ts": "2026-06-25T12:01:30.322332+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A3",
     "y": 2012,
@@ -146461,31 +146487,6 @@
     "mo": "A-Klasse",
     "y": 2014,
     "km": 166000
-  },
-  "as:0bab740a-3dbd-4906-8e15-8593793f86f2": {
-    "p": null,
-    "f": "2026-06-17T08:33:26.886240+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1892529728": {
-    "p": 2499,
-    "f": "2026-06-17T08:32:30.986138+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-laguna-2-0-tdi-131-ps-1892529728/",
-    "t": "Renault Laguna 2.0 tdi 131 ps",
-    "ts": "2026-06-17T08:32:30.986138+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 335000,
-    "b": "Limousine"
   },
   "__health__": {
     "wh": 0,
