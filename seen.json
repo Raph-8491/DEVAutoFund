@@ -150,7 +150,7 @@
   },
   "as:4a7c6133-2f0f-4c86-8463-aa6c1b70d5cd": {
     "p": null,
-    "f": "2026-06-25T10:30:58.746590+00:00",
+    "f": "2026-06-25T10:31:28.158748+00:00",
     "u": null,
     "t": null,
     "ts": null,
@@ -282,7 +282,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-sportback-1-6-tdi-1552840991/",
     "t": "Audi A3 Sportback 1,6 TDi",
     "ts": "2026-06-25T10:28:30.073341+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A3",
     "y": 2011,
