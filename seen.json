@@ -148,6 +148,58 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:d3e256ab-5899-45f3-80f5-4bed13850cf2": {
+    "p": 12500,
+    "f": "2026-06-25T14:53:32.831328+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/citroen-c3-c3-puretech-110-s-benzin-grau-cat_ma21mo18264/d3e256ab-5899-45f3-80f5-4bed13850cf2",
+    "t": "Citroen C3 C3 PureTech 110 S",
+    "ts": "2026-06-25T14:53:32.831328+00:00",
+    "ch": null,
+    "ma": "Citroen",
+    "mo": "C3",
+    "y": 2023,
+    "km": 84000,
+    "b": ""
+  },
+  "as:d3e256ab-5899-45f3-80f5-4bed13850cf2": {
+    "p": 12500,
+    "f": "2026-06-25T14:53:25.283530+00:00",
+    "u": "https://www.autoscout24.at/angebote/citroen-c3-c3-puretech-110-s-benzin-grau-cat_ma21mo18264-d3e256ab-5899-45f3-80f5-4bed13850cf2",
+    "t": "Citroen C3 C3 PureTech 110 S",
+    "ts": "2026-06-25T14:53:25.283530+00:00",
+    "ch": null,
+    "ma": "Citroen",
+    "mo": "C3",
+    "y": 2023,
+    "km": 84000,
+    "b": ""
+  },
+  "wh:1685153608": {
+    "p": 2200,
+    "f": "2026-06-25T14:53:24.290809+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c4-pickerl-neu-1685153608/",
+    "t": "Citro\u00ebn C4 Pickerl Neu",
+    "ts": "2026-06-25T14:53:24.290809+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 230000,
+    "b": "Limousine"
+  },
+  "wh:1033739784": {
+    "p": 12100,
+    "f": "2026-06-25T14:53:24.290809+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda6-revolution-top-kombi-1033739784/",
+    "t": "Mazda Mazda6 Revolution Top Kombi",
+    "ts": "2026-06-25T14:53:24.290809+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2015,
+    "km": 125000,
+    "b": "Kombi / Family Van"
+  },
   "as:1b9abc4f-0a84-440e-9e87-dfb9d3e583df": {
     "p": null,
     "f": "2026-06-25T14:49:26.427945+00:00",
@@ -125831,7 +125883,8 @@
     "ma": null,
     "mo": null,
     "y": 2021,
-    "km": 25000
+    "km": 25000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:847364608": {
     "p": 8500,
@@ -146663,55 +146716,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "gw:0e03d0ae-0c4a-411c-967e-0ae79830b61e": {
-    "p": 2699,
-    "f": "2026-06-17T11:29:35.793227+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/peugeot-partner-tepee-1-6-hdi-diesel-grau-cat_ma55mo14822/0e03d0ae-0c4a-411c-967e-0ae79830b61e",
-    "t": "Peugeot Partner",
-    "ts": "2026-06-17T11:29:35.793227+00:00",
-    "ch": "alive",
-    "ma": "Peugeot",
-    "mo": "Partner",
-    "y": 2014,
-    "km": 350000
-  },
-  "as:0e03d0ae-0c4a-411c-967e-0ae79830b61e": {
-    "p": 2699,
-    "f": "2026-06-17T11:29:26.730037+00:00",
-    "u": "https://www.autoscout24.at/angebote/peugeot-partner-tepee-1-6-hdi-diesel-grau-cat_ma55mo14822-0e03d0ae-0c4a-411c-967e-0ae79830b61e",
-    "t": "Peugeot Partner",
-    "ts": "2026-06-17T11:29:26.730037+00:00",
-    "ch": "alive",
-    "ma": "Peugeot",
-    "mo": "Partner",
-    "y": 2014,
-    "km": 350000
-  },
-  "wh:1939139071": {
-    "p": 10500,
-    "f": "2026-06-17T11:28:32.552400+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-7-5-rabbit-bmt-tsi-1939139071/",
-    "t": "VW Golf 7.5 Rabbit BMT TSI",
-    "ts": "2026-06-17T11:28:32.552400+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2017,
-    "km": 129000,
-    "b": "Klein-/ Kompaktwagen"
-  },
-  "wh:1752948326": {
-    "p": 7500,
-    "f": "2026-06-17T11:28:32.552400+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-1752948326/",
-    "t": "BMW 3er-Reihe",
-    "ts": "2026-06-17T11:28:32.552400+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2009,
-    "km": 275557
   },
   "__health__": {
     "wh": 0,
