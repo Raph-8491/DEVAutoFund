@@ -148,6 +148,46 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1653179528": {
+    "p": 9000,
+    "f": "2026-06-25T09:36:29.595410+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1653179528/",
+    "t": "VW Golf",
+    "ts": "2026-06-25T09:36:29.595410+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2013,
+    "km": 178000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T09:36:29.595410+00:00"
+  },
+  "wh:1013178179": {
+    "p": 7200,
+    "f": "2026-06-25T09:36:29.595410+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/nissan-micra-1-0-acenta-1013178179/",
+    "t": "Nissan Micra 1,0 Acenta",
+    "ts": "2026-06-25T09:36:29.595410+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2017,
+    "km": 69000,
+    "b": "Limousine"
+  },
+  "wh:937054177": {
+    "p": 1500,
+    "f": "2026-06-25T09:36:29.595410+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-zafira-937054177/",
+    "t": "Opel Zafira",
+    "ts": "2026-06-25T09:36:29.595410+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Zafira",
+    "y": 2012,
+    "km": 300000,
+    "b": "Kombi / Family Van"
+  },
   "as:870f0116-4b58-4f97-8db0-4ce07b30a2e5": {
     "p": 7300,
     "f": "2026-06-25T09:35:51.120357+00:00",
@@ -124162,7 +124202,8 @@
     "ma": null,
     "mo": null,
     "y": 2015,
-    "km": 160400
+    "km": 160400,
+    "b": "Kombi / Family Van"
   },
   "wh:1543965901": {
     "p": 6800,
@@ -146173,42 +146214,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1233180563": {
-    "p": 5000,
-    "f": "2026-06-16T21:56:30.618944+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1233180563/",
-    "t": "VW Golf",
-    "ts": "2026-06-16T21:56:30.618944+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2013,
-    "km": 250000
-  },
-  "wh:1862546690": {
-    "p": 8900,
-    "f": "2026-06-16T21:53:31.540616+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda5-1862546690/",
-    "t": "Mazda Mazda5",
-    "ts": "2026-06-16T21:53:31.540616+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 103000
-  },
-  "wh:1873316604": {
-    "p": 11990,
-    "f": "2026-06-16T21:49:35.845780+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-rabbit-1-6-tdi-1873316604/",
-    "t": "VW Golf Rabbit 1.6 TDI",
-    "ts": "2026-06-16T21:49:35.845780+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2017,
-    "km": 148000
   },
   "__health__": {
     "wh": 0,
