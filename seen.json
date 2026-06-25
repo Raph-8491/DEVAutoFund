@@ -148,6 +148,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:ad30c390-0e87-48f3-8de9-0b77b1d3d99b": {
+    "p": 6300,
+    "f": "2026-06-25T16:23:30.592553+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/seat-leon-leon-fr-1-4-tsi-start-stopp-fr-start-stopp-benzin-weiss-cat_ma64mo15869/ad30c390-0e87-48f3-8de9-0b77b1d3d99b",
+    "t": "SEAT Leon Leon FR 1,4 TSI Start-Stopp FR Start-Stopp",
+    "ts": "2026-06-25T16:23:30.592553+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2013,
+    "km": 136000,
+    "b": ""
+  },
+  "as:ad30c390-0e87-48f3-8de9-0b77b1d3d99b": {
+    "p": 6300,
+    "f": "2026-06-25T16:23:25.087683+00:00",
+    "u": "https://www.autoscout24.at/angebote/seat-leon-leon-fr-1-4-tsi-start-stopp-fr-start-stopp-benzin-weiss-cat_ma64mo15869-ad30c390-0e87-48f3-8de9-0b77b1d3d99b",
+    "t": "SEAT Leon Leon FR 1,4 TSI Start-Stopp FR Start-Stopp",
+    "ts": "2026-06-25T16:23:25.087683+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2013,
+    "km": 136000,
+    "b": ""
+  },
   "wh:1007302197": {
     "p": 4995,
     "f": "2026-06-25T16:22:26.660121+00:00",
@@ -1048,11 +1074,11 @@
     "km": null
   },
   "as:0d949229-4b91-49e2-8b31-21643dd08882": {
-    "p": 8950,
+    "p": 8800,
     "f": "2026-06-25T15:50:43.983986+00:00",
     "u": "https://www.autoscout24.at/angebote/hyundai-kona-1-0-t-gdi-premium-benzin-cat_ma33mo74663-0d949229-4b91-49e2-8b31-21643dd08882",
     "t": "Hyundai KONA 1.0 T-GDI Premium",
-    "ts": "2026-06-25T15:50:43.983986+00:00",
+    "ts": "2026-06-25T16:23:27.476596+00:00",
     "ch": null,
     "ma": "Hyundai",
     "mo": "KONA",
@@ -146852,30 +146878,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:1870eeaf-4a0c-4477-bb21-75a9c9bb5ecd": {
-    "p": null,
-    "f": "2026-06-17T14:01:51.129698+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1626917968": {
-    "p": 3800,
-    "f": "2026-06-17T14:01:49.570672+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-6-tdi-1626917968/",
-    "t": "VW Golf 6 TDI",
-    "ts": "2026-06-17T14:01:49.570672+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2011,
-    "km": 275600
   },
   "__health__": {
     "wh": 0,
