@@ -147,13 +147,39 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:dcc72688-19d5-4476-9400-fba70ba98161": {
+    "p": 14990,
+    "f": "2026-06-25T06:10:50.067342+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/land-rover-discovery-sport-2-0-td4-4wd-hse-luxury-aut-diesel-cat_ma15641mo20913/dcc72688-19d5-4476-9400-fba70ba98161",
+    "t": "Land Rover Discovery Sport 2,0 TD4 4WD HSE Luxury Aut.",
+    "ts": "2026-06-25T06:10:50.067342+00:00",
+    "ch": null,
+    "ma": "Land Rover",
+    "mo": "Discovery Sport",
+    "y": 2015,
+    "km": 139900,
+    "b": ""
+  },
+  "as:dcc72688-19d5-4476-9400-fba70ba98161": {
+    "p": 14990,
+    "f": "2026-06-25T06:10:44.672521+00:00",
+    "u": "https://www.autoscout24.at/angebote/land-rover-discovery-sport-2-0-td4-4wd-hse-luxury-aut-diesel-cat_ma15641mo20913-dcc72688-19d5-4476-9400-fba70ba98161",
+    "t": "Land Rover Discovery Sport 2,0 TD4 4WD HSE Luxury Aut.",
+    "ts": "2026-06-25T06:10:44.672521+00:00",
+    "ch": null,
+    "ma": "Land Rover",
+    "mo": "Discovery Sport",
+    "y": 2015,
+    "km": 139900,
+    "b": ""
+  },
   "wh:2084776982": {
     "p": 9500,
     "f": "2026-06-25T06:07:23.249293+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-sharan-sky-bmt-2-0-tdi-dpf-dsg-2084776982/",
     "t": "VW Sharan Sky BMT 2,0 TDI DPF DSG",
     "ts": "2026-06-25T06:07:23.249293+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Sharan",
     "y": 2012,
@@ -145857,30 +145883,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:838940831": {
-    "p": 2600,
-    "f": "2026-06-16T18:21:27.840837+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-s-max-1-8tdci-838940831/",
-    "t": "Ford S-MAX 1.8tdci",
-    "ts": "2026-06-16T18:21:27.840837+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 335000
-  },
-  "wh:1666409194": {
-    "p": 4450,
-    "f": "2026-06-16T18:21:27.840837+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/lada-kalina-cross-2194-1666409194/",
-    "t": "Lada Kalina Cross 2194",
-    "ts": "2026-06-16T18:21:27.840837+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2017,
-    "km": 98500
   },
   "__health__": {
     "wh": 0,
