@@ -148,6 +148,33 @@
     "y": 2009,
     "km": 235000
   },
+  "as:2d35711e-215d-465f-b7b9-78cbe9ae0d99": {
+    "p": 12999,
+    "f": "2026-06-25T16:37:25.318147+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-gti-bluemotion-technology-dsg-benzin-cat_ma74mo20342-2d35711e-215d-465f-b7b9-78cbe9ae0d99",
+    "t": "Volkswagen Golf GTI BlueMotion Technology DSG",
+    "ts": "2026-06-25T16:37:25.318147+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf GTI",
+    "y": 2016,
+    "km": 234000,
+    "b": "",
+    "pu": "2026-06-25T16:37:25.318147+00:00"
+  },
+  "as:cb1efc38-4692-4407-87c4-5e9af901563c": {
+    "p": 4000,
+    "f": "2026-06-25T16:37:25.318147+00:00",
+    "u": "https://www.autoscout24.at/angebote/kia-picanto-1-0-attract-benzin-cat_ma39mo18417-cb1efc38-4692-4407-87c4-5e9af901563c",
+    "t": "Kia Picanto 1.0 Attract",
+    "ts": "2026-06-25T16:37:25.318147+00:00",
+    "ch": null,
+    "ma": "Kia",
+    "mo": "Picanto",
+    "y": 2012,
+    "km": 70463,
+    "b": ""
+  },
   "as:02a0987c-0b67-4893-b2f4-c9f78490e915": {
     "p": null,
     "f": "2026-06-25T16:36:38.766026+00:00",
@@ -203,7 +230,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-2-0-tdi-1397835787/",
     "t": "VW Passat 2.0 TDI",
     "ts": "2026-06-25T16:34:30.534863+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Passat",
     "y": 2026,
@@ -146878,30 +146905,6 @@
     "mo": "Insignia",
     "y": 2016,
     "km": 251496
-  },
-  "gw:19d9c27a-9892-4972-a5cb-933ffbb814cc": {
-    "p": 5300,
-    "f": "2026-06-17T14:19:43.100566+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-polo-polo-trendline-1-2trendline-benzin-schwarz-cat_ma74mo2090/19d9c27a-9892-4972-a5cb-933ffbb814cc",
-    "t": "Volkswagen Polo",
-    "ts": "2026-06-17T14:19:43.100566+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2010,
-    "km": 129000
-  },
-  "as:19d9c27a-9892-4972-a5cb-933ffbb814cc": {
-    "p": 5300,
-    "f": "2026-06-17T14:19:32.070709+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-polo-polo-trendline-1-2trendline-benzin-schwarz-cat_ma74mo2090-19d9c27a-9892-4972-a5cb-933ffbb814cc",
-    "t": "Volkswagen Polo",
-    "ts": "2026-06-17T14:19:32.070709+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2010,
-    "km": 129000
   },
   "__health__": {
     "wh": 0,
