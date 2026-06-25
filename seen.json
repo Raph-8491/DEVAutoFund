@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:fadcffe1-1088-421b-8d37-5b933b31847d": {
+    "p": null,
+    "f": "2026-06-25T08:42:26.268046+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:2099329922": {
     "p": 13000,
     "f": "2026-06-25T08:40:38.891109+00:00",
@@ -241,11 +253,11 @@
     "b": "SUV / Gel\u00e4ndewagen"
   },
   "wh:2121728702": {
-    "p": 12200,
+    "p": 11900,
     "f": "2026-06-25T08:33:39.116179+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-sports-tourer-2121728702/",
     "t": "Opel Astra SPORTS TOURER+",
-    "ts": "2026-06-25T08:33:39.116179+00:00",
+    "ts": "2026-06-25T08:42:24.779308+00:00",
     "ch": null,
     "ma": "Opel",
     "mo": "Astra",
@@ -146103,19 +146115,6 @@
     "mo": "320",
     "y": 2009,
     "km": 294000
-  },
-  "wh:1656476555": {
-    "p": 4600,
-    "f": "2026-06-16T19:58:34.180341+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/land-rover-freelander-1656476555/",
-    "t": "Land Rover Freelander",
-    "ts": "2026-06-23T19:59:35.028112+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 160000,
-    "b": "SUV / Gel\u00e4ndewagen"
   },
   "__health__": {
     "wh": 0,
