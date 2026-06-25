@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:5af563fb-d063-40bb-891d-5d9c713a2661": {
+    "p": 7400,
+    "f": "2026-06-25T13:23:27.431270+00:00",
+    "u": "https://www.autoscout24.at/angebote/ford-fiesta-cool-connect-benzin-schwarz-cat_ma29mo1758-5af563fb-d063-40bb-891d-5d9c713a2661",
+    "t": "Ford Fiesta Cool & Connect",
+    "ts": "2026-06-25T13:23:27.431270+00:00",
+    "ch": null,
+    "ma": "Ford",
+    "mo": "Fiesta",
+    "y": 2020,
+    "km": 93750,
+    "b": ""
+  },
   "as:3157313d-17a3-4852-88e1-b7c95de48230": {
     "p": null,
     "f": "2026-06-25T13:22:30.313111+00:00",
@@ -146584,18 +146597,6 @@
     "mo": "520",
     "y": 2010,
     "km": 260000
-  },
-  "wh:1565176712": {
-    "p": 8900,
-    "f": "2026-06-17T10:01:39.235013+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/volvo-v40-sparsamer-diesel-gepflegt-limousine-1565176712/",
-    "t": "Volvo V40 Sparsamer Diesel, gepflegt Limousine",
-    "ts": "2026-06-17T10:01:39.235013+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 125000
   },
   "__health__": {
     "wh": 0,
