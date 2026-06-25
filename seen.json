@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1464055294": {
+    "p": 14800,
+    "f": "2026-06-25T04:38:28.490817+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-st-tsi-style-1464055294/",
+    "t": "Seat Leon ST TSI Style",
+    "ts": "2026-06-25T04:38:28.490817+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2023,
+    "km": 80000,
+    "b": "Kombi / Family Van"
+  },
   "wh:1379506776": {
     "p": 13500,
     "f": "2026-06-25T04:34:23.530335+00:00",
@@ -145790,18 +145803,6 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/honda-jazz-1-2i-style-benzin-cat_ma31mo16490/ea8568b2-640e-4357-8d1c-14046e2673b4",
     "t": "Honda Jazz",
     "ts": "2026-06-16T17:49:45.928370+00:00",
-    "ch": "alive",
-    "ma": "Honda",
-    "mo": "Jazz",
-    "y": 2010,
-    "km": 181000
-  },
-  "as:ea8568b2-640e-4357-8d1c-14046e2673b4": {
-    "p": 3500,
-    "f": "2026-06-16T17:49:33.663123+00:00",
-    "u": "https://www.autoscout24.at/angebote/honda-jazz-1-2i-style-benzin-cat_ma31mo16490-ea8568b2-640e-4357-8d1c-14046e2673b4",
-    "t": "Honda Jazz",
-    "ts": "2026-06-16T17:49:33.663123+00:00",
     "ch": "alive",
     "ma": "Honda",
     "mo": "Jazz",
