@@ -148,6 +148,46 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:886294983": {
+    "p": 7990,
+    "f": "2026-06-25T14:40:46.371717+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-s-max-titanium-2-0-tdci-dpf-886294983/",
+    "t": "Ford S-MAX Titanium 2,0 TDCi DPF",
+    "ts": "2026-06-25T14:40:46.371717+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2014,
+    "km": 140000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:2106216757": {
+    "p": 14990,
+    "f": "2026-06-25T14:40:46.371717+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-scala-navi-virtual-cockpit-2106216757/",
+    "t": "Skoda Scala Navi, Virtual Cockpit",
+    "ts": "2026-06-25T14:40:46.371717+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Scala",
+    "y": 2020,
+    "km": 84930,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1892811201": {
+    "p": 12500,
+    "f": "2026-06-25T14:40:46.371717+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-tdi-2-0-r-line-1892811201/",
+    "t": "VW Golf Tdi 2.0 R line",
+    "ts": "2026-06-25T14:40:46.371717+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2015,
+    "km": 157000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T14:40:46.371717+00:00"
+  },
   "as:4c2b6e22-2c26-4e3a-a8d4-58facf2eecd9": {
     "p": null,
     "f": "2026-06-25T14:35:40.098331+00:00",
@@ -146657,42 +146697,6 @@
     "mo": "Astra",
     "y": 2016,
     "km": 333000
-  },
-  "gw:813ab9df-3407-4818-9118-0305f1433b2b": {
-    "p": 5300,
-    "f": "2026-06-17T11:14:46.355486+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/skoda-octavia-combi-1-6-active-tdi-cr-dpf-diesel-cat_ma65mo15222/813ab9df-3407-4818-9118-0305f1433b2b",
-    "t": "Skoda Octavia",
-    "ts": "2026-06-17T11:14:46.355486+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2013,
-    "km": 21500
-  },
-  "as:813ab9df-3407-4818-9118-0305f1433b2b": {
-    "p": 5300,
-    "f": "2026-06-17T11:14:33.859258+00:00",
-    "u": "https://www.autoscout24.at/angebote/skoda-octavia-combi-1-6-active-tdi-cr-dpf-diesel-cat_ma65mo15222-813ab9df-3407-4818-9118-0305f1433b2b",
-    "t": "Skoda Octavia",
-    "ts": "2026-06-17T11:14:33.859258+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2013,
-    "km": 21500
-  },
-  "as:487db7fd-6f6d-4489-9db5-1362586844ee": {
-    "p": 8999,
-    "f": "2026-06-17T11:13:27.241200+00:00",
-    "u": "https://www.autoscout24.at/angebote/bmw-530-530d-xdrive-touring-aut-diesel-cat_ma13mo1652-487db7fd-6f6d-4489-9db5-1362586844ee",
-    "t": "BMW 530",
-    "ts": "2026-06-17T11:13:27.241200+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "530",
-    "y": 2026,
-    "km": 282000
   },
   "__health__": {
     "wh": 0,
