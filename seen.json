@@ -147,6 +147,59 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:0b6acb8e-ea32-4744-a80c-ec63f3df3adf": {
+    "p": 4500,
+    "f": "2026-06-25T07:43:32.193603+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/ford-transit-custom-variobus-2-2-tdci-diesel-cat_ma29mo74248/0b6acb8e-ea32-4744-a80c-ec63f3df3adf",
+    "t": "Ford Transit Custom Variobus 2,2 TDCi",
+    "ts": "2026-06-25T07:43:32.193603+00:00",
+    "ch": null,
+    "ma": "Ford",
+    "mo": "Transit Custom",
+    "y": 2014,
+    "km": 265000,
+    "b": ""
+  },
+  "as:0b6acb8e-ea32-4744-a80c-ec63f3df3adf": {
+    "p": 4500,
+    "f": "2026-06-25T07:43:23.856481+00:00",
+    "u": "https://www.autoscout24.at/angebote/ford-transit-custom-variobus-2-2-tdci-diesel-cat_ma29mo74248-0b6acb8e-ea32-4744-a80c-ec63f3df3adf",
+    "t": "Ford Transit Custom Variobus 2,2 TDCi",
+    "ts": "2026-06-25T07:43:23.856481+00:00",
+    "ch": null,
+    "ma": "Ford",
+    "mo": "Transit Custom",
+    "y": 2014,
+    "km": 265000,
+    "b": ""
+  },
+  "wh:1106861994": {
+    "p": 1700,
+    "f": "2026-06-25T07:43:21.700716+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/nissan-tiida-1106861994/",
+    "t": "Nissan Tiida",
+    "ts": "2026-06-25T07:43:21.700716+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 229162,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:2037776316": {
+    "p": 13750,
+    "f": "2026-06-25T07:43:21.700716+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-3-0-tdi-cabrio-2037776316/",
+    "t": "Audi A5 3,0 TDI CABRIO",
+    "ts": "2026-06-25T07:43:21.700716+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A5",
+    "y": 2011,
+    "km": 182000,
+    "b": "Cabrio / Roadster",
+    "pu": "2026-06-25T07:43:21.700716+00:00"
+  },
   "as:c33f7474-df56-4797-97b8-a1daff7291be": {
     "p": null,
     "f": "2026-06-25T07:41:22.371590+00:00",
@@ -123473,28 +123526,30 @@
     "km": null
   },
   "wh:2143074375": {
-    "p": 9000,
+    "p": 8800,
     "f": "2026-06-18T07:41:25.294993+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-ix55-3-0-v6-crdi-allrad-s2-184-kw-diesel-2143074375/",
     "t": "Hyundai iX55 3.0 V6 CRDI Allrad (S2) 184 kW DIESEL",
-    "ts": "2026-06-18T07:41:25.294993+00:00",
-    "ch": "alive",
+    "ts": "2026-06-25T07:43:21.700716+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2013,
-    "km": 241000
+    "km": 241000,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "wh:1817469309": {
-    "p": 7390,
+    "p": 6990,
     "f": "2026-06-18T07:41:25.294993+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/smart-fortwo-1817469309/",
     "t": "Smart fortwo",
-    "ts": "2026-06-18T07:41:25.294993+00:00",
-    "ch": "alive",
+    "ts": "2026-06-25T07:43:21.700716+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2015,
-    "km": 95600
+    "km": 95600,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:2090500301": {
     "p": 7890,
@@ -145969,54 +146024,6 @@
     "mo": "Golf",
     "y": 2014,
     "km": 131460
-  },
-  "as:b624ef0c-fc5b-442e-bf89-0152b541952d": {
-    "p": null,
-    "f": "2026-06-16T19:07:43.679333+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:cc4e7038-a502-42d6-8ec5-ef3ddb4c3487": {
-    "p": null,
-    "f": "2026-06-16T19:07:43.679333+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:9131b132-32df-424b-847e-4944177d2a3e": {
-    "p": 8800,
-    "f": "2026-06-16T19:04:38.765872+00:00",
-    "u": "https://www.autoscout24.at/angebote/mercedes-benz-vito-113-cdi-blueefficiency-lang-diesel-cat_ma47mo15942-9131b132-32df-424b-847e-4944177d2a3e",
-    "t": "Mercedes-Benz Vito",
-    "ts": "2026-06-16T19:04:38.765872+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "Vito",
-    "y": 2012,
-    "km": 288000
-  },
-  "wh:1950745072": {
-    "p": 9500,
-    "f": "2026-06-16T19:04:34.901966+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-avant-2-0-tdi-quattro-intense-1950745072/",
-    "t": "Audi A4 Avant 2,0 TDI quattro Intense",
-    "ts": "2026-06-16T19:04:34.901966+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2014,
-    "km": 231000
   },
   "__health__": {
     "wh": 0,
