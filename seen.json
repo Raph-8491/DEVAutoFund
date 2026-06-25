@@ -148,6 +148,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:4c31de60-f507-4fd5-be98-e16bad09ac83": {
+    "p": 9940,
+    "f": "2026-06-25T15:07:35.868875+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/kia-venga-venga-1-6-mpi-20-jahre-edition-gold-aut-20-jahre-gold-benzin-grau-cat_ma39mo19248/4c31de60-f507-4fd5-be98-e16bad09ac83",
+    "t": "Kia Venga Venga 1,6 MPI 20 Jahre Edition Gold Aut. 20 Jahre Gold",
+    "ts": "2026-06-25T15:07:35.868875+00:00",
+    "ch": null,
+    "ma": "Kia",
+    "mo": "Venga",
+    "y": 2016,
+    "km": 51000,
+    "b": ""
+  },
+  "as:4c31de60-f507-4fd5-be98-e16bad09ac83": {
+    "p": 9940,
+    "f": "2026-06-25T15:07:28.714019+00:00",
+    "u": "https://www.autoscout24.at/angebote/kia-venga-venga-1-6-mpi-20-jahre-edition-gold-aut-20-jahre-gold-benzin-grau-cat_ma39mo19248-4c31de60-f507-4fd5-be98-e16bad09ac83",
+    "t": "Kia Venga Venga 1,6 MPI 20 Jahre Edition Gold Aut. 20 Jahre Gold",
+    "ts": "2026-06-25T15:07:28.714019+00:00",
+    "ch": null,
+    "ma": "Kia",
+    "mo": "Venga",
+    "y": 2016,
+    "km": 51000,
+    "b": ""
+  },
   "wh:2021676954": {
     "p": 8500,
     "f": "2026-06-25T15:06:26.003467+00:00",
@@ -146717,30 +146743,6 @@
     "mo": null,
     "y": 2009,
     "km": 214953
-  },
-  "wh:1352539882": {
-    "p": 5900,
-    "f": "2026-06-17T11:59:21.186875+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-1-0-1352539882/",
-    "t": "VW Polo 1,0",
-    "ts": "2026-06-17T11:59:21.186875+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2018,
-    "km": 186000
-  },
-  "wh:1469919062": {
-    "p": 3600,
-    "f": "2026-06-17T11:59:21.186875+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-1469919062/",
-    "t": "VW Polo",
-    "ts": "2026-06-17T11:59:21.186875+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2009,
-    "km": 200000
   },
   "__health__": {
     "wh": 0,
