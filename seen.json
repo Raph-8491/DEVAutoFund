@@ -148,6 +148,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:91f658e4-a039-4a31-8acc-438133c0232f": {
+    "p": null,
+    "f": "2026-06-25T09:24:29.902811+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1456871095": {
+    "p": 3000,
+    "f": "2026-06-25T09:24:27.893003+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-vi-variant-aj5-1-6-tdi-1456871095/",
+    "t": "VW Golf VI Variant (AJ5), 1.6 TDI",
+    "ts": "2026-06-25T09:24:27.893003+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2011,
+    "km": 291300,
+    "b": "Kombi / Family Van"
+  },
   "as:100f5f75-1053-4e16-90cf-8c647a2fc2e1": {
     "p": null,
     "f": "2026-06-25T09:22:32.080865+00:00",
@@ -146170,30 +146195,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1260498102": {
-    "p": 7000,
-    "f": "2026-06-16T21:24:33.943028+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-318d-touring-e91-1260498102/",
-    "t": "BMW 3er-Reihe 318d touring E91",
-    "ts": "2026-06-16T21:24:33.943028+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2011,
-    "km": 347354
-  },
-  "wh:1393224764": {
-    "p": 4300,
-    "f": "2026-06-16T21:24:33.943028+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-143ps-105kw-diesel-1393224764/",
-    "t": "Audi A4 143Ps/105kW Diesel",
-    "ts": "2026-06-16T21:24:33.943028+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2011,
-    "km": 401702
   },
   "__health__": {
     "wh": 0,
