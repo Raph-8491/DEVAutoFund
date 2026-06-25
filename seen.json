@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:82f52209-c47b-4475-a348-99575016fd4a": {
+    "p": 1990,
+    "f": "2026-06-25T12:37:25.287054+00:00",
+    "u": "https://www.autoscout24.at/angebote/skoda-fabia-fabia-combi-ambiente-elegance-1-6-tdi-cr-dpf-ambiente-elegance-diesel-grau-cat_ma65mo15878-82f52209-c47b-4475-a348-99575016fd4a",
+    "t": "Skoda Fabia Fabia Combi Ambiente Elegance 1,6 TDI CR DPF Ambiente Elegance",
+    "ts": "2026-06-25T12:37:25.287054+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Fabia",
+    "y": 2010,
+    "km": 165000,
+    "b": ""
+  },
   "gw:82f52209-c47b-4475-a348-99575016fd4a": {
     "p": 1990,
     "f": "2026-06-25T12:36:32.787146+00:00",
@@ -146524,18 +146537,6 @@
     "mo": "Ibiza",
     "y": 2011,
     "km": 246794
-  },
-  "as:5a786dea-6758-49df-9b17-14fd7d7f49df": {
-    "p": null,
-    "f": "2026-06-17T09:12:29.198674+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
