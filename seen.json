@@ -148,6 +148,47 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:1d797218-891a-4157-8c55-f0b0bcba1975": {
+    "p": 3250,
+    "f": "2026-06-25T10:20:57.811392+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-touran-touran-sky-1-6-bmt-tdi-dpf-sky-diesel-silber-cat_ma74mo18329/1d797218-891a-4157-8c55-f0b0bcba1975",
+    "t": "Volkswagen Touran Touran Sky 1,6 BMT TDI DPF Sky",
+    "ts": "2026-06-25T10:20:57.811392+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Touran",
+    "y": 2012,
+    "km": 190900,
+    "b": ""
+  },
+  "as:1d797218-891a-4157-8c55-f0b0bcba1975": {
+    "p": 3250,
+    "f": "2026-06-25T10:20:47.161667+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-touran-touran-sky-1-6-bmt-tdi-dpf-sky-diesel-silber-cat_ma74mo18329-1d797218-891a-4157-8c55-f0b0bcba1975",
+    "t": "Volkswagen Touran Touran Sky 1,6 BMT TDI DPF Sky",
+    "ts": "2026-06-25T10:20:47.161667+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Touran",
+    "y": 2012,
+    "km": 190900,
+    "b": "",
+    "pu": "2026-06-25T10:20:47.161667+00:00"
+  },
+  "wh:1803726330": {
+    "p": 7499,
+    "f": "2026-06-25T10:20:43.357073+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-1803726330/",
+    "t": "VW Passat",
+    "ts": "2026-06-25T10:20:43.357073+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Passat",
+    "y": 2016,
+    "km": 209000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T10:20:43.357073+00:00"
+  },
   "gw:27891027-18fe-48de-b3d6-e046f26dc99c": {
     "p": 5650,
     "f": "2026-06-25T10:18:46.621213+00:00",
@@ -146245,43 +146286,6 @@
     "mo": "Octavia",
     "y": 2017,
     "km": 173300
-  },
-  "wh:1148525939": {
-    "p": 10500,
-    "f": "2026-06-17T05:22:25.528267+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-2-0tdi-1148525939/",
-    "t": "Audi A5 2.0TDI",
-    "ts": "2026-06-17T05:22:25.528267+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A5",
-    "y": 2010,
-    "km": 198000,
-    "b": "Limousine"
-  },
-  "as:610dc199-557e-46f7-8103-6190b1fefaea": {
-    "p": null,
-    "f": "2026-06-17T05:21:25.807140+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:b41de3e6-432f-497e-9187-043706ccd2a0": {
-    "p": null,
-    "f": "2026-06-17T05:13:24.241154+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
