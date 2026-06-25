@@ -148,6 +148,45 @@
     "y": 2009,
     "km": 235000
   },
+  "as:5ac217c1-d1cc-42c1-84f5-b38063705abf": {
+    "p": null,
+    "f": "2026-06-25T11:30:53.601532+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1169728355": {
+    "p": 5800,
+    "f": "2026-06-25T11:30:50.907634+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-kangoo-td-1169728355/",
+    "t": "Renault Kangoo td",
+    "ts": "2026-06-25T11:30:50.907634+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2017,
+    "km": 117000,
+    "b": "Kleinbus"
+  },
+  "wh:1785499479": {
+    "p": 10500,
+    "f": "2026-06-25T11:30:50.907634+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-392c-1785499479/",
+    "t": "BMW 3er-Reihe 392C",
+    "ts": "2026-06-25T11:30:50.907634+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "3er-Reihe",
+    "y": 2008,
+    "km": 230000,
+    "b": "Limousine",
+    "pu": "2026-06-25T11:30:50.907634+00:00"
+  },
   "gw:5f4100db-8ab1-4d0b-9700-b950b6209a87": {
     "p": 10500,
     "f": "2026-06-25T11:28:39.476636+00:00",
@@ -146371,42 +146410,6 @@
     "mo": null,
     "y": 2017,
     "km": 98000
-  },
-  "wh:1167743066": {
-    "p": 8500,
-    "f": "2026-06-17T07:34:29.403087+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-glk-klasse-220-4-matic-1167743066/",
-    "t": "Mercedes-Benz GLK-Klasse 220/ 4 Matic",
-    "ts": "2026-06-17T07:34:29.403087+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "GLK-Klasse",
-    "y": 2010,
-    "km": 217000
-  },
-  "wh:1709557614": {
-    "p": 10000,
-    "f": "2026-06-17T07:34:29.403087+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-dokker-sd-1-6-1709557614/",
-    "t": "Dacia Dokker SD 1.6",
-    "ts": "2026-06-17T07:34:29.403087+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2018,
-    "km": 119000
-  },
-  "wh:2029195600": {
-    "p": 8990,
-    "f": "2026-06-17T07:34:29.403087+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-1-6tdi-2029195600/",
-    "t": "Skoda Octavia 1.6TDI",
-    "ts": "2026-06-17T07:34:29.403087+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2016,
-    "km": 178000
   },
   "__health__": {
     "wh": 0,
