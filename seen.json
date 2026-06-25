@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:efb7166a-edf3-407f-b43a-20e69f7e1bd7": {
+    "p": null,
+    "f": "2026-06-25T04:56:33.477539+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1219449182": {
     "p": 14900,
     "f": "2026-06-25T04:51:22.016192+00:00",
@@ -145811,18 +145823,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1344080319": {
-    "p": 6999,
-    "f": "2026-06-16T17:55:45.939644+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-180-cgi-1344080319/",
-    "t": "Mercedes-Benz C-Klasse 180 cgi",
-    "ts": "2026-06-16T17:55:45.939644+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C-Klasse",
-    "y": 2010,
-    "km": 240000
   },
   "__health__": {
     "wh": 0,
