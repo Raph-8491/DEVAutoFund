@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:8e03bfc8-021f-4635-b917-db41942c2861": {
+    "p": 5000,
+    "f": "2026-06-25T08:53:34.242298+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/ssangyong-rodius-premium-4wd-aut-diesel-cat_ma66mo18587/8e03bfc8-021f-4635-b917-db41942c2861",
+    "t": "SsangYong Rodius Premium 4WD Aut.",
+    "ts": "2026-06-25T08:53:34.242298+00:00",
+    "ch": null,
+    "ma": "SsangYong",
+    "mo": "Rodius",
+    "y": 2015,
+    "km": 119000,
+    "b": ""
+  },
+  "as:8e03bfc8-021f-4635-b917-db41942c2861": {
+    "p": 5000,
+    "f": "2026-06-25T08:53:24.789275+00:00",
+    "u": "https://www.autoscout24.at/angebote/ssangyong-rodius-premium-4wd-aut-diesel-cat_ma66mo18587-8e03bfc8-021f-4635-b917-db41942c2861",
+    "t": "SsangYong Rodius Premium 4WD Aut.",
+    "ts": "2026-06-25T08:53:24.789275+00:00",
+    "ch": null,
+    "ma": "SsangYong",
+    "mo": "Rodius",
+    "y": 2015,
+    "km": 119000,
+    "b": ""
+  },
   "gw:ec98fb96-da72-4436-9e03-db1dac56685c": {
     "p": 14500,
     "f": "2026-06-25T08:52:35.398893+00:00",
@@ -146116,30 +146142,6 @@
     "mo": "Golf",
     "y": 2011,
     "km": 245000
-  },
-  "as:3f32512c-f09f-4b02-a35a-c4ff39020a6a": {
-    "p": null,
-    "f": "2026-06-16T20:21:32.707845+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:d23281e9-c6bf-479a-a5ef-71ae767bdf27": {
-    "p": null,
-    "f": "2026-06-16T20:19:36.285943+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
