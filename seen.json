@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1070274360": {
+    "p": 1600,
+    "f": "2026-06-25T16:42:31.281686+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/suzuki-splash-1-0-cool-sound-1070274360/",
+    "t": "Suzuki Splash 1,0 Cool & Sound",
+    "ts": "2026-06-25T16:42:31.281686+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 194100,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:7be8d23f-beef-466c-b234-9bb42b0ffd98": {
     "p": null,
     "f": "2026-06-25T16:40:49.677402+00:00",
@@ -126813,16 +126826,17 @@
     "km": 115000
   },
   "wh:1269324934": {
-    "p": 5990,
+    "p": 4999,
     "f": "2026-06-18T16:42:34.929063+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-ceed-oeamtc-ankaufstest-1jahr-gewaehrleistung-service-1269324934/",
     "t": "KIA Ceed \u00d6amtc Ankaufstest,1Jahr Gew\u00e4hrleistung, Service",
-    "ts": "2026-06-18T16:42:34.929063+00:00",
-    "ch": "alive",
+    "ts": "2026-06-25T16:42:31.281686+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2010,
-    "km": 95000
+    "km": 95000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "as:67e9bdd3-b42d-43f6-962d-2cd0ebf435f7": {
     "p": 12000,
@@ -146899,18 +146913,6 @@
     "mo": null,
     "y": 2014,
     "km": 205000
-  },
-  "wh:2004846116": {
-    "p": 9400,
-    "f": "2026-06-17T14:26:29.666191+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-stonic-1-25-mpi-isg-silber-2004846116/",
-    "t": "KIA Stonic 1,25 MPI ISG Silber",
-    "ts": "2026-06-17T14:26:29.666191+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2018,
-    "km": 88200
   },
   "__health__": {
     "wh": 0,
