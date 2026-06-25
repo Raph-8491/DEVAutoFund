@@ -148,6 +148,58 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:19768f61-efef-46e4-9214-8907fb6d99e9": {
+    "p": 10000,
+    "f": "2026-06-25T15:17:53.412536+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/alfa-romeo-giulietta-giulietta-1-4-tb-benzin-schwarz-cat_ma6mo1611/19768f61-efef-46e4-9214-8907fb6d99e9",
+    "t": "Alfa Romeo Giulietta Giulietta 1,4 TB",
+    "ts": "2026-06-25T15:17:53.412536+00:00",
+    "ch": null,
+    "ma": "Alfa Romeo",
+    "mo": "Giulietta",
+    "y": 2017,
+    "km": 116000,
+    "b": ""
+  },
+  "as:19768f61-efef-46e4-9214-8907fb6d99e9": {
+    "p": 10000,
+    "f": "2026-06-25T15:17:48.098520+00:00",
+    "u": "https://www.autoscout24.at/angebote/alfa-romeo-giulietta-giulietta-1-4-tb-benzin-schwarz-cat_ma6mo1611-19768f61-efef-46e4-9214-8907fb6d99e9",
+    "t": "Alfa Romeo Giulietta Giulietta 1,4 TB",
+    "ts": "2026-06-25T15:17:48.098520+00:00",
+    "ch": null,
+    "ma": "Alfa Romeo",
+    "mo": "Giulietta",
+    "y": 2017,
+    "km": 116000,
+    "b": ""
+  },
+  "wh:1576162030": {
+    "p": 9300,
+    "f": "2026-06-25T15:17:44.729252+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/jeep-grand-cherokee-3-0-limited-crd-1576162030/",
+    "t": "Jeep Grand Cherokee 3,0 Limited CRD",
+    "ts": "2026-06-25T15:17:44.729252+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 227111,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:2008390432": {
+    "p": 14700,
+    "f": "2026-06-25T15:17:44.729252+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-grandland-x-2008390432/",
+    "t": "Opel Grandland X",
+    "ts": "2026-06-25T15:17:44.729252+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Grandland",
+    "y": 2019,
+    "km": 104332,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "wh:1611933347": {
     "p": 3750,
     "f": "2026-06-25T15:15:44.034271+00:00",
@@ -126110,7 +126162,8 @@
     "ma": null,
     "mo": null,
     "y": 2009,
-    "km": 117000
+    "km": 117000,
+    "b": "Kombi / Family Van"
   },
   "as:2cb13b86-43f5-40d5-a3b0-a4f8ce9dfedb": {
     "p": null,
@@ -146710,54 +146763,6 @@
     "mo": "Punto Evo",
     "y": 2010,
     "km": 97500
-  },
-  "wh:2086925147": {
-    "p": 6000,
-    "f": "2026-06-17T12:10:52.041593+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/chevrolet-camaro-3-6-atmosphaere-2086925147/",
-    "t": "Chevrolet Camaro 3.6 Atmosph\u00e4re",
-    "ts": "2026-06-17T12:10:52.041593+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 75000
-  },
-  "wh:2080018988": {
-    "p": 1500,
-    "f": "2026-06-17T12:10:52.041593+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mini-cooper-s-r56-2080018988/",
-    "t": "MINI Cooper S R56",
-    "ts": "2026-06-17T12:10:52.041593+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 239000
-  },
-  "wh:868820024": {
-    "p": 5900,
-    "f": "2026-06-17T12:10:52.041593+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/toyota-verso-2-0-d-4d-active-dpf-868820024/",
-    "t": "Toyota Verso 2,0 D-4D Active DPF",
-    "ts": "2026-06-17T12:10:52.041593+00:00",
-    "ch": "alive",
-    "ma": "Toyota",
-    "mo": "Verso",
-    "y": 2015,
-    "km": 248000
-  },
-  "as:c6a995c2-dc52-413c-90ae-1ad50d751bf7": {
-    "p": null,
-    "f": "2026-06-17T12:09:32.397868+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
