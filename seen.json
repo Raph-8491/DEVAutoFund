@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1533634899": {
+    "p": 10500,
+    "f": "2026-06-25T10:39:23.809981+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/land-rover-range-rover-evoque-2-2d-pure-1533634899/",
+    "t": "Land Rover Range Rover Evoque 2.2D pure",
+    "ts": "2026-06-25T10:39:23.809981+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 181000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "as:63a6bf18-9f0e-48b1-a9cc-9773916e5a66": {
     "p": null,
     "f": "2026-06-25T10:38:34.431920+00:00",
@@ -192,7 +205,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x3-xdrive20d-aut-1322066116/",
     "t": "BMW X3 xDrive20d Aut.",
     "ts": "2026-06-25T10:36:29.791760+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "X3",
     "y": 2011,
@@ -146305,18 +146318,6 @@
     "y": 2016,
     "km": 108000,
     "b": "Klein-/ Kompaktwagen"
-  },
-  "as:422f85d4-37ce-4921-806e-9f7daf796083": {
-    "p": null,
-    "f": "2026-06-17T06:01:35.262253+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
