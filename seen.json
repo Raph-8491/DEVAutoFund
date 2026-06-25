@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:bb9e3023-f6c0-4690-95f1-18a608c6e49b": {
+    "p": null,
+    "f": "2026-06-25T11:09:22.133324+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:d63303c6-88c1-44b6-9290-bcdb2e67a71f": {
     "p": null,
     "f": "2026-06-25T11:08:27.026113+00:00",
@@ -146361,18 +146373,6 @@
     "mo": null,
     "y": 2013,
     "km": 153000
-  },
-  "gw:3a7351c5-b6af-4115-82de-b01fad195b96": {
-    "p": 3000,
-    "f": "2026-06-17T07:02:44.993277+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/skoda-octavia-combi-ambition-1-6-tdi-cr-dpf-4x4-diesel-cat_ma65mo15222/3a7351c5-b6af-4115-82de-b01fad195b96",
-    "t": "Skoda Octavia",
-    "ts": "2026-06-17T07:02:44.993277+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2011,
-    "km": 280000
   },
   "__health__": {
     "wh": 0,
