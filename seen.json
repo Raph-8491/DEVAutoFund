@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:d5486683-bcb9-44d5-ac4f-8a7e2d91a9ae": {
+    "p": null,
+    "f": "2026-06-25T14:42:28.093486+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:37a96216-6768-4057-83aa-2071dda21fe2": {
     "p": 11000,
     "f": "2026-06-25T14:41:26.531709+00:00",
@@ -146686,18 +146698,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:2047133505": {
-    "p": 8000,
-    "f": "2026-06-17T11:15:43.286021+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-2-0-cdti-2047133505/",
-    "t": "Opel Insignia 2.0 CDTI",
-    "ts": "2026-06-17T11:15:43.286021+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Insignia",
-    "y": 2010,
-    "km": 119171
   },
   "__health__": {
     "wh": 0,
