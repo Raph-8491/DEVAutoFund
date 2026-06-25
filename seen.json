@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:8663f587-e1f3-4d4f-8f5d-d1ead19ecfb4": {
+    "p": 9300,
+    "f": "2026-06-25T06:43:32.861633+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/mazda-cx-3-cd105-awd-revolution-diesel-cat_ma46mo21084/8663f587-e1f3-4d4f-8f5d-d1ead19ecfb4",
+    "t": "Mazda CX-3 CD105 AWD Revolution",
+    "ts": "2026-06-25T06:43:32.861633+00:00",
+    "ch": null,
+    "ma": "Mazda",
+    "mo": "CX-3",
+    "y": 2015,
+    "km": 178999,
+    "b": ""
+  },
+  "as:8663f587-e1f3-4d4f-8f5d-d1ead19ecfb4": {
+    "p": 9300,
+    "f": "2026-06-25T06:43:25.401970+00:00",
+    "u": "https://www.autoscout24.at/angebote/mazda-cx-3-cd105-awd-revolution-diesel-cat_ma46mo21084-8663f587-e1f3-4d4f-8f5d-d1ead19ecfb4",
+    "t": "Mazda CX-3 CD105 AWD Revolution",
+    "ts": "2026-06-25T06:43:25.401970+00:00",
+    "ch": null,
+    "ma": "Mazda",
+    "mo": "CX-3",
+    "y": 2015,
+    "km": 178999,
+    "b": ""
+  },
+  "wh:821262703": {
+    "p": 11500,
+    "f": "2026-06-25T06:43:24.308211+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-clk-klasse-clk-200-kompressor-elegance-821262703/",
+    "t": "Mercedes-Benz CLK-Klasse CLK 200 KOMPRESSOR Elegance",
+    "ts": "2026-06-25T06:43:24.308211+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "CLK-Klasse",
+    "y": 2008,
+    "km": 111506,
+    "b": "Sportwagen / Coup\u00e9"
+  },
   "as:4becd88f-1159-4ba1-8e12-e5aebb2bac6b": {
     "p": 12700,
     "f": "2026-06-25T06:41:20.748589+00:00",
@@ -123259,7 +123298,8 @@
     "ma": null,
     "mo": null,
     "y": 2016,
-    "km": 163000
+    "km": 163000,
+    "b": "Limousine"
   },
   "wh:1687842352": {
     "p": 4280,
@@ -145892,42 +145932,6 @@
     "mo": "Ibiza",
     "y": 2011,
     "km": 255000
-  },
-  "as:5512702c-7fae-4602-8436-573bcfd110bd": {
-    "p": null,
-    "f": "2026-06-16T18:34:41.109590+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:766f74b2-ab06-42b4-b71d-e9fa7f54298b": {
-    "p": 1500,
-    "f": "2026-06-16T18:34:41.109590+00:00",
-    "u": "https://www.autoscout24.at/angebote/seat-ibiza-st-style-1-6-tdi-cr-dpf-diesel-cat_ma64mo2006-766f74b2-ab06-42b4-b71d-e9fa7f54298b",
-    "t": "SEAT Ibiza",
-    "ts": "2026-06-16T18:34:41.109590+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2011,
-    "km": 255000
-  },
-  "as:4d142fff-e857-4fb4-8d7a-ae7dd8b1f25a": {
-    "p": null,
-    "f": "2026-06-16T18:33:32.233504+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
