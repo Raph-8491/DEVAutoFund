@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:831778036": {
+    "p": 5750,
+    "f": "2026-06-25T08:12:28.367945+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-tdci-831778036/",
+    "t": "Ford Focus TDCi",
+    "ts": "2026-06-25T08:12:28.367945+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 117450,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1138831974": {
+    "p": 5650,
+    "f": "2026-06-25T08:12:28.367945+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-1-6-crtdi-1138831974/",
+    "t": "Seat Leon 1.6 Crtdi",
+    "ts": "2026-06-25T08:12:28.367945+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2012,
+    "km": 207000,
+    "b": "Limousine"
+  },
+  "wh:1511260351": {
+    "p": 2000,
+    "f": "2026-06-25T08:12:28.367945+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-1-2-1511260351/",
+    "t": "VW Polo 1.2",
+    "ts": "2026-06-25T08:12:28.367945+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Polo",
+    "y": 2013,
+    "km": 258000,
+    "b": "Limousine"
+  },
   "gw:cb0c9791-2383-47ba-b9fe-d65f54ed795d": {
     "p": 4999,
     "f": "2026-06-25T08:10:46.280382+00:00",
@@ -146019,42 +146058,6 @@
   "as:3f2353f2-e9a4-4c72-83de-c4d9aea5d133": {
     "p": null,
     "f": "2026-06-16T19:36:35.525669+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:c531d08f-b90c-4983-966a-27d3942cf87f": {
-    "p": null,
-    "f": "2026-06-16T19:35:44.536034+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:372b8ce8-b48b-4f04-82a1-6b17c6697094": {
-    "p": null,
-    "f": "2026-06-16T19:34:28.839193+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:d907cec1-6e06-49ce-acee-c324764edc01": {
-    "p": null,
-    "f": "2026-06-16T19:33:25.155194+00:00",
     "u": null,
     "t": null,
     "ts": null,
