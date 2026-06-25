@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1770579518": {
+    "p": 4500,
+    "f": "2026-06-25T14:59:27.961450+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-530xd-1770579518/",
+    "t": "BMW 5er-Reihe 530xd",
+    "ts": "2026-06-25T14:59:27.961450+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "5er-Reihe",
+    "y": 2011,
+    "km": 258000,
+    "b": "Kombi / Family Van"
+  },
   "gw:3026eb20-081d-408e-a183-f9e955ffab4a": {
     "p": 11000,
     "f": "2026-06-25T14:58:38.900711+00:00",
@@ -146718,18 +146731,6 @@
     "mo": "Polo",
     "y": 2018,
     "km": 82000
-  },
-  "as:63abbb72-51c4-4e9d-9c5f-c185e5e8e103": {
-    "p": null,
-    "f": "2026-06-17T11:47:30.133930+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
