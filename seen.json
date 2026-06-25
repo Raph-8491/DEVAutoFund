@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:3f950115-877c-4024-a7d7-2d1b07579374": {
+    "p": 13500,
+    "f": "2026-06-25T06:22:43.159461+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-325-325d-m-paket-kombi-diesel-weiss-cat_ma13mo1644/3f950115-877c-4024-a7d7-2d1b07579374",
+    "t": "BMW 325 325d M Paket Kombi",
+    "ts": "2026-06-25T06:22:43.159461+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "325",
+    "y": 2015,
+    "km": 239700,
+    "b": ""
+  },
+  "as:3f950115-877c-4024-a7d7-2d1b07579374": {
+    "p": 13500,
+    "f": "2026-06-25T06:22:31.652900+00:00",
+    "u": "https://www.autoscout24.at/angebote/bmw-325-325d-m-paket-kombi-diesel-weiss-cat_ma13mo1644-3f950115-877c-4024-a7d7-2d1b07579374",
+    "t": "BMW 325 325d M Paket Kombi",
+    "ts": "2026-06-25T06:22:31.652900+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "325",
+    "y": 2015,
+    "km": 239700,
+    "b": "",
+    "pu": "2026-06-25T06:22:31.652900+00:00"
+  },
   "as:7d23ebe4-0543-4102-b8ad-d034e081c98e": {
     "p": null,
     "f": "2026-06-25T06:21:27.728175+00:00",
@@ -145879,30 +145906,6 @@
     "mo": "Focus",
     "y": 2008,
     "km": 70000
-  },
-  "wh:2004717179": {
-    "p": 7500,
-    "f": "2026-06-16T18:26:32.088986+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mitsubishi-outlander-2-2-di-d-tc-sst-instyle-aut-2004717179/",
-    "t": "Mitsubishi Outlander 2,2 DI-D TC-SST Instyle Aut.",
-    "ts": "2026-06-16T18:26:32.088986+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 208000
-  },
-  "wh:1909105214": {
-    "p": 11999,
-    "f": "2026-06-16T18:26:32.088986+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-ceed-ceed-1-4-mpi-titan-1909105214/",
-    "t": "KIA Ceed Cee'd 1,4 MPI Titan",
-    "ts": "2026-06-16T18:26:32.088986+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2019,
-    "km": 44120
   },
   "__health__": {
     "wh": 0,
