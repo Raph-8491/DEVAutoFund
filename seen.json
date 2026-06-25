@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:c70b6ff8-b186-4c62-bac0-4070f71bdd72": {
+    "p": 4800,
+    "f": "2026-06-25T15:44:27.210573+00:00",
+    "u": "https://www.autoscout24.at/angebote/ford-fiesta-fiesta-1-5-tdci-trend-lesen-diesel-grau-cat_ma29mo1758-c70b6ff8-b186-4c62-bac0-4070f71bdd72",
+    "t": "Ford Fiesta Fiesta 1.5 TDCi TREND (lesen!)",
+    "ts": "2026-06-25T15:44:27.210573+00:00",
+    "ch": null,
+    "ma": "Ford",
+    "mo": "Fiesta",
+    "y": 2017,
+    "km": 169122,
+    "b": ""
+  },
   "as:ef29fbac-a505-4b37-a800-2e212f90af72": {
     "p": 15000,
     "f": "2026-06-25T15:43:28.728522+00:00",
@@ -193,7 +206,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-1-6-l-tdi-bj-2018-2068084861/",
     "t": "VW Passat 1.6 l TDI Bj.2018",
     "ts": "2026-06-25T15:41:24.081314+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Passat",
     "y": 2018,
@@ -233,7 +246,7 @@
     "u": "https://www.autoscout24.at/angebote/volkswagen-golf-golf-1-2-tsi-dsg-comfortline-benzin-silber-cat_ma74mo2084-c3a62a53-5b03-47dd-adcf-f85ec9994b09",
     "t": "Volkswagen Golf Golf 1.2 TSI DSG Comfortline",
     "ts": "2026-06-25T15:40:44.600798+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2011,
@@ -247,7 +260,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-2-0-turbo-diesel-1180322065/",
     "t": "VW Tiguan 2.0 Turbo Diesel",
     "ts": "2026-06-25T15:40:43.081127+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Tiguan",
     "y": 2008,
@@ -146785,18 +146798,6 @@
     "mo": "A4",
     "y": 2011,
     "km": 328800
-  },
-  "wh:884388422": {
-    "p": 300,
-    "f": "2026-06-17T12:54:26.715305+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i20-1-25-life-884388422/",
-    "t": "Hyundai i20 1,25 Life",
-    "ts": "2026-06-17T12:54:26.715305+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2013,
-    "km": 158000
   },
   "__health__": {
     "wh": 0,
