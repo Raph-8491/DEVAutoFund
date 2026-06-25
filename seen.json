@@ -147,6 +147,70 @@
     "y": 2009,
     "km": 235000
   },
+  "as:78b259ce-1f09-4070-a617-05d539101b1c": {
+    "p": null,
+    "f": "2026-06-25T08:07:23.875176+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1486713702": {
+    "p": 3200,
+    "f": "2026-06-25T08:07:22.828648+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-fabia-combi-ambiente-1-2-tsi-1486713702/",
+    "t": "Skoda Fabia Combi Ambiente 1,2 TSI",
+    "ts": "2026-06-25T08:07:22.828648+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Fabia",
+    "y": 2010,
+    "km": 141000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:946315325": {
+    "p": 3490,
+    "f": "2026-06-25T08:07:22.828648+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-ceed-ceed-1-4-crdi-cool-946315325/",
+    "t": "KIA Ceed cee'd 1,4 CRDi Cool",
+    "ts": "2026-06-25T08:07:22.828648+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 214485,
+    "b": "Limousine"
+  },
+  "wh:1170128026": {
+    "p": 4900,
+    "f": "2026-06-25T08:07:22.828648+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touareg-v-6-diesel-239-ps-1170128026/",
+    "t": "VW Touareg V 6 Diesel 239 PS",
+    "ts": "2026-06-25T08:07:22.828648+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Touareg",
+    "y": 2009,
+    "km": 362728,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1745447845": {
+    "p": 6000,
+    "f": "2026-06-25T08:07:22.828648+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/suzuki-sx4-1-6-gl-5dr-mc-crossline-1745447845/",
+    "t": "Suzuki SX4 1,6 GL 5DR MC Crossline",
+    "ts": "2026-06-25T08:07:22.828648+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 104500,
+    "b": "Limousine"
+  },
   "as:a1497e1a-e4d0-4135-b2fb-0211bc54c3de": {
     "p": null,
     "f": "2026-06-25T08:06:29.859382+00:00",
@@ -123467,7 +123531,8 @@
     "ma": null,
     "mo": null,
     "y": 2009,
-    "km": 149100
+    "km": 149100,
+    "b": "Sportwagen / Coup\u00e9"
   },
   "wh:1312843414": {
     "p": 4400,
@@ -145994,66 +146059,6 @@
     "mo": null,
     "y": 2008,
     "km": 130000
-  },
-  "wh:1631579671": {
-    "p": 8850,
-    "f": "2026-06-16T19:29:32.389786+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-sandero-stepway-1631579671/",
-    "t": "Dacia Sandero Stepway",
-    "ts": "2026-06-23T19:27:27.837558+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2018,
-    "km": 94000
-  },
-  "wh:902668643": {
-    "p": 1990,
-    "f": "2026-06-16T19:29:32.389786+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-2-0-902668643/",
-    "t": "Opel Insignia 2.0",
-    "ts": "2026-06-16T19:29:32.389786+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Insignia",
-    "y": 2012,
-    "km": 252000
-  },
-  "as:68801ef9-f851-4177-8b75-6ad89b577597": {
-    "p": null,
-    "f": "2026-06-16T19:28:40.197740+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:2732e777-7acc-4545-a107-b46715ea16fb": {
-    "p": null,
-    "f": "2026-06-16T19:27:35.253709+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:4f3e4301-aa22-490f-8b43-a18eb8ac14e4": {
-    "p": null,
-    "f": "2026-06-16T19:27:35.253709+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
