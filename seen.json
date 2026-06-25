@@ -147,6 +147,20 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1255816088": {
+    "p": 12500,
+    "f": "2026-06-25T09:07:22.781901+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-rabbit-1-6-tdi-acc-pickerl-03-27-4-monate-1255816088/",
+    "t": "VW Golf Rabbit 1,6 TDI, ACC, Pickerl 03/27+4 Monate",
+    "ts": "2026-06-25T09:07:22.781901+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2017,
+    "km": 159500,
+    "b": "Limousine",
+    "pu": "2026-06-25T09:07:22.781901+00:00"
+  },
   "wh:863963659": {
     "p": 5290,
     "f": "2026-06-25T09:05:37.791565+00:00",
@@ -146149,19 +146163,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1978994031": {
-    "p": 2950,
-    "f": "2026-06-16T20:44:34.589468+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-1-6-tdi-cay-bluemotion-technology-1978994031/",
-    "t": "VW Passat 1.6 TDI CAY BLUEMOTION TECHNOLOGY",
-    "ts": "2026-06-16T20:44:34.589468+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2011,
-    "km": 259618,
-    "b": "Kombi / Family Van"
   },
   "__health__": {
     "wh": 0,
