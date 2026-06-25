@@ -148,6 +148,60 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1472862364": {
+    "p": 6450,
+    "f": "2026-06-25T10:43:24.312632+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touran-comfortline-1-6-scr-tdi-1472862364/",
+    "t": "VW Touran Comfortline 1,6 SCR TDI",
+    "ts": "2026-06-25T10:43:24.312632+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Touran",
+    "y": 2015,
+    "km": 248000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T10:43:24.312632+00:00"
+  },
+  "wh:2065294212": {
+    "p": 10900,
+    "f": "2026-06-25T10:43:24.312632+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-slk-klasse-slk-250-blueefficiency-aut-2065294212/",
+    "t": "Mercedes-Benz SLK-Klasse SLK 250 BlueEfficiency Aut.",
+    "ts": "2026-06-25T10:43:24.312632+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "SLK-Klasse",
+    "y": 2012,
+    "km": 250000,
+    "b": "Cabrio / Roadster"
+  },
+  "wh:1064150660": {
+    "p": 4000,
+    "f": "2026-06-25T10:43:24.312632+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-2-0tdi-1064150660/",
+    "t": "Audi A4 2,0TDI",
+    "ts": "2026-06-25T10:43:24.312632+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2014,
+    "km": 413000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T10:43:24.312632+00:00"
+  },
+  "wh:1635668923": {
+    "p": 1800,
+    "f": "2026-06-25T10:43:24.312632+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-9tdi-1635668923/",
+    "t": "VW Golf 1.9TDI",
+    "ts": "2026-06-25T10:43:24.312632+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2008,
+    "km": 315000,
+    "b": "Kombi / Family Van"
+  },
   "gw:668d1042-6d08-41a9-96e6-46fe5070373e": {
     "p": 4500,
     "f": "2026-06-25T10:42:43.902121+00:00",
@@ -124785,16 +124839,18 @@
     "km": 20000
   },
   "wh:1290213420": {
-    "p": 9999,
+    "p": 9000,
     "f": "2026-06-18T10:40:48.504990+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-116d-1290213420/",
     "t": "BMW 1er-Reihe 116D",
-    "ts": "2026-06-18T10:40:48.504990+00:00",
-    "ch": "alive",
+    "ts": "2026-06-25T10:43:24.312632+00:00",
+    "ch": null,
     "ma": "BMW",
     "mo": "1er-Reihe",
     "y": 2013,
-    "km": 210000
+    "km": 210000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T10:43:24.312632+00:00"
   },
   "wh:1758438620": {
     "p": 3800,
@@ -146275,54 +146331,6 @@
     "mo": null,
     "y": 2013,
     "km": 49997
-  },
-  "wh:1774532896": {
-    "p": 12000,
-    "f": "2026-06-17T06:19:22.185302+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-avant-2-0-tdi-1774532896/",
-    "t": "Audi A6 Avant 2,0 TDI",
-    "ts": "2026-06-17T06:19:22.185302+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A6",
-    "y": 2015,
-    "km": 369000
-  },
-  "wh:1975604704": {
-    "p": 3200,
-    "f": "2026-06-17T06:17:25.181520+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-2-0-318-1975604704/",
-    "t": "BMW 3er-Reihe 2,0 318",
-    "ts": "2026-06-17T06:17:25.181520+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2009,
-    "km": 249320
-  },
-  "wh:1370481070": {
-    "p": 3850,
-    "f": "2026-06-17T06:17:25.181520+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-mondeo-tr-business-2-0d-1370481070/",
-    "t": "Ford Mondeo TR Business+ 2.0D",
-    "ts": "2026-06-17T06:17:25.181520+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 142500
-  },
-  "wh:1931428258": {
-    "p": 4790,
-    "f": "2026-06-17T06:17:25.181520+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-vw-golf-vii-1-6-tdi-pickerl-1931428258/",
-    "t": "VW Golf VW Golf VII // 1.6 TDI // Pickerl",
-    "ts": "2026-06-17T06:17:25.181520+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2013,
-    "km": 262000
   },
   "__health__": {
     "wh": 0,
