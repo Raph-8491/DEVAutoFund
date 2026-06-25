@@ -148,6 +148,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1513153158": {
+    "p": 8900,
+    "f": "2026-06-25T14:26:27.933825+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-st-1513153158/",
+    "t": "Seat Leon ST",
+    "ts": "2026-06-25T14:26:27.933825+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2016,
+    "km": 174700,
+    "b": "Kombi / Family Van"
+  },
+  "wh:2131609896": {
+    "p": 3500,
+    "f": "2026-06-25T14:26:27.933825+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-kuga-2-0-trend-4x4-tdci-dpf-2131609896/",
+    "t": "Ford Kuga 2,0 Trend 4x4 TDCI DPF",
+    "ts": "2026-06-25T14:26:27.933825+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 213100,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "as:007aec72-d0ee-4c29-b61b-8d923fdf120f": {
     "p": 2999,
     "f": "2026-06-25T14:25:41.280388+00:00",
@@ -217,7 +243,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x1-1733590941/",
     "t": "BMW X1",
     "ts": "2026-06-25T14:23:26.924380+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "X1",
     "y": 2010,
@@ -146650,30 +146676,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:b385ddf7-86b8-4542-bca6-ac78e1a81051": {
-    "p": null,
-    "f": "2026-06-17T10:58:28.744978+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1748506272": {
-    "p": 7990,
-    "f": "2026-06-17T10:58:25.231219+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-e91-330xd-facelift-1748506272/",
-    "t": "BMW 3er-Reihe E91 330xd Facelift",
-    "ts": "2026-06-17T10:58:25.231219+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2008,
-    "km": 258000
   },
   "__health__": {
     "wh": 0,
