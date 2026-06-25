@@ -148,6 +148,45 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:79c537e0-9288-45e3-8cc6-52bd30dbf9df": {
+    "p": 4500,
+    "f": "2026-06-25T10:52:42.981808+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/peugeot-207-cc-active-1-6-vti-16v-benzin-cat_ma55mo18797/79c537e0-9288-45e3-8cc6-52bd30dbf9df",
+    "t": "Peugeot 207 CC Active 1,6 VTi 16V",
+    "ts": "2026-06-25T10:52:42.981808+00:00",
+    "ch": null,
+    "ma": "Peugeot",
+    "mo": "207",
+    "y": 2011,
+    "km": 134500,
+    "b": ""
+  },
+  "as:761448a1-d065-4fd3-bbe6-c4d6da9de416": {
+    "p": null,
+    "f": "2026-06-25T10:52:30.490962+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:2fb463b4-eb3f-4159-ba85-b79f77433219": {
+    "p": 12000,
+    "f": "2026-06-25T10:52:30.490962+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-1-2-tsi-bluemotion-technology-dsg-allstar-benzin-cat_ma74mo2084-2fb463b4-eb3f-4159-ba85-b79f77433219",
+    "t": "Volkswagen Golf 1.2 TSI BlueMotion Technology DSG Allstar",
+    "ts": "2026-06-25T10:52:30.490962+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2016,
+    "km": 165000,
+    "b": "",
+    "pu": "2026-06-25T10:52:30.490962+00:00"
+  },
   "wh:1765497001": {
     "p": 12500,
     "f": "2026-06-25T10:51:24.016131+00:00",
@@ -146302,42 +146341,6 @@
     "mo": "Ibiza",
     "y": 2013,
     "km": 189359
-  },
-  "wh:1345050891": {
-    "p": 2500,
-    "f": "2026-06-17T06:35:41.413971+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-corsa-1-2-1345050891/",
-    "t": "Opel Corsa 1,2",
-    "ts": "2026-06-17T06:35:41.413971+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Corsa",
-    "y": 2008,
-    "km": 77300
-  },
-  "wh:2072601704": {
-    "p": 8400,
-    "f": "2026-06-17T06:33:33.805044+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mitsubishi-space-star-1-0-mivec-inform-as-g-2072601704/",
-    "t": "Mitsubishi Space Star 1,0 MIVEC Inform AS&G",
-    "ts": "2026-06-17T06:33:33.805044+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2021,
-    "km": 41500
-  },
-  "as:d906bd6b-92a4-4ea3-97e4-6a6e0e34ed83": {
-    "p": null,
-    "f": "2026-06-17T06:32:34.923590+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
