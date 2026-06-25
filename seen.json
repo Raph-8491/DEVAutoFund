@@ -148,6 +148,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:802529381": {
+    "p": 1980,
+    "f": "2026-06-25T15:01:34.458484+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/chevrolet-epica-2-0-802529381/",
+    "t": "Chevrolet Epica 2.0",
+    "ts": "2026-06-25T15:01:34.458484+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 198000,
+    "b": "Limousine"
+  },
+  "wh:1985713271": {
+    "p": 5300,
+    "f": "2026-06-25T15:01:34.458484+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-ix20-1985713271/",
+    "t": "Hyundai iX20",
+    "ts": "2026-06-25T15:01:34.458484+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 61000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1994303601": {
+    "p": 4500,
+    "f": "2026-06-25T15:01:34.458484+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-punto-inkl-blue-me-infotainment-system-1994303601/",
+    "t": "Fiat Punto inkl. BLUE&ME Infotainment System",
+    "ts": "2026-06-25T15:01:34.458484+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 90000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1770579518": {
     "p": 4500,
     "f": "2026-06-25T14:59:27.961450+00:00",
@@ -146695,42 +146734,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:04296832-0784-4fe9-9ec8-4bb03ccaed16": {
-    "p": null,
-    "f": "2026-06-17T11:49:32.358576+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:437aaa02-30fd-4b64-b2c8-dc585f48aa25": {
-    "p": 6500,
-    "f": "2026-06-17T11:49:32.358576+00:00",
-    "u": "https://www.autoscout24.at/angebote/bmw-x1-x1-xdrive20d-aut-diesel-schwarz-cat_ma13mo19242-437aaa02-30fd-4b64-b2c8-dc585f48aa25",
-    "t": "BMW X1",
-    "ts": "2026-06-17T11:49:32.358576+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "X1",
-    "y": 2010,
-    "km": 243900
-  },
-  "wh:1133605015": {
-    "p": 10500,
-    "f": "2026-06-17T11:49:28.690637+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-1133605015/",
-    "t": "VW Polo",
-    "ts": "2026-06-17T11:49:28.690637+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2018,
-    "km": 82000
   },
   "__health__": {
     "wh": 0,
