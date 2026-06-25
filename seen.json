@@ -147,6 +147,20 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1723292544": {
+    "p": 11800,
+    "f": "2026-06-25T05:11:22.783943+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-allroad-3-0l-komb-1723292544/",
+    "t": "Audi A4 allroad 3.0l komb",
+    "ts": "2026-06-25T05:11:22.783943+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2014,
+    "km": 225000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T05:11:22.783943+00:00"
+  },
   "as:26eaa6e3-1c18-4dd2-b337-fd3333b025e0": {
     "p": null,
     "f": "2026-06-25T05:10:45.196321+00:00",
@@ -123448,7 +123462,8 @@
     "ma": null,
     "mo": null,
     "y": 2011,
-    "km": 220000
+    "km": 220000,
+    "b": "Sportwagen / Coup\u00e9"
   },
   "as:da0afc10-67bc-4560-b937-7ab43c58293f": {
     "p": 11500,
@@ -145820,18 +145835,6 @@
     "mo": null,
     "y": 2018,
     "km": 96600
-  },
-  "as:3ad49377-3906-4b41-a852-203df6a7a7f0": {
-    "p": null,
-    "f": "2026-06-16T18:01:36.286985+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
