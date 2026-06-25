@@ -148,6 +148,34 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1472002647": {
+    "p": 7500,
+    "f": "2026-06-25T11:22:27.150432+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-2er-reihe-214d-f45-1xwintersatz-1xsommersatz-raeder-1472002647/",
+    "t": "BMW 2er-Reihe 214d F45 + 1xWintersatz 1xSommersatz R\u00e4der",
+    "ts": "2026-06-25T11:22:27.150432+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "2er-Reihe",
+    "y": 2015,
+    "km": 195000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T11:22:27.150432+00:00"
+  },
+  "wh:1409470859": {
+    "p": 8300,
+    "f": "2026-06-25T11:22:27.150432+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-r-line-1409470859/",
+    "t": "VW Golf Variant R-Line",
+    "ts": "2026-06-25T11:22:27.150432+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2016,
+    "km": 184000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T11:22:27.150432+00:00"
+  },
   "as:1ba88c57-264e-46e6-9c69-21b634c8ed26": {
     "p": 12800,
     "f": "2026-06-25T11:20:48.198509+00:00",
@@ -125234,7 +125262,8 @@
     "ma": null,
     "mo": null,
     "y": 2010,
-    "km": 137112
+    "km": 137112,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "wh:1039487079": {
     "p": 8500,
@@ -146372,30 +146401,6 @@
     "mo": null,
     "y": 2012,
     "km": 248971
-  },
-  "wh:1088429796": {
-    "p": 2200,
-    "f": "2026-06-17T07:28:25.364791+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-3-0-tdi-1088429796/",
-    "t": "Audi A6 3,0 TDI",
-    "ts": "2026-06-17T07:28:25.364791+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A6",
-    "y": 2009,
-    "km": 330000
-  },
-  "wh:808865469": {
-    "p": 7000,
-    "f": "2026-06-17T07:28:25.364791+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-320d-808865469/",
-    "t": "BMW 3er-Reihe 320d",
-    "ts": "2026-06-17T07:28:25.364791+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2013,
-    "km": 215000
   },
   "__health__": {
     "wh": 0,
