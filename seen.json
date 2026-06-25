@@ -148,6 +148,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:9ff55c58-ffa2-48fa-b1c0-91a06ca49066": {
+    "p": null,
+    "f": "2026-06-25T12:07:27.872596+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1587497405": {
+    "p": 13500,
+    "f": "2026-06-25T12:07:26.400753+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-alhambra-2-0-tdi-kombi-family-van-1587497405/",
+    "t": "Seat Alhambra 2.0 TDI Kombi / Family Van",
+    "ts": "2026-06-25T12:07:26.400753+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Alhambra",
+    "y": 2015,
+    "km": 197500,
+    "b": "Kombi / Family Van"
+  },
   "as:9ddfdce6-ab36-496f-af2c-1196b4d75533": {
     "p": null,
     "f": "2026-06-25T12:05:39.348064+00:00",
@@ -146465,30 +146490,6 @@
     "mo": "A 160",
     "y": 2010,
     "km": 195000
-  },
-  "as:fb2ad6ef-7312-4b08-ab04-2e005e6186d7": {
-    "p": 6800,
-    "f": "2026-06-17T08:39:29.204095+00:00",
-    "u": "https://www.autoscout24.at/angebote/opel-karl-karl-1-0-ecotec-edition-edition-benzin-weiss-cat_ma54mo20639-fb2ad6ef-7312-4b08-ab04-2e005e6186d7",
-    "t": "Opel Karl",
-    "ts": "2026-06-17T08:39:29.204095+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Karl",
-    "y": 2017,
-    "km": 45000
-  },
-  "as:b700f0e6-135c-43ae-b130-2f0c144c95cb": {
-    "p": 4300,
-    "f": "2026-06-17T08:39:29.204095+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-passat-variant-comfortline-bmt-tdi-dpf-4motion-dsg-diesel-cat_ma74mo20338-b700f0e6-135c-43ae-b130-2f0c144c95cb",
-    "t": "Volkswagen Passat Variant",
-    "ts": "2026-06-17T08:39:29.204095+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat Variant",
-    "y": 2010,
-    "km": 324000
   },
   "__health__": {
     "wh": 0,
