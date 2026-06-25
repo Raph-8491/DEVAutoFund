@@ -147,6 +147,20 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1800749828": {
+    "p": 5500,
+    "f": "2026-06-25T08:38:25.048322+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-comfortline-tdi-4motion-1800749828/",
+    "t": "VW Golf Comfortline TDI 4Motion",
+    "ts": "2026-06-25T08:38:25.048322+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2013,
+    "km": 190000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T08:38:25.048322+00:00"
+  },
   "wh:1004135501": {
     "p": 8900,
     "f": "2026-06-25T08:35:30.829988+00:00",
@@ -166,7 +180,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x1-xdrive-18d-1455616110/",
     "t": "BMW X1 xDrive 18d",
     "ts": "2026-06-25T08:35:30.829988+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "X1",
     "y": 2013,
@@ -146099,18 +146113,6 @@
     "mo": "3er-Reihe",
     "y": 2009,
     "km": 210000
-  },
-  "wh:1436113773": {
-    "p": 9600,
-    "f": "2026-06-16T19:58:34.180341+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-sportback-3-0-tdi-1436113773/",
-    "t": "Audi A5 Sportback 3.0 TDI",
-    "ts": "2026-06-16T19:58:34.180341+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A5",
-    "y": 2013,
-    "km": 331000
   },
   "__health__": {
     "wh": 0,
