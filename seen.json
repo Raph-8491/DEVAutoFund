@@ -148,6 +148,46 @@
     "y": 2009,
     "km": 235000
   },
+  "as:830261c1-1ccf-4891-ba19-a8330985c3eb": {
+    "p": null,
+    "f": "2026-06-25T11:10:48.299343+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:845042956": {
+    "p": 7800,
+    "f": "2026-06-25T11:10:45.025108+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-2-0-tdi-dpf-aut-845042956/",
+    "t": "Audi A4 2,0 TDI DPF Aut.",
+    "ts": "2026-06-25T11:10:45.025108+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2008,
+    "km": 215386,
+    "b": "Limousine",
+    "pu": "2026-06-25T11:10:45.025108+00:00"
+  },
+  "wh:1706708409": {
+    "p": 6999,
+    "f": "2026-06-25T11:10:45.025108+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-2er-reihe-218d-7sitzer-1706708409/",
+    "t": "BMW 2er-Reihe 218D 7Sitzer",
+    "ts": "2026-06-25T11:10:45.025108+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "2er-Reihe",
+    "y": 2016,
+    "km": 343000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T11:10:45.025108+00:00"
+  },
   "as:bb9e3023-f6c0-4690-95f1-18a608c6e49b": {
     "p": null,
     "f": "2026-06-25T11:09:22.133324+00:00",
@@ -146336,43 +146376,6 @@
     "mo": "Corsa",
     "y": 2013,
     "km": 133888
-  },
-  "wh:2051667878": {
-    "p": 7450,
-    "f": "2026-06-17T07:03:22.701969+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mini-cooper-s-r56-n18-2051667878/",
-    "t": "MINI Cooper S R56 N18",
-    "ts": "2026-06-24T07:02:23.270396+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 88966,
-    "b": "Klein-/ Kompaktwagen"
-  },
-  "wh:1634040360": {
-    "p": 5100,
-    "f": "2026-06-17T07:03:22.701969+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-rapid-1-6-d-tdi-1634040360/",
-    "t": "Skoda Rapid 1,6 D TDI",
-    "ts": "2026-06-17T07:22:28.468394+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Rapid",
-    "y": 2013,
-    "km": 220000
-  },
-  "wh:1822124585": {
-    "p": 6490,
-    "f": "2026-06-17T07:03:22.701969+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-captur-renault-captur-dynamique-energy-tce-90-pickerl-neu-bis-06-2027-service-neu-1822124585/",
-    "t": "Renault Captur Renault Captur Dynamique ENERGY TCe 90 - Pickerl neu bis 06/2027 | Service neu",
-    "ts": "2026-06-17T07:03:22.701969+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2013,
-    "km": 153000
   },
   "__health__": {
     "wh": 0,
