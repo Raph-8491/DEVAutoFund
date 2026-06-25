@@ -148,6 +148,32 @@
     "y": 2009,
     "km": 235000
   },
+  "as:ef29fbac-a505-4b37-a800-2e212f90af72": {
+    "p": 15000,
+    "f": "2026-06-25T15:43:28.728522+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-movano-movano-2-3-d-l1h1-2wd-camper-kastenwagen-navi-kamera-ahk-klima-uvm-diesel-silber-cat_ma54mo15870-ef29fbac-a505-4b37-a800-2e212f90af72",
+    "t": "Opel Movano Movano 2.3 D L1H1 2WD CAMPER Kastenwagen, NAVI, Kamera, AHK, Klima uvm...",
+    "ts": "2026-06-25T15:43:28.728522+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Movano",
+    "y": 2020,
+    "km": 114000,
+    "b": ""
+  },
+  "wh:1526960001": {
+    "p": 1300,
+    "f": "2026-06-25T15:43:26.616718+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-scenic-ii-exception-1-5-dci-dpf-1526960001/",
+    "t": "Renault Sc\u00e9nic II Exception 1,5 dCi DPF",
+    "ts": "2026-06-25T15:43:26.616718+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 231000,
+    "b": "Kombi / Family Van"
+  },
   "wh:1054589191": {
     "p": 5200,
     "f": "2026-06-25T15:41:24.081314+00:00",
@@ -146771,30 +146797,6 @@
     "mo": null,
     "y": 2013,
     "km": 158000
-  },
-  "wh:2026302131": {
-    "p": 2100,
-    "f": "2026-06-17T12:52:31.178495+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-ceed-cee-d-cvvt-1-4-sw-cool-isg-2026302131/",
-    "t": "KIA Ceed CEE D/CVVT//1,4/SW/COOL/ISG",
-    "ts": "2026-06-17T12:52:31.178495+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 203000
-  },
-  "wh:1265702226": {
-    "p": 8700,
-    "f": "2026-06-17T12:52:31.178495+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-mokka-1-4-turbo-1265702226/",
-    "t": "Opel Mokka 1.4 Turbo",
-    "ts": "2026-06-17T12:52:31.178495+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Mokka",
-    "y": 2014,
-    "km": 123000
   },
   "__health__": {
     "wh": 0,
