@@ -148,6 +148,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:4b84a897-6e41-4c0b-847c-15c5ad746ede": {
+    "p": null,
+    "f": "2026-06-25T12:23:29.411147+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:1c585dd5-8dcd-4bc5-b16e-bee297761148": {
+    "p": 6850,
+    "f": "2026-06-25T12:23:29.411147+00:00",
+    "u": "https://www.autoscout24.at/angebote/bmw-530-530-d-diesel-weiss-cat_ma13mo1652-1c585dd5-8dcd-4bc5-b16e-bee297761148",
+    "t": "BMW 530 530 d",
+    "ts": "2026-06-25T12:23:29.411147+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "530",
+    "y": 2012,
+    "km": 357000,
+    "b": ""
+  },
   "as:0aa23c96-3c55-4acb-8c79-cf5c862e020e": {
     "p": null,
     "f": "2026-06-25T12:22:28.050718+00:00",
@@ -146488,31 +146513,6 @@
     "mo": "Leon",
     "y": 2019,
     "km": 230000
-  },
-  "wh:1012401600": {
-    "p": 9500,
-    "f": "2026-06-17T08:57:30.004135+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-1-4-tsi-1012401600/",
-    "t": "Skoda Octavia 1,4 TSI",
-    "ts": "2026-06-17T08:57:30.004135+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2013,
-    "km": 186000,
-    "b": "Kombi / Family Van"
-  },
-  "wh:993114906": {
-    "p": 1290,
-    "f": "2026-06-17T08:57:30.004135+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-st-reference-1-4-993114906/",
-    "t": "Seat Ibiza ST Reference 1,4",
-    "ts": "2026-06-17T08:57:30.004135+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2012,
-    "km": 220000
   },
   "__health__": {
     "wh": 0,
