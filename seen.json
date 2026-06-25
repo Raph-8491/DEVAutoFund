@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1524346240": {
+    "p": 4800,
+    "f": "2026-06-25T06:26:26.947927+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-mondeo-2-0-titanium-x-fr-1524346240/",
+    "t": "Ford Mondeo 2.0 Titanium X FR",
+    "ts": "2026-06-25T06:26:26.947927+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 185000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:889156292": {
+    "p": 2900,
+    "f": "2026-06-25T06:26:26.947927+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-corsa-1-2-889156292/",
+    "t": "Opel Corsa 1,2",
+    "ts": "2026-06-25T06:26:26.947927+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Corsa",
+    "y": 2013,
+    "km": 149000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:8adf4ebc-496d-4e3e-bbab-a61bf0a3b08b": {
     "p": null,
     "f": "2026-06-25T06:25:35.211066+00:00",
@@ -145877,30 +145903,6 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/opel-corsa-1-2-edition-30-ecoflex-start-stop-system-benzin-cat_ma54mo1918/2ce31fe8-dfae-4069-98ac-0721fabace04",
     "t": "Opel Corsa",
     "ts": "2026-06-16T18:27:43.372515+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Corsa",
-    "y": 2012,
-    "km": 41000
-  },
-  "gw:2ebae3f2-974e-4d04-a99e-82878388936e": {
-    "p": 1800,
-    "f": "2026-06-16T18:27:43.372515+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/ford-focus-trend-1-4-benzin-cat_ma29mo15537/2ebae3f2-974e-4d04-a99e-82878388936e",
-    "t": "Ford Focus",
-    "ts": "2026-06-16T18:27:43.372515+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Focus",
-    "y": 2008,
-    "km": 70000
-  },
-  "as:2ce31fe8-dfae-4069-98ac-0721fabace04": {
-    "p": 4990,
-    "f": "2026-06-16T18:27:30.982565+00:00",
-    "u": "https://www.autoscout24.at/angebote/opel-corsa-1-2-edition-30-ecoflex-start-stop-system-benzin-cat_ma54mo1918-2ce31fe8-dfae-4069-98ac-0721fabace04",
-    "t": "Opel Corsa",
-    "ts": "2026-06-16T18:27:30.982565+00:00",
     "ch": "alive",
     "ma": "Opel",
     "mo": "Corsa",
