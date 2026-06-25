@@ -148,6 +148,60 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:528d52e7-af6b-44c0-a3fe-8b8455837786": {
+    "p": 13000,
+    "f": "2026-06-25T15:56:34.838086+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-116-116i-m-sport-benzin-cat_ma13mo18480/528d52e7-af6b-44c0-a3fe-8b8455837786",
+    "t": "BMW 116 116i M Sport",
+    "ts": "2026-06-25T15:56:34.838086+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "116",
+    "y": 2018,
+    "km": 144050,
+    "b": "",
+    "pu": "2026-06-25T15:56:34.838086+00:00"
+  },
+  "as:29ea16f9-f9c0-4e95-b59e-65f644f511fd": {
+    "p": null,
+    "f": "2026-06-25T15:56:27.438226+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1997981360": {
+    "p": 8999,
+    "f": "2026-06-25T15:56:24.303516+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-118d-xdrive-1997981360/",
+    "t": "BMW 1er-Reihe 118d xDrive",
+    "ts": "2026-06-25T15:56:24.303516+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "1er-Reihe",
+    "y": 2015,
+    "km": 218000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T15:56:24.303516+00:00"
+  },
+  "wh:854855418": {
+    "p": 8300,
+    "f": "2026-06-25T15:56:24.303516+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-variant-trendline-2-0-tdi-dsg-854855418/",
+    "t": "VW Passat Variant Trendline 2,0 TDI DSG",
+    "ts": "2026-06-25T15:56:24.303516+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Passat",
+    "y": 2017,
+    "km": 243000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T15:56:24.303516+00:00"
+  },
   "gw:78676ce7-7170-4055-a334-4dc0ace48238": {
     "p": 12500,
     "f": "2026-06-25T15:54:44.242397+00:00",
@@ -126115,7 +126169,8 @@
     "ma": "Mercedes-Benz",
     "mo": "M-Klasse",
     "y": 2008,
-    "km": 245000
+    "km": 245000,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "as:22d84167-da6e-47f7-aa4a-bac91f88f765": {
     "p": null,
@@ -146771,54 +146826,6 @@
     "mo": "Civic",
     "y": 2009,
     "km": 252000
-  },
-  "gw:a8e0f270-54cd-4724-b968-bebbbdb14f67": {
-    "p": 3900,
-    "f": "2026-06-17T13:10:52.488250+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/honda-civic-1-8i-vtec-sport-benzin-schwarz-cat_ma31mo1775/a8e0f270-54cd-4724-b968-bebbbdb14f67",
-    "t": "Honda Civic",
-    "ts": "2026-06-17T13:10:52.488250+00:00",
-    "ch": "alive",
-    "ma": "Honda",
-    "mo": "Civic",
-    "y": 2009,
-    "km": 252000
-  },
-  "as:738cd3c5-23e2-46c5-b6e8-3a853bdb96b9": {
-    "p": null,
-    "f": "2026-06-17T13:10:45.150351+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:9ecae482-47f6-42ea-a6e8-3eaf73dddf7f": {
-    "p": null,
-    "f": "2026-06-17T13:09:39.991451+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1621851636": {
-    "p": 3100,
-    "f": "2026-06-17T13:09:35.020305+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a1-tdi-1621851636/",
-    "t": "Audi A1 Tdi",
-    "ts": "2026-06-17T13:09:35.020305+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A1",
-    "y": 2011,
-    "km": 210000
   },
   "__health__": {
     "wh": 0,
