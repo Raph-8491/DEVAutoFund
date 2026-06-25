@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:46ecb861-fa84-4c84-89e0-833bc34a1743": {
+    "p": 3500,
+    "f": "2026-06-25T13:48:41.061693+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-golf-comfortline-1-4-benzin-cat_ma74mo2084/46ecb861-fa84-4c84-89e0-833bc34a1743",
+    "t": "Volkswagen Golf Comfortline 1,4",
+    "ts": "2026-06-25T13:48:41.061693+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2008,
+    "km": 290000,
+    "b": ""
+  },
   "wh:1502817317": {
     "p": 10990,
     "f": "2026-06-25T13:45:40.120164+00:00",
@@ -146617,18 +146630,6 @@
     "mo": null,
     "y": 2017,
     "km": 90000
-  },
-  "wh:1409727423": {
-    "p": 2550,
-    "f": "2026-06-17T10:18:32.867530+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c4-1409727423/",
-    "t": "Citro\u00ebn C4",
-    "ts": "2026-06-17T10:18:32.867530+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 140000
   },
   "__health__": {
     "wh": 0,
