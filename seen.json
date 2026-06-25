@@ -148,6 +148,57 @@
     "y": 2009,
     "km": 235000
   },
+  "as:4e0186ea-cce5-4cd7-8225-4e730dc540bd": {
+    "p": null,
+    "f": "2026-06-25T16:49:28.670384+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:2115116080": {
+    "p": 13000,
+    "f": "2026-06-25T16:49:27.560820+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda6-2-2-2115116080/",
+    "t": "Mazda Mazda6 2.2",
+    "ts": "2026-06-25T16:49:27.560820+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2016,
+    "km": 193000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:978399620": {
+    "p": 4450,
+    "f": "2026-06-25T16:49:27.560820+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-punto-978399620/",
+    "t": "Fiat Punto",
+    "ts": "2026-06-25T16:49:27.560820+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 106000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:880560011": {
+    "p": 1900,
+    "f": "2026-06-25T16:49:27.560820+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-berlingo-hdi-75-klima-pickerl-7-26-880560011/",
+    "t": "Citro\u00ebn Berlingo HDi 75 klima pickerl 7.26",
+    "ts": "2026-06-25T16:49:27.560820+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2014,
+    "km": 245000,
+    "b": "Kombi / Family Van"
+  },
   "as:b1cf5f0a-d440-43cb-8f80-35b1c9ba29f8": {
     "p": 13900,
     "f": "2026-06-25T16:48:32.579371+00:00",
@@ -146874,55 +146925,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:bd7d7bd0-c5c1-4444-afc5-d215cd72809a": {
-    "p": null,
-    "f": "2026-06-17T14:33:33.624667+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1130551192": {
-    "p": 3300,
-    "f": "2026-06-17T14:33:31.768511+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/suzuki-vitara-grand-1-9-ddis-1130551192/",
-    "t": "Suzuki Vitara Grand 1.9 DDiS",
-    "ts": "2026-06-24T14:31:40.610489+00:00",
-    "ch": null,
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 220000,
-    "b": "SUV / Gel\u00e4ndewagen"
-  },
-  "as:40b8e5b4-1b4d-4ff7-bc89-866ce1d2c1c3": {
-    "p": null,
-    "f": "2026-06-17T14:32:36.341540+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "gw:2b15da30-e23a-43fb-acd1-34af5731bf62": {
-    "p": 9000,
-    "f": "2026-06-17T14:31:57.052640+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-320-320d-touring-aut-diesel-cat_ma13mo1641/2b15da30-e23a-43fb-acd1-34af5731bf62",
-    "t": "BMW 320",
-    "ts": "2026-06-17T14:31:57.052640+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "320",
-    "y": 2013,
-    "km": 267000
   },
   "__health__": {
     "wh": 0,
