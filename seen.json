@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1930740610": {
+    "p": 13400,
+    "f": "2026-06-25T07:14:27.691171+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-vw-polo-1930740610/",
+    "t": "VW Polo VW Polo",
+    "ts": "2026-06-25T07:14:27.691171+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Polo",
+    "y": 2023,
+    "km": 59024,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T07:14:27.691171+00:00"
+  },
+  "wh:1014624304": {
+    "p": 600,
+    "f": "2026-06-25T07:14:27.691171+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-2-0-1014624304/",
+    "t": "Opel Insignia 2.0",
+    "ts": "2026-06-25T07:14:27.691171+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Insignia",
+    "y": 2010,
+    "km": 360000,
+    "b": "Limousine"
+  },
   "wh:1938215039": {
     "p": 13100,
     "f": "2026-06-25T07:12:27.754448+00:00",
@@ -123582,7 +123609,8 @@
     "ma": null,
     "mo": null,
     "y": 2011,
-    "km": 82000
+    "km": 82000,
+    "b": "Cabrio / Roadster"
   },
   "wh:1164457130": {
     "p": 1100,
@@ -145959,30 +145987,6 @@
     "mo": "C-Klasse",
     "y": 2016,
     "km": 161000
-  },
-  "wh:2130362225": {
-    "p": 7800,
-    "f": "2026-06-16T18:52:31.622702+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-tipo-2130362225/",
-    "t": "Fiat Tipo",
-    "ts": "2026-06-16T18:52:31.622702+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2018,
-    "km": 104000
-  },
-  "as:69ca7cca-cc84-4e71-bcc4-c21b43299e92": {
-    "p": null,
-    "f": "2026-06-16T18:51:35.271668+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
