@@ -148,6 +148,46 @@
     "y": 2009,
     "km": 235000
   },
+  "as:6212ea3b-6fcb-4104-a84c-f2de5b28b6cd": {
+    "p": 2150,
+    "f": "2026-06-25T15:36:31.452133+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-astra-1-6-edition-benzin-cat_ma54mo1916-6212ea3b-6fcb-4104-a84c-f2de5b28b6cd",
+    "t": "Opel Astra 1.6 Edition",
+    "ts": "2026-06-25T15:36:31.452133+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Astra",
+    "y": 2010,
+    "km": 284000,
+    "b": ""
+  },
+  "wh:1595918174": {
+    "p": 6500,
+    "f": "2026-06-25T15:36:28.889200+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-2-0-1595918174/",
+    "t": "BMW 1er-Reihe 2.0",
+    "ts": "2026-06-25T15:36:28.889200+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "1er-Reihe",
+    "y": 2013,
+    "km": 170000,
+    "b": "Limousine",
+    "pu": "2026-06-25T15:36:28.889200+00:00"
+  },
+  "wh:1413327552": {
+    "p": 2950,
+    "f": "2026-06-25T15:36:28.889200+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-1-7-h-gtc-sport-ctdi-1413327552/",
+    "t": "Opel Astra 1.7 H GTC Sport ctdi",
+    "ts": "2026-06-25T15:36:28.889200+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Astra",
+    "y": 2008,
+    "km": 139000,
+    "b": "Sportwagen / Coup\u00e9"
+  },
   "wh:1298920237": {
     "p": 2800,
     "f": "2026-06-25T15:34:26.272613+00:00",
@@ -146743,42 +146783,6 @@
     "mo": "Golf",
     "y": 2011,
     "km": 289000
-  },
-  "wh:1890603452": {
-    "p": 3000,
-    "f": "2026-06-17T12:37:31.980299+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c1-1890603452/",
-    "t": "Citro\u00ebn C1",
-    "ts": "2026-06-17T12:37:31.980299+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 55212
-  },
-  "wh:2138797301": {
-    "p": 1250,
-    "f": "2026-06-17T12:37:31.980299+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-2138797301/",
-    "t": "Skoda Octavia",
-    "ts": "2026-06-17T12:37:31.980299+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2024,
-    "km": 215000
-  },
-  "wh:1908767462": {
-    "p": 2500,
-    "f": "2026-06-17T12:35:38.676947+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-1-7-ecotec-cdti-cosmo-1908767462/",
-    "t": "Opel Astra 1,7 Ecotec CDTI Cosmo",
-    "ts": "2026-06-17T12:35:38.676947+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Astra",
-    "y": 2011,
-    "km": 224875
   },
   "__health__": {
     "wh": 0,
