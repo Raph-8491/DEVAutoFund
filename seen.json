@@ -148,6 +148,32 @@
     "y": 2009,
     "km": 235000
   },
+  "as:1a637fdd-50f8-4cea-b87d-e396f8335299": {
+    "p": null,
+    "f": "2026-06-25T13:57:31.112146+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1433146284": {
+    "p": 9800,
+    "f": "2026-06-25T13:57:28.460739+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-316d-1433146284/",
+    "t": "BMW 3er-Reihe 316d",
+    "ts": "2026-06-25T13:57:28.460739+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "3er-Reihe",
+    "y": 2015,
+    "km": 198000,
+    "b": "Limousine",
+    "pu": "2026-06-25T13:57:28.460739+00:00"
+  },
   "as:cea60df9-9bea-4e82-aa82-44e603e790b3": {
     "p": null,
     "f": "2026-06-25T13:56:34.770614+00:00",
@@ -146611,31 +146637,6 @@
     "mo": "Roomster",
     "y": 2008,
     "km": 225000
-  },
-  "wh:984015034": {
-    "p": 3849,
-    "f": "2026-06-17T10:22:29.300115+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-1-6-tdi-comfortline-4motion-dpf-984015034/",
-    "t": "VW Golf Variant 1.6 TDI Comfortline 4Motion DPF",
-    "ts": "2026-06-24T10:22:27.513379+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2011,
-    "km": 223500,
-    "b": "Kombi / Family Van"
-  },
-  "wh:854288354": {
-    "p": 1000,
-    "f": "2026-06-17T10:22:29.300115+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i10-1-1-854288354/",
-    "t": "Hyundai i10 1,1",
-    "ts": "2026-06-17T10:22:29.300115+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 120000
   },
   "__health__": {
     "wh": 0,
