@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:2bfe08aa-15ea-44c2-b725-5078b1d77929": {
+    "p": null,
+    "f": "2026-06-25T06:29:27.873472+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1114459949": {
+    "p": 6350,
+    "f": "2026-06-25T06:29:25.629210+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-panda-1-2-1114459949/",
+    "t": "Fiat Panda 1.2",
+    "ts": "2026-06-25T06:29:25.629210+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2017,
+    "km": 50000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1506560266": {
     "p": 9950,
     "f": "2026-06-25T06:28:26.293069+00:00",
@@ -145887,30 +145912,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:01a6e0fe-816f-4a3e-96c4-b7d9085a4023": {
-    "p": 2000,
-    "f": "2026-06-16T18:29:26.612080+00:00",
-    "u": "https://www.autoscout24.at/angebote/fiat-ducato-kasten-28115-diesel-cat_ma28mo14783-01a6e0fe-816f-4a3e-96c4-b7d9085a4023",
-    "t": "Fiat Ducato",
-    "ts": "2026-06-16T18:29:26.612080+00:00",
-    "ch": "alive",
-    "ma": "Fiat",
-    "mo": "Ducato",
-    "y": 2012,
-    "km": 135000
-  },
-  "wh:1153559709": {
-    "p": 1000,
-    "f": "2026-06-16T18:29:23.861034+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda3-sport-active-1153559709/",
-    "t": "Mazda Mazda3 Sport Active",
-    "ts": "2026-06-16T18:29:23.861034+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2023,
-    "km": 172336
   },
   "__health__": {
     "wh": 0,
