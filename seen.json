@@ -148,6 +148,45 @@
     "y": 2009,
     "km": 235000
   },
+  "as:17037402-ef91-42fa-9e7a-f53641db6d86": {
+    "p": null,
+    "f": "2026-06-25T17:12:25.336282+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:806967438": {
+    "p": 11500,
+    "f": "2026-06-25T17:12:24.100205+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-2-0tdi-806967438/",
+    "t": "VW Tiguan 2.0TDI",
+    "ts": "2026-06-25T17:12:24.100205+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Tiguan",
+    "y": 2017,
+    "km": 215000,
+    "b": "SUV / Gel\u00e4ndewagen",
+    "pu": "2026-06-25T17:12:24.100205+00:00"
+  },
+  "wh:868555148": {
+    "p": 3500,
+    "f": "2026-06-25T17:12:24.100205+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-st-2-0-cosmo-cdti-dpf-ecotec-start-stop-system-868555148/",
+    "t": "Opel Insignia ST 2,0 Cosmo CDTI DPF Ecotec Start/Stop System",
+    "ts": "2026-06-25T17:12:24.100205+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Insignia",
+    "y": 2017,
+    "km": 234000,
+    "b": "Kombi / Family Van"
+  },
   "gw:1e3c778e-1c12-4e5d-90a1-f28dc44476d9": {
     "p": 13800,
     "f": "2026-06-25T17:10:50.386052+00:00",
@@ -126890,7 +126929,8 @@
     "ma": null,
     "mo": null,
     "y": 2020,
-    "km": 50000
+    "km": 50000,
+    "b": "Limousine"
   },
   "wh:867926002": {
     "p": 1600,
@@ -146927,42 +146967,6 @@
     "mo": "Fabia",
     "y": 2020,
     "km": 138873
-  },
-  "as:3cb718d6-a224-4258-8523-c47b759e46d7": {
-    "p": 3900,
-    "f": "2026-06-17T15:18:33.331196+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-plus-team-benzin-cat_ma74mo20026-3cb718d6-a224-4258-8523-c47b759e46d7",
-    "t": "Volkswagen Golf Plus",
-    "ts": "2026-06-17T15:18:33.331196+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf Plus",
-    "y": 2010,
-    "km": 178000
-  },
-  "as:9b54d8ab-6f67-4e46-87e7-2b0dbe706a53": {
-    "p": null,
-    "f": "2026-06-17T15:18:33.331196+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:bd2d2754-b43a-42d8-b06d-2557857372ea": {
-    "p": null,
-    "f": "2026-06-17T15:16:38.612024+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
