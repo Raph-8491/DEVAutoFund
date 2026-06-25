@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:f4c86d93-1c4b-468a-8e63-8a31f97c2744": {
+    "p": null,
+    "f": "2026-06-25T16:52:28.249068+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:7fac51ab-609e-4941-b7fc-4f75be73b187": {
     "p": null,
     "f": "2026-06-25T16:51:28.304519+00:00",
@@ -126730,16 +126742,17 @@
     "km": 215000
   },
   "wh:853664701": {
-    "p": 2900,
+    "p": 2550,
     "f": "2026-06-18T16:55:40.829530+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-1-6-tdi-853664701/",
     "t": "Skoda Octavia 1.6. tdi",
-    "ts": "2026-06-18T16:55:40.829530+00:00",
-    "ch": "alive",
+    "ts": "2026-06-25T16:52:27.178284+00:00",
+    "ch": null,
     "ma": "Skoda",
     "mo": "Octavia",
     "y": 2011,
-    "km": 275000
+    "km": 275000,
+    "b": "Kombi / Family Van"
   },
   "wh:961812827": {
     "p": 11000,
@@ -126766,16 +126779,17 @@
     "km": 70710
   },
   "wh:1951769968": {
-    "p": 7490,
+    "p": 7000,
     "f": "2026-06-18T16:52:26.024997+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-twingo-sce-70-zen-1951769968/",
     "t": "Renault Twingo Sce 70 Zen",
-    "ts": "2026-06-18T16:52:26.024997+00:00",
-    "ch": "alive",
+    "ts": "2026-06-25T16:52:27.178284+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2017,
-    "km": 108000
+    "km": 108000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:907248508": {
     "p": 3200,
@@ -146913,18 +146927,6 @@
     "mo": "Polo",
     "y": 2014,
     "km": 182000
-  },
-  "wh:1805859847": {
-    "p": 6500,
-    "f": "2026-06-17T14:34:42.250441+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-r-line-1805859847/",
-    "t": "VW Polo R-Line",
-    "ts": "2026-06-17T14:34:42.250441+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2014,
-    "km": 108459
   },
   "__health__": {
     "wh": 0,
