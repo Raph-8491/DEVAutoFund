@@ -147,6 +147,44 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:ec98fb96-da72-4436-9e03-db1dac56685c": {
+    "p": 14500,
+    "f": "2026-06-25T08:52:35.398893+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/skoda-fabia-fabia-combi-ambition-1-0-tsi-ambition-benzin-schwarz-cat_ma65mo15878/ec98fb96-da72-4436-9e03-db1dac56685c",
+    "t": "Skoda Fabia Fabia Combi Ambition 1,0 TSI Ambition",
+    "ts": "2026-06-25T08:52:35.398893+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Fabia",
+    "y": 2022,
+    "km": 54500,
+    "b": ""
+  },
+  "as:f56b3332-d93d-4e7b-8638-ed59aa01cb83": {
+    "p": 9500,
+    "f": "2026-06-25T08:52:28.516308+00:00",
+    "u": "https://www.autoscout24.at/angebote/fiat-500-mirror-benzin-violett-cat_ma28mo15160-f56b3332-d93d-4e7b-8638-ed59aa01cb83",
+    "t": "Fiat 500 Mirror",
+    "ts": "2026-06-25T08:52:28.516308+00:00",
+    "ch": null,
+    "ma": "Fiat",
+    "mo": "500",
+    "y": 2018,
+    "km": 84547,
+    "b": ""
+  },
+  "as:7e0a01f6-7ec2-449c-b08d-ffb8fafcf7da": {
+    "p": null,
+    "f": "2026-06-25T08:52:28.516308+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:e05f5ae7-4826-4427-837f-7ba8fe955b0a": {
     "p": null,
     "f": "2026-06-25T08:51:27.903986+00:00",
@@ -146102,42 +146140,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:5647d808-136e-4c2b-8d4a-f9dbbecdbf8f": {
-    "p": null,
-    "f": "2026-06-16T20:19:36.285943+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1627847438": {
-    "p": 2200,
-    "f": "2026-06-16T20:18:33.245231+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-1-2i-1627847438/",
-    "t": "VW Polo 1.2i",
-    "ts": "2026-06-16T20:18:33.245231+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2012,
-    "km": 224000
-  },
-  "wh:1426242637": {
-    "p": 8000,
-    "f": "2026-06-16T20:18:33.245231+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-c-250-cdi-4-matic-avantgarde-amg-line-1426242637/",
-    "t": "Mercedes-Benz C-Klasse C 250 CDI 4-matic Avantgarde AMG-line",
-    "ts": "2026-06-16T20:34:29.618644+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C-Klasse",
-    "y": 2012,
-    "km": 264000
   },
   "__health__": {
     "wh": 0,
