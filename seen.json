@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:fc7df253-8cd9-489b-aadb-1a09f7afd2d5": {
+    "p": null,
+    "f": "2026-06-25T14:08:35.514907+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:34c210b2-efeb-413a-82a8-dd043718960c": {
     "p": null,
     "f": "2026-06-25T14:06:29.619766+00:00",
@@ -146640,18 +146652,6 @@
     "mo": null,
     "y": 2017,
     "km": 72400
-  },
-  "wh:1376975569": {
-    "p": 7000,
-    "f": "2026-06-17T10:37:28.111676+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-cls-klasse-cls-350-cdi-4matic-1376975569/",
-    "t": "Mercedes-Benz CLS-Klasse CLS 350 CDI 4Matic",
-    "ts": "2026-06-17T10:37:28.111676+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "CLS-Klasse",
-    "y": 2014,
-    "km": 420000
   },
   "__health__": {
     "wh": 0,
