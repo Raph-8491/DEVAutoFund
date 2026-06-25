@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:1ba88c57-264e-46e6-9c69-21b634c8ed26": {
+    "p": 12800,
+    "f": "2026-06-25T11:19:32.995075+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/hyundai-i30-i30-cw-1-0-t-gdi-feel-good-feel-good-benzin-grau-cat_ma33mo19065/1ba88c57-264e-46e6-9c69-21b634c8ed26",
+    "t": "Hyundai i30 i30 CW 1,0 T-GDI Feel Good Feel Good",
+    "ts": "2026-06-25T11:19:32.995075+00:00",
+    "ch": null,
+    "ma": "Hyundai",
+    "mo": "i30",
+    "y": 2021,
+    "km": 110000,
+    "b": ""
+  },
   "wh:1023450017": {
     "p": 4999,
     "f": "2026-06-25T11:18:24.197467+00:00",
@@ -256,7 +269,7 @@
     "u": "https://www.autoscout24.at/angebote/volkswagen-tiguan-1-4-tsi-sport-style-benzin-cat_ma74mo19063-d06bc254-a787-407b-979d-64d5f5b62dd0",
     "t": "Volkswagen Tiguan 1.4 TSI Sport & Style",
     "ts": "2026-06-25T11:15:38.692339+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Tiguan",
     "y": 2009,
@@ -146379,18 +146392,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1152109464": {
-    "p": 9900,
-    "f": "2026-06-17T07:25:34.470019+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-m-paket-1152109464/",
-    "t": "BMW 5er-Reihe M-Paket",
-    "ts": "2026-06-17T07:25:34.470019+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "5er-Reihe",
-    "y": 2014,
-    "km": 185000
   },
   "__health__": {
     "wh": 0,
