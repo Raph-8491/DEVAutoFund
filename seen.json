@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:947005765": {
+    "p": 2500,
+    "f": "2026-06-25T15:13:30.253045+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-318d-advantage-947005765/",
+    "t": "BMW 3er-Reihe 318d Advantage",
+    "ts": "2026-06-25T15:13:30.253045+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "3er-Reihe",
+    "y": 2008,
+    "km": 302000,
+    "b": "Limousine"
+  },
   "gw:4f77f400-c145-4621-9311-911b7d5060d6": {
     "p": 5900,
     "f": "2026-06-25T15:11:35.214244+00:00",
@@ -180,7 +193,7 @@
     "u": "https://www.autoscout24.at/angebote/volkswagen-tiguan-2-0-tdi-dpf-4motion-sport-style-diesel-cat_ma74mo19063-72bc9718-1d35-4631-89e2-3650fa0ace48",
     "t": "Volkswagen Tiguan 2.0 TDI DPF 4Motion Sport & Style",
     "ts": "2026-06-25T15:10:43.357815+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Tiguan",
     "y": 2008,
@@ -126190,7 +126203,8 @@
     "ma": "Seat",
     "mo": "Ibiza",
     "y": 2011,
-    "km": 125000
+    "km": 125000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:1785144743": {
     "p": 2490,
@@ -146741,19 +146755,6 @@
     "mo": "Astra",
     "y": 2019,
     "km": 125000
-  },
-  "wh:1998467450": {
-    "p": 4900,
-    "f": "2026-06-17T12:05:43.537525+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-alltrack-4-motion-1998467450/",
-    "t": "VW Passat Alltrack 4 Motion",
-    "ts": "2026-06-17T12:05:43.537525+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2013,
-    "km": 262450,
-    "b": "Kombi / Family Van"
   },
   "__health__": {
     "wh": 0,
