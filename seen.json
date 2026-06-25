@@ -148,6 +148,34 @@
     "y": 2009,
     "km": 235000
   },
+  "as:bf783aae-8c1c-43f0-a9f8-0b5419673063": {
+    "p": 14580,
+    "f": "2026-06-25T10:16:31.898003+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-golf-1-6-tdi-scr-comfortline-diesel-grau-cat_ma74mo2084-bf783aae-8c1c-43f0-a9f8-0b5419673063",
+    "t": "Volkswagen Golf Golf 1.6 TDI SCR Comfortline",
+    "ts": "2026-06-25T10:16:31.898003+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2019,
+    "km": 63000,
+    "b": "",
+    "pu": "2026-06-25T10:16:31.898003+00:00"
+  },
+  "wh:1259954681": {
+    "p": 14900,
+    "f": "2026-06-25T10:16:28.178232+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-t5-1259954681/",
+    "t": "VW T5",
+    "ts": "2026-06-25T10:16:28.178232+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "T5",
+    "y": 2013,
+    "km": 217000,
+    "b": "Kleinbus",
+    "pu": "2026-06-25T10:16:28.178232+00:00"
+  },
   "as:a42b2e2f-6e73-4a7f-a148-137cedd794d7": {
     "p": null,
     "f": "2026-06-25T10:14:25.351543+00:00",
@@ -146250,31 +146278,6 @@
     "mo": null,
     "y": 2011,
     "km": 210000
-  },
-  "wh:1080292639": {
-    "p": 9900,
-    "f": "2026-06-17T05:02:25.308468+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mini-clubman-one-d-1080292639/",
-    "t": "MINI Clubman One D",
-    "ts": "2026-06-17T05:02:25.308468+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2016,
-    "km": 146000,
-    "b": "Kombi / Family Van"
-  },
-  "wh:1383772032": {
-    "p": 3500,
-    "f": "2026-06-17T04:58:36.038758+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-megane-kombi-1383772032/",
-    "t": "Renault M\u00e9gane Kombi",
-    "ts": "2026-06-17T04:58:36.038758+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 135000
   },
   "__health__": {
     "wh": 0,
