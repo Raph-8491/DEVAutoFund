@@ -148,6 +148,46 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:1539049d-9a96-4d3e-9251-9c7ad7c4c1d5": {
+    "p": 5700,
+    "f": "2026-06-25T15:45:45.971148+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-touran-touran-trendline-1-6-bmt-tdi-dpf-trendline-diesel-grau-cat_ma74mo18329/1539049d-9a96-4d3e-9251-9c7ad7c4c1d5",
+    "t": "Volkswagen Touran Touran Trendline 1,6 BMT TDI DPF Trendline",
+    "ts": "2026-06-25T15:45:45.971148+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Touran",
+    "y": 2012,
+    "km": 203000,
+    "b": ""
+  },
+  "as:1539049d-9a96-4d3e-9251-9c7ad7c4c1d5": {
+    "p": 5700,
+    "f": "2026-06-25T15:45:40.015927+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-touran-touran-trendline-1-6-bmt-tdi-dpf-trendline-diesel-grau-cat_ma74mo18329-1539049d-9a96-4d3e-9251-9c7ad7c4c1d5",
+    "t": "Volkswagen Touran Touran Trendline 1,6 BMT TDI DPF Trendline",
+    "ts": "2026-06-25T15:45:40.015927+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Touran",
+    "y": 2012,
+    "km": 203000,
+    "b": ""
+  },
+  "wh:2048062501": {
+    "p": 10800,
+    "f": "2026-06-25T15:45:37.013863+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-2-0-tdi-trend-fun-bmt-dpf-2048062501/",
+    "t": "VW Tiguan 2,0 TDI Trend&Fun BMT DPF",
+    "ts": "2026-06-25T15:45:37.013863+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Tiguan",
+    "y": 2013,
+    "km": 168500,
+    "b": "SUV / Gel\u00e4ndewagen",
+    "pu": "2026-06-25T15:45:37.013863+00:00"
+  },
   "as:c70b6ff8-b186-4c62-bac0-4070f71bdd72": {
     "p": 4800,
     "f": "2026-06-25T15:44:27.210573+00:00",
@@ -146762,42 +146802,6 @@
     "mo": "Partner",
     "y": 2021,
     "km": 113110
-  },
-  "wh:2061958619": {
-    "p": 9900,
-    "f": "2026-06-17T13:01:39.316614+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/land-rover-range-rover-evoque-se-dynamik-2-0-2061958619/",
-    "t": "Land Rover Range Rover Evoque SE Dynamik 2.0",
-    "ts": "2026-06-17T13:01:39.316614+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2015,
-    "km": 200000
-  },
-  "wh:1472143794": {
-    "p": 4000,
-    "f": "2026-06-17T13:01:39.316614+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda2-1472143794/",
-    "t": "Mazda Mazda2",
-    "ts": "2026-06-17T13:01:39.316614+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 150000
-  },
-  "wh:2080350341": {
-    "p": 5500,
-    "f": "2026-06-17T12:58:31.276311+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-2-0l-2080350341/",
-    "t": "Audi A4 2.0l",
-    "ts": "2026-06-17T12:58:31.276311+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2011,
-    "km": 328800
   },
   "__health__": {
     "wh": 0,
