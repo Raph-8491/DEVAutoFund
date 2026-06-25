@@ -148,6 +148,45 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:2d70892d-7d1c-4db1-9b0c-c585844ecc7f": {
+    "p": 4500,
+    "f": "2026-06-25T11:05:43.142847+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/toyota-yaris-1-0-vvt-i-luna-benzin-cat_ma70mo15663/2d70892d-7d1c-4db1-9b0c-c585844ecc7f",
+    "t": "Toyota Yaris 1,0 VVT-i Luna",
+    "ts": "2026-06-25T11:05:43.142847+00:00",
+    "ch": null,
+    "ma": "Toyota",
+    "mo": "Yaris",
+    "y": 2010,
+    "km": 74500,
+    "b": ""
+  },
+  "as:2d70892d-7d1c-4db1-9b0c-c585844ecc7f": {
+    "p": 4500,
+    "f": "2026-06-25T11:05:36.237112+00:00",
+    "u": "https://www.autoscout24.at/angebote/toyota-yaris-1-0-vvt-i-luna-benzin-cat_ma70mo15663-2d70892d-7d1c-4db1-9b0c-c585844ecc7f",
+    "t": "Toyota Yaris 1,0 VVT-i Luna",
+    "ts": "2026-06-25T11:05:36.237112+00:00",
+    "ch": null,
+    "ma": "Toyota",
+    "mo": "Yaris",
+    "y": 2010,
+    "km": 74500,
+    "b": ""
+  },
+  "wh:1050938827": {
+    "p": 1500,
+    "f": "2026-06-25T11:05:34.925778+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda2-1050938827/",
+    "t": "Mazda Mazda2",
+    "ts": "2026-06-25T11:05:34.925778+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 197000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1402575151": {
     "p": 11950,
     "f": "2026-06-25T11:03:22.092210+00:00",
@@ -234,7 +273,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-1-0-comfortline-1521594141/",
     "t": "VW Polo 1,0 Comfortline",
     "ts": "2026-06-25T11:02:28.685336+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Polo",
     "y": 2019,
@@ -146331,43 +146370,6 @@
     "y": 2012,
     "km": 149000,
     "b": "Kombi / Family Van"
-  },
-  "wh:1972133517": {
-    "p": 8000,
-    "f": "2026-06-17T06:57:26.431516+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-rabbit-1-6-tdi-dsg-1972133517/",
-    "t": "VW Golf Variant Rabbit 1,6 TDI DSG",
-    "ts": "2026-06-17T06:57:26.431516+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2016,
-    "km": 219018,
-    "b": "Kombi / Family Van"
-  },
-  "wh:899485857": {
-    "p": 3500,
-    "f": "2026-06-17T06:57:26.431516+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-330xd-e90-899485857/",
-    "t": "BMW 3er-Reihe 330XD E90",
-    "ts": "2026-06-17T06:57:26.431516+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2011,
-    "km": 301000
-  },
-  "wh:1037418347": {
-    "p": 11290,
-    "f": "2026-06-17T06:57:26.431516+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/toyota-verso-1-6-d-4d-active-1037418347/",
-    "t": "Toyota Verso 1,6 D-4D Active",
-    "ts": "2026-06-17T06:57:26.431516+00:00",
-    "ch": "alive",
-    "ma": "Toyota",
-    "mo": "Verso",
-    "y": 2015,
-    "km": 95722
   },
   "__health__": {
     "wh": 0,
