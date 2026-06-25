@@ -148,6 +148,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1611933347": {
+    "p": 3750,
+    "f": "2026-06-25T15:15:44.034271+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-mondeo-2-0-tdci-1611933347/",
+    "t": "Ford Mondeo 2.0 tdci",
+    "ts": "2026-06-25T15:15:44.034271+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 26550,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1425621209": {
+    "p": 1950,
+    "f": "2026-06-25T15:15:44.034271+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1425621209/",
+    "t": "Seat Ibiza",
+    "ts": "2026-06-25T15:15:44.034271+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Ibiza",
+    "y": 2010,
+    "km": 172000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1251163374": {
+    "p": 12000,
+    "f": "2026-06-25T15:15:44.034271+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/abarth-1-4-1251163374/",
+    "t": "Abarth 1.4",
+    "ts": "2026-06-25T15:15:44.034271+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2015,
+    "km": 77000,
+    "b": "Cabrio / Roadster"
+  },
   "wh:947005765": {
     "p": 2500,
     "f": "2026-06-25T15:13:30.253045+00:00",
@@ -146719,42 +146758,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:d556809f-1b8f-4f41-8ea9-7c0e760c5372": {
-    "p": null,
-    "f": "2026-06-17T12:08:31.882143+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:7bd3e3a1-19f7-4bff-8231-ea47d725f069": {
-    "p": null,
-    "f": "2026-06-17T12:07:23.622234+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1118941922": {
-    "p": 5500,
-    "f": "2026-06-17T12:05:43.537525+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-1-6l-1118941922/",
-    "t": "Opel Astra 1.6l",
-    "ts": "2026-06-17T12:05:43.537525+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Astra",
-    "y": 2019,
-    "km": 125000
   },
   "__health__": {
     "wh": 0,
