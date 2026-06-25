@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:761aa394-30e0-45b1-b20c-db952051fd42": {
+    "p": 4400,
+    "f": "2026-06-25T06:16:28.226224+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-astra-basis-start-stop-diesel-weiss-cat_ma54mo1916-761aa394-30e0-45b1-b20c-db952051fd42",
+    "t": "Opel Astra Basis Start/Stop",
+    "ts": "2026-06-25T06:16:28.226224+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Astra",
+    "y": 2020,
+    "km": 112553,
+    "b": ""
+  },
   "wh:1662593466": {
     "p": 10000,
     "f": "2026-06-25T06:14:25.551338+00:00",
@@ -145882,18 +145895,6 @@
     "mo": "Golf GTD",
     "y": 2010,
     "km": 196500
-  },
-  "as:321375d9-1a77-4672-b42d-39ccc3361569": {
-    "p": null,
-    "f": "2026-06-16T18:23:38.141526+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
