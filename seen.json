@@ -148,6 +148,32 @@
     "y": 2009,
     "km": 235000
   },
+  "as:22931c1e-0e86-4ddb-bf3e-954e54afc06a": {
+    "p": 7900,
+    "f": "2026-06-25T12:34:26.762047+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-sharan-sharan-diesel-2-0-tdi-blue-motion-match-diesel-silber-cat_ma74mo2093-22931c1e-0e86-4ddb-bf3e-954e54afc06a",
+    "t": "Volkswagen Sharan Sharan Diesel 2.0 TDI Blue Motion Match",
+    "ts": "2026-06-25T12:34:26.762047+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Sharan",
+    "y": 2012,
+    "km": 262000,
+    "b": ""
+  },
+  "wh:1117173154": {
+    "p": 3500,
+    "f": "2026-06-25T12:34:25.310367+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-alhambra-2-0-tdi-1117173154/",
+    "t": "Seat Alhambra 2.0 TDi",
+    "ts": "2026-06-25T12:34:25.310367+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Alhambra",
+    "y": 2010,
+    "km": 249000,
+    "b": "Kombi / Family Van"
+  },
   "wh:1039909740": {
     "p": 9199,
     "f": "2026-06-25T12:32:37.623516+00:00",
@@ -195,7 +221,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-2-0-tdi-3x-s-line-unfall-858530017/",
     "t": "Audi A5 2.0 TDi 3x S-Line Unfall",
     "ts": "2026-06-25T12:31:30.119875+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A5",
     "y": 2017,
@@ -209,7 +235,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-audi-a3-sportback-2-0-tdi-s-tronic-1109001006/",
     "t": "Audi A3 Audi A3 Sportback 2.0 TDI S tronic",
     "ts": "2026-06-25T12:31:30.119875+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A3",
     "y": 2013,
@@ -146508,31 +146534,6 @@
     "mo": null,
     "y": 2019,
     "km": 57000
-  },
-  "wh:1329570813": {
-    "p": 3600,
-    "f": "2026-06-17T09:11:33.442976+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-trendline-bmt-1-6-tdi-dpf-1329570813/",
-    "t": "VW Golf Variant Trendline BMT 1,6 TDI DPF",
-    "ts": "2026-06-17T09:11:33.442976+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2012,
-    "km": 303269,
-    "b": "Kombi / Family Van"
-  },
-  "wh:1073643836": {
-    "p": 8000,
-    "f": "2026-06-17T09:11:33.442976+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-sb-1073643836/",
-    "t": "Audi A5 SB",
-    "ts": "2026-06-17T09:11:33.442976+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A5",
-    "y": 2010,
-    "km": 30500
   },
   "__health__": {
     "wh": 0,
