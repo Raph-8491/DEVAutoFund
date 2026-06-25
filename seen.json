@@ -148,6 +148,45 @@
     "y": 2009,
     "km": 235000
   },
+  "as:d4460e4a-208d-49f2-85a6-9309aa35c91a": {
+    "p": 14999,
+    "f": "2026-06-25T13:51:35.423973+00:00",
+    "u": "https://www.autoscout24.at/angebote/bmw-z4-z4-sdrive23i-benzin-braun-cat_ma13mo18308-d4460e4a-208d-49f2-85a6-9309aa35c91a",
+    "t": "BMW Z4 Z4 sDrive23i",
+    "ts": "2026-06-25T13:51:35.423973+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "Z4",
+    "y": 2010,
+    "km": 156000,
+    "b": "",
+    "pu": "2026-06-25T13:51:35.423973+00:00"
+  },
+  "as:f4c9766c-535b-4e16-bead-566a74e3dd43": {
+    "p": null,
+    "f": "2026-06-25T13:51:35.423973+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1393099045": {
+    "p": 9500,
+    "f": "2026-06-25T13:51:33.411523+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-2008-1393099045/",
+    "t": "Peugeot 2008",
+    "ts": "2026-06-25T13:51:33.411523+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2018,
+    "km": 82376,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "as:46ecb861-fa84-4c84-89e0-833bc34a1743": {
     "p": 3500,
     "f": "2026-06-25T13:49:29.450464+00:00",
@@ -125758,7 +125797,8 @@
     "ma": null,
     "mo": null,
     "y": 2008,
-    "km": 232000
+    "km": 232000,
+    "b": "Kombi / Family Van"
   },
   "as:2a2b0c07-429b-4e33-822b-52f22017b644": {
     "p": null,
@@ -146587,42 +146627,6 @@
   "as:523f3968-6d5c-444f-a6cd-a6b3769da028": {
     "p": null,
     "f": "2026-06-17T10:19:31.575535+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:a978a3a3-b86a-4337-b2a3-898a7045467d": {
-    "p": 6250,
-    "f": "2026-06-17T10:19:31.575535+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-variant-golf-vii-variant-diesel-2-0-tdi-bluemotion-technology-dsg-comfortline-diesel-cat_ma74mo20340-a978a3a3-b86a-4337-b2a3-898a7045467d",
-    "t": "Volkswagen Golf Variant",
-    "ts": "2026-06-17T10:19:31.575535+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf Variant",
-    "y": 2015,
-    "km": 184000
-  },
-  "as:970e612f-962f-40c9-96d6-2207191da3cc": {
-    "p": null,
-    "f": "2026-06-17T10:18:37.767876+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:9a0be5c9-80bf-4522-af25-0daca8965fb1": {
-    "p": null,
-    "f": "2026-06-17T10:18:37.767876+00:00",
     "u": null,
     "t": null,
     "ts": null,
