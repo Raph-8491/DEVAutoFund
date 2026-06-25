@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:d4f62415-1ec8-407d-8443-6acd6916a8d4": {
+    "p": 5500,
+    "f": "2026-06-25T03:39:43.576746+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-golf-golf-trendline-bmt-1-6-tdi-dpf-trendline-diesel-schwarz-cat_ma74mo2084/d4f62415-1ec8-407d-8443-6acd6916a8d4",
+    "t": "Volkswagen Golf Golf Trendline BMT 1,6 TDI DPF Trendline",
+    "ts": "2026-06-25T03:39:43.576746+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2012,
+    "km": 208000,
+    "b": ""
+  },
+  "as:d4f62415-1ec8-407d-8443-6acd6916a8d4": {
+    "p": 5500,
+    "f": "2026-06-25T03:39:36.181565+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-golf-trendline-bmt-1-6-tdi-dpf-trendline-diesel-schwarz-cat_ma74mo2084-d4f62415-1ec8-407d-8443-6acd6916a8d4",
+    "t": "Volkswagen Golf Golf Trendline BMT 1,6 TDI DPF Trendline",
+    "ts": "2026-06-25T03:39:36.181565+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2012,
+    "km": 208000,
+    "b": "",
+    "pu": "2026-06-25T03:39:36.181565+00:00"
+  },
   "wh:1457171251": {
     "p": 1500,
     "f": "2026-06-25T03:28:26.323226+00:00",
@@ -145764,30 +145791,6 @@
     "mo": "Polo",
     "y": 2009,
     "km": 141000
-  },
-  "as:af347aba-db25-423f-a37a-2ada7f992620": {
-    "p": null,
-    "f": "2026-06-16T17:43:30.452042+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:25105888-8c70-41f6-96a3-754cc694c28b": {
-    "p": null,
-    "f": "2026-06-16T17:42:42.431740+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
