@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:973fb10c-db91-407c-bc0e-a0d4baf616bd": {
+    "p": null,
+    "f": "2026-06-25T06:54:25.144174+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:883584580": {
     "p": 9000,
     "f": "2026-06-25T06:53:21.123636+00:00",
@@ -145935,18 +145947,6 @@
     "mo": "Alhambra",
     "y": 2015,
     "km": 295000
-  },
-  "as:bf1737bf-669e-4c6e-99c5-8487c52757aa": {
-    "p": 11450,
-    "f": "2026-06-16T18:38:43.005576+00:00",
-    "u": "https://www.autoscout24.at/angebote/mercedes-benz-sprinter-214-cdi-906-613-blueefficiency-plus-diesel-cat_ma47mo15943-bf1737bf-669e-4c6e-99c5-8487c52757aa",
-    "t": "Mercedes-Benz Sprinter",
-    "ts": "2026-06-16T18:38:43.005576+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "Sprinter",
-    "y": 2017,
-    "km": 363000
   },
   "__health__": {
     "wh": 0,
