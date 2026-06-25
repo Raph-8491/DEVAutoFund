@@ -147,6 +147,43 @@
     "y": 2009,
     "km": 235000
   },
+  "as:03a1af0a-461a-4fb2-bf15-7e0155e9a77d": {
+    "p": null,
+    "f": "2026-06-25T07:01:39.613835+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:90bfe45c-844e-4c7c-aaae-1d7f35560e4e": {
+    "p": null,
+    "f": "2026-06-25T07:01:39.613835+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:983016147": {
+    "p": 500,
+    "f": "2026-06-25T07:01:38.159145+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-fabia-983016147/",
+    "t": "Skoda Fabia",
+    "ts": "2026-06-25T07:01:38.159145+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Fabia",
+    "y": 2009,
+    "km": 176000,
+    "b": "Kombi / Family Van"
+  },
   "wh:1369337254": {
     "p": 8900,
     "f": "2026-06-25T06:59:20.740991+00:00",
@@ -145921,42 +145958,6 @@
     "mo": "Golf",
     "y": 2011,
     "km": 117000
-  },
-  "wh:864988932": {
-    "p": 3500,
-    "f": "2026-06-16T18:44:36.894647+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-fabia-classic-1-2-864988932/",
-    "t": "Skoda Fabia Classic 1,2",
-    "ts": "2026-06-16T18:44:36.894647+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Fabia",
-    "y": 2009,
-    "km": 81500
-  },
-  "as:286625b6-45a9-4e6a-8b8e-d17d98bf6547": {
-    "p": null,
-    "f": "2026-06-16T18:43:36.670231+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:f2051cbe-cd1a-4aea-905a-6d40ad944944": {
-    "p": null,
-    "f": "2026-06-16T18:42:31.933788+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
