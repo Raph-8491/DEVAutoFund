@@ -148,6 +148,31 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:806e9669-6b91-478e-b980-69d8852a81a8": {
+    "p": 10999,
+    "f": "2026-06-25T10:05:42.214296+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/opel-mokka-x-mokka-x-1-4-turbo-ultimate-aut-ultimate-benzin-schwarz-cat_ma54mo75480/806e9669-6b91-478e-b980-69d8852a81a8",
+    "t": "Opel Mokka X Mokka X 1,4 Turbo Ultimate Aut. Ultimate",
+    "ts": "2026-06-25T10:05:42.214296+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Mokka X",
+    "y": 2017,
+    "km": 124160,
+    "b": ""
+  },
+  "as:bb9f0460-105f-40ee-b852-e666b3fd0e6a": {
+    "p": null,
+    "f": "2026-06-25T10:05:33.083332+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:d8e9bb21-70b2-4aaa-8660-e87148bef81a": {
     "p": null,
     "f": "2026-06-25T10:04:26.089927+00:00",
@@ -146243,31 +146268,6 @@
     "y": 2020,
     "km": 56000,
     "b": "Kombi / Family Van"
-  },
-  "wh:1129598141": {
-    "p": 800,
-    "f": "2026-06-17T04:31:33.018464+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-zafira-1-7-cdti-1129598141/",
-    "t": "Opel Zafira 1.7 CDTI",
-    "ts": "2026-06-17T04:31:33.018464+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Zafira",
-    "y": 2010,
-    "km": 178000
-  },
-  "wh:1964964215": {
-    "p": 11200,
-    "f": "2026-06-17T04:31:33.018464+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-s-line-quattro-3-0-diesel-1964964215/",
-    "t": "Audi A5 S-line Quattro 3.0 Diesel",
-    "ts": "2026-06-24T04:27:20.669844+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A5",
-    "y": 2015,
-    "km": 237500,
-    "b": "Sportwagen / Coup\u00e9"
   },
   "__health__": {
     "wh": 0,
