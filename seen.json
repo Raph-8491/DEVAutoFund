@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:c33f7474-df56-4797-97b8-a1daff7291be": {
+    "p": null,
+    "f": "2026-06-25T07:41:22.371590+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1341442400": {
+    "p": 9500,
+    "f": "2026-06-25T07:41:21.334196+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-sprinter-213-cdi-3-19-t-3-665-mm-1341442400/",
+    "t": "Mercedes-Benz Sprinter 213 CDI 3,19 t / 3.665 mm",
+    "ts": "2026-06-25T07:41:21.334196+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "Sprinter",
+    "y": 2012,
+    "km": 261000,
+    "b": "Kleinbus"
+  },
   "as:9cc9d514-a32d-4ecc-9842-f6bda357f422": {
     "p": null,
     "f": "2026-06-25T07:40:41.276864+00:00",
@@ -145992,30 +146017,6 @@
     "mo": "A4",
     "y": 2014,
     "km": 231000
-  },
-  "gw:9131b132-32df-424b-847e-4944177d2a3e": {
-    "p": 8800,
-    "f": "2026-06-16T19:03:38.298824+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/mercedes-benz-vito-113-cdi-blueefficiency-lang-diesel-cat_ma47mo15942/9131b132-32df-424b-847e-4944177d2a3e",
-    "t": "Mercedes-Benz Vito",
-    "ts": "2026-06-16T19:03:38.298824+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "Vito",
-    "y": 2012,
-    "km": 288000
-  },
-  "wh:1575187967": {
-    "p": 4999,
-    "f": "2026-06-16T19:02:37.570944+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/nissan-qashqai-1-6-1575187967/",
-    "t": "Nissan Qashqai 1,6",
-    "ts": "2026-06-16T19:02:37.570944+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 165000
   },
   "__health__": {
     "wh": 0,
