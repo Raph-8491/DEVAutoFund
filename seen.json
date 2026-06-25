@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1741211802": {
+    "p": 2000,
+    "f": "2026-06-25T07:35:37.688177+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-partner-tepee-1-2-1741211802/",
+    "t": "Peugeot Partner Tepee 1,2",
+    "ts": "2026-06-25T07:35:37.688177+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2016,
+    "km": 157200,
+    "b": "Kombi / Family Van"
+  },
   "wh:1520044666": {
     "p": 14100,
     "f": "2026-06-25T07:34:27.386850+00:00",
@@ -146000,18 +146013,6 @@
     "mo": "Polo",
     "y": 2008,
     "km": 148381
-  },
-  "wh:2060283395": {
-    "p": 1700,
-    "f": "2026-06-16T19:02:37.570944+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-2060283395/",
-    "t": "Seat Ibiza",
-    "ts": "2026-06-16T19:02:37.570944+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2012,
-    "km": 181000
   },
   "__health__": {
     "wh": 0,
