@@ -148,6 +148,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1494685908": {
+    "p": 8500,
+    "f": "2026-06-25T12:41:25.014130+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-7-variant-1-6-tdi-1494685908/",
+    "t": "VW Golf 7 Variant 1.6 TDI",
+    "ts": "2026-06-25T12:41:25.014130+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2016,
+    "km": 215000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T12:41:25.014130+00:00"
+  },
+  "wh:885772366": {
+    "p": 11000,
+    "f": "2026-06-25T12:41:25.014130+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x5-xdrive30d-aut-885772366/",
+    "t": "BMW X5 xDrive30d Aut.",
+    "ts": "2026-06-25T12:41:25.014130+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X5",
+    "y": 2009,
+    "km": 240000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "as:797b6930-2bab-4ef6-9d30-58900acd6eff": {
     "p": null,
     "f": "2026-06-25T12:40:42.957009+00:00",
@@ -146509,30 +146536,6 @@
   "as:67202502-a0dc-4815-b553-6798b53a299c": {
     "p": null,
     "f": "2026-06-17T09:17:29.174624+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:66188b54-cb64-418b-b7df-36996db24c4e": {
-    "p": 12000,
-    "f": "2026-06-17T09:17:29.174624+00:00",
-    "u": "https://www.autoscout24.at/angebote/ford-transit-custom-l2h2-diesel-weiss-cat_ma29mo74248-66188b54-cb64-418b-b7df-36996db24c4e",
-    "t": "Ford Transit Custom",
-    "ts": "2026-06-17T09:17:29.174624+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Transit Custom",
-    "y": 2020,
-    "km": 204116
-  },
-  "as:bb42bc5c-563a-4f1b-b975-e1211a1e233a": {
-    "p": null,
-    "f": "2026-06-17T09:16:33.113081+00:00",
     "u": null,
     "t": null,
     "ts": null,
