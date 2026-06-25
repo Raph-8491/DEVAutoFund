@@ -148,6 +148,58 @@
     "y": 2009,
     "km": 235000
   },
+  "as:fe9c6772-ed59-48ea-be94-f6348484b79d": {
+    "p": null,
+    "f": "2026-06-25T17:08:34.883535+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:3b018220-1c98-4ed1-b30d-42c18177e9d0": {
+    "p": null,
+    "f": "2026-06-25T17:08:34.883535+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:2077060441": {
+    "p": 10200,
+    "f": "2026-06-25T17:08:30.895982+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-2-0-tdi-quattro-s-line-2077060441/",
+    "t": "Audi A4 2.0 TDI Quattro S-Line",
+    "ts": "2026-06-25T17:08:30.895982+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2014,
+    "km": 308000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T17:08:30.895982+00:00"
+  },
+  "wh:2099110204": {
+    "p": 15000,
+    "f": "2026-06-25T17:08:30.895982+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-2099110204/",
+    "t": "Audi A6",
+    "ts": "2026-06-25T17:08:30.895982+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A6",
+    "y": 2017,
+    "km": 206000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T17:08:30.895982+00:00"
+  },
   "as:10a6345f-a5d3-4f09-a3d2-1dcd1cdce26a": {
     "p": null,
     "f": "2026-06-25T17:07:25.761459+00:00",
@@ -126846,7 +126898,8 @@
     "ma": "VW",
     "mo": "Polo",
     "y": 2012,
-    "km": 191000
+    "km": 191000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:1400466137": {
     "p": 10999,
@@ -126858,7 +126911,8 @@
     "ma": "Audi",
     "mo": "A4",
     "y": 2016,
-    "km": 321000
+    "km": 321000,
+    "b": "Kombi / Family Van"
   },
   "wh:1515203128": {
     "p": 5650,
@@ -126882,7 +126936,8 @@
     "ma": null,
     "mo": null,
     "y": 2015,
-    "km": 137000
+    "km": 137000,
+    "b": "Kombi / Family Van"
   },
   "wh:807456165": {
     "p": 4999,
@@ -146904,54 +146959,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:645a603d-e7ae-4b5e-b747-0fe896ee7da4": {
-    "p": null,
-    "f": "2026-06-17T15:05:40.853387+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:dab91b9f-e56b-4711-a10d-c7a114373486": {
-    "p": null,
-    "f": "2026-06-17T15:05:40.853387+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:bad32166-46f6-4997-8feb-260d0c4392a2": {
-    "p": null,
-    "f": "2026-06-17T15:04:31.977437+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:e78b478b-5cae-49ea-bea7-2c16e7d4b203": {
-    "p": 3200,
-    "f": "2026-06-17T15:01:49.684395+00:00",
-    "u": "https://www.autoscout24.at/angebote/mini-one-mini-one-benzin-beige-cat_ma16338mo16602-e78b478b-5cae-49ea-bea7-2c16e7d4b203",
-    "t": "MINI One",
-    "ts": "2026-06-17T15:01:49.684395+00:00",
-    "ch": "alive",
-    "ma": "MINI",
-    "mo": "One",
-    "y": 2010,
-    "km": 164000
   },
   "__health__": {
     "wh": 0,
