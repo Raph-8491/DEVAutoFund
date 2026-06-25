@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:39844ebd-07e0-4707-b28a-452d57ff255b": {
+    "p": 7500,
+    "f": "2026-06-25T11:56:31.683089+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-golf-comfortline-1-2-tsi-comfortline-benzin-schwarz-cat_ma74mo2084-39844ebd-07e0-4707-b28a-452d57ff255b",
+    "t": "Volkswagen Golf Golf Comfortline 1,2 TSI Comfortline",
+    "ts": "2026-06-25T11:56:31.683089+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2011,
+    "km": 140000,
+    "b": ""
+  },
   "gw:39844ebd-07e0-4707-b28a-452d57ff255b": {
     "p": 7500,
     "f": "2026-06-25T11:55:47.007820+00:00",
@@ -221,7 +234,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-f10-535d-xdrive-m-ab-werk-1465268120/",
     "t": "BMW 5er-Reihe F10 535D xDrive M-AB WERK",
     "ts": "2026-06-25T11:53:25.160952+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "5er-Reihe",
     "y": 2011,
@@ -146447,18 +146460,6 @@
     "mo": "Adam",
     "y": 2015,
     "km": 71304
-  },
-  "as:36ebecf6-f2f5-4a67-bc44-df9bd07eb810": {
-    "p": null,
-    "f": "2026-06-17T08:12:31.188913+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
