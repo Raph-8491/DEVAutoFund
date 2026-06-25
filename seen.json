@@ -147,6 +147,20 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1186314941": {
+    "p": 12000,
+    "f": "2026-06-25T05:35:29.085193+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x1-xdrive18d-oesterreich-paket-1186314941/",
+    "t": "BMW X1 xDrive18d \u00d6sterreich Paket",
+    "ts": "2026-06-25T05:35:29.085193+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X1",
+    "y": 2013,
+    "km": 155000,
+    "b": "SUV / Gel\u00e4ndewagen",
+    "pu": "2026-06-25T05:35:29.085193+00:00"
+  },
   "as:ef9417c4-568b-40f1-85a3-8e79d151c6ef": {
     "p": null,
     "f": "2026-06-25T05:34:30.240395+00:00",
@@ -145842,18 +145856,6 @@
     "mo": "M-Klasse",
     "y": 2011,
     "km": 350923
-  },
-  "as:5ea7f074-c791-4271-bd17-25eda73dce56": {
-    "p": null,
-    "f": "2026-06-16T18:10:54.174372+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
