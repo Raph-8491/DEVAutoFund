@@ -148,6 +148,44 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:059311b7-11d9-4952-8f84-e15bbc2067c8": {
+    "p": 11500,
+    "f": "2026-06-25T11:23:33.275897+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/opel-astra-1-6-cdti-start-stop-ecotec-120-jahre-edition-diesel-cat_ma54mo1916/059311b7-11d9-4952-8f84-e15bbc2067c8",
+    "t": "Opel Astra 1,6 CDTI Start/Stop ECOTEC 120 Jahre Edition",
+    "ts": "2026-06-25T11:23:33.275897+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Astra",
+    "y": 2019,
+    "km": 169000,
+    "b": ""
+  },
+  "as:b76cb028-f9ad-469c-aa8b-6d06be60def2": {
+    "p": null,
+    "f": "2026-06-25T11:23:26.590822+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:059311b7-11d9-4952-8f84-e15bbc2067c8": {
+    "p": 11500,
+    "f": "2026-06-25T11:23:26.590822+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-astra-1-6-cdti-start-stop-ecotec-120-jahre-edition-diesel-cat_ma54mo1916-059311b7-11d9-4952-8f84-e15bbc2067c8",
+    "t": "Opel Astra 1,6 CDTI Start/Stop ECOTEC 120 Jahre Edition",
+    "ts": "2026-06-25T11:23:26.590822+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Astra",
+    "y": 2019,
+    "km": 169000,
+    "b": ""
+  },
   "wh:1472002647": {
     "p": 7500,
     "f": "2026-06-25T11:22:27.150432+00:00",
@@ -146364,43 +146402,6 @@
     "mo": "Polo",
     "y": 2014,
     "km": 82000
-  },
-  "wh:942342538": {
-    "p": 6100,
-    "f": "2026-06-17T07:31:36.674392+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-6r-blue-motion-942342538/",
-    "t": "VW Polo 6R Blue Motion",
-    "ts": "2026-06-24T07:32:25.049231+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2015,
-    "km": 186000,
-    "b": "Klein-/ Kompaktwagen"
-  },
-  "gw:ab49b84b-e945-42ba-8e1b-140cdd63c8e4": {
-    "p": 1500,
-    "f": "2026-06-17T07:29:39.161649+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/peugeot-207-1-4i-60-000km-benzin-cat_ma55mo18797/ab49b84b-e945-42ba-8e1b-140cdd63c8e4",
-    "t": "Peugeot 207",
-    "ts": "2026-06-17T07:29:39.161649+00:00",
-    "ch": "alive",
-    "ma": "Peugeot",
-    "mo": "207",
-    "y": 2009,
-    "km": 60000
-  },
-  "wh:2033367584": {
-    "p": 3100,
-    "f": "2026-06-17T07:28:25.364791+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda3-2033367584/",
-    "t": "Mazda Mazda3",
-    "ts": "2026-06-17T07:28:25.364791+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 248971
   },
   "__health__": {
     "wh": 0,
