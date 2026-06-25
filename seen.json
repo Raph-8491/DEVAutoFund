@@ -148,6 +148,59 @@
     "y": 2009,
     "km": 235000
   },
+  "as:35803d2a-98eb-4c1a-924e-d6f6831ebe7e": {
+    "p": null,
+    "f": "2026-06-25T09:57:29.045876+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1074139494": {
+    "p": 13000,
+    "f": "2026-06-25T09:57:25.315179+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-204-h031p0-jzaaa503-1074139494/",
+    "t": "Mercedes-Benz C-Klasse 204/H031P0/JZAAA503",
+    "ts": "2026-06-25T09:57:25.315179+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "C-Klasse",
+    "y": 2013,
+    "km": 146000,
+    "b": "Limousine",
+    "pu": "2026-06-25T09:57:25.315179+00:00"
+  },
+  "wh:1638712308": {
+    "p": 13490,
+    "f": "2026-06-25T09:57:25.315179+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-sharan-dsg-pickerl-neu-zahnriemen-dsg-services-shz-acc-ahk-apple-car-1638712308/",
+    "t": "VW Sharan DSG / Pickerl NEU / Zahnriemen + DSG Services /SHZ/ACC/AHK/Apple Car",
+    "ts": "2026-06-25T09:57:25.315179+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Sharan",
+    "y": 2016,
+    "km": 295000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T09:57:25.315179+00:00"
+  },
+  "wh:1392263720": {
+    "p": 1500,
+    "f": "2026-06-25T09:57:25.315179+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda3-mazda-3-1-6i-1392263720/",
+    "t": "Mazda Mazda3 Mazda 3 1.6i",
+    "ts": "2026-06-25T09:57:25.315179+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 130000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:0c5adaa2-a748-4884-9d36-83ddf539fdcb": {
     "p": null,
     "f": "2026-06-25T09:55:35.115477+00:00",
@@ -124414,7 +124467,8 @@
     "ma": "VW",
     "mo": "Golf",
     "y": 2016,
-    "km": 151400
+    "km": 151400,
+    "b": "Kombi / Family Van"
   },
   "wh:1516180099": {
     "p": 3200,
@@ -124474,7 +124528,8 @@
     "ma": "Seat",
     "mo": "Leon",
     "y": 2011,
-    "km": 113000
+    "km": 113000,
+    "b": "Limousine"
   },
   "as:1847f25f-ee55-47bf-94b6-51f789d99386": {
     "p": null,
@@ -146208,55 +146263,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1886515306": {
-    "p": 9990,
-    "f": "2026-06-17T03:46:28.359773+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-mondeo-traveller-titanium-2-0-tdci-allrad-1886515306/",
-    "t": "Ford Mondeo Traveller Titanium 2,0 TDCI Allrad",
-    "ts": "2026-06-24T03:48:24.689318+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2019,
-    "km": 227275,
-    "b": "Kombi / Family Van"
-  },
-  "wh:1169338132": {
-    "p": 3590,
-    "f": "2026-06-17T03:46:28.359773+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-6j-1169338132/",
-    "t": "Seat Ibiza 6J",
-    "ts": "2026-06-17T03:46:28.359773+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2015,
-    "km": 98600
-  },
-  "gw:ab373661-f4e4-4088-b461-ac9f3192633e": {
-    "p": 3200,
-    "f": "2026-06-17T03:45:55.241387+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/dacia-sandero-sandero-black-line-1-2-16v-black-line-benzin-grau-cat_ma16360mo19129/ab373661-f4e4-4088-b461-ac9f3192633e",
-    "t": "Dacia Sandero",
-    "ts": "2026-06-17T03:45:55.241387+00:00",
-    "ch": "alive",
-    "ma": "Dacia",
-    "mo": "Sandero",
-    "y": 2010,
-    "km": 45000
-  },
-  "as:ab373661-f4e4-4088-b461-ac9f3192633e": {
-    "p": 3200,
-    "f": "2026-06-17T03:45:45.218723+00:00",
-    "u": "https://www.autoscout24.at/angebote/dacia-sandero-sandero-black-line-1-2-16v-black-line-benzin-grau-cat_ma16360mo19129-ab373661-f4e4-4088-b461-ac9f3192633e",
-    "t": "Dacia Sandero",
-    "ts": "2026-06-17T03:45:45.218723+00:00",
-    "ch": "alive",
-    "ma": "Dacia",
-    "mo": "Sandero",
-    "y": 2010,
-    "km": 45000
   },
   "__health__": {
     "wh": 0,
