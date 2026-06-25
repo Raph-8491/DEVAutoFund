@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1719059770": {
+    "p": 3500,
+    "f": "2026-06-25T15:38:26.863517+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-220cdi-1719059770/",
+    "t": "Mercedes-Benz C-Klasse 220cdi",
+    "ts": "2026-06-25T15:38:26.863517+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "C-Klasse",
+    "y": 2008,
+    "km": 380000,
+    "b": "Limousine"
+  },
   "as:6212ea3b-6fcb-4104-a84c-f2de5b28b6cd": {
     "p": 2150,
     "f": "2026-06-25T15:36:31.452133+00:00",
@@ -146771,18 +146784,6 @@
     "mo": null,
     "y": 2008,
     "km": 169000
-  },
-  "wh:1323730955": {
-    "p": 2800,
-    "f": "2026-06-17T12:40:49.429210+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-rabbit-1323730955/",
-    "t": "VW Golf Variant Rabbit",
-    "ts": "2026-06-17T12:40:49.429210+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2011,
-    "km": 289000
   },
   "__health__": {
     "wh": 0,
