@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1283583897": {
+    "p": 7800,
+    "f": "2026-06-25T17:14:28.775974+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c4-picasso-bluehdi-120-s-s-feel-1283583897/",
+    "t": "Citro\u00ebn C4 Picasso BlueHDi 120 S&S Feel",
+    "ts": "2026-06-25T17:14:28.775974+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2016,
+    "km": 179600,
+    "b": "Kombi / Family Van"
+  },
   "as:17037402-ef91-42fa-9e7a-f53641db6d86": {
     "p": null,
     "f": "2026-06-25T17:12:25.336282+00:00",
@@ -146955,18 +146968,6 @@
     "mo": "C-Max",
     "y": 2016,
     "km": 87200
-  },
-  "as:3c4167aa-9ec0-4057-8aaf-90d256a22095": {
-    "p": 7800,
-    "f": "2026-06-17T15:20:47.847491+00:00",
-    "u": "https://www.autoscout24.at/angebote/skoda-fabia-fabia-iii-1-0-mpi-active-benzin-schwarz-cat_ma65mo15878-3c4167aa-9ec0-4057-8aaf-90d256a22095",
-    "t": "Skoda Fabia",
-    "ts": "2026-06-17T15:20:47.847491+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Fabia",
-    "y": 2020,
-    "km": 138873
   },
   "__health__": {
     "wh": 0,
