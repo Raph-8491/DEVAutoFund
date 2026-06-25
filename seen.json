@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:5db103fa-c9fe-4f13-84c6-66f5e6bf4336": {
+    "p": null,
+    "f": "2026-06-25T14:19:26.184488+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1367306389": {
     "p": 3200,
     "f": "2026-06-25T14:18:34.026661+00:00",
@@ -146648,18 +146660,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1186909114": {
-    "p": 3700,
-    "f": "2026-06-17T10:42:33.560721+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-2-0-turbo-1186909114/",
-    "t": "Opel Insignia 2.0 Turbo",
-    "ts": "2026-06-17T10:42:33.560721+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Insignia",
-    "y": 2009,
-    "km": 15600
   },
   "__health__": {
     "wh": 0,
