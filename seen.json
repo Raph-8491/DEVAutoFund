@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "as:a55413b1-6bac-46b3-bf58-67ea6984a6bd": {
+    "p": null,
+    "f": "2026-06-25T08:01:03.794916+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1939635501": {
+    "p": 5990,
+    "f": "2026-06-25T08:01:01.242584+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-a-klasse-a160cdi-diesel-1939635501/",
+    "t": "Mercedes-Benz A-Klasse A160cdi Diesel",
+    "ts": "2026-06-25T08:01:01.242584+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "A-Klasse",
+    "y": 2012,
+    "km": 140000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1729352290": {
+    "p": 6999,
+    "f": "2026-06-25T08:01:01.242584+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-jetta-1729352290/",
+    "t": "VW Jetta",
+    "ts": "2026-06-25T08:01:01.242584+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Jetta",
+    "y": 2012,
+    "km": 145000,
+    "b": "Limousine",
+    "pu": "2026-06-25T08:01:01.242584+00:00"
+  },
   "as:49c26305-dc48-4dc1-97bd-6743a9dcedc1": {
     "p": null,
     "f": "2026-06-25T07:59:23.886385+00:00",
@@ -146008,42 +146047,6 @@
     "mo": "Golf",
     "y": 2013,
     "km": 221579
-  },
-  "as:73de96a3-5844-42ce-89c0-eb18415d50a9": {
-    "p": null,
-    "f": "2026-06-16T19:18:36.883461+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:7eb95932-30b6-4d7b-a221-a12ba842acc6": {
-    "p": null,
-    "f": "2026-06-16T19:18:36.883461+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1093008965": {
-    "p": 2400,
-    "f": "2026-06-16T19:18:34.676985+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/alfa-romeo-giulietta-1-4-tb-multi-air-distinctive-1093008965/",
-    "t": "Alfa Romeo Giulietta 1,4 TB Multi Air Distinctive",
-    "ts": "2026-06-16T19:18:34.676985+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 201023
   },
   "__health__": {
     "wh": 0,
