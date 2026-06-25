@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:d6e48d92-2484-4310-8d5b-b55ad8727609": {
+    "p": null,
+    "f": "2026-06-25T15:26:26.060929+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:e19e1981-cc96-4570-ba37-c08253bdc214": {
     "p": null,
     "f": "2026-06-25T15:25:32.925927+00:00",
@@ -146751,18 +146763,6 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/kia-carnival-2-9-crdi-aut-ex-diesel-cat_ma39mo15882/5f9ca73c-4a39-4533-bc11-204910a2a49a",
     "t": "Kia Carnival",
     "ts": "2026-06-17T12:22:38.201739+00:00",
-    "ch": "alive",
-    "ma": "Kia",
-    "mo": "Carnival",
-    "y": 2009,
-    "km": 143000
-  },
-  "as:5f9ca73c-4a39-4533-bc11-204910a2a49a": {
-    "p": 2999,
-    "f": "2026-06-17T12:22:31.513938+00:00",
-    "u": "https://www.autoscout24.at/angebote/kia-carnival-2-9-crdi-aut-ex-diesel-cat_ma39mo15882-5f9ca73c-4a39-4533-bc11-204910a2a49a",
-    "t": "Kia Carnival",
-    "ts": "2026-06-17T12:22:31.513938+00:00",
     "ch": "alive",
     "ma": "Kia",
     "mo": "Carnival",
