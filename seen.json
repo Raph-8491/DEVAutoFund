@@ -148,6 +148,57 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:247da8b4-cc34-4d9a-a9b0-3d3a8908288e": {
+    "p": 2950,
+    "f": "2026-06-25T16:10:53.825462+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/fiat-ducato-ducato-35-l2h2-130-gr-kombi-maxi-diesel-weiss-cat_ma28mo14783/247da8b4-cc34-4d9a-a9b0-3d3a8908288e",
+    "t": "Fiat Ducato Ducato 35 L2H2 130 GR-Kombi Maxi",
+    "ts": "2026-06-25T16:10:53.825462+00:00",
+    "ch": null,
+    "ma": "Fiat",
+    "mo": "Ducato",
+    "y": 2014,
+    "km": 400000,
+    "b": ""
+  },
+  "as:4203b21e-c79f-4c41-9cd1-46f1c88e72ac": {
+    "p": null,
+    "f": "2026-06-25T16:10:46.899056+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:247da8b4-cc34-4d9a-a9b0-3d3a8908288e": {
+    "p": 2950,
+    "f": "2026-06-25T16:10:46.899056+00:00",
+    "u": "https://www.autoscout24.at/angebote/fiat-ducato-ducato-35-l2h2-130-gr-kombi-maxi-diesel-weiss-cat_ma28mo14783-247da8b4-cc34-4d9a-a9b0-3d3a8908288e",
+    "t": "Fiat Ducato Ducato 35 L2H2 130 GR-Kombi Maxi",
+    "ts": "2026-06-25T16:10:46.899056+00:00",
+    "ch": null,
+    "ma": "Fiat",
+    "mo": "Ducato",
+    "y": 2014,
+    "km": 400000,
+    "b": ""
+  },
+  "wh:1641183136": {
+    "p": 9500,
+    "f": "2026-06-25T16:10:45.821071+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-sport-austria-1-6-tdi-1641183136/",
+    "t": "VW Golf Sport Austria 1,6 TDI",
+    "ts": "2026-06-25T16:10:45.821071+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2018,
+    "km": 185300,
+    "b": "Limousine"
+  },
   "wh:790334342": {
     "p": 900,
     "f": "2026-06-25T16:08:29.467805+00:00",
@@ -146800,55 +146851,6 @@
     "mo": "Polo",
     "y": 2012,
     "km": 133500
-  },
-  "as:551cebf6-92ca-4a9c-b6ce-e0a00c4f540a": {
-    "p": null,
-    "f": "2026-06-17T13:42:29.564511+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1025132547": {
-    "p": 11450,
-    "f": "2026-06-17T13:40:44.245860+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-200cdi-automatik-1025132547/",
-    "t": "Mercedes-Benz C-Klasse 200CDI Automatik",
-    "ts": "2026-06-17T13:40:44.245860+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C-Klasse",
-    "y": 2012,
-    "km": 255600
-  },
-  "wh:1431947693": {
-    "p": 3700,
-    "f": "2026-06-17T13:39:22.987083+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i20-1-25-life-1431947693/",
-    "t": "Hyundai i20 1,25 Life",
-    "ts": "2026-06-17T13:39:22.987083+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 119700
-  },
-  "wh:949389040": {
-    "p": 9800,
-    "f": "2026-06-17T13:36:35.632559+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-pickerl-neu-1-6-tdi-style-949389040/",
-    "t": "Skoda Octavia PICKERL NEU 1,6 TDI Style",
-    "ts": "2026-06-24T13:38:29.286772+00:00",
-    "ch": null,
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2017,
-    "km": 176000,
-    "b": "Kombi / Family Van"
   },
   "__health__": {
     "wh": 0,
