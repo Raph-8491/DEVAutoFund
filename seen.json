@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:cedfcc20-ae84-49a5-a531-238dbb6a5e8c": {
+    "p": 8300,
+    "f": "2026-06-25T12:13:23.180237+00:00",
+    "u": "https://www.autoscout24.at/angebote/toyota-verso-1-6-edition-benzin-cat_ma70mo19225-cedfcc20-ae84-49a5-a531-238dbb6a5e8c",
+    "t": "Toyota Verso 1.6 Edition",
+    "ts": "2026-06-25T12:13:23.180237+00:00",
+    "ch": null,
+    "ma": "Toyota",
+    "mo": "Verso",
+    "y": 2010,
+    "km": 138177,
+    "b": ""
+  },
   "gw:cedfcc20-ae84-49a5-a531-238dbb6a5e8c": {
     "p": 8300,
     "f": "2026-06-25T12:12:41.291809+00:00",
@@ -146483,19 +146496,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1775023161": {
-    "p": 5990,
-    "f": "2026-06-17T08:41:26.877781+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-titanium-1-0-ecoboost-1775023161/",
-    "t": "Ford Focus Titanium 1,0 EcoBoost",
-    "ts": "2026-06-17T08:41:26.877781+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 58300,
-    "b": "Klein-/ Kompaktwagen"
   },
   "__health__": {
     "wh": 0,
