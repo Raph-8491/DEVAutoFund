@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1488047229": {
+    "p": 10500,
+    "f": "2026-06-25T10:29:23.386509+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-kombi-1-0tsi-ambition-led-1-besitz-rfk-acc-1488047229/",
+    "t": "Skoda Octavia Kombi 1.0TSI Ambition*LED*1.BESITZ*RFK*ACC*",
+    "ts": "2026-06-25T10:29:23.386509+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Octavia",
+    "y": 2021,
+    "km": 183900,
+    "b": "Kombi / Family Van"
+  },
   "gw:9664a963-5a00-40d5-8d59-7d2ba0a4ff77": {
     "p": 5600,
     "f": "2026-06-25T10:28:43.008490+00:00",
@@ -146289,18 +146302,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1781912988": {
-    "p": 1100,
-    "f": "2026-06-17T05:46:29.149064+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-ceed-klima-1781912988/",
-    "t": "KIA Ceed Klima",
-    "ts": "2026-06-17T05:46:29.149064+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 140516
   },
   "__health__": {
     "wh": 0,
