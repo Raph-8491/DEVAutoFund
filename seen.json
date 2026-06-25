@@ -147,6 +147,57 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:a19ef192-ec0d-4684-9e24-5f8dbf73d808": {
+    "p": 6790,
+    "f": "2026-06-25T05:05:38.041083+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/opel-corsa-1-0-ecotec-turbo-ecoflex-start-stop-drive-benzin-cat_ma54mo1918/a19ef192-ec0d-4684-9e24-5f8dbf73d808",
+    "t": "Opel Corsa 1.0 Ecotec Turbo ecoFLEX Start/Stop drive",
+    "ts": "2026-06-25T05:05:38.041083+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Corsa",
+    "y": 2016,
+    "km": 134000,
+    "b": ""
+  },
+  "as:a19ef192-ec0d-4684-9e24-5f8dbf73d808": {
+    "p": 6790,
+    "f": "2026-06-25T05:05:32.480532+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-corsa-1-0-ecotec-turbo-ecoflex-start-stop-drive-benzin-cat_ma54mo1918-a19ef192-ec0d-4684-9e24-5f8dbf73d808",
+    "t": "Opel Corsa 1.0 Ecotec Turbo ecoFLEX Start/Stop drive",
+    "ts": "2026-06-25T05:05:32.480532+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Corsa",
+    "y": 2016,
+    "km": 134000,
+    "b": ""
+  },
+  "as:93f6d303-a55d-4f23-8a2a-91387887d780": {
+    "p": null,
+    "f": "2026-06-25T05:05:32.480532+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1147057756": {
+    "p": 2000,
+    "f": "2026-06-25T05:05:31.700420+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/toyota-corolla-verso-2-2-liter-1147057756/",
+    "t": "Toyota Corolla verso 2.2 Liter",
+    "ts": "2026-06-25T05:05:31.700420+00:00",
+    "ch": null,
+    "ma": "Toyota",
+    "mo": "Corolla",
+    "y": 2009,
+    "km": 265000,
+    "b": "Kombi / Family Van"
+  },
   "wh:845671777": {
     "p": 5300,
     "f": "2026-06-25T05:03:27.656006+00:00",
@@ -145780,54 +145831,6 @@
     "mo": "Scenic",
     "y": 2012,
     "km": 169000
-  },
-  "as:63c3ce6b-e8a6-464c-acf1-2c3656d7aa9e": {
-    "p": 9599,
-    "f": "2026-06-16T17:59:35.056507+00:00",
-    "u": "https://www.autoscout24.at/angebote/bmw-218-218i-active-tourer-sport-line-benzin-cat_ma13mo20327-63c3ce6b-e8a6-464c-acf1-2c3656d7aa9e",
-    "t": "BMW 218",
-    "ts": "2026-06-16T17:59:35.056507+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "218",
-    "y": 2016,
-    "km": 154660
-  },
-  "as:57e5f38f-40d7-4c4a-93a3-642fbf72e99d": {
-    "p": null,
-    "f": "2026-06-16T17:58:30.712847+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1180352559": {
-    "p": 2800,
-    "f": "2026-06-16T17:57:38.796717+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-titanium-2-0-tdci-1180352559/",
-    "t": "Ford Galaxy Titanium 2.0 TDCi",
-    "ts": "2026-06-16T17:57:38.796717+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 317705
-  },
-  "wh:1183257642": {
-    "p": 3000,
-    "f": "2026-06-16T17:57:38.796717+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-altea-1-4-chili-1183257642/",
-    "t": "Seat Altea 1,4 Chili",
-    "ts": "2026-06-16T17:57:38.796717+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Altea",
-    "y": 2010,
-    "km": 154000
   },
   "__health__": {
     "wh": 0,
