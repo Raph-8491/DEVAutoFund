@@ -148,6 +148,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1367306389": {
+    "p": 3200,
+    "f": "2026-06-25T14:18:34.026661+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-sandero-stepway-0-9-benzin-1367306389/",
+    "t": "Dacia Sandero Stepway 0,9 Benzin",
+    "ts": "2026-06-25T14:18:34.026661+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2016,
+    "km": 120000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1436108473": {
+    "p": 5200,
+    "f": "2026-06-25T14:18:34.026661+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-116i-oesterreich-paket-1436108473/",
+    "t": "BMW 1er-Reihe 116i \u00d6sterreich-Paket",
+    "ts": "2026-06-25T14:18:34.026661+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "1er-Reihe",
+    "y": 2011,
+    "km": 231000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T14:18:34.026661+00:00"
+  },
   "wh:1510788653": {
     "p": 15000,
     "f": "2026-06-25T14:16:29.301024+00:00",
@@ -146633,30 +146660,6 @@
     "mo": "Insignia",
     "y": 2009,
     "km": 15600
-  },
-  "as:859aa5fc-4407-4c33-9ce5-05e3431b3586": {
-    "p": 6500,
-    "f": "2026-06-17T10:40:49.836950+00:00",
-    "u": "https://www.autoscout24.at/angebote/hyundai-i20-1-1-crdi-classic-diesel-cat_ma33mo19188-859aa5fc-4407-4c33-9ce5-05e3431b3586",
-    "t": "Hyundai i20",
-    "ts": "2026-06-17T10:40:49.836950+00:00",
-    "ch": "alive",
-    "ma": "Hyundai",
-    "mo": "i20",
-    "y": 2015,
-    "km": 95000
-  },
-  "wh:1089550270": {
-    "p": 2500,
-    "f": "2026-06-17T10:40:46.576524+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-sedici-2-0-d-multijet-4x4-1089550270/",
-    "t": "Fiat Sedici 2.0 D Multijet 4x4",
-    "ts": "2026-06-17T10:40:46.576524+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 316000
   },
   "__health__": {
     "wh": 0,
