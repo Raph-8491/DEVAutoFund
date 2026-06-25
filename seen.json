@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:322a9f92-d736-4cb5-b393-73516049472c": {
+    "p": null,
+    "f": "2026-06-25T12:39:27.149426+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:2143977629": {
     "p": 2700,
     "f": "2026-06-25T12:38:24.347630+00:00",
@@ -146529,18 +146541,6 @@
     "mo": "Caddy",
     "y": 2014,
     "km": 422000
-  },
-  "wh:1498437805": {
-    "p": 7500,
-    "f": "2026-06-17T09:14:26.340653+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/suzuki-vitara-grand-vitara-1498437805/",
-    "t": "Suzuki Vitara Grand Vitara",
-    "ts": "2026-06-17T09:14:26.340653+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 66000
   },
   "__health__": {
     "wh": 0,
