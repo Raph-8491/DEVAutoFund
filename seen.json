@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:4becd88f-1159-4ba1-8e12-e5aebb2bac6b": {
+    "p": 12700,
+    "f": "2026-06-25T06:41:20.748589+00:00",
+    "u": "https://www.autoscout24.at/angebote/mercedes-benz-ml-300-cdi-4matic-mb-scheckheft-unfallfrei-diesel-cat_ma47mo19255-4becd88f-1159-4ba1-8e12-e5aebb2bac6b",
+    "t": "Mercedes-Benz ML 300 CDI 4Matic MB-Scheckheft Unfallfrei",
+    "ts": "2026-06-25T06:41:20.748589+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "ML 300",
+    "y": 2010,
+    "km": 203000,
+    "b": ""
+  },
   "gw:070d6b90-3c98-4d58-85ad-27c46bd4549a": {
     "p": 2900,
     "f": "2026-06-25T06:38:34.934321+00:00",
@@ -145915,18 +145928,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1960646261": {
-    "p": 10700,
-    "f": "2026-06-16T18:33:29.416002+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1960646261/",
-    "t": "VW Golf",
-    "ts": "2026-06-23T18:32:33.835814+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2017,
-    "km": 186000
   },
   "__health__": {
     "wh": 0,
