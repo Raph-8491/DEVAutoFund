@@ -148,6 +148,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:825588068": {
+    "p": 3000,
+    "f": "2026-06-25T12:09:25.075514+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-caddy-kombi-maxi-trendline-bmt-1-6-tdi-dpf-825588068/",
+    "t": "VW Caddy Kombi Maxi Trendline BMT 1,6 TDI DPF",
+    "ts": "2026-06-25T12:09:25.075514+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Caddy",
+    "y": 2011,
+    "km": 364000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1406159766": {
+    "p": 2500,
+    "f": "2026-06-25T12:09:25.075514+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-viano-1406159766/",
+    "t": "Mercedes-Benz Viano",
+    "ts": "2026-06-25T12:09:25.075514+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "Viano",
+    "y": 2009,
+    "km": 350000,
+    "b": "Kombi / Family Van"
+  },
   "as:9ff55c58-ffa2-48fa-b1c0-91a06ca49066": {
     "p": null,
     "f": "2026-06-25T12:07:27.872596+00:00",
@@ -146466,30 +146492,6 @@
     "mo": "Karl",
     "y": 2017,
     "km": 45000
-  },
-  "gw:b700f0e6-135c-43ae-b130-2f0c144c95cb": {
-    "p": 4300,
-    "f": "2026-06-17T08:39:40.874104+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-passat-variant-comfortline-bmt-tdi-dpf-4motion-dsg-diesel-cat_ma74mo20338/b700f0e6-135c-43ae-b130-2f0c144c95cb",
-    "t": "Volkswagen Passat Variant",
-    "ts": "2026-06-17T08:39:40.874104+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat Variant",
-    "y": 2010,
-    "km": 324000
-  },
-  "gw:a3b984ad-c0fe-4635-ac44-6ec8808475e8": {
-    "p": 4000,
-    "f": "2026-06-17T08:39:40.874104+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/mercedes-benz-a-160-blueefficiency-elegance-benzin-cat_ma47mo14869/a3b984ad-c0fe-4635-ac44-6ec8808475e8",
-    "t": "Mercedes-Benz A 160",
-    "ts": "2026-06-17T08:39:40.874104+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "A 160",
-    "y": 2010,
-    "km": 195000
   },
   "__health__": {
     "wh": 0,
