@@ -148,6 +148,58 @@
     "y": 2009,
     "km": 235000
   },
+  "as:0aa23c96-3c55-4acb-8c79-cf5c862e020e": {
+    "p": null,
+    "f": "2026-06-25T12:22:28.050718+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1326706332": {
+    "p": 1700,
+    "f": "2026-06-25T12:22:25.527982+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-logan-sd-ksdaf-ksdafh-1326706332/",
+    "t": "Dacia Logan SD/KSDAF/KSDAFH",
+    "ts": "2026-06-25T12:22:25.527982+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 180000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:2100623574": {
+    "p": 2200,
+    "f": "2026-06-25T12:22:25.527982+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i30-cw-blue-2100623574/",
+    "t": "Hyundai i30 CW Blue",
+    "ts": "2026-06-25T12:22:25.527982+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 284000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1362989634": {
+    "p": 12000,
+    "f": "2026-06-25T12:22:25.527982+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-2er-reihe-216d-active-tourer-1362989634/",
+    "t": "BMW 2er-Reihe 216d Active Tourer",
+    "ts": "2026-06-25T12:22:25.527982+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "2er-Reihe",
+    "y": 2018,
+    "km": 166000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T12:22:25.527982+00:00"
+  },
   "wh:1866545086": {
     "p": 13900,
     "f": "2026-06-25T12:20:46.390998+00:00",
@@ -125703,16 +125755,17 @@
     "km": null
   },
   "wh:868463713": {
-    "p": 4690,
+    "p": 4350,
     "f": "2026-06-18T12:23:22.016954+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a6-2-7-v6-tdi-868463713/",
     "t": "Audi A6 2,7 V6 TDI",
-    "ts": "2026-06-18T12:23:22.016954+00:00",
-    "ch": "alive",
+    "ts": "2026-06-25T12:22:25.527982+00:00",
+    "ch": null,
     "ma": "Audi",
     "mo": "A6",
     "y": 2008,
-    "km": 327030
+    "km": 327030,
+    "b": "Kombi / Family Van"
   },
   "wh:1889126287": {
     "p": 4000,
@@ -146460,55 +146513,6 @@
     "mo": "Ibiza",
     "y": 2012,
     "km": 220000
-  },
-  "wh:837670649": {
-    "p": 7500,
-    "f": "2026-06-17T08:57:30.004135+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-837670649/",
-    "t": "BMW 3er-Reihe",
-    "ts": "2026-06-17T08:57:30.004135+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2011,
-    "km": 224000
-  },
-  "as:8d362531-cd5e-42e2-a14c-d91510a570b7": {
-    "p": 6500,
-    "f": "2026-06-17T08:55:51.822859+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-polo-polo-v-5-tuerer-1-2-tsi-match-benzin-weiss-cat_ma74mo2090-8d362531-cd5e-42e2-a14c-d91510a570b7",
-    "t": "Volkswagen Polo",
-    "ts": "2026-06-17T08:55:51.822859+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2012,
-    "km": 136000
-  },
-  "as:ca2cad96-0204-4b0b-bfa8-d87cfb816216": {
-    "p": null,
-    "f": "2026-06-17T08:54:42.060864+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:828511818": {
-    "p": 10700,
-    "f": "2026-06-17T08:54:38.167557+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-dsg-4-motion-828511818/",
-    "t": "VW Passat DSG 4-Motion",
-    "ts": "2026-06-24T08:52:24.312266+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2015,
-    "km": 239000,
-    "b": "Kombi / Family Van"
   },
   "__health__": {
     "wh": 0,
