@@ -148,6 +148,58 @@
     "y": 2009,
     "km": 235000
   },
+  "as:d63303c6-88c1-44b6-9290-bcdb2e67a71f": {
+    "p": null,
+    "f": "2026-06-25T11:08:27.026113+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1347866706": {
+    "p": 10000,
+    "f": "2026-06-25T11:08:25.650901+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-7-1-6tdi-1347866706/",
+    "t": "VW Golf 7 1.6TDI",
+    "ts": "2026-06-25T11:08:25.650901+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2016,
+    "km": 173000,
+    "b": "Limousine",
+    "pu": "2026-06-25T11:08:25.650901+00:00"
+  },
+  "wh:877672971": {
+    "p": 4500,
+    "f": "2026-06-25T11:08:25.650901+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-2-0-tdi-trend-fun-dpf-877672971/",
+    "t": "VW Tiguan 2.0 TDI Trend&Fun DPF",
+    "ts": "2026-06-25T11:08:25.650901+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Tiguan",
+    "y": 2009,
+    "km": 289500,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1127002779": {
+    "p": 8000,
+    "f": "2026-06-25T11:08:25.650901+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-6-tdi-1127002779/",
+    "t": "VW Golf 1,6 TDI",
+    "ts": "2026-06-25T11:08:25.650901+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2011,
+    "km": 247000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:26f54a41-ad2a-489a-b3c4-e4d19940c4eb": {
     "p": null,
     "f": "2026-06-25T11:07:28.298542+00:00",
@@ -124961,7 +125013,8 @@
     "ma": null,
     "mo": null,
     "y": 2017,
-    "km": 238700
+    "km": 238700,
+    "b": "Kombi / Family Van"
   },
   "wh:1819711611": {
     "p": 2900,
@@ -146320,55 +146373,6 @@
     "mo": "Octavia",
     "y": 2011,
     "km": 280000
-  },
-  "as:3a7351c5-b6af-4115-82de-b01fad195b96": {
-    "p": 3000,
-    "f": "2026-06-17T07:02:33.740713+00:00",
-    "u": "https://www.autoscout24.at/angebote/skoda-octavia-combi-ambition-1-6-tdi-cr-dpf-4x4-diesel-cat_ma65mo15222-3a7351c5-b6af-4115-82de-b01fad195b96",
-    "t": "Skoda Octavia",
-    "ts": "2026-06-17T07:02:33.740713+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2011,
-    "km": 280000
-  },
-  "gw:cc12bd09-50ef-40b0-9f17-b2d36769b2b7": {
-    "p": 12000,
-    "f": "2026-06-17T07:01:46.839117+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/honda-cr-v-cr-v-1-6i-dtec-executive-4wd-executive-diesel-weiss-cat_ma31mo1777/cc12bd09-50ef-40b0-9f17-b2d36769b2b7",
-    "t": "Honda CR-V",
-    "ts": "2026-06-17T07:01:46.839117+00:00",
-    "ch": "alive",
-    "ma": "Honda",
-    "mo": "CR-V",
-    "y": 2015,
-    "km": 225000
-  },
-  "wh:1032922241": {
-    "p": 7500,
-    "f": "2026-06-17T07:01:37.608826+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-corsa-1032922241/",
-    "t": "Opel Corsa",
-    "ts": "2026-06-17T07:01:37.608826+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Corsa",
-    "y": 2017,
-    "km": 96000,
-    "b": "Limousine"
-  },
-  "as:0695b5aa-9ee4-48ba-a235-dba9662d0485": {
-    "p": null,
-    "f": "2026-06-17T06:59:26.807772+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
