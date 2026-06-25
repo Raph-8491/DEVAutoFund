@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1472396858": {
+    "p": 3790,
+    "f": "2026-06-25T04:11:22.569564+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-audi-a4-b8-3-0-tdi-quattro-s-line-1472396858/",
+    "t": "Audi A4 Audi A4 B8 3.0 TDI Quattro S-Line",
+    "ts": "2026-06-25T04:11:22.569564+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2008,
+    "km": 350000,
+    "b": "Kombi / Family Van"
+  },
   "as:a731d5d0-c391-4bd6-984f-4a0623af650a": {
     "p": null,
     "f": "2026-06-25T04:06:29.922065+00:00",
@@ -145790,18 +145803,6 @@
     "mo": null,
     "y": 2010,
     "km": 82500
-  },
-  "gw:91a588b2-92df-4b54-945b-8aa91d7e8f96": {
-    "p": 7000,
-    "f": "2026-06-16T17:48:43.638911+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/mercedes-benz-c-200-cdi-dpf-automatik-blueefficiency-diesel-grau-cat_ma47mo1860/91a588b2-92df-4b54-945b-8aa91d7e8f96",
-    "t": "Mercedes-Benz C 200",
-    "ts": "2026-06-16T17:48:43.638911+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C 200",
-    "y": 2010,
-    "km": 195000
   },
   "__health__": {
     "wh": 0,
