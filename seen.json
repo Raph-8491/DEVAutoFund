@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:2613eb3b-887d-480c-9391-9815aaa8ac90": {
+    "p": null,
+    "f": "2026-06-25T08:19:25.031701+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:da1ffa13-9c71-46ce-992a-e4535fda5e33": {
     "p": null,
     "f": "2026-06-25T08:18:30.667571+00:00",
@@ -204,7 +216,7 @@
     "u": "https://www.autoscout24.at/angebote/audi-tt-roadster-1-8-t-fsi-benzin-cat_ma9mo15627-3651102c-079b-4a03-809b-fcf4d362a941",
     "t": "Audi TT Roadster 1,8 T FSI",
     "ts": "2026-06-25T08:15:47.709565+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "TT",
     "y": 2010,
@@ -218,7 +230,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-audi-a4-avant-35-tdi-1935407440/",
     "t": "Audi A4 Audi A4 Avant 35 TDI",
     "ts": "2026-06-25T08:15:46.135170+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A4",
     "y": 2021,
@@ -146068,18 +146080,6 @@
     "mo": null,
     "y": 2010,
     "km": 132756
-  },
-  "as:f0a1893b-44ee-4fb4-8e2b-c2808917a1e3": {
-    "p": null,
-    "f": "2026-06-16T19:42:33.708776+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
