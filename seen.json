@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1709863226": {
+    "p": 4900,
+    "f": "2026-06-25T11:44:28.980431+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-308-1-6-hdi-1709863226/",
+    "t": "Peugeot 308 1.6 HDI",
+    "ts": "2026-06-25T11:44:28.980431+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 88000,
+    "b": "Limousine"
+  },
   "gw:d6a13426-7b14-4bcf-afea-28ab68a039ef": {
     "p": 5200,
     "f": "2026-06-25T11:43:41.110410+00:00",
@@ -146415,18 +146428,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1488557207": {
-    "p": 10000,
-    "f": "2026-06-17T07:51:25.226345+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/land-rover-range-rover-sport-3-6-tdv8-1488557207/",
-    "t": "Land Rover Range Rover Sport 3.6 TDV8",
-    "ts": "2026-06-17T07:51:25.226345+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 270000
   },
   "__health__": {
     "wh": 0,
