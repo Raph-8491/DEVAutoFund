@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:e4300f29-9337-4c51-8cfa-8f09b27c812c": {
+    "p": null,
+    "f": "2026-06-25T12:02:28.559114+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:d53b4168-7812-45a6-baf6-244d13e51a1d": {
     "p": 4500,
     "f": "2026-06-25T12:01:43.298314+00:00",
@@ -334,7 +346,7 @@
     "u": "https://www.autoscout24.at/angebote/volkswagen-t5-transporter-fahrgestell-lr-2-0-tdi-d-pf-diesel-weiss-cat_ma74mo75216-c1130915-6d97-496c-b2e9-deb64129d95a",
     "t": "Volkswagen T5 Transporter Fahrgestell LR 2,0 TDI D-PF",
     "ts": "2026-06-25T11:59:25.319619+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "T5 Transporter",
     "y": 2014,
@@ -146468,18 +146480,6 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/citroen-c-crosser-2-4-exclusive-cvt-aut-benzin-cat_ma21mo19054/d5cd600c-6a8c-4ae8-a0b1-1c704aff028d",
     "t": "Citroen C-Crosser",
     "ts": "2026-06-17T08:29:36.574515+00:00",
-    "ch": "alive",
-    "ma": "Citroen",
-    "mo": "C-Crosser",
-    "y": 2009,
-    "km": 230000
-  },
-  "as:d5cd600c-6a8c-4ae8-a0b1-1c704aff028d": {
-    "p": 2900,
-    "f": "2026-06-17T08:29:28.223538+00:00",
-    "u": "https://www.autoscout24.at/angebote/citroen-c-crosser-2-4-exclusive-cvt-aut-benzin-cat_ma21mo19054-d5cd600c-6a8c-4ae8-a0b1-1c704aff028d",
-    "t": "Citroen C-Crosser",
-    "ts": "2026-06-17T08:29:28.223538+00:00",
     "ch": "alive",
     "ma": "Citroen",
     "mo": "C-Crosser",
