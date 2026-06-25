@@ -148,6 +148,44 @@
     "y": 2009,
     "km": 235000
   },
+  "as:b753266e-7e4e-4855-93f9-d347e9fbf6e4": {
+    "p": null,
+    "f": "2026-06-25T13:05:39.303120+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:824424402": {
+    "p": 2800,
+    "f": "2026-06-25T13:05:37.027974+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-824424402/",
+    "t": "Seat Leon",
+    "ts": "2026-06-25T13:05:37.027974+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2008,
+    "km": 235000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1988020335": {
+    "p": 1900,
+    "f": "2026-06-25T13:05:37.027974+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-c-220-t-avantgarde-blueefficiency-cdi-aut-1988020335/",
+    "t": "Mercedes-Benz C-Klasse C 220 T Avantgarde BlueEfficiency CDI Aut.",
+    "ts": "2026-06-25T13:05:37.027974+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "C-Klasse",
+    "y": 2010,
+    "km": 468800,
+    "b": "Kombi / Family Van"
+  },
   "as:ada829f1-4b17-4a7a-bfe4-3c62c675e0c2": {
     "p": null,
     "f": "2026-06-25T13:04:32.194606+00:00",
@@ -146532,42 +146570,6 @@
     "mo": null,
     "y": 2009,
     "km": 159000
-  },
-  "wh:1792939855": {
-    "p": 9500,
-    "f": "2026-06-17T09:45:41.686985+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-ecosport-titanium-1792939855/",
-    "t": "Ford EcoSport Titanium",
-    "ts": "2026-06-17T09:45:41.686985+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2019,
-    "km": 76200
-  },
-  "wh:1309402232": {
-    "p": 6490,
-    "f": "2026-06-17T09:45:41.686985+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-2-0-tdi-1309402232/",
-    "t": "Audi A4 2,0 TDi",
-    "ts": "2026-06-17T09:45:41.686985+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2010,
-    "km": 222000
-  },
-  "wh:1785106648": {
-    "p": 4000,
-    "f": "2026-06-17T09:45:41.686985+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i10-1785106648/",
-    "t": "Hyundai i10",
-    "ts": "2026-06-17T09:45:41.686985+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 42178
   },
   "__health__": {
     "wh": 0,
