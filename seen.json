@@ -148,6 +148,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1859515737": {
+    "p": 1500,
+    "f": "2026-06-25T12:28:29.939274+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-iconic-1859515737/",
+    "t": "Ford Focus Iconic",
+    "ts": "2026-06-25T12:28:29.939274+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 230000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1061036580": {
+    "p": 1200,
+    "f": "2026-06-25T12:28:29.939274+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/jaguar-xf-3-0d-luxury-1061036580/",
+    "t": "Jaguar XF 3.0D LUXURY",
+    "ts": "2026-06-25T12:28:29.939274+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 300000,
+    "b": "Limousine"
+  },
+  "wh:926310338": {
+    "p": 12000,
+    "f": "2026-06-25T12:28:29.939274+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c3-1-5-blue-hdi-926310338/",
+    "t": "Citro\u00ebn C3 1.5 Blue HDI",
+    "ts": "2026-06-25T12:28:29.939274+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2023,
+    "km": 70000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:0db2f21c-d292-4871-a0c2-9396a4a59cb5": {
     "p": 13000,
     "f": "2026-06-25T12:26:33.518267+00:00",
@@ -125751,16 +125790,17 @@
     "km": 226229
   },
   "wh:814579332": {
-    "p": 7990,
+    "p": 7490,
     "f": "2026-06-18T12:27:22.291355+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-scout-2-0-tdi-dsg-814579332/",
     "t": "Skoda Octavia Scout 2.0 TDI DSG",
-    "ts": "2026-06-18T12:27:22.291355+00:00",
-    "ch": "alive",
+    "ts": "2026-06-25T12:28:29.939274+00:00",
+    "ch": null,
     "ma": "Skoda",
     "mo": "Octavia",
     "y": 2016,
-    "km": 287000
+    "km": 287000,
+    "b": "Kombi / Family Van"
   },
   "wh:1279114780": {
     "p": 8000,
@@ -146484,42 +146524,6 @@
     "mo": "Corsa",
     "y": 2011,
     "km": 200000
-  },
-  "wh:966081506": {
-    "p": 8000,
-    "f": "2026-06-17T09:08:27.423900+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-duster-dacia-duster-motorschaden-unfallschaden-su-che-966081506/",
-    "t": "Dacia Duster Dacia Duster Motorschaden, unfallschaden SU...CHE",
-    "ts": "2026-06-17T09:08:27.423900+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 250000
-  },
-  "as:fefa67de-41d8-43ac-ab2c-0dc54be307fb": {
-    "p": null,
-    "f": "2026-06-17T09:07:24.685660+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "gw:34282526-b197-4f3e-9613-5d061096bb35": {
-    "p": 8500,
-    "f": "2026-06-17T09:03:36.328236+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/dacia-lodgy-stepway-tce-115-ss-benzin-cat_ma16360mo20036/34282526-b197-4f3e-9613-5d061096bb35",
-    "t": "Dacia Lodgy",
-    "ts": "2026-06-17T09:03:36.328236+00:00",
-    "ch": "alive",
-    "ma": "Dacia",
-    "mo": "Lodgy",
-    "y": 2018,
-    "km": 98500
   },
   "__health__": {
     "wh": 0,
