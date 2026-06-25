@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:097ae8ef-84a2-4684-a936-1cb0772001a9": {
+    "p": null,
+    "f": "2026-06-25T16:05:36.377172+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:4556c81f-0d95-49d5-9e73-2410f7a37457": {
     "p": null,
     "f": "2026-06-25T16:04:28.014448+00:00",
@@ -243,7 +255,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-2-0-tdi-1716474219/",
     "t": "VW Passat 2.0 TDi",
     "ts": "2026-06-25T16:02:29.561163+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Passat",
     "y": 2008,
@@ -257,7 +269,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-318d-1487018012/",
     "t": "BMW 3er-Reihe 318d",
     "ts": "2026-06-25T16:02:29.561163+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "3er-Reihe",
     "y": 2012,
@@ -146830,18 +146842,6 @@
     "mo": "Fabia",
     "y": 2018,
     "km": 147644
-  },
-  "wh:2010463103": {
-    "p": 2700,
-    "f": "2026-06-17T13:29:30.775074+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-308-1-6-hdi-2010463103/",
-    "t": "Peugeot 308 1.6 HDI",
-    "ts": "2026-06-17T13:29:30.775074+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 178000
   },
   "__health__": {
     "wh": 0,
