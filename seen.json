@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:845671777": {
+    "p": 5300,
+    "f": "2026-06-25T05:03:27.656006+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-titanium-rueckfahrkamera-navigationssystem-android-845671777/",
+    "t": "Ford Focus Titanium r\u00fcckfahrkamera Navigationssystem Android",
+    "ts": "2026-06-25T05:03:27.656006+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 171000,
+    "b": "Limousine"
+  },
   "wh:1585015091": {
     "p": 2350,
     "f": "2026-06-25T04:59:25.543959+00:00",
@@ -145815,18 +145828,6 @@
     "mo": "Altea",
     "y": 2010,
     "km": 154000
-  },
-  "as:78468499-879f-4f8a-ad5a-2779d6634643": {
-    "p": null,
-    "f": "2026-06-16T17:56:39.200890+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
