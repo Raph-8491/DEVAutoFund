@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:1fc97891-e0f2-4cb1-aa14-ec030eab9813": {
+    "p": 7900,
+    "f": "2026-06-25T13:29:25.764721+00:00",
+    "u": "https://www.autoscout24.at/angebote/seat-arona-1-0-eco-tsi-reference-benzin-cat_ma64mo74664-1fc97891-e0f2-4cb1-aa14-ec030eab9813",
+    "t": "SEAT Arona 1,0 Eco TSI Reference",
+    "ts": "2026-06-25T13:29:25.764721+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Arona",
+    "y": 2018,
+    "km": 47000,
+    "b": ""
+  },
   "gw:1fc97891-e0f2-4cb1-aa14-ec030eab9813": {
     "p": 7900,
     "f": "2026-06-25T13:28:39.279192+00:00",
@@ -146591,18 +146604,6 @@
     "y": 2015,
     "km": 156659,
     "b": "SUV / Gel\u00e4ndewagen"
-  },
-  "wh:1537079415": {
-    "p": 7900,
-    "f": "2026-06-17T10:03:29.936877+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mitsubishi-asx-2-2-di-d-at-4wd-instyle-1537079415/",
-    "t": "Mitsubishi ASX 2,2 DI-D AT 4WD Instyle",
-    "ts": "2026-06-17T10:03:29.936877+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2013,
-    "km": 248996
   },
   "__health__": {
     "wh": 0,
