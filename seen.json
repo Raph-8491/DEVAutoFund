@@ -148,6 +148,58 @@
     "y": 2009,
     "km": 235000
   },
+  "as:a7b4bf2f-90c6-470a-98a8-07e7b049cdce": {
+    "p": null,
+    "f": "2026-06-25T13:17:31.977374+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1181573797": {
+    "p": 14790,
+    "f": "2026-06-25T13:17:28.699111+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-520d-f10-1181573797/",
+    "t": "BMW 5er-Reihe 520d F10",
+    "ts": "2026-06-25T13:17:28.699111+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "5er-Reihe",
+    "y": 2013,
+    "km": 165000,
+    "b": "Limousine",
+    "pu": "2026-06-25T13:17:28.699111+00:00"
+  },
+  "wh:1429037410": {
+    "p": 3500,
+    "f": "2026-06-25T13:17:28.699111+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1429037410/",
+    "t": "Seat Ibiza",
+    "ts": "2026-06-25T13:17:28.699111+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Ibiza",
+    "y": 2009,
+    "km": 146000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1151712576": {
+    "p": 2190,
+    "f": "2026-06-25T13:17:28.699111+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-seat-ibiza-1-2-erstbesitz-klima-pickerl-11-2026-8-fach-bereift-1151712576/",
+    "t": "Seat Ibiza SEAT Ibiza 1.2 | Erstbesitz | Klima | Pickerl 11/2026 | 8-fach bereift",
+    "ts": "2026-06-25T13:17:28.699111+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Ibiza",
+    "y": 2008,
+    "km": 203840,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:e264edcf-fa0d-411a-9e7d-e8c434d984dc": {
     "p": null,
     "f": "2026-06-25T13:13:27.600991+00:00",
@@ -125584,7 +125636,8 @@
     "ma": "Seat",
     "mo": "Ibiza",
     "y": 2011,
-    "km": 123125
+    "km": 123125,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:1862769526": {
     "p": 1000,
@@ -146531,54 +146584,6 @@
     "y": 2010,
     "km": 278000,
     "b": "Kombi / Family Van"
-  },
-  "gw:d5cd2432-18b9-431d-848b-5b0b4b7eb4fb": {
-    "p": 4000,
-    "f": "2026-06-17T09:51:46.636685+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/citroen-c5-tourer-hdi-165-fap-aut-exclusive-diesel-cat_ma21mo16525/d5cd2432-18b9-431d-848b-5b0b4b7eb4fb",
-    "t": "Citroen C5",
-    "ts": "2026-06-17T09:51:46.636685+00:00",
-    "ch": "alive",
-    "ma": "Citroen",
-    "mo": "C5",
-    "y": 2010,
-    "km": 177000
-  },
-  "as:d5cd2432-18b9-431d-848b-5b0b4b7eb4fb": {
-    "p": 4000,
-    "f": "2026-06-17T09:51:34.724004+00:00",
-    "u": "https://www.autoscout24.at/angebote/citroen-c5-tourer-hdi-165-fap-aut-exclusive-diesel-cat_ma21mo16525-d5cd2432-18b9-431d-848b-5b0b4b7eb4fb",
-    "t": "Citroen C5",
-    "ts": "2026-06-17T09:51:34.724004+00:00",
-    "ch": "alive",
-    "ma": "Citroen",
-    "mo": "C5",
-    "y": 2010,
-    "km": 177000
-  },
-  "as:e298a28f-aa1b-4f24-bf05-0e139de85cbb": {
-    "p": 399,
-    "f": "2026-06-17T09:51:34.724004+00:00",
-    "u": "https://www.autoscout24.at/angebote/ford-mondeo-mondeo-fliessheck-1-6-ti-vct-trend-benzin-weiss-cat_ma29mo1763-e298a28f-aa1b-4f24-bf05-0e139de85cbb",
-    "t": "Ford Mondeo",
-    "ts": "2026-06-17T09:51:34.724004+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Mondeo",
-    "y": 2008,
-    "km": 280000
-  },
-  "wh:1627194371": {
-    "p": 5500,
-    "f": "2026-06-17T09:51:32.720729+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/toyota-corolla-2-0-1627194371/",
-    "t": "Toyota Corolla 2,0",
-    "ts": "2026-06-17T09:51:32.720729+00:00",
-    "ch": "alive",
-    "ma": "Toyota",
-    "mo": "Corolla",
-    "y": 2009,
-    "km": 295000
   },
   "__health__": {
     "wh": 0,
