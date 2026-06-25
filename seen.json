@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:4cd5d2ab-d5a1-4d9a-844c-0f111bc81d9a": {
+    "p": 4350,
+    "f": "2026-06-25T08:13:28.622017+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/opel-zafira-1-6-classic-ecoflex-benzin-cat_ma54mo15660/4cd5d2ab-d5a1-4d9a-844c-0f111bc81d9a",
+    "t": "Opel Zafira 1,6 Classic ecoflex",
+    "ts": "2026-06-25T08:13:28.622017+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Zafira",
+    "y": 2013,
+    "km": 214092,
+    "b": ""
+  },
+  "as:4cd5d2ab-d5a1-4d9a-844c-0f111bc81d9a": {
+    "p": 4350,
+    "f": "2026-06-25T08:13:23.146849+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-zafira-1-6-classic-ecoflex-benzin-cat_ma54mo15660-4cd5d2ab-d5a1-4d9a-844c-0f111bc81d9a",
+    "t": "Opel Zafira 1,6 Classic ecoflex",
+    "ts": "2026-06-25T08:13:23.146849+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Zafira",
+    "y": 2013,
+    "km": 214092,
+    "b": ""
+  },
+  "as:8b61f303-2385-431d-8198-0dad9283c0b4": {
+    "p": 14499,
+    "f": "2026-06-25T08:13:23.146849+00:00",
+    "u": "https://www.autoscout24.at/angebote/skoda-octavia-combi-2-0-tdi-dsg-rs-diesel-cat_ma65mo15222-8b61f303-2385-431d-8198-0dad9283c0b4",
+    "t": "Skoda Octavia Combi 2.0 TDI DSG RS",
+    "ts": "2026-06-25T08:13:23.146849+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Octavia",
+    "y": 2018,
+    "km": 161000,
+    "b": ""
+  },
   "wh:831778036": {
     "p": 5750,
     "f": "2026-06-25T08:12:28.367945+00:00",
@@ -146030,42 +146069,6 @@
     "mo": "A3",
     "y": 2010,
     "km": 180000
-  },
-  "as:2150f814-7ca0-458f-b05c-e4714e6258e1": {
-    "p": 9999,
-    "f": "2026-06-16T19:37:30.503910+00:00",
-    "u": "https://www.autoscout24.at/angebote/mercedes-benz-glk-350-cdi-dpf-4matic-7g-tronic-diesel-cat_ma47mo19183-2150f814-7ca0-458f-b05c-e4714e6258e1",
-    "t": "Mercedes-Benz GLK 350",
-    "ts": "2026-06-16T19:37:30.503910+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "GLK 350",
-    "y": 2009,
-    "km": 241000
-  },
-  "wh:1515608500": {
-    "p": 3500,
-    "f": "2026-06-16T19:37:27.624214+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-fabia-combi-style-1-0-tsi-1515608500/",
-    "t": "Skoda Fabia Combi Style 1,0 TSI",
-    "ts": "2026-06-16T19:37:27.624214+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Fabia",
-    "y": 2017,
-    "km": 264548
-  },
-  "as:3f2353f2-e9a4-4c72-83de-c4d9aea5d133": {
-    "p": null,
-    "f": "2026-06-16T19:36:35.525669+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
