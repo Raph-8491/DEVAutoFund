@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1004135501": {
+    "p": 8900,
+    "f": "2026-06-25T08:35:30.829988+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-dokker-dacia-dokker-laureate-dci-90-1004135501/",
+    "t": "Dacia Dokker Dacia Dokker Laur\u00e9ate dCi 90",
+    "ts": "2026-06-25T08:35:30.829988+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 79737,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1455616110": {
+    "p": 4500,
+    "f": "2026-06-25T08:35:30.829988+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x1-xdrive-18d-1455616110/",
+    "t": "BMW X1 xDrive 18d",
+    "ts": "2026-06-25T08:35:30.829988+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X1",
+    "y": 2013,
+    "km": 256000,
+    "b": "Limousine",
+    "pu": "2026-06-25T08:35:30.829988+00:00"
+  },
   "as:424ecf63-1ffb-49cc-bc4e-a5c1c0cf5e7e": {
     "p": null,
     "f": "2026-06-25T08:34:27.940395+00:00",
@@ -146084,30 +146111,6 @@
     "mo": "A5",
     "y": 2013,
     "km": 331000
-  },
-  "as:d88975db-8922-40c2-b252-fff17a26e366": {
-    "p": null,
-    "f": "2026-06-16T19:57:31.467049+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:b11dc4be-c46f-422e-92e8-7e2cedfcf515": {
-    "p": null,
-    "f": "2026-06-16T19:56:35.647352+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
