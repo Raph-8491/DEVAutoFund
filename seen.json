@@ -147,6 +147,34 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1923653616": {
+    "p": 12500,
+    "f": "2026-06-25T06:49:22.578669+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-f07-530d-gran-turismo-aut-m-paket-shadow-line-pickerl-neu-1923653616/",
+    "t": "BMW 5er-Reihe F07 530d Gran Turismo Aut. M-Paket - Shadow Line, Pickerl Neu",
+    "ts": "2026-06-25T06:49:22.578669+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "5er-Reihe",
+    "y": 2010,
+    "km": 240000,
+    "b": "Limousine",
+    "pu": "2026-06-25T06:49:22.578669+00:00"
+  },
+  "wh:2024547245": {
+    "p": 8500,
+    "f": "2026-06-25T06:49:22.578669+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-7er-reihe-730d-x-drive-schweizer-papiere-2024547245/",
+    "t": "BMW 7er-Reihe 730D X Drive- Schweizer Papiere",
+    "ts": "2026-06-25T06:49:22.578669+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "7er-Reihe",
+    "y": 2009,
+    "km": 285000,
+    "b": "Limousine",
+    "pu": "2026-06-25T06:49:22.578669+00:00"
+  },
   "wh:1349608558": {
     "p": 12500,
     "f": "2026-06-25T06:47:21.056128+00:00",
@@ -145916,30 +145944,6 @@
     "mo": null,
     "y": 2008,
     "km": 63037
-  },
-  "wh:1668269008": {
-    "p": 2800,
-    "f": "2026-06-16T18:38:39.952302+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-20-dti-1668269008/",
-    "t": "VW Passat 20 DTI",
-    "ts": "2026-06-16T18:38:39.952302+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2008,
-    "km": 279059
-  },
-  "as:1e59bdd6-faf6-4544-952e-d36943a04354": {
-    "p": 4999,
-    "f": "2026-06-16T18:36:46.135094+00:00",
-    "u": "https://www.autoscout24.at/angebote/fiat-500-500-1-2-pop-benzin-beige-cat_ma28mo15160-1e59bdd6-faf6-4544-952e-d36943a04354",
-    "t": "Fiat 500",
-    "ts": "2026-06-16T18:36:46.135094+00:00",
-    "ch": "alive",
-    "ma": "Fiat",
-    "mo": "500",
-    "y": 2009,
-    "km": 77800
   },
   "__health__": {
     "wh": 0,
