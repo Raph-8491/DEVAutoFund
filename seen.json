@@ -147,6 +147,20 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:916079060": {
+    "p": 14790,
+    "f": "2026-06-25T05:46:26.293793+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-sharan-business-916079060/",
+    "t": "VW Sharan Business",
+    "ts": "2026-06-25T05:46:26.293793+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Sharan",
+    "y": 2016,
+    "km": 240000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T05:46:26.293793+00:00"
+  },
   "wh:1630259790": {
     "p": 1000,
     "f": "2026-06-25T05:44:24.031970+00:00",
@@ -123386,7 +123400,8 @@
     "ma": "Audi",
     "mo": "A1",
     "y": 2015,
-    "km": 112070
+    "km": 112070,
+    "b": "Limousine"
   },
   "gw:378aee62-5abc-426a-b1b2-2c5af9cba78c": {
     "p": 4500,
@@ -145849,18 +145864,6 @@
     "mo": "Passat",
     "y": 2012,
     "km": 288246
-  },
-  "wh:966384051": {
-    "p": 599,
-    "f": "2026-06-16T18:12:35.240397+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-benzin-mit-kat-966384051/",
-    "t": "VW Polo Benzin mit Kat",
-    "ts": "2026-06-16T18:12:35.240397+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2009,
-    "km": 279627
   },
   "__health__": {
     "wh": 0,
