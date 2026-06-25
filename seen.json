@@ -147,6 +147,20 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1794638607": {
+    "p": 15000,
+    "f": "2026-06-25T03:55:38.639758+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touareg-1794638607/",
+    "t": "VW Touareg",
+    "ts": "2026-06-25T03:55:38.639758+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Touareg",
+    "y": 2016,
+    "km": 236000,
+    "b": "SUV / Gel\u00e4ndewagen",
+    "pu": "2026-06-25T03:55:38.639758+00:00"
+  },
   "as:7323ffed-b0a7-4932-8f77-495a39b7cafd": {
     "p": null,
     "f": "2026-06-25T03:50:43.347427+00:00",
@@ -145784,18 +145798,6 @@
     "mo": null,
     "y": 2010,
     "km": 174000
-  },
-  "as:df655603-3228-49dd-8bc2-a9acb1371002": {
-    "p": 5100,
-    "f": "2026-06-16T17:46:43.161122+00:00",
-    "u": "https://www.autoscout24.at/angebote/mazda-cx-5-2-2-skyactiv-d-awd-sports-line-diesel-cat_ma46mo19723-df655603-3228-49dd-8bc2-a9acb1371002",
-    "t": "Mazda CX-5",
-    "ts": "2026-06-16T17:46:43.161122+00:00",
-    "ch": "alive",
-    "ma": "Mazda",
-    "mo": "CX-5",
-    "y": 2012,
-    "km": 215000
   },
   "__health__": {
     "wh": 0,
