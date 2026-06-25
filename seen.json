@@ -148,6 +148,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1510788653": {
+    "p": 15000,
+    "f": "2026-06-25T14:16:29.301024+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-kuga-2-0-tdci-titanium-4x4-aut-1510788653/",
+    "t": "Ford Kuga 2,0 TDCi Titanium 4x4 Aut.",
+    "ts": "2026-06-25T14:16:29.301024+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 70000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:2008526000": {
+    "p": 6699,
+    "f": "2026-06-25T14:16:29.301024+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda3-2-2d-150hp-2008526000/",
+    "t": "Mazda Mazda3 2.2D 150hp",
+    "ts": "2026-06-25T14:16:29.301024+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2014,
+    "km": 75221,
+    "b": "Limousine"
+  },
   "as:e7cc5445-973d-4002-887c-38bafccb24ca": {
     "p": null,
     "f": "2026-06-25T14:11:34.957901+00:00",
@@ -125641,7 +125667,8 @@
     "ma": "Skoda",
     "mo": "Octavia",
     "y": 2014,
-    "km": 214000
+    "km": 214000,
+    "b": "Kombi / Family Van"
   },
   "wh:1730183800": {
     "p": 11490,
@@ -146630,30 +146657,6 @@
     "mo": null,
     "y": 2012,
     "km": 316000
-  },
-  "gw:24a454ff-3f22-4c68-a54b-f31104390188": {
-    "p": 6500,
-    "f": "2026-06-17T10:39:41.963937+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/peugeot-207-rc-1-6-16v-benzin-cat_ma55mo18797/24a454ff-3f22-4c68-a54b-f31104390188",
-    "t": "Peugeot 207",
-    "ts": "2026-06-17T10:39:41.963937+00:00",
-    "ch": "alive",
-    "ma": "Peugeot",
-    "mo": "207",
-    "y": 2008,
-    "km": 139000
-  },
-  "as:24a454ff-3f22-4c68-a54b-f31104390188": {
-    "p": 6500,
-    "f": "2026-06-17T10:39:33.276452+00:00",
-    "u": "https://www.autoscout24.at/angebote/peugeot-207-rc-1-6-16v-benzin-cat_ma55mo18797-24a454ff-3f22-4c68-a54b-f31104390188",
-    "t": "Peugeot 207",
-    "ts": "2026-06-17T10:39:33.276452+00:00",
-    "ch": "alive",
-    "ma": "Peugeot",
-    "mo": "207",
-    "y": 2008,
-    "km": 139000
   },
   "__health__": {
     "wh": 0,
