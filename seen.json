@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:863963659": {
+    "p": 5290,
+    "f": "2026-06-25T09:05:37.791565+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i20-863963659/",
+    "t": "Hyundai i20",
+    "ts": "2026-06-25T09:05:37.791565+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 63300,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1789096245": {
+    "p": 5500,
+    "f": "2026-06-25T09:05:37.791565+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-2-0tdi-pickel-7-27-service-historie-1789096245/",
+    "t": "Audi A4 2.0TDI Pickel 7//27 Service Historie",
+    "ts": "2026-06-25T09:05:37.791565+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2011,
+    "km": 347085,
+    "b": "Kombi / Family Van"
+  },
   "wh:1262715290": {
     "p": 1600,
     "f": "2026-06-25T09:04:30.498844+00:00",
@@ -146136,30 +146162,6 @@
     "y": 2011,
     "km": 259618,
     "b": "Kombi / Family Van"
-  },
-  "wh:1356135458": {
-    "p": 8500,
-    "f": "2026-06-16T20:42:39.020138+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-e91-325d-1356135458/",
-    "t": "BMW 3er-Reihe E91 325d",
-    "ts": "2026-06-16T20:42:39.020138+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2010,
-    "km": 333000
-  },
-  "wh:1919862956": {
-    "p": 9500,
-    "f": "2026-06-16T20:38:27.202756+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-cc-2-0-tdi-1919862956/",
-    "t": "VW Passat CC 2.0 TDI",
-    "ts": "2026-06-16T20:38:27.202756+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2010,
-    "km": 119750
   },
   "__health__": {
     "wh": 0,
