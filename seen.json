@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:40a9e53d-8a2f-48fc-9bcd-763ea5e40d02": {
+    "p": null,
+    "f": "2026-06-25T07:38:29.341503+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:2063533109": {
     "p": 7900,
     "f": "2026-06-25T07:37:28.130745+00:00",
@@ -146004,18 +146016,6 @@
     "mo": "Alhambra",
     "y": 2011,
     "km": 188460
-  },
-  "wh:991361063": {
-    "p": 8500,
-    "f": "2026-06-16T19:02:37.570944+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1-0-reference-991361063/",
-    "t": "Seat Ibiza 1.0 Reference",
-    "ts": "2026-06-16T19:02:37.570944+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2018,
-    "km": 93564
   },
   "__health__": {
     "wh": 0,
