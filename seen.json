@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1806279226": {
+    "p": 1500,
+    "f": "2026-06-25T06:51:21.715450+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-308-sw-1-6-hdi-95-comfort-1806279226/",
+    "t": "Peugeot 308 SW 1,6 HDi 95 Comfort",
+    "ts": "2026-06-25T06:51:21.715450+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 256000,
+    "b": "Kombi / Family Van"
+  },
   "wh:1923653616": {
     "p": 12500,
     "f": "2026-06-25T06:49:22.578669+00:00",
@@ -145932,18 +145945,6 @@
     "mo": "Roomster",
     "y": 2012,
     "km": 146300
-  },
-  "wh:2138973165": {
-    "p": 4800,
-    "f": "2026-06-16T18:38:39.952302+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ligier-xtoor-2138973165/",
-    "t": "Ligier XTOOR",
-    "ts": "2026-06-16T18:38:39.952302+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 63037
   },
   "__health__": {
     "wh": 0,
