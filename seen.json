@@ -148,6 +148,45 @@
     "y": 2009,
     "km": 235000
   },
+  "as:1049cd54-4ee1-47d9-b429-86c142b09178": {
+    "p": null,
+    "f": "2026-06-25T14:55:39.043289+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1526297242": {
+    "p": 6500,
+    "f": "2026-06-25T14:55:36.735392+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/honda-accord-tourer-2-2i-dtec-executive-1526297242/",
+    "t": "Honda Accord Tourer 2,2i-DTEC Executive",
+    "ts": "2026-06-25T14:55:36.735392+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 165000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:891083155": {
+    "p": 9000,
+    "f": "2026-06-25T14:55:36.735392+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-b7-891083155/",
+    "t": "Audi A4 B7",
+    "ts": "2026-06-25T14:55:36.735392+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2010,
+    "km": 178000,
+    "b": "Limousine",
+    "pu": "2026-06-25T14:55:36.735392+00:00"
+  },
   "gw:e3813d2f-d2cb-4830-a5e6-45df9932d485": {
     "p": 9000,
     "f": "2026-06-25T14:54:37.948722+00:00",
@@ -615,11 +654,11 @@
     "b": "Kombi / Family Van"
   },
   "wh:1630330729": {
-    "p": 10500,
+    "p": 10000,
     "f": "2026-06-25T14:34:32.200889+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-kuga-trend-2-0-tdc-1630330729/",
     "t": "Ford Kuga Trend 2.0 TDC",
-    "ts": "2026-06-25T14:34:32.200889+00:00",
+    "ts": "2026-06-25T14:55:36.735392+00:00",
     "ch": null,
     "ma": null,
     "mo": null,
@@ -146686,43 +146725,6 @@
     "mo": "Octavia",
     "y": 2016,
     "km": 266000
-  },
-  "wh:2110766921": {
-    "p": 450,
-    "f": "2026-06-17T11:40:40.861536+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-trend-1-25-2110766921/",
-    "t": "Ford Fiesta Trend 1,25",
-    "ts": "2026-06-17T11:40:40.861536+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 255000
-  },
-  "wh:1799588016": {
-    "p": 6850,
-    "f": "2026-06-17T11:40:40.861536+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-3008-1799588016/",
-    "t": "Peugeot 3008",
-    "ts": "2026-06-17T11:40:40.861536+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2015,
-    "km": 116000,
-    "b": "SUV / Gel\u00e4ndewagen"
-  },
-  "wh:1386049744": {
-    "p": 6000,
-    "f": "2026-06-17T11:38:26.946344+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/jaguar-xf-2-2-liter-1386049744/",
-    "t": "Jaguar XF 2.2 Liter",
-    "ts": "2026-06-17T11:38:26.946344+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 245000
   },
   "__health__": {
     "wh": 0,
