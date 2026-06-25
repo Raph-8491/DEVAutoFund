@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1394717329": {
+    "p": 12490,
+    "f": "2026-06-25T05:28:35.156339+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-c-max-titanium-1-5-ecoboost-aut-1394717329/",
+    "t": "Ford C-MAX Titanium 1,5 EcoBoost Aut.",
+    "ts": "2026-06-25T05:28:35.156339+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2017,
+    "km": 52600,
+    "b": "Kombi / Family Van"
+  },
   "wh:1058680915": {
     "p": 14990,
     "f": "2026-06-25T05:23:22.678386+00:00",
@@ -145833,18 +145846,6 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-318-318d-xdrive-touring-diesel-cat_ma13mo1640/b3578ab2-bf98-40e8-918c-22e190621729",
     "t": "BMW 318",
     "ts": "2026-06-16T18:32:00.526119+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "318",
-    "y": 2013,
-    "km": 203000
-  },
-  "as:b3578ab2-bf98-40e8-918c-22e190621729": {
-    "p": 10000,
-    "f": "2026-06-16T18:09:27.084581+00:00",
-    "u": "https://www.autoscout24.at/angebote/bmw-318-318d-xdrive-touring-diesel-cat_ma13mo1640-b3578ab2-bf98-40e8-918c-22e190621729",
-    "t": "BMW 318",
-    "ts": "2026-06-16T18:31:48.096476+00:00",
     "ch": "alive",
     "ma": "BMW",
     "mo": "318",
