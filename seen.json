@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:b1cf5f0a-d440-43cb-8f80-35b1c9ba29f8": {
+    "p": 13900,
+    "f": "2026-06-25T16:48:32.579371+00:00",
+    "u": "https://www.autoscout24.at/angebote/bmw-x1-x1-sdrive20d-diesel-silber-cat_ma13mo19242-b1cf5f0a-d440-43cb-8f80-35b1c9ba29f8",
+    "t": "BMW X1 X1 sDrive20d",
+    "ts": "2026-06-25T16:48:32.579371+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X1",
+    "y": 2017,
+    "km": 179000,
+    "b": ""
+  },
   "gw:b1cf5f0a-d440-43cb-8f80-35b1c9ba29f8": {
     "p": 13900,
     "f": "2026-06-25T16:47:33.819530+00:00",
@@ -146905,18 +146918,6 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-320-320d-touring-aut-diesel-cat_ma13mo1641/2b15da30-e23a-43fb-acd1-34af5731bf62",
     "t": "BMW 320",
     "ts": "2026-06-17T14:31:57.052640+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "320",
-    "y": 2013,
-    "km": 267000
-  },
-  "as:2b15da30-e23a-43fb-acd1-34af5731bf62": {
-    "p": 9000,
-    "f": "2026-06-17T14:31:46.245508+00:00",
-    "u": "https://www.autoscout24.at/angebote/bmw-320-320d-touring-aut-diesel-cat_ma13mo1641-2b15da30-e23a-43fb-acd1-34af5731bf62",
-    "t": "BMW 320",
-    "ts": "2026-06-17T14:31:46.245508+00:00",
     "ch": "alive",
     "ma": "BMW",
     "mo": "320",
