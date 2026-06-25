@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:7824031a-5097-44c4-8bb6-995a94ab7c4a": {
+    "p": null,
+    "f": "2026-06-25T13:40:45.097221+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:07cc8b3b-2b15-4889-8b14-bbb3961a25ae": {
     "p": 10100,
     "f": "2026-06-25T13:39:27.082053+00:00",
@@ -193,7 +205,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-t5-transporter-2-0-tdi-2044094129/",
     "t": "VW T5 Transporter 2.0 Tdi",
     "ts": "2026-06-25T13:37:25.947740+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "T5",
     "y": 2012,
@@ -146600,18 +146612,6 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/audi-a4-avant-2-0-tdi-dpf-pickerl-neu-diesel-cat_ma9mo1626/6f93a6bc-40a4-4d62-a19d-6fedbe9f5255",
     "t": "Audi A4",
     "ts": "2026-06-17T10:09:45.550446+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2008,
-    "km": 275000
-  },
-  "as:6f93a6bc-40a4-4d62-a19d-6fedbe9f5255": {
-    "p": 5900,
-    "f": "2026-06-17T10:09:34.431677+00:00",
-    "u": "https://www.autoscout24.at/angebote/audi-a4-avant-2-0-tdi-dpf-pickerl-neu-diesel-cat_ma9mo1626-6f93a6bc-40a4-4d62-a19d-6fedbe9f5255",
-    "t": "Audi A4",
-    "ts": "2026-06-17T10:09:34.431677+00:00",
     "ch": "alive",
     "ma": "Audi",
     "mo": "A4",
