@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1369337254": {
+    "p": 8900,
+    "f": "2026-06-25T06:59:20.740991+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-c-220-cdi-kombi-1369337254/",
+    "t": "Mercedes-Benz C-Klasse C 220 CDI Kombi",
+    "ts": "2026-06-25T06:59:20.740991+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "C-Klasse",
+    "y": 2013,
+    "km": 236500,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1683576175": {
+    "p": 2950,
+    "f": "2026-06-25T06:59:20.740991+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-scenic-iii-tomtom-edition-2011-1-5-dci-edc-dpf-1683576175/",
+    "t": "Renault Sc\u00e9nic III TomTom Edition 2011 1,5 dCi EDC DPF",
+    "ts": "2026-06-25T06:59:20.740991+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 147500,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1835633500": {
+    "p": 11300,
+    "f": "2026-06-25T06:59:20.740991+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-c-180-t-cdi-avantgarde-blueefficiency-modell-204-1835633500/",
+    "t": "Mercedes-Benz C-Klasse C 180 T CDI Avantgarde BlueEfficiency Modell 204",
+    "ts": "2026-06-25T06:59:20.740991+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "C-Klasse",
+    "y": 2015,
+    "km": 129000,
+    "b": "Kombi / Family Van"
+  },
   "as:19234e2f-3f94-48b3-b425-1e949dae319c": {
     "p": 6250,
     "f": "2026-06-25T06:58:27.734554+00:00",
@@ -145918,42 +145957,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:396b1ef6-0f2b-4cc8-bc52-2d69820c76d1": {
-    "p": null,
-    "f": "2026-06-16T18:41:32.943049+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:2003847703": {
-    "p": 2300,
-    "f": "2026-06-16T18:41:28.851750+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-titanium-2-0-2003847703/",
-    "t": "Ford Galaxy Titanium 2.0",
-    "ts": "2026-06-16T18:41:28.851750+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 357000
-  },
-  "wh:1067729481": {
-    "p": 2300,
-    "f": "2026-06-16T18:41:28.851750+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-b8-1067729481/",
-    "t": "Audi A4 B8",
-    "ts": "2026-06-16T18:41:28.851750+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2008,
-    "km": 340000
   },
   "__health__": {
     "wh": 0,
