@@ -148,6 +148,30 @@
     "y": 2009,
     "km": 235000
   },
+  "as:380bb50e-5c2e-42e3-a9c0-0b67199cb9b0": {
+    "p": null,
+    "f": "2026-06-25T10:03:22.337077+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:44725b6d-dbc3-481b-80c3-b16a36f2bf8e": {
+    "p": null,
+    "f": "2026-06-25T10:03:22.337077+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1531756700": {
     "p": 8500,
     "f": "2026-06-25T10:01:31.720168+00:00",
@@ -146245,30 +146269,6 @@
     "y": 2009,
     "km": 235000,
     "b": "SUV / Gel\u00e4ndewagen"
-  },
-  "as:5878712e-0c46-47c2-ab07-1f3785f56c1e": {
-    "p": 4250,
-    "f": "2026-06-17T04:25:43.137296+00:00",
-    "u": "https://www.autoscout24.at/angebote/bmw-x1-x1-xdrive18d-diesel-silber-cat_ma13mo19242-5878712e-0c46-47c2-ab07-1f3785f56c1e",
-    "t": "BMW X1",
-    "ts": "2026-06-17T04:25:43.137296+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "X1",
-    "y": 2010,
-    "km": 320000
-  },
-  "as:67419bb0-e5cf-4805-aec6-666f0b8f6b2d": {
-    "p": null,
-    "f": "2026-06-17T04:23:29.263990+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
