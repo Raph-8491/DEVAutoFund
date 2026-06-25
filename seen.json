@@ -148,6 +148,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:cc1330a0-9cbf-4733-9b54-d5a2cd10178a": {
+    "p": 9500,
+    "f": "2026-06-25T15:57:31.954881+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/renault-clio-clio-life-sce-65-life-benzin-weiss-cat_ma60mo1961/cc1330a0-9cbf-4733-9b54-d5a2cd10178a",
+    "t": "Renault Clio Clio Life SCe 65 Life",
+    "ts": "2026-06-25T15:57:31.954881+00:00",
+    "ch": null,
+    "ma": "Renault",
+    "mo": "Clio",
+    "y": 2022,
+    "km": 37000,
+    "b": ""
+  },
+  "as:528d52e7-af6b-44c0-a3fe-8b8455837786": {
+    "p": 13000,
+    "f": "2026-06-25T15:57:25.422410+00:00",
+    "u": "https://www.autoscout24.at/angebote/bmw-116-116i-m-sport-benzin-cat_ma13mo18480-528d52e7-af6b-44c0-a3fe-8b8455837786",
+    "t": "BMW 116 116i M Sport",
+    "ts": "2026-06-25T15:57:25.422410+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "116",
+    "y": 2018,
+    "km": 144050,
+    "b": ""
+  },
   "gw:528d52e7-af6b-44c0-a3fe-8b8455837786": {
     "p": 13000,
     "f": "2026-06-25T15:56:34.838086+00:00",
@@ -233,7 +259,7 @@
     "u": "https://www.autoscout24.at/angebote/volkswagen-up-up-beats-benzin-schwarz-cat_ma74mo19750-e8f1372b-68dc-42ae-bddf-4ea4a7acc803",
     "t": "Volkswagen up! up! beats",
     "ts": "2026-06-25T15:54:33.533981+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "up!",
     "y": 2020,
@@ -260,7 +286,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-2-0-tdi-1369938487/",
     "t": "Audi A4 2,0 TDI",
     "ts": "2026-06-25T15:54:29.606618+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A4",
     "y": 2013,
@@ -146802,30 +146828,6 @@
     "mo": null,
     "y": 2014,
     "km": 251257
-  },
-  "wh:1350087724": {
-    "p": 4290,
-    "f": "2026-06-17T13:13:33.054951+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-2-0-tdi-1350087724/",
-    "t": "VW Passat 2.0 tdi",
-    "ts": "2026-06-17T13:13:33.054951+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2009,
-    "km": 265000
-  },
-  "as:a8e0f270-54cd-4724-b968-bebbbdb14f67": {
-    "p": 3900,
-    "f": "2026-06-17T13:11:36.640880+00:00",
-    "u": "https://www.autoscout24.at/angebote/honda-civic-1-8i-vtec-sport-benzin-schwarz-cat_ma31mo1775-a8e0f270-54cd-4724-b968-bebbbdb14f67",
-    "t": "Honda Civic",
-    "ts": "2026-06-17T13:11:36.640880+00:00",
-    "ch": "alive",
-    "ma": "Honda",
-    "mo": "Civic",
-    "y": 2009,
-    "km": 252000
   },
   "__health__": {
     "wh": 0,
