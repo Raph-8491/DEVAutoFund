@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:873247e7-031e-43c8-8bba-8e7fa73e8d64": {
+    "p": null,
+    "f": "2026-06-25T08:43:24.222722+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:fadcffe1-1088-421b-8d37-5b933b31847d": {
     "p": null,
     "f": "2026-06-25T08:42:26.268046+00:00",
@@ -146098,18 +146110,6 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-320-320d-xdrive-coupe-aut-m-paket-diesel-cat_ma13mo1641/0ddf1862-91c3-48f3-ac3f-8effea4c0e69",
     "t": "BMW 320",
     "ts": "2026-06-16T19:58:50.886709+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "320",
-    "y": 2009,
-    "km": 294000
-  },
-  "as:0ddf1862-91c3-48f3-ac3f-8effea4c0e69": {
-    "p": 8500,
-    "f": "2026-06-16T19:58:40.309819+00:00",
-    "u": "https://www.autoscout24.at/angebote/bmw-320-320d-xdrive-coupe-aut-m-paket-diesel-cat_ma13mo1641-0ddf1862-91c3-48f3-ac3f-8effea4c0e69",
-    "t": "BMW 320",
-    "ts": "2026-06-16T19:58:40.309819+00:00",
     "ch": "alive",
     "ma": "BMW",
     "mo": "320",
