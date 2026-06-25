@@ -148,6 +148,57 @@
     "y": 2009,
     "km": 235000
   },
+  "as:ba3fd549-01b6-4e6a-92f5-1399d70b04e4": {
+    "p": null,
+    "f": "2026-06-25T14:02:30.601782+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:61a0fdf0-232f-4a07-b2bb-9e80d9cd1f97": {
+    "p": null,
+    "f": "2026-06-25T14:02:30.601782+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1354620740": {
+    "p": 10000,
+    "f": "2026-06-25T14:02:29.180056+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-sharan-2-0-tdi-bluemotion-1354620740/",
+    "t": "VW Sharan 2.0 TDI BlueMotion",
+    "ts": "2026-06-25T14:02:29.180056+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Sharan",
+    "y": 2012,
+    "km": 230000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T14:02:29.180056+00:00"
+  },
+  "wh:1601867860": {
+    "p": 7000,
+    "f": "2026-06-25T14:02:29.180056+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1-2-1601867860/",
+    "t": "Seat Ibiza 1.2",
+    "ts": "2026-06-25T14:02:29.180056+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Ibiza",
+    "y": 2015,
+    "km": 145262,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:4da2a1a1-ab79-4456-8335-fcc00c6bed5a": {
     "p": null,
     "f": "2026-06-25T14:01:37.678200+00:00",
@@ -146590,55 +146641,6 @@
     "mo": "Fiesta",
     "y": 2017,
     "km": 26957
-  },
-  "as:5360eb3b-340b-4ebf-8825-fb96872a5b66": {
-    "p": 9890,
-    "f": "2026-06-17T10:29:27.620654+00:00",
-    "u": "https://www.autoscout24.at/angebote/ford-fiesta-trend-benzin-grau-cat_ma29mo1758-5360eb3b-340b-4ebf-8825-fb96872a5b66",
-    "t": "Ford Fiesta",
-    "ts": "2026-06-17T10:29:27.620654+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Fiesta",
-    "y": 2017,
-    "km": 26957
-  },
-  "as:b08dbd75-141d-412d-a060-6fc2522264e8": {
-    "p": null,
-    "f": "2026-06-17T10:29:27.620654+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1311939623": {
-    "p": 6300,
-    "f": "2026-06-17T10:29:24.443519+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-207-1-6-rc-1311939623/",
-    "t": "Peugeot 207 1.6 RC",
-    "ts": "2026-06-17T11:02:26.301029+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 139000
-  },
-  "wh:1226962129": {
-    "p": 8000,
-    "f": "2026-06-17T10:28:27.045539+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/nissan-juke-1-5-dci-acenta-1226962129/",
-    "t": "Nissan Juke 1,5 dCi Acenta",
-    "ts": "2026-06-24T10:27:25.001325+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2015,
-    "km": 143000,
-    "b": "SUV / Gel\u00e4ndewagen"
   },
   "__health__": {
     "wh": 0,
