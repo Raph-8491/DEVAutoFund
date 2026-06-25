@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1827154039": {
+    "p": 6490,
+    "f": "2026-06-25T11:24:28.409033+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-rio-titan-1827154039/",
+    "t": "KIA Rio Titan",
+    "ts": "2026-06-25T11:24:28.409033+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2016,
+    "km": 21000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "gw:059311b7-11d9-4952-8f84-e15bbc2067c8": {
     "p": 11500,
     "f": "2026-06-25T11:23:33.275897+00:00",
@@ -233,7 +246,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a5-coupe-3-0-tdi-1692996312/",
     "t": "Audi A5 Coup\u00e9 3.0 TDI",
     "ts": "2026-06-25T11:20:44.756236+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A5",
     "y": 2008,
@@ -146390,18 +146403,6 @@
     "mo": "207",
     "y": 2009,
     "km": 60000
-  },
-  "as:714defad-3ace-434d-a914-60255ecc7a7f": {
-    "p": 5700,
-    "f": "2026-06-17T07:31:38.891198+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-polo-r-line-benzin-weiss-cat_ma74mo2090-714defad-3ace-434d-a914-60255ecc7a7f",
-    "t": "Volkswagen Polo",
-    "ts": "2026-06-17T07:31:38.891198+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2014,
-    "km": 82000
   },
   "__health__": {
     "wh": 0,
