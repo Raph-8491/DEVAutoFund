@@ -148,6 +148,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:0c665e6a-660a-422b-a577-e21f4b563df0": {
+    "p": null,
+    "f": "2026-06-25T09:47:25.386367+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1742806540": {
+    "p": 695,
+    "f": "2026-06-25T09:47:24.543625+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-titanium-2-0-tdci-dpf-aut-1742806540/",
+    "t": "Ford Galaxy Titanium 2,0 TDCi DPF Aut.",
+    "ts": "2026-06-25T09:47:24.543625+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 303000,
+    "b": "Kombi / Family Van"
+  },
   "wh:1730524131": {
     "p": 10500,
     "f": "2026-06-25T09:45:44.254260+00:00",
@@ -168,7 +193,7 @@
     "u": "https://www.autoscout24.at/angebote/volkswagen-golf-variant-1-6-automatik-trendline-benzin-cat_ma74mo20340-ce2b9e41-9bc8-4db6-b38c-073318e81089",
     "t": "Volkswagen Golf Variant 1.6 Automatik Trendline",
     "ts": "2026-06-25T09:44:29.822252+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf Variant",
     "y": 2008,
@@ -146203,30 +146228,6 @@
     "km": null
   },
   "as:8ae3ff0d-e646-43f2-9107-3ba3042bb38f": {
-    "p": null,
-    "f": "2026-06-17T01:01:52.138051+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:f0462f96-fcf5-484c-bc3c-8062c607ac53": {
-    "p": 5600,
-    "f": "2026-06-17T01:01:52.138051+00:00",
-    "u": "https://www.autoscout24.at/angebote/skoda-octavia-1-6-tdi-ambition-greenline-diesel-silber-cat_ma65mo15222-f0462f96-fcf5-484c-bc3c-8062c607ac53",
-    "t": "Skoda Octavia",
-    "ts": "2026-06-17T01:01:52.138051+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2015,
-    "km": 280000
-  },
-  "as:e77ee56e-c759-4835-b9f0-b26d3779ebc2": {
     "p": null,
     "f": "2026-06-17T01:01:52.138051+00:00",
     "u": null,
