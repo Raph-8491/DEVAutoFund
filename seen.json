@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1278408487": {
+    "p": 13500,
+    "f": "2026-06-25T06:33:27.108042+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-320d-coupe-m-sportpaket-lci-1278408487/",
+    "t": "BMW 3er-Reihe 320d Coup\u00e9 M-Sportpaket LCI",
+    "ts": "2026-06-25T06:33:27.108042+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "3er-Reihe",
+    "y": 2011,
+    "km": 180000,
+    "b": "Sportwagen / Coup\u00e9",
+    "pu": "2026-06-25T06:33:27.108042+00:00"
+  },
+  "wh:1015509925": {
+    "p": 2000,
+    "f": "2026-06-25T06:33:27.108042+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda5-cd110-1015509925/",
+    "t": "Mazda Mazda5 CD110",
+    "ts": "2026-06-25T06:33:27.108042+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 272368,
+    "b": "Kombi / Family Van"
+  },
   "as:2bfe08aa-15ea-44c2-b725-5078b1d77929": {
     "p": null,
     "f": "2026-06-25T06:29:27.873472+00:00",
@@ -123221,7 +123248,8 @@
     "ma": "Audi",
     "mo": "A3",
     "y": 2017,
-    "km": 200000
+    "km": 200000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "as:665ea567-108d-4190-8d6a-14b164d60711": {
     "p": 10500,
@@ -145888,30 +145916,6 @@
     "mo": "A4",
     "y": 2009,
     "km": 267000
-  },
-  "as:693aaf2c-7521-40e1-92fb-646ab0f23d37": {
-    "p": 10500,
-    "f": "2026-06-16T18:29:26.612080+00:00",
-    "u": "https://www.autoscout24.at/angebote/audi-a5-sb-2-0-tdi-quattro-dpf-diesel-cat_ma9mo19047-693aaf2c-7521-40e1-92fb-646ab0f23d37",
-    "t": "Audi A5",
-    "ts": "2026-06-16T18:29:26.612080+00:00",
-    "ch": "dead",
-    "ma": "Audi",
-    "mo": "A5",
-    "y": 2012,
-    "km": 205000
-  },
-  "as:1b26e237-95a0-4848-8f3b-49d7a72c7b35": {
-    "p": null,
-    "f": "2026-06-16T18:29:26.612080+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
