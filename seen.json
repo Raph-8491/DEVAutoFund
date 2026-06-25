@@ -148,6 +148,32 @@
     "y": 2009,
     "km": 235000
   },
+  "as:85b2d92b-2af9-4a61-bc52-95235efdbbe2": {
+    "p": 3500,
+    "f": "2026-06-25T12:17:26.455271+00:00",
+    "u": "https://www.autoscout24.at/angebote/ford-mondeo-mondeo-turnier-2-0-tdci-titanium-diesel-schwarz-cat_ma29mo1763-85b2d92b-2af9-4a61-bc52-95235efdbbe2",
+    "t": "Ford Mondeo Mondeo Turnier 2.0 TDCi Titanium",
+    "ts": "2026-06-25T12:17:26.455271+00:00",
+    "ch": null,
+    "ma": "Ford",
+    "mo": "Mondeo",
+    "y": 2008,
+    "km": 171000,
+    "b": ""
+  },
+  "as:cde785de-bc95-4edf-a1dc-67f45a438592": {
+    "p": 12900,
+    "f": "2026-06-25T12:17:26.455271+00:00",
+    "u": "https://www.autoscout24.at/angebote/mercedes-benz-gla-200-7g-dct-benzin-cat_ma47mo20343-cde785de-bc95-4edf-a1dc-67f45a438592",
+    "t": "Mercedes-Benz GLA 200 7G-DCT",
+    "ts": "2026-06-25T12:17:26.455271+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "GLA 200",
+    "y": 2014,
+    "km": 138000,
+    "b": ""
+  },
   "wh:1118525427": {
     "p": 2500,
     "f": "2026-06-25T12:16:27.146533+00:00",
@@ -207,7 +233,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-schiebedach-servicefrisch-1598926539/",
     "t": "VW Golf Schiebedach/Servicefrisch",
     "ts": "2026-06-25T12:14:25.271428+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2011,
@@ -146479,30 +146505,6 @@
     "mo": "Fabia",
     "y": 2015,
     "km": 135000
-  },
-  "wh:1210216204": {
-    "p": 10600,
-    "f": "2026-06-17T08:48:31.940554+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-c-180-t-cdi-avantgarde-a-edition-plus-blueefficiency-aut-1210216204/",
-    "t": "Mercedes-Benz C-Klasse C 180 T CDI Avantgarde A-Edition plus BlueEfficiency Aut.",
-    "ts": "2026-06-17T08:48:31.940554+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C-Klasse",
-    "y": 2013,
-    "km": 205000
-  },
-  "as:318790a8-aef6-47b1-9e79-2cb441aee4cb": {
-    "p": null,
-    "f": "2026-06-17T08:46:35.615671+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
