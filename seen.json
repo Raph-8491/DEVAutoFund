@@ -148,6 +148,45 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1023450017": {
+    "p": 4999,
+    "f": "2026-06-25T11:18:24.197467+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-1-6-tdi-gt-1023450017/",
+    "t": "Seat Leon 1.6 TDI GT",
+    "ts": "2026-06-25T11:18:24.197467+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2012,
+    "km": 190000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:902389597": {
+    "p": 9150,
+    "f": "2026-06-25T11:18:24.197467+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-megane-1-2-tce-902389597/",
+    "t": "Renault M\u00e9gane 1.2 tce",
+    "ts": "2026-06-25T11:18:24.197467+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2016,
+    "km": 77000,
+    "b": "Limousine"
+  },
+  "wh:2096645369": {
+    "p": 1700,
+    "f": "2026-06-25T11:18:24.197467+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-rio-1-4-2096645369/",
+    "t": "KIA Rio 1.4",
+    "ts": "2026-06-25T11:18:24.197467+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 262000,
+    "b": "Limousine"
+  },
   "as:d6fb563b-fcd8-42f4-9e26-9d5c6da1884e": {
     "p": null,
     "f": "2026-06-25T11:17:27.176590+00:00",
@@ -125202,7 +125241,8 @@
     "ma": null,
     "mo": null,
     "y": 2010,
-    "km": 93000
+    "km": 93000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:1756214153": {
     "p": 11000,
@@ -146351,43 +146391,6 @@
     "mo": "5er-Reihe",
     "y": 2014,
     "km": 185000
-  },
-  "as:76b70708-ac37-43ee-a72a-c3e7d50c99d0": {
-    "p": null,
-    "f": "2026-06-17T07:24:34.278572+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:991f1be0-cd8b-4004-88fb-4c593bcfa21d": {
-    "p": null,
-    "f": "2026-06-17T07:23:25.091434+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:894690188": {
-    "p": 8000,
-    "f": "2026-06-17T07:22:28.468394+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-894690188/",
-    "t": "VW Golf Variant",
-    "ts": "2026-06-24T07:23:30.287844+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2016,
-    "km": 205252,
-    "b": "Kombi / Family Van"
   },
   "__health__": {
     "wh": 0,
