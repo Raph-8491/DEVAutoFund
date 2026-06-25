@@ -148,6 +148,44 @@
     "y": 2009,
     "km": 235000
   },
+  "as:05537fe7-8430-4a41-91bc-d0e6ce3d8758": {
+    "p": null,
+    "f": "2026-06-25T11:12:27.936929+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1965524871": {
+    "p": 7980,
+    "f": "2026-06-25T11:12:26.519816+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-sb-style-1-6-tdi-dpf-1965524871/",
+    "t": "Audi A3 SB Style 1,6 TDI DPF",
+    "ts": "2026-06-25T11:12:26.519816+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A3",
+    "y": 2013,
+    "km": 252000,
+    "b": "Limousine"
+  },
+  "wh:1178128149": {
+    "p": 9500,
+    "f": "2026-06-25T11:12:26.519816+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-corsa-opel-corsa-e-1178128149/",
+    "t": "Opel Corsa Opel Corsa-E",
+    "ts": "2026-06-25T11:12:26.519816+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Corsa",
+    "y": 2016,
+    "km": 25781,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:830261c1-1ccf-4891-ba19-a8330985c3eb": {
     "p": null,
     "f": "2026-06-25T11:10:48.299343+00:00",
@@ -146340,42 +146378,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "gw:e83cb2c0-38b5-47ec-8977-95cc9348bb49": {
-    "p": 12000,
-    "f": "2026-06-17T07:04:43.788452+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-t6-transporter-fahrgestell-lr-2-0-tdi-bmt-diesel-blau-cat_ma74mo21080/e83cb2c0-38b5-47ec-8977-95cc9348bb49",
-    "t": "Volkswagen T6 Transporter",
-    "ts": "2026-06-17T07:04:43.788452+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "T6 Transporter",
-    "y": 2018,
-    "km": 310000
-  },
-  "as:e83cb2c0-38b5-47ec-8977-95cc9348bb49": {
-    "p": 12000,
-    "f": "2026-06-17T07:04:31.982581+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-t6-transporter-fahrgestell-lr-2-0-tdi-bmt-diesel-blau-cat_ma74mo21080-e83cb2c0-38b5-47ec-8977-95cc9348bb49",
-    "t": "Volkswagen T6 Transporter",
-    "ts": "2026-06-17T07:04:31.982581+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "T6 Transporter",
-    "y": 2018,
-    "km": 310000
-  },
-  "as:2229c7c8-f742-44a9-9a2c-782b48c6b1a6": {
-    "p": 2499,
-    "f": "2026-06-17T07:03:26.610619+00:00",
-    "u": "https://www.autoscout24.at/angebote/opel-corsa-corsa-5-tuerer-1-2-16v-ecoflex-easytronic-active-benzin-silber-cat_ma54mo1918-2229c7c8-f742-44a9-9a2c-782b48c6b1a6",
-    "t": "Opel Corsa",
-    "ts": "2026-06-17T07:03:26.610619+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Corsa",
-    "y": 2013,
-    "km": 133888
   },
   "__health__": {
     "wh": 0,
