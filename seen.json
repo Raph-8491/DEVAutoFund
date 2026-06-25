@@ -148,6 +148,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:02a0987c-0b67-4893-b2f4-c9f78490e915": {
+    "p": null,
+    "f": "2026-06-25T16:36:38.766026+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1903163276": {
+    "p": 7901,
+    "f": "2026-06-25T16:36:36.063835+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-logan-1903163276/",
+    "t": "Dacia Logan",
+    "ts": "2026-06-25T16:36:36.063835+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2019,
+    "km": 77000,
+    "b": "Limousine"
+  },
   "as:e7a122b8-0d68-4a56-a06c-7e8a785a62c6": {
     "p": null,
     "f": "2026-06-25T16:34:32.411560+00:00",
@@ -126731,16 +126756,18 @@
     "km": 82500
   },
   "wh:931239119": {
-    "p": 12000,
+    "p": 11800,
     "f": "2026-06-18T16:36:29.509837+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-b8-facelift-2-0-tdi-931239119/",
     "t": "Audi A4 B8 Facelift 2.0 TDI",
-    "ts": "2026-06-18T16:36:29.509837+00:00",
-    "ch": "alive",
+    "ts": "2026-06-25T16:36:36.063835+00:00",
+    "ch": null,
     "ma": "Audi",
     "mo": "A4",
     "y": 2014,
-    "km": 174135
+    "km": 174135,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T16:36:36.063835+00:00"
   },
   "wh:1339577960": {
     "p": 8000,
@@ -146875,30 +146902,6 @@
     "mo": "Polo",
     "y": 2010,
     "km": 129000
-  },
-  "gw:ad8cd686-4c36-4560-9b6e-7ab9130f4d5d": {
-    "p": 6200,
-    "f": "2026-06-17T14:17:40.993281+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-t5-transporter-kastenwagen-2-0-entry-tdi-d-pf-diesel-cat_ma74mo75216/ad8cd686-4c36-4560-9b6e-7ab9130f4d5d",
-    "t": "Volkswagen T5 Transporter",
-    "ts": "2026-06-17T14:17:40.993281+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "T5 Transporter",
-    "y": 2010,
-    "km": 282000
-  },
-  "as:e74d146f-04b0-4979-aceb-61c8d2dad590": {
-    "p": 8499,
-    "f": "2026-06-17T14:17:31.708796+00:00",
-    "u": "https://www.autoscout24.at/angebote/bmw-530-530d-m-paket-diesel-schwarz-cat_ma13mo1652-e74d146f-04b0-4979-aceb-61c8d2dad590",
-    "t": "BMW 530",
-    "ts": "2026-06-17T14:17:31.708796+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "530",
-    "y": 2013,
-    "km": 350000
   },
   "__health__": {
     "wh": 0,
