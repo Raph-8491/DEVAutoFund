@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:9cc9d514-a32d-4ecc-9842-f6bda357f422": {
+    "p": null,
+    "f": "2026-06-25T07:40:41.276864+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:40a9e53d-8a2f-48fc-9bcd-763ea5e40d02": {
     "p": null,
     "f": "2026-06-25T07:38:29.341503+00:00",
@@ -146004,18 +146016,6 @@
     "mo": null,
     "y": 2012,
     "km": 165000
-  },
-  "wh:1834430248": {
-    "p": 8900,
-    "f": "2026-06-16T19:02:37.570944+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-alhambra-7n-pickerl-bis-02-2027-4-monate-1834430248/",
-    "t": "Seat Alhambra 7N Pickerl bis 02.2027 + 4 Monate",
-    "ts": "2026-06-16T19:02:37.570944+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Alhambra",
-    "y": 2011,
-    "km": 188460
   },
   "__health__": {
     "wh": 0,
