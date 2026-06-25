@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:0cfb1f30-7c68-4257-95c6-8f394812f73b": {
+    "p": null,
+    "f": "2026-06-25T10:23:26.268702+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1693607635": {
     "p": 5000,
     "f": "2026-06-25T10:22:30.591080+00:00",
@@ -146280,18 +146292,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:38c92caf-f405-4292-9e70-8d2aaf29e613": {
-    "p": 5200,
-    "f": "2026-06-17T05:29:29.655733+00:00",
-    "u": "https://www.autoscout24.at/angebote/mazda-6-mazda-6-sport-combi-2-0i-te-plus-te-plus-benzin-schwarz-cat_ma46mo18266-38c92caf-f405-4292-9e70-8d2aaf29e613",
-    "t": "Mazda 6",
-    "ts": "2026-06-17T05:29:29.655733+00:00",
-    "ch": "alive",
-    "ma": "Mazda",
-    "mo": "6",
-    "y": 2009,
-    "km": 211148
   },
   "__health__": {
     "wh": 0,
