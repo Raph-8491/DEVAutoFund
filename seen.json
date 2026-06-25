@@ -148,6 +148,30 @@
     "y": 2009,
     "km": 235000
   },
+  "as:888729b7-d35f-4365-b7ef-27b71cfc2e69": {
+    "p": null,
+    "f": "2026-06-25T12:45:43.932696+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:7807f6a1-ba03-49a6-b476-2014c7496833": {
+    "p": null,
+    "f": "2026-06-25T12:45:43.932696+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:a926453d-e870-4cde-a1a6-d9964145cccd": {
     "p": 4000,
     "f": "2026-06-25T12:44:31.478650+00:00",
@@ -146521,30 +146545,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1720738614": {
-    "p": 5490,
-    "f": "2026-06-17T09:21:23.834608+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-sandero-benziner-66-kw-1720738614/",
-    "t": "Dacia Sandero Benziner 66 KW",
-    "ts": "2026-06-17T09:21:23.834608+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 147000
-  },
-  "as:99ac4fdd-2483-4e5a-bf36-99adc57e6af2": {
-    "p": 11800,
-    "f": "2026-06-17T09:20:56.994753+00:00",
-    "u": "https://www.autoscout24.at/angebote/dacia-duster-duster-diesel-dci-110-2wd-comfort-diesel-schwarz-cat_ma16360mo19264-99ac4fdd-2483-4e5a-bf36-99adc57e6af2",
-    "t": "Dacia Duster",
-    "ts": "2026-06-17T09:20:56.994753+00:00",
-    "ch": "alive",
-    "ma": "Dacia",
-    "mo": "Duster",
-    "y": 2018,
-    "km": 119600
   },
   "__health__": {
     "wh": 0,
