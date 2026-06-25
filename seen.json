@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:9e388a80-7a7e-4696-9a14-4b8cf154e10a": {
+    "p": 8990,
+    "f": "2026-06-25T10:57:22.168909+00:00",
+    "u": "https://www.autoscout24.at/angebote/seat-leon-leon-fr-1-4-tsi-start-stopp-fr-start-stopp-benzin-rot-cat_ma64mo15869-9e388a80-7a7e-4696-9a14-4b8cf154e10a",
+    "t": "SEAT Leon Leon FR 1,4 TSI Start-Stopp FR Start-Stopp",
+    "ts": "2026-06-25T10:57:22.168909+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2013,
+    "km": 161863,
+    "b": ""
+  },
   "gw:9e388a80-7a7e-4696-9a14-4b8cf154e10a": {
     "p": 8990,
     "f": "2026-06-25T10:56:35.315182+00:00",
@@ -146334,19 +146347,6 @@
     "mo": "Forester",
     "y": 2010,
     "km": 284937
-  },
-  "wh:1320229545": {
-    "p": 2800,
-    "f": "2026-06-17T06:40:42.862776+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-chili-1-2l-1320229545/",
-    "t": "Seat Ibiza Chili 1,2L",
-    "ts": "2026-06-24T06:37:23.326424+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2013,
-    "km": 162104,
-    "b": "Sportwagen / Coup\u00e9"
   },
   "__health__": {
     "wh": 0,
