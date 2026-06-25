@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:eb457b95-7629-482a-83f5-79dac7f83d23": {
+    "p": 6200,
+    "f": "2026-06-25T06:18:42.600837+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/hyundai-i10-i10-1-0-comfort-comfort-benzin-grau-cat_ma33mo19123/eb457b95-7629-482a-83f5-79dac7f83d23",
+    "t": "Hyundai i10 i10 1,0 Comfort Comfort",
+    "ts": "2026-06-25T06:18:42.600837+00:00",
+    "ch": null,
+    "ma": "Hyundai",
+    "mo": "i10",
+    "y": 2017,
+    "km": 87000,
+    "b": ""
+  },
+  "as:eb457b95-7629-482a-83f5-79dac7f83d23": {
+    "p": 6200,
+    "f": "2026-06-25T06:18:31.358604+00:00",
+    "u": "https://www.autoscout24.at/angebote/hyundai-i10-i10-1-0-comfort-comfort-benzin-grau-cat_ma33mo19123-eb457b95-7629-482a-83f5-79dac7f83d23",
+    "t": "Hyundai i10 i10 1,0 Comfort Comfort",
+    "ts": "2026-06-25T06:18:31.358604+00:00",
+    "ch": null,
+    "ma": "Hyundai",
+    "mo": "i10",
+    "y": 2017,
+    "km": 87000,
+    "b": ""
+  },
   "as:761aa394-30e0-45b1-b20c-db952051fd42": {
     "p": 4400,
     "f": "2026-06-25T06:16:28.226224+00:00",
@@ -123304,7 +123330,8 @@
     "ma": "BMW",
     "mo": "2er-Reihe",
     "y": 2018,
-    "km": 175950
+    "km": 175950,
+    "b": "Kombi / Family Van"
   },
   "wh:1126990924": {
     "p": 6900,
@@ -123316,7 +123343,8 @@
     "ma": "Opel",
     "mo": "Adam",
     "y": 2015,
-    "km": 101700
+    "km": 101700,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:1870920395": {
     "p": 7990,
@@ -123328,7 +123356,8 @@
     "ma": "VW",
     "mo": "Tiguan",
     "y": 2009,
-    "km": 177000
+    "km": 177000,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "wh:1698119416": {
     "p": 4800,
@@ -123340,7 +123369,8 @@
     "ma": "BMW",
     "mo": "3er-Reihe",
     "y": 2008,
-    "km": 216000
+    "km": 216000,
+    "b": "Kombi / Family Van"
   },
   "wh:2004994117": {
     "p": 9980,
@@ -145871,30 +145901,6 @@
     "mo": "Cooper SD Countryman",
     "y": 2016,
     "km": 125000
-  },
-  "gw:e1396155-627b-40e6-b0b9-1ea980f1be29": {
-    "p": 8400,
-    "f": "2026-06-16T18:23:49.862367+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-golf-gtd-2-0-tdi-dpf-dsg-diesel-cat_ma74mo76518/e1396155-627b-40e6-b0b9-1ea980f1be29",
-    "t": "Volkswagen Golf GTD",
-    "ts": "2026-06-16T18:23:49.862367+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf GTD",
-    "y": 2010,
-    "km": 196500
-  },
-  "as:e1396155-627b-40e6-b0b9-1ea980f1be29": {
-    "p": 8400,
-    "f": "2026-06-16T18:23:38.141526+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-gtd-2-0-tdi-dpf-dsg-diesel-cat_ma74mo76518-e1396155-627b-40e6-b0b9-1ea980f1be29",
-    "t": "Volkswagen Golf GTD",
-    "ts": "2026-06-16T18:23:38.141526+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf GTD",
-    "y": 2010,
-    "km": 196500
   },
   "__health__": {
     "wh": 0,
