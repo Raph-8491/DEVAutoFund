@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2128103459": {
+    "p": 14000,
+    "f": "2026-06-25T07:30:52.418436+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-st-line-2128103459/",
+    "t": "Ford Focus ST-LINE",
+    "ts": "2026-06-25T07:30:52.418436+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2020,
+    "km": 82030,
+    "b": "Kombi / Family Van"
+  },
   "wh:1606609684": {
     "p": 6699,
     "f": "2026-06-25T07:29:27.568719+00:00",
@@ -145993,18 +146006,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:798855491": {
-    "p": 4000,
-    "f": "2026-06-16T19:01:43.659974+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-6-tdi-798855491/",
-    "t": "VW Golf 1.6 TDI",
-    "ts": "2026-06-16T19:01:43.659974+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2014,
-    "km": 271000
   },
   "__health__": {
     "wh": 0,
