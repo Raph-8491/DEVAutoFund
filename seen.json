@@ -147,13 +147,27 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1671148331": {
+    "p": 8900,
+    "f": "2026-06-25T05:38:24.219262+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-4sports-tdi-bmt-1671148331/",
+    "t": "VW Tiguan 4Sports TDI BMT",
+    "ts": "2026-06-25T05:38:24.219262+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Tiguan",
+    "y": 2013,
+    "km": 143300,
+    "b": "SUV / Gel\u00e4ndewagen",
+    "pu": "2026-06-25T05:38:24.219262+00:00"
+  },
   "wh:1186314941": {
     "p": 12000,
     "f": "2026-06-25T05:35:29.085193+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x1-xdrive18d-oesterreich-paket-1186314941/",
     "t": "BMW X1 xDrive18d \u00d6sterreich Paket",
     "ts": "2026-06-25T05:35:29.085193+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "X1",
     "y": 2013,
@@ -145845,18 +145859,6 @@
     "mo": "Golf",
     "y": 2012,
     "km": 268000
-  },
-  "wh:1955944767": {
-    "p": 11500,
-    "f": "2026-06-16T18:12:35.240397+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-m-klasse-350-bluetec-4matic-1955944767/",
-    "t": "Mercedes-Benz M-Klasse 350 BLUETEC 4Matic",
-    "ts": "2026-06-16T18:12:35.240397+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "M-Klasse",
-    "y": 2011,
-    "km": 350923
   },
   "__health__": {
     "wh": 0,
