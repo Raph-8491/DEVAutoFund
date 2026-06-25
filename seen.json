@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:10cd5a4f-8c19-45b2-8972-d6e7d363dc31": {
+    "p": null,
+    "f": "2026-06-25T17:05:35.094347+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:ad24250f-47d0-4554-a5fb-75f00aa980d9": {
     "p": null,
     "f": "2026-06-25T17:03:27.393757+00:00",
@@ -146931,18 +146943,6 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/fiat-grande-punto-1-2-actual-benzin-cat_ma28mo18731/b6cf8876-fff4-474c-8b6e-25fc065129c3",
     "t": "Fiat Grande Punto",
     "ts": "2026-06-17T14:55:48.587878+00:00",
-    "ch": "alive",
-    "ma": "Fiat",
-    "mo": "Grande Punto",
-    "y": 2011,
-    "km": 103000
-  },
-  "as:b6cf8876-fff4-474c-8b6e-25fc065129c3": {
-    "p": 2899,
-    "f": "2026-06-17T14:55:42.360439+00:00",
-    "u": "https://www.autoscout24.at/angebote/fiat-grande-punto-1-2-actual-benzin-cat_ma28mo18731-b6cf8876-fff4-474c-8b6e-25fc065129c3",
-    "t": "Fiat Grande Punto",
-    "ts": "2026-06-17T14:55:42.360439+00:00",
     "ch": "alive",
     "ma": "Fiat",
     "mo": "Grande Punto",
