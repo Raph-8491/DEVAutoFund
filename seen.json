@@ -148,6 +148,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:c77722d8-f434-43de-8814-b7625340af67": {
+    "p": 7600,
+    "f": "2026-06-25T17:02:33.599054+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/opel-astra-astra-1-6-cdti-ecotec-oesterreich-edition-start-stop-system-oesterreich-edition-diesel-schwarz-cat_ma54mo1916/c77722d8-f434-43de-8814-b7625340af67",
+    "t": "Opel Astra Astra 1,6 CDTI Ecotec \u00d6sterreich Edition Start/Stop System \u00d6sterreich Edition",
+    "ts": "2026-06-25T17:02:33.599054+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Astra",
+    "y": 2017,
+    "km": 120201,
+    "b": ""
+  },
+  "as:c77722d8-f434-43de-8814-b7625340af67": {
+    "p": 7600,
+    "f": "2026-06-25T17:02:26.054544+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-astra-astra-1-6-cdti-ecotec-oesterreich-edition-start-stop-system-oesterreich-edition-diesel-schwarz-cat_ma54mo1916-c77722d8-f434-43de-8814-b7625340af67",
+    "t": "Opel Astra Astra 1,6 CDTI Ecotec \u00d6sterreich Edition Start/Stop System \u00d6sterreich Edition",
+    "ts": "2026-06-25T17:02:26.054544+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Astra",
+    "y": 2017,
+    "km": 120201,
+    "b": ""
+  },
   "wh:2050533182": {
     "p": 13400,
     "f": "2026-06-25T17:01:33.104609+00:00",
@@ -146914,30 +146940,6 @@
   "as:13ef73c3-21f9-4fbd-9015-d9ab0b71ad16": {
     "p": null,
     "f": "2026-06-17T14:52:34.425497+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:6f279f2b-23c3-452d-bcd3-51387cd5b774": {
-    "p": null,
-    "f": "2026-06-17T14:52:34.425497+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:8225cd3e-9942-4051-8ded-a3756dfd6665": {
-    "p": null,
-    "f": "2026-06-17T14:51:27.724506+00:00",
     "u": null,
     "t": null,
     "ts": null,
