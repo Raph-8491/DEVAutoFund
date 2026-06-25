@@ -148,6 +148,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1921391362": {
+    "p": 11500,
+    "f": "2026-06-25T15:20:41.544631+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-cabrio-sky-bmt-1-2-tsi-1921391362/",
+    "t": "VW Golf Cabrio Sky BMT 1,2 TSI",
+    "ts": "2026-06-25T15:20:41.544631+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2015,
+    "km": 175000,
+    "b": "Cabrio / Roadster",
+    "pu": "2026-06-25T15:20:41.544631+00:00"
+  },
+  "wh:1752900402": {
+    "p": 6990,
+    "f": "2026-06-25T15:20:41.544631+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-clio-tce-1752900402/",
+    "t": "Renault Clio TCe",
+    "ts": "2026-06-25T15:20:41.544631+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2014,
+    "km": 76300,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:4bd2ea15-d776-4124-a3fe-4a02bb9a7fb3": {
     "p": null,
     "f": "2026-06-25T15:19:24.208073+00:00",
@@ -146738,31 +146765,6 @@
     "mo": "116",
     "y": 2014,
     "km": 198000
-  },
-  "gw:1cf93aa6-4117-45d2-8cb6-8b85e5fded25": {
-    "p": 6500,
-    "f": "2026-06-17T12:12:39.875697+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-116-116i-oesterreich-paket-benzin-cat_ma13mo18480/1cf93aa6-4117-45d2-8cb6-8b85e5fded25",
-    "t": "BMW 116",
-    "ts": "2026-06-17T12:12:39.875697+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "116",
-    "y": 2014,
-    "km": 198000
-  },
-  "wh:2128998931": {
-    "p": 4499,
-    "f": "2026-06-17T12:12:27.722266+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-1-2-benzin-2010-pickel-07-27-117tkm-2128998931/",
-    "t": "VW Polo 1,2 Benzin 2010 Pickel 07/27.117Tkm",
-    "ts": "2026-06-17T12:12:27.722266+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2010,
-    "km": 117000,
-    "b": "Klein-/ Kompaktwagen"
   },
   "__health__": {
     "wh": 0,
