@@ -148,6 +148,71 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:27891027-18fe-48de-b3d6-e046f26dc99c": {
+    "p": 5650,
+    "f": "2026-06-25T10:18:46.621213+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/seat-leon-1-6-tdi-dpf-diesel-cat_ma64mo15869/27891027-18fe-48de-b3d6-e046f26dc99c",
+    "t": "SEAT Leon 1.6 TDI DPF",
+    "ts": "2026-06-25T10:18:46.621213+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2012,
+    "km": 207000,
+    "b": ""
+  },
+  "as:27891027-18fe-48de-b3d6-e046f26dc99c": {
+    "p": 5650,
+    "f": "2026-06-25T10:18:40.102144+00:00",
+    "u": "https://www.autoscout24.at/angebote/seat-leon-1-6-tdi-dpf-diesel-cat_ma64mo15869-27891027-18fe-48de-b3d6-e046f26dc99c",
+    "t": "SEAT Leon 1.6 TDI DPF",
+    "ts": "2026-06-25T10:18:40.102144+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2012,
+    "km": 207000,
+    "b": ""
+  },
+  "as:7f49dc36-b74f-4ad6-a2d3-c31a3642a911": {
+    "p": null,
+    "f": "2026-06-25T10:18:40.102144+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:2004527410": {
+    "p": 8500,
+    "f": "2026-06-25T10:18:37.739135+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-s-max-2-2-tdci-2004527410/",
+    "t": "Ford S-MAX 2.2 TDCI",
+    "ts": "2026-06-25T10:18:37.739135+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2014,
+    "km": 283800,
+    "b": "Kleinbus"
+  },
+  "wh:968308887": {
+    "p": 14000,
+    "f": "2026-06-25T10:18:37.739135+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-180diesel-968308887/",
+    "t": "Mercedes-Benz C-Klasse 180diesel",
+    "ts": "2026-06-25T10:18:37.739135+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "C-Klasse",
+    "y": 2012,
+    "km": 150000,
+    "b": "Limousine",
+    "pu": "2026-06-25T10:18:37.739135+00:00"
+  },
   "as:bf783aae-8c1c-43f0-a9f8-0b5419673063": {
     "p": 14580,
     "f": "2026-06-25T10:16:31.898003+00:00",
@@ -124466,7 +124531,8 @@
     "ma": null,
     "mo": null,
     "y": 2008,
-    "km": 162000
+    "km": 162000,
+    "b": "Sportwagen / Coup\u00e9"
   },
   "wh:872208537": {
     "p": 7890,
@@ -146216,68 +146282,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1950383284": {
-    "p": 1900,
-    "f": "2026-06-17T05:10:42.112667+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-cc-1-8-tsi-1950383284/",
-    "t": "VW Passat CC 1.8 TSI",
-    "ts": "2026-06-17T05:10:42.112667+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2008,
-    "km": 236000
-  },
-  "as:4d0a3ab8-0103-4fcd-8cac-602c290ac39b": {
-    "p": null,
-    "f": "2026-06-17T05:08:27.452635+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:923038756": {
-    "p": 6000,
-    "f": "2026-06-17T05:08:24.104665+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c4-picasso-c4-grand-picasso-923038756/",
-    "t": "Citro\u00ebn C4 Picasso C4 Grand Picasso",
-    "ts": "2026-06-17T05:08:24.104665+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2013,
-    "km": 148400,
-    "b": "Kombi / Family Van"
-  },
-  "wh:1148672297": {
-    "p": 7200,
-    "f": "2026-06-17T05:04:26.527344+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-fr-1-2-tsi-frisches-pickerl-1148672297/",
-    "t": "Seat Ibiza FR 1.2 TSI (Frisches Pickerl)",
-    "ts": "2026-06-24T05:01:24.360039+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2016,
-    "km": 107000,
-    "b": "Kombi / Family Van"
-  },
-  "wh:1348210858": {
-    "p": 4300,
-    "f": "2026-06-17T05:04:26.527344+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-duster-4x4-1348210858/",
-    "t": "Dacia Duster 4x4",
-    "ts": "2026-06-17T05:04:26.527344+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 210000
   },
   "__health__": {
     "wh": 0,
