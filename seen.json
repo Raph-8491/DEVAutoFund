@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:c9889713-e1c7-461a-8cd0-955a30b918f4": {
+    "p": 5500,
+    "f": "2026-06-25T07:44:37.331134+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/seat-leon-style-1-6-tdi-cr-start-stopp-diesel-cat_ma64mo15869/c9889713-e1c7-461a-8cd0-955a30b918f4",
+    "t": "SEAT Leon Style 1,6 TDI CR Start Stopp",
+    "ts": "2026-06-25T07:44:37.331134+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2010,
+    "km": 144300,
+    "b": ""
+  },
+  "as:c9889713-e1c7-461a-8cd0-955a30b918f4": {
+    "p": 5500,
+    "f": "2026-06-25T07:44:29.162368+00:00",
+    "u": "https://www.autoscout24.at/angebote/seat-leon-style-1-6-tdi-cr-start-stopp-diesel-cat_ma64mo15869-c9889713-e1c7-461a-8cd0-955a30b918f4",
+    "t": "SEAT Leon Style 1,6 TDI CR Start Stopp",
+    "ts": "2026-06-25T07:44:29.162368+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2010,
+    "km": 144300,
+    "b": ""
+  },
   "gw:0b6acb8e-ea32-4744-a80c-ec63f3df3adf": {
     "p": 4500,
     "f": "2026-06-25T07:43:32.193603+00:00",
@@ -146000,30 +146026,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "gw:32eea186-800c-4ce0-95fb-903326086085": {
-    "p": 9300,
-    "f": "2026-06-16T19:09:42.991952+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/peugeot-308-308-sw-1-6-bhdi-active-s-diesel-silber-cat_ma55mo19055/32eea186-800c-4ce0-95fb-903326086085",
-    "t": "Peugeot 308",
-    "ts": "2026-06-16T19:09:42.991952+00:00",
-    "ch": "alive",
-    "ma": "Peugeot",
-    "mo": "308",
-    "y": 2016,
-    "km": 73100
-  },
-  "wh:1090330811": {
-    "p": 8300,
-    "f": "2026-06-16T19:08:33.944404+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-rabbit-1-2-tsi-dsg-1090330811/",
-    "t": "VW Golf Rabbit 1,2 TSI DSG",
-    "ts": "2026-06-16T19:08:33.944404+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2014,
-    "km": 131460
   },
   "__health__": {
     "wh": 0,
