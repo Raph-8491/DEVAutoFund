@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1477376191": {
+    "p": 11100,
+    "f": "2026-06-25T06:01:32.152877+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-208-1477376191/",
+    "t": "Peugeot 208",
+    "ts": "2026-06-25T06:01:32.152877+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2019,
+    "km": 23900,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "gw:ec5b784b-368b-46af-9d37-160261c83d62": {
     "p": 9000,
     "f": "2026-06-25T05:58:42.371926+00:00",
@@ -179,7 +192,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-1-6-tdi-pickerl-neu-xenon-plus-led-tagfahrlicht-1969482082/",
     "t": "Audi A3 1.6 TDI (Pickerl neu Xenon Plus, LED Tagfahrlicht)",
     "ts": "2026-06-25T05:57:26.786940+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A3",
     "y": 2014,
@@ -193,7 +206,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-2-0-tdi-neue-pickerl-1389863988/",
     "t": "VW Passat 2.0 TDI Neue Pickerl",
     "ts": "2026-06-25T05:57:26.786940+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Passat",
     "y": 2016,
@@ -145863,18 +145876,6 @@
     "mo": null,
     "y": 2017,
     "km": 135000
-  },
-  "as:842916f2-8ab6-423c-b188-a3bf9ff64d50": {
-    "p": null,
-    "f": "2026-06-16T18:17:35.275760+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
