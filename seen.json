@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1514578576": {
+    "p": 1450,
+    "f": "2026-06-25T07:18:29.070427+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-roomster-1-9-diesel-1514578576/",
+    "t": "Skoda Roomster 1.9 diesel",
+    "ts": "2026-06-25T07:18:29.070427+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Roomster",
+    "y": 2008,
+    "km": 210000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1713545011": {
+    "p": 12999,
+    "f": "2026-06-25T07:18:29.070427+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-panda-1-3-jtd-1713545011/",
+    "t": "Fiat Panda 1.3 jtd",
+    "ts": "2026-06-25T07:18:29.070427+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2014,
+    "km": 57399,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:95c63f4c-849a-4ebb-a03d-bdab08e65a69": {
     "p": null,
     "f": "2026-06-25T07:17:25.830872+00:00",
@@ -145963,30 +145989,6 @@
     "mo": "500",
     "y": 2010,
     "km": 157000
-  },
-  "as:9b6c6d22-023c-45c9-ad8e-4cb626add489": {
-    "p": 3590,
-    "f": "2026-06-16T18:53:35.992369+00:00",
-    "u": "https://www.autoscout24.at/angebote/fiat-500-0-9-twinair-turbo-pop-benzin-cat_ma28mo15160-9b6c6d22-023c-45c9-ad8e-4cb626add489",
-    "t": "Fiat 500",
-    "ts": "2026-06-16T18:53:35.992369+00:00",
-    "ch": "alive",
-    "ma": "Fiat",
-    "mo": "500",
-    "y": 2010,
-    "km": 157000
-  },
-  "as:f7978498-d84b-43e9-8e39-08f576865c38": {
-    "p": null,
-    "f": "2026-06-16T18:52:35.080298+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
