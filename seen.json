@@ -148,6 +148,72 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:b1cf5f0a-d440-43cb-8f80-35b1c9ba29f8": {
+    "p": 13900,
+    "f": "2026-06-25T16:47:33.819530+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-x1-x1-sdrive20d-diesel-silber-cat_ma13mo19242/b1cf5f0a-d440-43cb-8f80-35b1c9ba29f8",
+    "t": "BMW X1 X1 sDrive20d",
+    "ts": "2026-06-25T16:47:33.819530+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X1",
+    "y": 2017,
+    "km": 179000,
+    "b": "",
+    "pu": "2026-06-25T16:47:33.819530+00:00"
+  },
+  "as:2b8f17fd-f294-44a7-b8a1-78ecb607a3c9": {
+    "p": null,
+    "f": "2026-06-25T16:47:23.937698+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1133612299": {
+    "p": 4500,
+    "f": "2026-06-25T16:47:22.310547+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-sharan-1133612299/",
+    "t": "VW Sharan",
+    "ts": "2026-06-25T16:47:22.310547+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Sharan",
+    "y": 2014,
+    "km": 320000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T16:47:22.310547+00:00"
+  },
+  "wh:972118925": {
+    "p": 11850,
+    "f": "2026-06-25T16:47:22.310547+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/toyota-yaris-1-5-vvt-ie-972118925/",
+    "t": "Toyota Yaris 1,5 VVT-ie",
+    "ts": "2026-06-25T16:47:22.310547+00:00",
+    "ch": null,
+    "ma": "Toyota",
+    "mo": "Yaris",
+    "y": 2019,
+    "km": 51000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1153020798": {
+    "p": 4900,
+    "f": "2026-06-25T16:47:22.310547+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-clio-grandtour-1-2-16v-75-expression-1153020798/",
+    "t": "Renault Clio Grandtour 1,2 16V 75 Expression",
+    "ts": "2026-06-25T16:47:22.310547+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2015,
+    "km": 43853,
+    "b": "Kombi / Family Van"
+  },
   "as:a7f9de8b-9c74-422d-8dd5-307f9f3612bc": {
     "p": null,
     "f": "2026-06-25T16:44:34.713061+00:00",
@@ -126669,7 +126735,8 @@
     "ma": null,
     "mo": null,
     "y": 2014,
-    "km": 56000
+    "km": 56000,
+    "b": "Limousine"
   },
   "as:30d3e8dc-0bf2-4629-b71e-34e7072ddb2a": {
     "p": null,
@@ -146855,66 +146922,6 @@
     "mo": "320",
     "y": 2013,
     "km": 267000
-  },
-  "as:67671163-ffd9-453c-b110-98c998de7b27": {
-    "p": null,
-    "f": "2026-06-17T14:31:46.245508+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:2053550402": {
-    "p": 4900,
-    "f": "2026-06-17T14:31:40.833486+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-500-1-2-sport-2053550402/",
-    "t": "Fiat 500 1,2 SPORT",
-    "ts": "2026-06-17T14:31:40.833486+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 92300
-  },
-  "wh:1677215772": {
-    "p": 2690,
-    "f": "2026-06-17T14:31:40.833486+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-308-1-6-hdi-servicebuch-kupplung-und-zr-neuwertig-1677215772/",
-    "t": "Peugeot 308 1,6 HDI Servicebuch/ Kupplung und ZR neuwertig",
-    "ts": "2026-06-17T14:31:40.833486+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 214000
-  },
-  "wh:1383689827": {
-    "p": 9980,
-    "f": "2026-06-17T14:31:40.833486+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c3-1383689827/",
-    "t": "Citro\u00ebn C3",
-    "ts": "2026-06-17T14:31:40.833486+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2019,
-    "km": 154842
-  },
-  "wh:1512209437": {
-    "p": 9600,
-    "f": "2026-06-17T14:29:24.811947+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-c-klasse-c220-cdi-1512209437/",
-    "t": "Mercedes-Benz C-Klasse C220 Cdi",
-    "ts": "2026-06-17T14:29:24.811947+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C-Klasse",
-    "y": 2017,
-    "km": 258000
   },
   "__health__": {
     "wh": 0,
