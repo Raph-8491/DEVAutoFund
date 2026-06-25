@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:0575a969-1de3-4b18-b290-9480a628cd8c": {
+    "p": null,
+    "f": "2026-06-25T16:33:35.727769+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:06ff187f-c480-4fae-99db-903d3c19053c": {
     "p": null,
     "f": "2026-06-25T16:32:30.776653+00:00",
@@ -146885,18 +146897,6 @@
     "mo": null,
     "y": 2014,
     "km": 128000
-  },
-  "wh:1105905379": {
-    "p": 1890,
-    "f": "2026-06-17T14:17:28.283809+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-punto-classic-1-2-active-1105905379/",
-    "t": "Fiat Punto Classic 1,2 Active",
-    "ts": "2026-06-17T14:17:28.283809+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 159000
   },
   "__health__": {
     "wh": 0,
