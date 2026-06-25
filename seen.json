@@ -148,6 +148,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2143977629": {
+    "p": 2700,
+    "f": "2026-06-25T12:38:24.347630+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-308-1-4-lion-2143977629/",
+    "t": "Peugeot 308 1.4 Lion",
+    "ts": "2026-06-25T12:38:24.347630+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 170000,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:972995185": {
+    "p": 2999,
+    "f": "2026-06-25T12:38:24.347630+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-sharan-972995185/",
+    "t": "VW Sharan",
+    "ts": "2026-06-25T12:38:24.347630+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Sharan",
+    "y": 2010,
+    "km": 530000,
+    "b": "Kleinbus"
+  },
   "as:82f52209-c47b-4475-a348-99575016fd4a": {
     "p": 1990,
     "f": "2026-06-25T12:37:25.287054+00:00",
@@ -125753,7 +125779,8 @@
     "ma": null,
     "mo": null,
     "y": 2012,
-    "km": 259950
+    "km": 259950,
+    "b": "Limousine"
   },
   "wh:883400635": {
     "p": 2800,
@@ -125765,7 +125792,8 @@
     "ma": null,
     "mo": null,
     "y": 2012,
-    "km": 280000
+    "km": 280000,
+    "b": "Limousine"
   },
   "as:485ebd47-dba0-4843-b62f-6425841e8234": {
     "p": 7400,
@@ -146513,30 +146541,6 @@
     "mo": null,
     "y": 2009,
     "km": 66000
-  },
-  "wh:1986582085": {
-    "p": 8000,
-    "f": "2026-06-17T09:14:26.340653+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x5-xdrive30d-e70-m57-1986582085/",
-    "t": "BMW X5 xDrive30d E70 M57",
-    "ts": "2026-06-17T09:14:26.340653+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "X5",
-    "y": 2009,
-    "km": 306000
-  },
-  "wh:1984291057": {
-    "p": 2700,
-    "f": "2026-06-17T09:14:26.340653+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1-2-1984291057/",
-    "t": "Seat Ibiza 1.2",
-    "ts": "2026-06-17T09:14:26.340653+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2011,
-    "km": 246794
   },
   "__health__": {
     "wh": 0,
