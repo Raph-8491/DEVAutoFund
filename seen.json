@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1887955967": {
+    "p": 15000,
+    "f": "2026-06-25T11:36:25.206667+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c5-aircross-bluehdi-1887955967/",
+    "t": "Citro\u00ebn C5 Aircross BlueHDI",
+    "ts": "2026-06-25T11:36:25.206667+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2019,
+    "km": 104070,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "wh:1361206370": {
     "p": 2900,
     "f": "2026-06-25T11:34:29.428467+00:00",
@@ -146400,18 +146413,6 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/ssangyong-actyon-actyon-comfort-2-0-xdi-4wd-diesel-grau-cat_ma66mo18988/614f1b49-cc72-45b7-ae3e-25b104af050b",
     "t": "SsangYong Actyon",
     "ts": "2026-06-17T07:41:41.936195+00:00",
-    "ch": "alive",
-    "ma": "SsangYong",
-    "mo": "Actyon",
-    "y": 2009,
-    "km": 171000
-  },
-  "as:614f1b49-cc72-45b7-ae3e-25b104af050b": {
-    "p": 2900,
-    "f": "2026-06-17T07:41:31.722299+00:00",
-    "u": "https://www.autoscout24.at/angebote/ssangyong-actyon-actyon-comfort-2-0-xdi-4wd-diesel-grau-cat_ma66mo18988-614f1b49-cc72-45b7-ae3e-25b104af050b",
-    "t": "SsangYong Actyon",
-    "ts": "2026-06-17T07:41:31.722299+00:00",
     "ch": "alive",
     "ma": "SsangYong",
     "mo": "Actyon",
