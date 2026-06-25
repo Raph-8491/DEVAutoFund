@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:078313f7-a761-41d3-96e8-6d1dc0edbd62": {
+    "p": 14950,
+    "f": "2026-06-25T05:13:34.430608+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/mercedes-benz-c-180-c-180-d-diesel-weiss-cat_ma47mo1859/078313f7-a761-41d3-96e8-6d1dc0edbd62",
+    "t": "Mercedes-Benz C 180 C 180 d",
+    "ts": "2026-06-25T05:13:34.430608+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "C 180",
+    "y": 2019,
+    "km": 202000,
+    "b": ""
+  },
   "as:b64b9532-506a-403e-9636-9f6fbb5083f0": {
     "p": null,
     "f": "2026-06-25T05:12:29.649824+00:00",
@@ -145823,18 +145836,6 @@
     "mo": "218",
     "y": 2015,
     "km": 195000
-  },
-  "as:f09a2973-361a-4053-954d-41d7bc0f02b6": {
-    "p": null,
-    "f": "2026-06-16T18:02:38.270634+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
