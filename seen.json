@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:40d90dbd-1bb8-4bc4-821e-e193828c5b95": {
+    "p": null,
+    "f": "2026-06-25T14:48:30.007720+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1584181191": {
     "p": 9990,
     "f": "2026-06-25T14:47:23.055523+00:00",
@@ -231,7 +243,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-jetta-1-6-1660594801/",
     "t": "VW Jetta 1,6",
     "ts": "2026-06-25T14:45:40.326142+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Jetta",
     "y": 2011,
@@ -146698,18 +146710,6 @@
     "mo": null,
     "y": 2018,
     "km": 135868
-  },
-  "as:aa200bca-e2c0-44ed-8905-1719f10ac730": {
-    "p": null,
-    "f": "2026-06-17T11:23:24.857018+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
