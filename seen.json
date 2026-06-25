@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:ffec2665-9173-4090-b8c4-679d69a24ff9": {
+    "p": 6990,
+    "f": "2026-06-25T10:13:32.289723+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/nissan-nv400-kastenwagen-diesel-weiss-cat_ma52mo19781/ffec2665-9173-4090-b8c4-679d69a24ff9",
+    "t": "Nissan NV400 Kastenwagen",
+    "ts": "2026-06-25T10:13:32.289723+00:00",
+    "ch": null,
+    "ma": "Nissan",
+    "mo": "NV400",
+    "y": 2015,
+    "km": 206000,
+    "b": ""
+  },
   "wh:1781191474": {
     "p": 5000,
     "f": "2026-06-25T10:10:42.633359+00:00",
@@ -146260,18 +146273,6 @@
     "mo": "1er-Reihe",
     "y": 2010,
     "km": 292000
-  },
-  "wh:1682756937": {
-    "p": 6500,
-    "f": "2026-06-17T04:44:24.364690+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-bmw-525d-e60-m57-3-0-1682756937/",
-    "t": "BMW 5er-Reihe BMW 525d E60 M57 3.0",
-    "ts": "2026-06-17T04:44:24.364690+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "5er-Reihe",
-    "y": 2008,
-    "km": 300300
   },
   "__health__": {
     "wh": 0,
