@@ -148,6 +148,46 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:1e3fe700-6b17-4d69-9eaf-7491f73ae952": {
+    "p": 11900,
+    "f": "2026-06-25T13:43:35.028951+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-golf-golf-sport-austria-1-6-tdi-sport-austria-diesel-cat_ma74mo2084/1e3fe700-6b17-4d69-9eaf-7491f73ae952",
+    "t": "Volkswagen Golf Golf Sport Austria 1,6 TDI Sport Austria",
+    "ts": "2026-06-25T13:43:35.028951+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2016,
+    "km": 179000,
+    "b": ""
+  },
+  "as:1e3fe700-6b17-4d69-9eaf-7491f73ae952": {
+    "p": 11900,
+    "f": "2026-06-25T13:43:26.718465+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-golf-sport-austria-1-6-tdi-sport-austria-diesel-cat_ma74mo2084-1e3fe700-6b17-4d69-9eaf-7491f73ae952",
+    "t": "Volkswagen Golf Golf Sport Austria 1,6 TDI Sport Austria",
+    "ts": "2026-06-25T13:43:26.718465+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2016,
+    "km": 179000,
+    "b": "",
+    "pu": "2026-06-25T13:43:26.718465+00:00"
+  },
+  "as:28c5c876-7eb8-4b95-9a6e-e7b2ec5ecad0": {
+    "p": 7200,
+    "f": "2026-06-25T13:43:26.718465+00:00",
+    "u": "https://www.autoscout24.at/angebote/kia-picanto-1-0-attract-benzin-cat_ma39mo18417-28c5c876-7eb8-4b95-9a6e-e7b2ec5ecad0",
+    "t": "Kia Picanto 1.0 Attract",
+    "ts": "2026-06-25T13:43:26.718465+00:00",
+    "ch": null,
+    "ma": "Kia",
+    "mo": "Picanto",
+    "y": 2017,
+    "km": 89900,
+    "b": ""
+  },
   "as:c4a96870-067b-42c6-a8ed-a5964fae11d6": {
     "p": null,
     "f": "2026-06-25T13:42:32.358128+00:00",
@@ -146588,42 +146628,6 @@
     "mo": null,
     "y": 2014,
     "km": 100000
-  },
-  "wh:2016682731": {
-    "p": 1990,
-    "f": "2026-06-17T10:14:32.875813+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-doblo-2016682731/",
-    "t": "Fiat Dobl\u00f2",
-    "ts": "2026-06-17T10:14:32.875813+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 147170
-  },
-  "wh:1455455461": {
-    "p": 1450,
-    "f": "2026-06-17T10:14:32.875813+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c3-1455455461/",
-    "t": "Citro\u00ebn C3",
-    "ts": "2026-06-17T10:14:32.875813+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 49333
-  },
-  "wh:1681880529": {
-    "p": 3500,
-    "f": "2026-06-17T10:14:32.875813+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c8-fab-1681880529/",
-    "t": "Citro\u00ebn C8 Fab",
-    "ts": "2026-06-17T10:14:32.875813+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 199218
   },
   "__health__": {
     "wh": 0,
