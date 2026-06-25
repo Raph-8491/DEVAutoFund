@@ -148,6 +148,33 @@
     "y": 2009,
     "km": 235000
   },
+  "as:f7ffd973-a98f-4616-9182-561cb5df1cf1": {
+    "p": 3990,
+    "f": "2026-06-25T14:30:59.925663+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-astra-edition-111-jahre-benzin-schwarz-cat_ma54mo1916-f7ffd973-a98f-4616-9182-561cb5df1cf1",
+    "t": "Opel Astra Edition \"111 Jahre\"",
+    "ts": "2026-06-25T14:30:59.925663+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Astra",
+    "y": 2010,
+    "km": 128689,
+    "b": ""
+  },
+  "wh:1736142264": {
+    "p": 6990,
+    "f": "2026-06-25T14:30:57.024419+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-6-tdi-1736142264/",
+    "t": "VW Golf 1.6 TDi",
+    "ts": "2026-06-25T14:30:57.024419+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2012,
+    "km": 190500,
+    "b": "Limousine",
+    "pu": "2026-06-25T14:30:57.024419+00:00"
+  },
   "as:a518548c-78ad-4209-8772-472405f5c37f": {
     "p": null,
     "f": "2026-06-25T14:28:47.773611+00:00",
@@ -146653,31 +146680,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:2026962122": {
-    "p": 6000,
-    "f": "2026-06-17T11:02:26.301029+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-2026962122/",
-    "t": "VW Polo",
-    "ts": "2026-06-17T11:02:26.301029+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2014,
-    "km": 64000,
-    "b": "Klein-/ Kompaktwagen"
-  },
-  "gw:1f1b9e95-2484-4b38-bb78-602608a778c4": {
-    "p": 7900,
-    "f": "2026-06-17T11:01:54.878446+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/dacia-dokker-dokker-stepway-sce-100-s-benzin-grau-cat_ma16360mo20186/1f1b9e95-2484-4b38-bb78-602608a778c4",
-    "t": "Dacia Dokker",
-    "ts": "2026-06-17T11:01:54.878446+00:00",
-    "ch": "alive",
-    "ma": "Dacia",
-    "mo": "Dokker",
-    "y": 2018,
-    "km": 116000
   },
   "__health__": {
     "wh": 0,
