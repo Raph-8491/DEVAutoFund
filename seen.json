@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:a330ec0c-6e82-4919-9d9d-fcd42916910c": {
+    "p": null,
+    "f": "2026-06-25T08:24:30.091436+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:835694601": {
     "p": 13490,
     "f": "2026-06-25T08:23:24.458263+00:00",
@@ -146076,18 +146088,6 @@
     "mo": "Insignia",
     "y": 2013,
     "km": 119823
-  },
-  "wh:1460726050": {
-    "p": 2200,
-    "f": "2026-06-16T19:44:28.915054+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-grande-punto-1460726050/",
-    "t": "Fiat Grande Punto",
-    "ts": "2026-06-16T19:44:28.915054+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 208000
   },
   "__health__": {
     "wh": 0,
