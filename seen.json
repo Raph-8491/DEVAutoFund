@@ -148,6 +148,30 @@
     "y": 2009,
     "km": 235000
   },
+  "as:f04865d7-473b-430b-8098-e27aa4b7f1e3": {
+    "p": null,
+    "f": "2026-06-25T10:50:42.076369+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:7e6cbdb1-44d6-4e40-99f9-4b1932f99beb": {
+    "p": null,
+    "f": "2026-06-25T10:50:42.076369+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:27fed347-e758-4ad6-94d0-1c4bddd4a6dd": {
     "p": null,
     "f": "2026-06-25T10:49:24.571122+00:00",
@@ -146312,31 +146336,6 @@
     "mo": "3er-Reihe",
     "y": 2012,
     "km": 276000
-  },
-  "wh:2109900659": {
-    "p": 7000,
-    "f": "2026-06-17T06:27:24.509832+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-1-6-automatik-2109900659/",
-    "t": "Opel Insignia 1.6 Automatik",
-    "ts": "2026-06-17T06:27:24.509832+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Insignia",
-    "y": 2016,
-    "km": 198930,
-    "b": "Limousine"
-  },
-  "as:691cbc06-99e6-4627-aba5-7d79fa2ed49b": {
-    "p": null,
-    "f": "2026-06-17T06:23:34.027227+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
