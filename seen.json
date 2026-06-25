@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:d8e9bb21-70b2-4aaa-8660-e87148bef81a": {
+    "p": null,
+    "f": "2026-06-25T10:04:26.089927+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:380bb50e-5c2e-42e3-a9c0-0b67199cb9b0": {
     "p": null,
     "f": "2026-06-25T10:03:22.337077+00:00",
@@ -178,7 +190,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-vw-golf-6-4-motion-1531756700/",
     "t": "VW Golf VW Golf 6 4 Motion",
     "ts": "2026-06-25T10:01:31.720168+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2011,
@@ -146256,19 +146268,6 @@
     "y": 2015,
     "km": 237500,
     "b": "Sportwagen / Coup\u00e9"
-  },
-  "wh:1162688850": {
-    "p": 2900,
-    "f": "2026-06-17T04:28:27.605031+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touran-1162688850/",
-    "t": "VW Touran",
-    "ts": "2026-06-17T04:28:27.605031+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Touran",
-    "y": 2009,
-    "km": 235000,
-    "b": "SUV / Gel\u00e4ndewagen"
   },
   "__health__": {
     "wh": 0,
