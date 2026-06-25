@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1107853234": {
+    "p": 7000,
+    "f": "2026-06-25T06:57:24.470956+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-2-0-cdti-1107853234/",
+    "t": "Opel Insignia 2,0 Cdti",
+    "ts": "2026-06-25T06:57:24.470956+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Insignia",
+    "y": 2011,
+    "km": 202000,
+    "b": "Kombi / Family Van"
+  },
   "gw:57b0bb33-17e5-4dba-8178-0cda5b11c502": {
     "p": 2750,
     "f": "2026-06-25T06:55:44.912361+00:00",
@@ -123373,19 +123386,21 @@
     "ma": "BMW",
     "mo": "3er-Reihe",
     "y": 2013,
-    "km": 175000
+    "km": 175000,
+    "b": "Kombi / Family Van"
   },
   "wh:2128614084": {
-    "p": 7100,
+    "p": 6900,
     "f": "2026-06-18T06:57:23.260657+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-308-navi-tempomat-led-pickerl-06-27-2128614084/",
     "t": "Peugeot 308 Navi | Tempomat | LED | Pickerl 06/27",
-    "ts": "2026-06-18T06:57:23.260657+00:00",
-    "ch": "alive",
+    "ts": "2026-06-25T06:57:24.470956+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2015,
-    "km": 114000
+    "km": 114000,
+    "b": "Klein-/ Kompaktwagen"
   },
   "wh:1092582892": {
     "p": 10950,
@@ -123397,7 +123412,8 @@
     "ma": null,
     "mo": null,
     "y": 2014,
-    "km": 132000
+    "km": 132000,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "wh:1530783794": {
     "p": 11000,
@@ -145937,18 +145953,6 @@
     "mo": "Golf",
     "y": 2010,
     "km": 151000
-  },
-  "gw:c73169fb-34be-4841-b345-bb0017d96ceb": {
-    "p": 5800,
-    "f": "2026-06-16T18:38:57.128673+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/seat-alhambra-5-sitzer-2-0-motor-diesel-cat_ma64mo2003/c73169fb-34be-4841-b345-bb0017d96ceb",
-    "t": "SEAT Alhambra",
-    "ts": "2026-06-16T18:38:57.128673+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Alhambra",
-    "y": 2015,
-    "km": 295000
   },
   "__health__": {
     "wh": 0,
