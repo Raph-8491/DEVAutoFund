@@ -148,6 +148,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:946347306": {
+    "p": 5900,
+    "f": "2026-06-25T12:11:22.717234+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-adam-1-4-946347306/",
+    "t": "Opel Adam 1.4",
+    "ts": "2026-06-25T12:11:22.717234+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Adam",
+    "y": 2013,
+    "km": 111500,
+    "b": "Limousine"
+  },
+  "wh:1838611888": {
+    "p": 8900,
+    "f": "2026-06-25T12:11:22.717234+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-alhambra-style-4m-2-0-tdi-dsg-1838611888/",
+    "t": "Seat Alhambra Style 4M 2,0 TDI DSG",
+    "ts": "2026-06-25T12:11:22.717234+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Alhambra",
+    "y": 2017,
+    "km": 302000,
+    "b": "Kombi / Family Van"
+  },
   "wh:825588068": {
     "p": 3000,
     "f": "2026-06-25T12:09:25.075514+00:00",
@@ -125651,16 +125677,17 @@
     "km": 162000
   },
   "wh:1358898280": {
-    "p": 10000,
+    "p": 9800,
     "f": "2026-06-18T12:13:23.888793+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/peugeot-2008-1-6-blue-hdi-style-1358898280/",
     "t": "Peugeot 2008 1,6 Blue HDi Style",
-    "ts": "2026-06-18T12:13:23.888793+00:00",
-    "ch": "alive",
+    "ts": "2026-06-25T12:11:22.717234+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2016,
-    "km": 70000
+    "km": 70000,
+    "b": "SUV / Gel\u00e4ndewagen"
   },
   "wh:1347045328": {
     "p": 3900,
@@ -146468,30 +146495,6 @@
     "mo": "A4",
     "y": 2008,
     "km": 219000
-  },
-  "as:a3b984ad-c0fe-4635-ac44-6ec8808475e8": {
-    "p": 4000,
-    "f": "2026-06-17T08:40:48.918304+00:00",
-    "u": "https://www.autoscout24.at/angebote/mercedes-benz-a-160-blueefficiency-elegance-benzin-cat_ma47mo14869-a3b984ad-c0fe-4635-ac44-6ec8808475e8",
-    "t": "Mercedes-Benz A 160",
-    "ts": "2026-06-17T08:40:48.918304+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "A 160",
-    "y": 2010,
-    "km": 195000
-  },
-  "gw:fb2ad6ef-7312-4b08-ab04-2e005e6186d7": {
-    "p": 6600,
-    "f": "2026-06-17T08:39:40.874104+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/opel-karl-karl-1-0-ecotec-edition-edition-benzin-weiss-cat_ma54mo20639/fb2ad6ef-7312-4b08-ab04-2e005e6186d7",
-    "t": "Opel Karl",
-    "ts": "2026-06-17T16:32:51.186941+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Karl",
-    "y": 2017,
-    "km": 45000
   },
   "__health__": {
     "wh": 0,
