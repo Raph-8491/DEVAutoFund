@@ -147,6 +147,60 @@
     "y": 2009,
     "km": 235000
   },
+  "as:d68363ac-a25c-45a3-a1d4-512ef2b2d45b": {
+    "p": 5000,
+    "f": "2026-06-25T06:12:27.694689+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-astra-1-4-turbo-edition-benzin-cat_ma54mo1916-d68363ac-a25c-45a3-a1d4-512ef2b2d45b",
+    "t": "Opel Astra 1.4 Turbo Edition",
+    "ts": "2026-06-25T06:12:27.694689+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Astra",
+    "y": 2012,
+    "km": 174000,
+    "b": ""
+  },
+  "wh:1401514924": {
+    "p": 14800,
+    "f": "2026-06-25T06:12:24.827657+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-320d-1401514924/",
+    "t": "BMW 3er-Reihe 320D",
+    "ts": "2026-06-25T06:12:24.827657+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "3er-Reihe",
+    "y": 2017,
+    "km": 175000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T06:12:24.827657+00:00"
+  },
+  "wh:1913061927": {
+    "p": 15000,
+    "f": "2026-06-25T06:12:24.827657+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touran-sky-edition-1913061927/",
+    "t": "VW Touran SKY Edition",
+    "ts": "2026-06-25T06:12:24.827657+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Touran",
+    "y": 2019,
+    "km": 155000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T06:12:24.827657+00:00"
+  },
+  "wh:1439730625": {
+    "p": 13650,
+    "f": "2026-06-25T06:12:24.827657+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-2-0-1439730625/",
+    "t": "Ford Focus 2.0",
+    "ts": "2026-06-25T06:12:24.827657+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2019,
+    "km": 112500,
+    "b": "Kombi / Family Van"
+  },
   "wh:1856664313": {
     "p": 1300,
     "f": "2026-06-25T06:11:28.326953+00:00",
@@ -123275,16 +123329,18 @@
     "km": 81000
   },
   "wh:813494864": {
-    "p": 11700,
+    "p": 11300,
     "f": "2026-06-18T06:12:31.786582+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touran-vw-touran-1-6-813494864/",
     "t": "VW Touran VW Touran 1.6",
-    "ts": "2026-06-18T06:12:31.786582+00:00",
-    "ch": "alive",
+    "ts": "2026-06-25T06:12:24.827657+00:00",
+    "ch": null,
     "ma": "VW",
     "mo": "Touran",
     "y": 2018,
-    "km": 178000
+    "km": 178000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T06:12:24.827657+00:00"
   },
   "wh:1010622670": {
     "p": 4200,
@@ -145837,54 +145893,6 @@
     "mo": "Adam",
     "y": 2015,
     "km": 101000
-  },
-  "wh:952841167": {
-    "p": 9900,
-    "f": "2026-06-16T18:22:30.841466+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x3-2-0-952841167/",
-    "t": "BMW X3 2.0",
-    "ts": "2026-06-16T18:22:30.841466+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "X3",
-    "y": 2012,
-    "km": 252000
-  },
-  "gw:aa4df3c8-5c6a-4e8c-bb54-e57036048935": {
-    "p": 3500,
-    "f": "2026-06-16T18:21:37.159861+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/citroen-c4-picasso-c4-picasso-1-6-seduction-hdi-fap-egs6-seduction-diesel-blau-cat_ma21mo18915/aa4df3c8-5c6a-4e8c-bb54-e57036048935",
-    "t": "Citroen C4 Picasso",
-    "ts": "2026-06-16T18:21:37.159861+00:00",
-    "ch": "alive",
-    "ma": "Citroen",
-    "mo": "C4 Picasso",
-    "y": 2011,
-    "km": 232844
-  },
-  "as:aa4df3c8-5c6a-4e8c-bb54-e57036048935": {
-    "p": 3500,
-    "f": "2026-06-16T18:21:30.943435+00:00",
-    "u": "https://www.autoscout24.at/angebote/citroen-c4-picasso-c4-picasso-1-6-seduction-hdi-fap-egs6-seduction-diesel-blau-cat_ma21mo18915-aa4df3c8-5c6a-4e8c-bb54-e57036048935",
-    "t": "Citroen C4 Picasso",
-    "ts": "2026-06-16T18:21:30.943435+00:00",
-    "ch": "alive",
-    "ma": "Citroen",
-    "mo": "C4 Picasso",
-    "y": 2011,
-    "km": 232844
-  },
-  "as:1552f8ff-59b2-4132-8ccb-db750f2dfc6d": {
-    "p": null,
-    "f": "2026-06-16T18:21:30.943435+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
