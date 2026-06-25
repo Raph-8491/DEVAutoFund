@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:0972e34f-5785-4a4e-97f4-389dec497955": {
+    "p": null,
+    "f": "2026-06-25T06:45:40.743694+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1793054907": {
+    "p": 12990,
+    "f": "2026-06-25T06:45:39.721908+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-alhambra-2-0-tdi-4drive-neues-oeamtc-pickerl-1793054907/",
+    "t": "Seat Alhambra 2.0 TDI 4Drive - neues \u00d6AMTC Pickerl",
+    "ts": "2026-06-25T06:45:39.721908+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Alhambra",
+    "y": 2014,
+    "km": 149999,
+    "b": "Kleinbus"
+  },
   "as:b3f11276-9de3-44c5-80eb-a4536193c3c6": {
     "p": null,
     "f": "2026-06-25T06:44:26.122964+00:00",
@@ -145908,30 +145933,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:332c73d0-6438-42a4-8156-5d372b7c7b6f": {
-    "p": 3000,
-    "f": "2026-06-16T18:35:48.384087+00:00",
-    "u": "https://www.autoscout24.at/angebote/nissan-note-1-4-visia-maengel-freies-oemtc-pickerl-benzin-cat_ma52mo18682-332c73d0-6438-42a4-8156-5d372b7c7b6f",
-    "t": "Nissan Note",
-    "ts": "2026-06-16T18:35:48.384087+00:00",
-    "ch": "alive",
-    "ma": "Nissan",
-    "mo": "Note",
-    "y": 2010,
-    "km": 138000
-  },
-  "wh:2054387506": {
-    "p": 2250,
-    "f": "2026-06-16T18:35:45.810420+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-fabia-1-4-2-27-pickerl-2054387506/",
-    "t": "Skoda Fabia 1.4 2/27 Pickerl",
-    "ts": "2026-06-16T18:35:45.810420+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Fabia",
-    "y": 2008,
-    "km": 170300
   },
   "__health__": {
     "wh": 0,
