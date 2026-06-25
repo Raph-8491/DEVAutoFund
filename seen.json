@@ -148,6 +148,20 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1968275866": {
+    "p": 2900,
+    "f": "2026-06-25T16:58:27.224590+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-1-6-automatik-1968275866/",
+    "t": "BMW 1er-Reihe 1.6 (Automatik)",
+    "ts": "2026-06-25T16:58:27.224590+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "1er-Reihe",
+    "y": 2009,
+    "km": 160000,
+    "b": "Limousine",
+    "pu": "2026-06-25T16:58:27.224590+00:00"
+  },
   "as:b8f27d45-2a59-4c45-8667-ba8138fbca6f": {
     "p": null,
     "f": "2026-06-25T16:57:21.742416+00:00",
@@ -146910,18 +146924,6 @@
   "as:94412f84-727f-4498-a8e0-1d08c4c0bf9f": {
     "p": null,
     "f": "2026-06-17T14:38:40.681414+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:a90e6b8e-6c43-4d02-8485-f10265a72bf8": {
-    "p": null,
-    "f": "2026-06-17T14:37:33.646105+00:00",
     "u": null,
     "t": null,
     "ts": null,
