@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1502817317": {
+    "p": 10990,
+    "f": "2026-06-25T13:45:40.120164+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/nissan-qashqai-1-2-dig-t-n-connecta-1502817317/",
+    "t": "Nissan Qashqai 1,2 DIG-T N-Connecta",
+    "ts": "2026-06-25T13:45:40.120164+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2018,
+    "km": 131953,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "as:9e034f78-0262-4a8b-afdb-f061f2acf33e": {
     "p": null,
     "f": "2026-06-25T13:44:34.615552+00:00",
@@ -218,7 +231,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-avant-2-0-tdi-1307743456/",
     "t": "Audi A4 Avant 2,0 TDI",
     "ts": "2026-06-25T13:42:30.505570+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A4",
     "y": 2015,
@@ -146616,18 +146629,6 @@
     "mo": null,
     "y": 2010,
     "km": 140000
-  },
-  "as:46631eec-b279-4581-9476-5789ebb219a4": {
-    "p": null,
-    "f": "2026-06-17T10:15:52.814817+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
