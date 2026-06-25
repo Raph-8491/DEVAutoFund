@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:e63492e3-4ce6-44db-b809-5c894531e6f4": {
+    "p": null,
+    "f": "2026-06-25T08:02:28.394664+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:f77b008b-6810-4241-bcd8-fc7097b98d7b": {
     "p": null,
     "f": "2026-06-25T08:01:33.835946+00:00",
@@ -146035,18 +146047,6 @@
     "mo": null,
     "y": 2017,
     "km": 122063
-  },
-  "wh:1400379757": {
-    "p": 7400,
-    "f": "2026-06-16T19:20:55.993743+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-variant-trendline-bmt-1-6-tdi-1400379757/",
-    "t": "VW Golf Variant Trendline BMT 1,6 TDI",
-    "ts": "2026-06-16T19:20:55.993743+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2014,
-    "km": 214525
   },
   "__health__": {
     "wh": 0,
