@@ -148,6 +148,58 @@
     "y": 2009,
     "km": 235000
   },
+  "as:39a20b21-80b9-4d70-949f-bb2f718c0a99": {
+    "p": 2750,
+    "f": "2026-06-25T16:38:28.595271+00:00",
+    "u": "https://www.autoscout24.at/angebote/toyota-aygo-benzin-cat_ma70mo18655-39a20b21-80b9-4d70-949f-bb2f718c0a99",
+    "t": "Toyota Aygo",
+    "ts": "2026-06-25T16:38:28.595271+00:00",
+    "ch": null,
+    "ma": "Toyota",
+    "mo": "Aygo",
+    "y": 2013,
+    "km": 198569,
+    "b": ""
+  },
+  "wh:1109755339": {
+    "p": 4100,
+    "f": "2026-06-25T16:38:27.500836+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-altea-xl-reference-1-9-tdi-dpf-dsg-1109755339/",
+    "t": "Seat Altea XL Reference 1,9 TDi DPF DSG",
+    "ts": "2026-06-25T16:38:27.500836+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Altea",
+    "y": 2008,
+    "km": 245000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1544165999": {
+    "p": 8700,
+    "f": "2026-06-25T16:38:27.500836+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x3-1544165999/",
+    "t": "BMW X3",
+    "ts": "2026-06-25T16:38:27.500836+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X3",
+    "y": 2012,
+    "km": 275000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:1979446032": {
+    "p": 3500,
+    "f": "2026-06-25T16:38:27.500836+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-focus-5t-trend-1-6-d-1979446032/",
+    "t": "Ford Focus 5T Trend 1,6 D",
+    "ts": "2026-06-25T16:38:27.500836+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 139425,
+    "b": "Limousine"
+  },
   "as:2d35711e-215d-465f-b7b9-78cbe9ae0d99": {
     "p": 12999,
     "f": "2026-06-25T16:37:25.318147+00:00",
@@ -146857,54 +146909,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:66671028-b835-4fec-b221-d7a556050336": {
-    "p": 3400,
-    "f": "2026-06-17T14:21:32.697503+00:00",
-    "u": "https://www.autoscout24.at/angebote/opel-astra-astra-fliessheck-diesel-5-tuerer-1-7-cdti-dpf-119g-innovation-110-jahre-diesel-gruen-cat_ma54mo1916-66671028-b835-4fec-b221-d7a556050336",
-    "t": "Opel Astra",
-    "ts": "2026-06-17T14:21:32.697503+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Astra",
-    "y": 2009,
-    "km": 176677
-  },
-  "as:002bac9f-e5f1-4689-89f5-28c2adecab80": {
-    "p": null,
-    "f": "2026-06-17T14:20:48.266015+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:bba0363b-cfee-4457-9358-fdf0fd76285e": {
-    "p": null,
-    "f": "2026-06-17T14:20:48.266015+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:2093071110": {
-    "p": 6200,
-    "f": "2026-06-17T14:20:46.079149+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-2093071110/",
-    "t": "Opel Insignia",
-    "ts": "2026-06-17T14:20:46.079149+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Insignia",
-    "y": 2016,
-    "km": 251496
   },
   "__health__": {
     "wh": 0,
