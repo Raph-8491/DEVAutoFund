@@ -148,6 +148,57 @@
     "y": 2009,
     "km": 235000
   },
+  "as:1b9abc4f-0a84-440e-9e87-dfb9d3e583df": {
+    "p": null,
+    "f": "2026-06-25T14:49:26.427945+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1160485188": {
+    "p": 11590,
+    "f": "2026-06-25T14:49:25.472758+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-st-line-1160485188/",
+    "t": "Ford Fiesta ST-Line",
+    "ts": "2026-06-25T14:49:25.472758+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2019,
+    "km": 41600,
+    "b": "Klein-/ Kompaktwagen"
+  },
+  "wh:1893366102": {
+    "p": 3800,
+    "f": "2026-06-25T14:49:25.472758+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-6-tdi-1893366102/",
+    "t": "VW Golf 1.6 TDi",
+    "ts": "2026-06-25T14:49:25.472758+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2009,
+    "km": 312000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1918257638": {
+    "p": 5000,
+    "f": "2026-06-25T14:49:25.472758+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-1918257638/",
+    "t": "BMW 1er-Reihe",
+    "ts": "2026-06-25T14:49:25.472758+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "1er-Reihe",
+    "y": 2012,
+    "km": 315000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:40d90dbd-1bb8-4bc4-821e-e193828c5b95": {
     "p": null,
     "f": "2026-06-25T14:48:30.007720+00:00",
@@ -146661,55 +146712,6 @@
     "mo": "3er-Reihe",
     "y": 2009,
     "km": 275557
-  },
-  "wh:2024747634": {
-    "p": 7890,
-    "f": "2026-06-17T11:25:39.413907+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-rabbit-1-2-tsi-bmt-2024747634/",
-    "t": "VW Golf Rabbit 1.2 TSI BMT",
-    "ts": "2026-06-17T11:25:39.413907+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2014,
-    "km": 126000,
-    "b": "Klein-/ Kompaktwagen"
-  },
-  "wh:2084746442": {
-    "p": 4990,
-    "f": "2026-06-17T11:25:39.413907+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-fabia-1-2-tsi-2084746442/",
-    "t": "Skoda Fabia 1,2 TSI",
-    "ts": "2026-06-17T11:25:39.413907+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Fabia",
-    "y": 2012,
-    "km": 139800
-  },
-  "wh:963077716": {
-    "p": 10990,
-    "f": "2026-06-17T11:24:31.155666+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda6-2-2d-sky-active-revolution-max-ausstattung-963077716/",
-    "t": "Mazda Mazda6 2.2d Sky Active, Revolution MAX AUSSTATTUNG",
-    "ts": "2026-06-17T11:29:24.577650+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2013,
-    "km": 143000
-  },
-  "wh:2048617990": {
-    "p": 2800,
-    "f": "2026-06-17T11:24:31.155666+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-2048617990/",
-    "t": "Ford Fiesta",
-    "ts": "2026-06-17T11:24:31.155666+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2018,
-    "km": 135868
   },
   "__health__": {
     "wh": 0,
