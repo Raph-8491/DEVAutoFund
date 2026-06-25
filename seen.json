@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:1d7e0747-1b43-4b14-998d-e25df4621fb8": {
+    "p": 3900,
+    "f": "2026-06-25T08:57:22.706677+00:00",
+    "u": "https://www.autoscout24.at/angebote/toyota-auris-1-33-vvt-i-benzin-cat_ma70mo18992-1d7e0747-1b43-4b14-998d-e25df4621fb8",
+    "t": "Toyota Auris 1.33 VVT-i",
+    "ts": "2026-06-25T08:57:22.706677+00:00",
+    "ch": null,
+    "ma": "Toyota",
+    "mo": "Auris",
+    "y": 2010,
+    "km": 202450,
+    "b": ""
+  },
   "wh:989472901": {
     "p": 12900,
     "f": "2026-06-25T08:56:25.582366+00:00",
@@ -146138,18 +146151,6 @@
     "mo": "Touran",
     "y": 2008,
     "km": 272000
-  },
-  "as:6abdb417-f1bc-4cf6-befa-8bac9c500155": {
-    "p": null,
-    "f": "2026-06-16T20:27:34.330498+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
