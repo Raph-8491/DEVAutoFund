@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1978213263": {
+    "p": 3400,
+    "f": "2026-06-25T08:05:40.405487+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-top-zustand-mit-pickel-1978213263/",
+    "t": "Audi A4 Top Zustand ,mit Pickel",
+    "ts": "2026-06-25T08:05:40.405487+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2009,
+    "km": 340000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1391154812": {
+    "p": 2990,
+    "f": "2026-06-25T08:05:40.405487+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-doblo-malibu-1391154812/",
+    "t": "Fiat Dobl\u00f2 Malibu",
+    "ts": "2026-06-25T08:05:40.405487+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 235383,
+    "b": "Kombi / Family Van"
+  },
   "wh:1926328166": {
     "p": 15000,
     "f": "2026-06-25T08:03:24.124706+00:00",
@@ -146028,30 +146054,6 @@
     "mo": null,
     "y": 2018,
     "km": 117000
-  },
-  "wh:1470481085": {
-    "p": 7000,
-    "f": "2026-06-16T19:27:32.778953+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/alfa-romeo-giulietta-1-4-tb-sportivo-120-ps-1470481085/",
-    "t": "Alfa Romeo Giulietta 1.4 TB Sportivo 120 PS",
-    "ts": "2026-06-16T19:27:32.778953+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 184800
-  },
-  "wh:1773263192": {
-    "p": 2800,
-    "f": "2026-06-16T19:24:43.501417+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-kombilimousine-1773263192/",
-    "t": "VW Passat Kombilimousine",
-    "ts": "2026-06-16T19:24:43.501417+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2008,
-    "km": 309586
   },
   "__health__": {
     "wh": 0,
