@@ -191,7 +191,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-6tdi-1031164787/",
     "t": "VW Golf 1,6TDI",
     "ts": "2026-06-25T14:35:37.426850+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2017,
@@ -125824,7 +125824,8 @@
     "ma": null,
     "mo": null,
     "y": 2017,
-    "km": 150000
+    "km": 150000,
+    "b": "Limousine"
   },
   "gw:58756d6c-bf8e-48c1-933d-905445de3583": {
     "p": 5300,
