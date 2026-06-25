@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:4e25a25a-f67c-4627-bef9-cb347c94e370": {
+    "p": null,
+    "f": "2026-06-25T15:51:36.321134+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:0d949229-4b91-49e2-8b31-21643dd08882": {
     "p": 8950,
     "f": "2026-06-25T15:50:43.983986+00:00",
@@ -207,7 +219,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-928059366/",
     "t": "VW Golf",
     "ts": "2026-06-25T15:48:26.488255+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2014,
@@ -146798,18 +146810,6 @@
     "y": 2013,
     "km": 197000,
     "b": "Cabrio / Roadster"
-  },
-  "wh:1190342317": {
-    "p": 10499,
-    "f": "2026-06-17T13:02:34.764676+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/nissan-x-trail-allrad-1190342317/",
-    "t": "Nissan X-TRAIL Allrad",
-    "ts": "2026-06-17T13:02:34.764676+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2016,
-    "km": 187000
   },
   "__health__": {
     "wh": 0,
