@@ -148,6 +148,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:eaf15cf2-a58e-46b3-87de-b3f235b1bd54": {
+    "p": 10500,
+    "f": "2026-06-25T15:24:32.642021+00:00",
+    "u": "https://www.autoscout24.at/angebote/fiat-tipo-tipo-5-tuerer-1-4-t-jet-benzin-blau-cat_ma28mo1752-eaf15cf2-a58e-46b3-87de-b3f235b1bd54",
+    "t": "Fiat Tipo Tipo 5-T\u00fcrer 1.4 T-Jet",
+    "ts": "2026-06-25T15:24:32.642021+00:00",
+    "ch": null,
+    "ma": "Fiat",
+    "mo": "Tipo",
+    "y": 2017,
+    "km": 71831,
+    "b": ""
+  },
+  "as:f86b2c79-bd55-4f8e-8e2e-6e3d77c5709e": {
+    "p": null,
+    "f": "2026-06-25T15:24:32.642021+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1899695546": {
     "p": 3600,
     "f": "2026-06-25T15:23:26.924128+00:00",
@@ -193,7 +218,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-cabrio-sky-bmt-1-2-tsi-1921391362/",
     "t": "VW Golf Cabrio Sky BMT 1,2 TSI",
     "ts": "2026-06-25T15:20:41.544631+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2015,
@@ -146743,30 +146768,6 @@
     "mo": null,
     "y": 2011,
     "km": 171211
-  },
-  "wh:850020586": {
-    "p": 11499,
-    "f": "2026-06-17T12:16:26.257612+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-525d-850020586/",
-    "t": "BMW 5er-Reihe 525d",
-    "ts": "2026-06-17T12:16:26.257612+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "5er-Reihe",
-    "y": 2008,
-    "km": 185000
-  },
-  "wh:1271429390": {
-    "p": 5000,
-    "f": "2026-06-17T12:16:26.257612+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-e91-318i-1271429390/",
-    "t": "BMW 3er-Reihe E91 318i",
-    "ts": "2026-06-17T12:16:26.257612+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2010,
-    "km": 251458
   },
   "__health__": {
     "wh": 0,
