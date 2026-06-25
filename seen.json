@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:070d6b90-3c98-4d58-85ad-27c46bd4549a": {
+    "p": 2900,
+    "f": "2026-06-25T06:38:34.934321+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/ford-galaxy-titanium-2-2-tdci-dpf-stage-iv-diesel-cat_ma29mo1759/070d6b90-3c98-4d58-85ad-27c46bd4549a",
+    "t": "Ford Galaxy Titanium 2,2 TDCi DPF Stage IV",
+    "ts": "2026-06-25T06:38:34.934321+00:00",
+    "ch": null,
+    "ma": "Ford",
+    "mo": "Galaxy",
+    "y": 2009,
+    "km": 318000,
+    "b": ""
+  },
+  "as:070d6b90-3c98-4d58-85ad-27c46bd4549a": {
+    "p": 2900,
+    "f": "2026-06-25T06:38:27.436361+00:00",
+    "u": "https://www.autoscout24.at/angebote/ford-galaxy-titanium-2-2-tdci-dpf-stage-iv-diesel-cat_ma29mo1759-070d6b90-3c98-4d58-85ad-27c46bd4549a",
+    "t": "Ford Galaxy Titanium 2,2 TDCi DPF Stage IV",
+    "ts": "2026-06-25T06:38:27.436361+00:00",
+    "ch": null,
+    "ma": "Ford",
+    "mo": "Galaxy",
+    "y": 2009,
+    "km": 318000,
+    "b": ""
+  },
   "wh:1114980570": {
     "p": 14590,
     "f": "2026-06-25T06:37:21.668927+00:00",
@@ -145901,30 +145927,6 @@
     "mo": "Golf",
     "y": 2017,
     "km": 186000
-  },
-  "wh:1360774873": {
-    "p": 12000,
-    "f": "2026-06-16T18:33:29.416002+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-530d-xdrive-aut-1360774873/",
-    "t": "BMW 5er-Reihe 530d xDrive Aut.",
-    "ts": "2026-06-16T18:33:29.416002+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "5er-Reihe",
-    "y": 2011,
-    "km": 245000
-  },
-  "as:663ac93a-6871-4659-8bf0-b8a34f4a3a39": {
-    "p": null,
-    "f": "2026-06-16T18:31:48.096476+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
