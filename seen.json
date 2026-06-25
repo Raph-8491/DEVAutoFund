@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:ec5b784b-368b-46af-9d37-160261c83d62": {
+    "p": 9000,
+    "f": "2026-06-25T05:58:42.371926+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/ford-transit-custom-transit-custom-variobus-2-0-tdci-l1h1-320-ambiente-ambiente-diesel-weiss-cat_ma29mo74248/ec5b784b-368b-46af-9d37-160261c83d62",
+    "t": "Ford Transit Custom Transit Custom Variobus 2,0 TDCI L1H1 320 Ambiente Ambiente",
+    "ts": "2026-06-25T05:58:42.371926+00:00",
+    "ch": null,
+    "ma": "Ford",
+    "mo": "Transit Custom",
+    "y": 2018,
+    "km": 120000,
+    "b": ""
+  },
+  "as:ec5b784b-368b-46af-9d37-160261c83d62": {
+    "p": 9000,
+    "f": "2026-06-25T05:58:31.230972+00:00",
+    "u": "https://www.autoscout24.at/angebote/ford-transit-custom-transit-custom-variobus-2-0-tdci-l1h1-320-ambiente-ambiente-diesel-weiss-cat_ma29mo74248-ec5b784b-368b-46af-9d37-160261c83d62",
+    "t": "Ford Transit Custom Transit Custom Variobus 2,0 TDCI L1H1 320 Ambiente Ambiente",
+    "ts": "2026-06-25T05:58:31.230972+00:00",
+    "ch": null,
+    "ma": "Ford",
+    "mo": "Transit Custom",
+    "y": 2018,
+    "km": 120000,
+    "b": ""
+  },
   "wh:1969482082": {
     "p": 7999,
     "f": "2026-06-25T05:57:26.786940+00:00",
@@ -145849,30 +145875,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:ac6781f8-88fc-446f-b423-528334061d0b": {
-    "p": null,
-    "f": "2026-06-16T18:16:32.497097+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:2115928683": {
-    "p": 4750,
-    "f": "2026-06-16T18:16:26.740469+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1-2-i-2115928683/",
-    "t": "Seat Ibiza 1.2 i",
-    "ts": "2026-06-23T18:16:46.647725+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2011,
-    "km": 35200
   },
   "__health__": {
     "wh": 0,
