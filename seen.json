@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:82fb007c-0670-4fad-b90c-278a3ffeea3d": {
+    "p": 14400,
+    "f": "2026-06-25T09:10:51.045771+00:00",
+    "u": "https://www.autoscout24.at/angebote/skoda-karoq-karoq-1-5-tsi-act-ambition-benzin-weiss-cat_ma65mo74628-82fb007c-0670-4fad-b90c-278a3ffeea3d",
+    "t": "Skoda Karoq Karoq 1.5 TSI ACT Ambition",
+    "ts": "2026-06-25T09:10:51.045771+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Karoq",
+    "y": 2018,
+    "km": 121500,
+    "b": ""
+  },
   "wh:1176033461": {
     "p": 14500,
     "f": "2026-06-25T09:09:25.596932+00:00",
@@ -192,7 +205,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-rabbit-1-6-tdi-acc-pickerl-03-27-4-monate-1255816088/",
     "t": "VW Golf Rabbit 1,6 TDI, ACC, Pickerl 03/27+4 Monate",
     "ts": "2026-06-25T09:07:22.781901+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2017,
@@ -146144,18 +146157,6 @@
     "km": null
   },
   "as:f6b085f3-f602-4dca-8e33-296e8ab4b182": {
-    "p": null,
-    "f": "2026-06-16T20:47:32.271612+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:b5d4f33b-d7d9-4c47-9c10-88d43c3574f6": {
     "p": null,
     "f": "2026-06-16T20:47:32.271612+00:00",
     "u": null,
