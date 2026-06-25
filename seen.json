@@ -148,6 +148,46 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:1fc97891-e0f2-4cb1-aa14-ec030eab9813": {
+    "p": 7900,
+    "f": "2026-06-25T13:28:39.279192+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/seat-arona-1-0-eco-tsi-reference-benzin-cat_ma64mo74664/1fc97891-e0f2-4cb1-aa14-ec030eab9813",
+    "t": "SEAT Arona 1,0 Eco TSI Reference",
+    "ts": "2026-06-25T13:28:39.279192+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Arona",
+    "y": 2018,
+    "km": 47000,
+    "b": ""
+  },
+  "wh:1530374653": {
+    "p": 7500,
+    "f": "2026-06-25T13:28:28.192670+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-1-6-tdi-r-line-1530374653/",
+    "t": "VW Polo 1.6 TDI R Line",
+    "ts": "2026-06-25T13:28:28.192670+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Polo",
+    "y": 2013,
+    "km": 153000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T13:28:28.192670+00:00"
+  },
+  "wh:1064751126": {
+    "p": 10500,
+    "f": "2026-06-25T13:28:28.192670+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c4-picasso-bluehdi-120-s-s-6-gang-feel-edition-1064751126/",
+    "t": "Citro\u00ebn C4 Picasso BlueHDI 120 S&S 6-Gang Feel Edition",
+    "ts": "2026-06-25T13:28:28.192670+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2018,
+    "km": 125000,
+    "b": "Kombi / Family Van"
+  },
   "as:6378a7e2-4a57-4265-b45f-0a71ec20839b": {
     "p": null,
     "f": "2026-06-25T13:27:26.410119+00:00",
@@ -125655,16 +125695,17 @@
     "km": 72000
   },
   "wh:2058668265": {
-    "p": 7400,
+    "p": 6800,
     "f": "2026-06-18T13:31:28.946433+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-sharan-2-0-tdi-dsg-7sitzer-comfort-line-2058668265/",
     "t": "VW Sharan 2.0 TDI DSG *7Sitzer* Comfort Line**",
-    "ts": "2026-06-18T13:31:28.946433+00:00",
-    "ch": "alive",
+    "ts": "2026-06-25T13:28:28.192670+00:00",
+    "ch": null,
     "ma": "VW",
     "mo": "Sharan",
     "y": 2011,
-    "km": 280000
+    "km": 280000,
+    "b": "Kombi / Family Van"
   },
   "gw:b4dce34a-bef0-4eb0-918a-ff0609160685": {
     "p": 4500,
@@ -146562,42 +146603,6 @@
     "mo": null,
     "y": 2013,
     "km": 248996
-  },
-  "wh:1463036191": {
-    "p": 5990,
-    "f": "2026-06-17T10:03:29.936877+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-s-max-titanium-2-0-tdci-dpf-aut-1463036191/",
-    "t": "Ford S-MAX Titanium 2,0 TDCi DPF Aut.",
-    "ts": "2026-06-17T10:03:29.936877+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 197000
-  },
-  "wh:809586931": {
-    "p": 3600,
-    "f": "2026-06-17T10:03:29.936877+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mitsubishi-outlander-2013-diesel-7-sitzer-allrad-motorschaden-809586931/",
-    "t": "Mitsubishi Outlander 2013 Diesel | 7-Sitzer | Allrad |MOTORSCHADEN",
-    "ts": "2026-06-17T10:03:29.936877+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2013,
-    "km": 235000
-  },
-  "wh:2051919345": {
-    "p": 600,
-    "f": "2026-06-17T10:03:29.936877+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/nissan-micra-1-20-2051919345/",
-    "t": "Nissan Micra 1.20",
-    "ts": "2026-06-17T10:14:32.875813+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2008,
-    "km": 190000
   },
   "__health__": {
     "wh": 0,
