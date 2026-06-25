@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1630330729": {
+    "p": 10500,
+    "f": "2026-06-25T14:34:32.200889+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-kuga-trend-2-0-tdc-1630330729/",
+    "t": "Ford Kuga Trend 2.0 TDC",
+    "ts": "2026-06-25T14:34:32.200889+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2016,
+    "km": 127666,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "gw:8bcd7172-eb32-4a1f-af15-067f3b351cb4": {
     "p": 2699,
     "f": "2026-06-25T14:33:37.708620+00:00",
@@ -271,7 +284,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-6-tdi-1736142264/",
     "t": "VW Golf 1.6 TDi",
     "ts": "2026-06-25T14:31:32.200903+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2012,
@@ -321,7 +334,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-bmw-116d-sport-line-m-paket-1589042881/",
     "t": "BMW 1er-Reihe BMW 116d Sport Line M-Paket",
     "ts": "2026-06-25T14:31:32.200903+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "1er-Reihe",
     "y": 2016,
@@ -146675,18 +146688,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1777749903": {
-    "p": 2600,
-    "f": "2026-06-17T11:09:32.883763+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-roomster-1-2l-benzin-1777749903/",
-    "t": "Skoda Roomster 1,2L Benzin",
-    "ts": "2026-06-17T11:09:32.883763+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Roomster",
-    "y": 2008,
-    "km": 116000
   },
   "__health__": {
     "wh": 0,
