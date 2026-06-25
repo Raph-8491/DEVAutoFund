@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2025992576": {
+    "p": 6500,
+    "f": "2026-06-25T07:25:37.636277+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mini-cooper-1-6-2025992576/",
+    "t": "MINI Cooper 1,6",
+    "ts": "2026-06-25T07:25:37.636277+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 215000,
+    "b": "Sportwagen / Coup\u00e9"
+  },
   "gw:d74f5e8c-8e6d-40c3-a8a3-3fd0a9842369": {
     "p": 6900,
     "f": "2026-06-25T07:23:31.274833+00:00",
@@ -145988,18 +146001,6 @@
     "mo": "A3",
     "y": 2009,
     "km": 252350
-  },
-  "as:a0ce4da2-6cd7-44e0-a12d-162806ed7582": {
-    "p": null,
-    "f": "2026-06-16T18:57:30.464558+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
