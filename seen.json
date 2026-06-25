@@ -148,6 +148,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:da8036f3-795c-4657-b052-1d3ef5265709": {
+    "p": 3199,
+    "f": "2026-06-25T14:32:38.080843+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-golf-comfortline-1-6-tdi-dpf-pickerl-05-2027-diesel-schwarz-cat_ma74mo2084/da8036f3-795c-4657-b052-1d3ef5265709",
+    "t": "Volkswagen Golf Comfortline 1,6 TDI DPF ** pickerl 05.2027**",
+    "ts": "2026-06-25T14:32:38.080843+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2011,
+    "km": 267000,
+    "b": ""
+  },
+  "as:da8036f3-795c-4657-b052-1d3ef5265709": {
+    "p": 3199,
+    "f": "2026-06-25T14:32:29.390087+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-comfortline-1-6-tdi-dpf-pickerl-05-2027-diesel-schwarz-cat_ma74mo2084-da8036f3-795c-4657-b052-1d3ef5265709",
+    "t": "Volkswagen Golf Comfortline 1,6 TDI DPF ** pickerl 05.2027**",
+    "ts": "2026-06-25T14:32:29.390087+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2011,
+    "km": 267000,
+    "b": ""
+  },
   "as:f7ffd973-a98f-4616-9182-561cb5df1cf1": {
     "p": 3990,
     "f": "2026-06-25T14:31:34.026278+00:00",
@@ -146658,30 +146684,6 @@
     "mo": null,
     "y": 2008,
     "km": 171000
-  },
-  "wh:2047345970": {
-    "p": 8999,
-    "f": "2026-06-17T11:05:38.412100+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/volvo-xc60-2-4d-awd-momentum-2047345970/",
-    "t": "Volvo XC60 2,4D AWD Momentum",
-    "ts": "2026-06-17T11:05:38.412100+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 277000
-  },
-  "gw:898affc7-165a-4db3-8c94-b749a14545b7": {
-    "p": 9000,
-    "f": "2026-06-17T11:03:34.847903+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/skoda-octavia-combi-1-6-tdi-ambition-dsg-diesel-cat_ma65mo15222/898affc7-165a-4db3-8c94-b749a14545b7",
-    "t": "Skoda Octavia",
-    "ts": "2026-06-17T11:03:34.847903+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2018,
-    "km": 250000
   },
   "__health__": {
     "wh": 0,
