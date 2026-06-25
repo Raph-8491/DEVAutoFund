@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1118525427": {
+    "p": 2500,
+    "f": "2026-06-25T12:16:27.146533+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/nissan-qashqai-1118525427/",
+    "t": "Nissan Qashqai",
+    "ts": "2026-06-25T12:16:27.146533+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 258700,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:864895277": {
     "p": 3899,
     "f": "2026-06-25T12:15:43.959467+00:00",
@@ -146482,18 +146495,6 @@
   "as:318790a8-aef6-47b1-9e79-2cb441aee4cb": {
     "p": null,
     "f": "2026-06-17T08:46:35.615671+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:bcf33551-5ef6-465f-9416-902a07d3f1fc": {
-    "p": null,
-    "f": "2026-06-17T08:45:45.044302+00:00",
     "u": null,
     "t": null,
     "ts": null,
