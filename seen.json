@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:28aeaa87-ce56-446a-95f1-f082190796d6": {
+    "p": 6700,
+    "f": "2026-06-25T03:44:33.406423+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/skoda-fabia-ambition-1-4-tdi-dsg-diesel-cat_ma65mo15878/28aeaa87-ce56-446a-95f1-f082190796d6",
+    "t": "Skoda Fabia Ambition 1,4 TDI DSG",
+    "ts": "2026-06-25T03:44:33.406423+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Fabia",
+    "y": 2015,
+    "km": 180500,
+    "b": ""
+  },
+  "as:28aeaa87-ce56-446a-95f1-f082190796d6": {
+    "p": 6700,
+    "f": "2026-06-25T03:44:27.012545+00:00",
+    "u": "https://www.autoscout24.at/angebote/skoda-fabia-ambition-1-4-tdi-dsg-diesel-cat_ma65mo15878-28aeaa87-ce56-446a-95f1-f082190796d6",
+    "t": "Skoda Fabia Ambition 1,4 TDI DSG",
+    "ts": "2026-06-25T03:44:27.012545+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Fabia",
+    "y": 2015,
+    "km": 180500,
+    "b": ""
+  },
   "as:03ddd61d-7b11-4adc-95d6-729e7712f9c6": {
     "p": null,
     "f": "2026-06-25T03:42:32.059520+00:00",
@@ -145770,30 +145796,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:972000314": {
-    "p": 7250,
-    "f": "2026-06-16T17:46:37.206814+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-320d-cabrio-e93-972000314/",
-    "t": "BMW 3er-Reihe 320d Cabrio E93",
-    "ts": "2026-06-16T17:46:37.206814+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2011,
-    "km": 249900
-  },
-  "wh:1179539242": {
-    "p": 600,
-    "f": "2026-06-16T17:46:37.206814+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-i10-1179539242/",
-    "t": "Hyundai i10",
-    "ts": "2026-06-16T17:46:37.206814+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 206000
   },
   "__health__": {
     "wh": 0,
