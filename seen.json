@@ -148,6 +148,45 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:668d1042-6d08-41a9-96e6-46fe5070373e": {
+    "p": 4500,
+    "f": "2026-06-25T10:42:43.902121+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/skoda-rapid-spaceback-rapid-spaceback-1-4-tdi-company-dsg-diesel-cat_ma65mo20184/668d1042-6d08-41a9-96e6-46fe5070373e",
+    "t": "Skoda Rapid/Spaceback Rapid Spaceback 1,4 TDI Company DSG",
+    "ts": "2026-06-25T10:42:43.902121+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Rapid/Spaceback",
+    "y": 2016,
+    "km": 260500,
+    "b": ""
+  },
+  "as:b5f6fdba-d650-44d3-be8c-776d43ea5399": {
+    "p": 6990,
+    "f": "2026-06-25T10:42:30.758214+00:00",
+    "u": "https://www.autoscout24.at/angebote/volkswagen-touran-2-0-tdi-scr-bluemotion-technology-comfortline-diesel-cat_ma74mo18329-b5f6fdba-d650-44d3-be8c-776d43ea5399",
+    "t": "Volkswagen Touran 2.0 TDI SCR (BlueMotion Technology) Comfortline",
+    "ts": "2026-06-25T10:42:30.758214+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Touran",
+    "y": 2016,
+    "km": 299800,
+    "b": "",
+    "pu": "2026-06-25T10:42:30.758214+00:00"
+  },
+  "as:5c1c0654-28b7-4e0b-a8c1-1c110d80f058": {
+    "p": null,
+    "f": "2026-06-25T10:42:30.758214+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1175228336": {
     "p": 9500,
     "f": "2026-06-25T10:41:22.234659+00:00",
@@ -146284,42 +146323,6 @@
     "mo": "Golf",
     "y": 2013,
     "km": 262000
-  },
-  "as:babd6544-fcc1-420b-bcf8-f390acb9da89": {
-    "p": null,
-    "f": "2026-06-17T06:13:34.627173+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1452476423": {
-    "p": 7800,
-    "f": "2026-06-17T06:13:32.692304+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-500c-1-3-mjet-ii-1452476423/",
-    "t": "Fiat 500C 1,3 MJet II",
-    "ts": "2026-06-17T06:13:32.692304+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 77250
-  },
-  "wh:1493530666": {
-    "p": 3800,
-    "f": "2026-06-17T06:10:49.531108+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda3-1-6-1493530666/",
-    "t": "Mazda Mazda3 1.6",
-    "ts": "2026-06-17T06:10:49.531108+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 11000
   },
   "__health__": {
     "wh": 0,
