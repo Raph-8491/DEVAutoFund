@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:e6e7f16d-4eef-4d65-9f50-9c32e6d34966": {
+    "p": null,
+    "f": "2026-06-25T07:20:44.715435+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:236aa515-42d6-461a-8b5d-a300f2764552": {
     "p": 2000,
     "f": "2026-06-25T07:19:33.961812+00:00",
@@ -145980,18 +145992,6 @@
     "mo": "1er-Reihe",
     "y": 2009,
     "km": 247000
-  },
-  "wh:1467010422": {
-    "p": 2000,
-    "f": "2026-06-16T18:54:46.847971+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mazda-mazda6-sport-cd125-te-1467010422/",
-    "t": "Mazda Mazda6 Sport CD125 TE",
-    "ts": "2026-06-16T18:54:46.847971+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 150389
   },
   "__health__": {
     "wh": 0,
