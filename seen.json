@@ -148,6 +148,46 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:fadfd47f-628d-4d7e-9197-bee9acf45fbf": {
+    "p": 10999,
+    "f": "2026-06-25T13:19:36.738876+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/mercedes-benz-ml-350-bluetec-4matic-7g-tronic-diesel-cat_ma47mo18319/fadfd47f-628d-4d7e-9197-bee9acf45fbf",
+    "t": "Mercedes-Benz ML 350 BlueTEC 4MATIC 7G-TRONIC",
+    "ts": "2026-06-25T13:19:36.738876+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "ML 350",
+    "y": 2012,
+    "km": 380000,
+    "b": ""
+  },
+  "as:fadfd47f-628d-4d7e-9197-bee9acf45fbf": {
+    "p": 10999,
+    "f": "2026-06-25T13:19:27.971289+00:00",
+    "u": "https://www.autoscout24.at/angebote/mercedes-benz-ml-350-bluetec-4matic-7g-tronic-diesel-cat_ma47mo18319-fadfd47f-628d-4d7e-9197-bee9acf45fbf",
+    "t": "Mercedes-Benz ML 350 BlueTEC 4MATIC 7G-TRONIC",
+    "ts": "2026-06-25T13:19:27.971289+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "ML 350",
+    "y": 2012,
+    "km": 380000,
+    "b": ""
+  },
+  "wh:997070152": {
+    "p": 11000,
+    "f": "2026-06-25T13:19:24.626349+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-gti-997070152/",
+    "t": "VW Golf GTI",
+    "ts": "2026-06-25T13:19:24.626349+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2009,
+    "km": 180000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T13:19:24.626349+00:00"
+  },
   "as:a7b4bf2f-90c6-470a-98a8-07e7b049cdce": {
     "p": null,
     "f": "2026-06-25T13:17:31.977374+00:00",
@@ -146546,44 +146586,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:bee68af8-24cf-4925-a814-c78bcc60467f": {
-    "p": null,
-    "f": "2026-06-17T09:55:45.480347+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1821398391": {
-    "p": 9400,
-    "f": "2026-06-17T09:55:42.822241+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-7er-reihe-730d-1821398391/",
-    "t": "BMW 7er-Reihe 730d",
-    "ts": "2026-06-24T09:53:24.825924+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "7er-Reihe",
-    "y": 2009,
-    "km": 235000,
-    "b": "Limousine"
-  },
-  "wh:1276679716": {
-    "p": 5300,
-    "f": "2026-06-17T09:53:36.264817+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-b8-2-0-tdi-143-ps-1276679716/",
-    "t": "Audi A4 B8. 2.0 TDI. 143 PS.",
-    "ts": "2026-06-17T09:53:36.264817+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2010,
-    "km": 278000,
-    "b": "Kombi / Family Van"
   },
   "__health__": {
     "wh": 0,
