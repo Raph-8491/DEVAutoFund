@@ -147,6 +147,44 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:cb0c9791-2383-47ba-b9fe-d65f54ed795d": {
+    "p": 4999,
+    "f": "2026-06-25T08:10:46.280382+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/renault-clio-clio-grandtour-energy-tce-90-expression-expression-benzin-rot-cat_ma60mo1961/cb0c9791-2383-47ba-b9fe-d65f54ed795d",
+    "t": "Renault Clio Clio Grandtour ENERGY TCe 90 Expression Expression",
+    "ts": "2026-06-25T08:10:46.280382+00:00",
+    "ch": null,
+    "ma": "Renault",
+    "mo": "Clio",
+    "y": 2015,
+    "km": 127500,
+    "b": ""
+  },
+  "as:cb0c9791-2383-47ba-b9fe-d65f54ed795d": {
+    "p": 4999,
+    "f": "2026-06-25T08:10:40.890787+00:00",
+    "u": "https://www.autoscout24.at/angebote/renault-clio-clio-grandtour-energy-tce-90-expression-expression-benzin-rot-cat_ma60mo1961-cb0c9791-2383-47ba-b9fe-d65f54ed795d",
+    "t": "Renault Clio Clio Grandtour ENERGY TCe 90 Expression Expression",
+    "ts": "2026-06-25T08:10:40.890787+00:00",
+    "ch": null,
+    "ma": "Renault",
+    "mo": "Clio",
+    "y": 2015,
+    "km": 127500,
+    "b": ""
+  },
+  "as:9b84ef10-0fae-4369-ab9e-0a8828a5c5da": {
+    "p": null,
+    "f": "2026-06-25T08:10:40.890787+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:783740369": {
     "p": 1550,
     "f": "2026-06-25T08:09:21.159412+00:00",
@@ -146017,42 +146055,6 @@
   "as:d907cec1-6e06-49ce-acee-c324764edc01": {
     "p": null,
     "f": "2026-06-16T19:33:25.155194+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:8415b76b-a188-4465-9598-55a3c0f34c60": {
-    "p": null,
-    "f": "2026-06-16T19:32:35.254134+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1320123846": {
-    "p": 5699,
-    "f": "2026-06-16T19:32:31.624270+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-rabbit-1-6-tdi-dpf-1320123846/",
-    "t": "VW Golf Rabbit 1,6 TDI DPF",
-    "ts": "2026-06-16T19:32:31.624270+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2011,
-    "km": 206100
-  },
-  "as:0a783807-856e-4eac-8152-60e8bd84410f": {
-    "p": null,
-    "f": "2026-06-16T19:31:38.861942+00:00",
     "u": null,
     "t": null,
     "ts": null,
