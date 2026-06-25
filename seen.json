@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1361206370": {
+    "p": 2900,
+    "f": "2026-06-25T11:34:29.428467+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c3-picasso-1-6-hdi-1361206370/",
+    "t": "Citro\u00ebn C3 Picasso 1.6 Hdi",
+    "ts": "2026-06-25T11:34:29.428467+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 154000,
+    "b": "Limousine"
+  },
   "gw:3e1f716a-555d-4b44-be73-0ed4b07248e3": {
     "p": 5000,
     "f": "2026-06-25T11:32:50.900664+00:00",
@@ -257,7 +270,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-392c-1785499479/",
     "t": "BMW 3er-Reihe 392C",
     "ts": "2026-06-25T11:30:50.907634+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "3er-Reihe",
     "y": 2008,
@@ -146404,18 +146417,6 @@
     "mo": "Actyon",
     "y": 2009,
     "km": 171000
-  },
-  "as:29e915a6-653d-4e4b-a4f0-fe4a23b6b484": {
-    "p": 7750,
-    "f": "2026-06-17T07:41:31.722299+00:00",
-    "u": "https://www.autoscout24.at/angebote/bmw-325-m-paket-diesel-cat_ma13mo1644-29e915a6-653d-4e4b-a4f0-fe4a23b6b484",
-    "t": "BMW 325",
-    "ts": "2026-06-17T07:41:31.722299+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "325",
-    "y": 2009,
-    "km": 316100
   },
   "__health__": {
     "wh": 0,
