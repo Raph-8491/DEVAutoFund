@@ -147,6 +147,20 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:2084776982": {
+    "p": 9500,
+    "f": "2026-06-25T06:07:23.249293+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-sharan-sky-bmt-2-0-tdi-dpf-dsg-2084776982/",
+    "t": "VW Sharan Sky BMT 2,0 TDI DPF DSG",
+    "ts": "2026-06-25T06:07:23.249293+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Sharan",
+    "y": 2012,
+    "km": 163000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T06:07:23.249293+00:00"
+  },
   "as:8a19f2d3-821e-47ab-b2ed-66aacfccff3e": {
     "p": null,
     "f": "2026-06-25T06:04:27.254524+00:00",
@@ -123303,7 +123317,8 @@
     "ma": null,
     "mo": null,
     "y": 2016,
-    "km": 223410
+    "km": 223410,
+    "b": "Kombi / Family Van"
   },
   "wh:1586368112": {
     "p": 799,
@@ -145866,18 +145881,6 @@
     "mo": null,
     "y": 2017,
     "km": 98500
-  },
-  "wh:1806672557": {
-    "p": 7990,
-    "f": "2026-06-16T18:21:27.840837+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-t5-2-5l-tdi-5zylinder-1806672557/",
-    "t": "VW T5 2,5l TDI 5Zylinder",
-    "ts": "2026-06-16T18:21:27.840837+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "T5",
-    "y": 2008,
-    "km": 350564
   },
   "__health__": {
     "wh": 0,
