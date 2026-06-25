@@ -147,6 +147,34 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1969482082": {
+    "p": 7999,
+    "f": "2026-06-25T05:57:26.786940+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-1-6-tdi-pickerl-neu-xenon-plus-led-tagfahrlicht-1969482082/",
+    "t": "Audi A3 1.6 TDI (Pickerl neu Xenon Plus, LED Tagfahrlicht)",
+    "ts": "2026-06-25T05:57:26.786940+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A3",
+    "y": 2014,
+    "km": 216000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T05:57:26.786940+00:00"
+  },
+  "wh:1389863988": {
+    "p": 12500,
+    "f": "2026-06-25T05:57:26.786940+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-2-0-tdi-neue-pickerl-1389863988/",
+    "t": "VW Passat 2.0 TDI Neue Pickerl",
+    "ts": "2026-06-25T05:57:26.786940+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Passat",
+    "y": 2016,
+    "km": 149000,
+    "b": "Limousine",
+    "pu": "2026-06-25T05:57:26.786940+00:00"
+  },
   "wh:1766957914": {
     "p": 3400,
     "f": "2026-06-25T05:54:32.397685+00:00",
@@ -145845,30 +145873,6 @@
     "mo": "Ibiza",
     "y": 2011,
     "km": 35200
-  },
-  "wh:1688954504": {
-    "p": 7999,
-    "f": "2026-06-16T18:16:26.740469+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-316d-touring-oesterreich-paket-1688954504/",
-    "t": "BMW 3er-Reihe 316d Touring \u00d6sterreich-Paket",
-    "ts": "2026-06-16T18:16:26.740469+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2012,
-    "km": 212000
-  },
-  "wh:1623719988": {
-    "p": 10000,
-    "f": "2026-06-16T18:16:26.740469+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-320-1623719988/",
-    "t": "BMW 3er-Reihe 320",
-    "ts": "2026-06-16T18:16:26.740469+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2012,
-    "km": 340000
   },
   "__health__": {
     "wh": 0,
