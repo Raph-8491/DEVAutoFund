@@ -147,6 +147,45 @@
     "y": 2009,
     "km": 235000
   },
+  "as:5d5b4e08-8729-49dc-a525-97b9e64eb7e4": {
+    "p": null,
+    "f": "2026-06-25T09:15:43.320763+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1966729407": {
+    "p": 2100,
+    "f": "2026-06-25T09:15:41.691818+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-116i-1966729407/",
+    "t": "BMW 1er-Reihe 116i",
+    "ts": "2026-06-25T09:15:41.691818+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "1er-Reihe",
+    "y": 2008,
+    "km": 220000,
+    "b": "Limousine",
+    "pu": "2026-06-25T09:15:41.691818+00:00"
+  },
+  "wh:1305863220": {
+    "p": 400,
+    "f": "2026-06-25T09:15:41.691818+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-accent-crdi-5-1305863220/",
+    "t": "Hyundai Accent CRDi/5",
+    "ts": "2026-06-25T09:15:41.691818+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2023,
+    "km": 118000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1307002680": {
     "p": 2400,
     "f": "2026-06-25T09:13:28.239540+00:00",
@@ -146143,42 +146182,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:fa01d2d9-b1bd-4ca1-ad1c-a5034c1e77c7": {
-    "p": null,
-    "f": "2026-06-16T21:01:36.803434+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:5fb036a9-b08b-4e66-b8ba-682490a19599": {
-    "p": 3200,
-    "f": "2026-06-16T21:01:36.803434+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-up-klima-navi-tuev-10-27-benzin-weiss-cat_ma74mo19750-5fb036a9-b08b-4e66-b8ba-682490a19599",
-    "t": "Volkswagen up!",
-    "ts": "2026-06-16T21:01:36.803434+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "up!",
-    "y": 2012,
-    "km": 120111
-  },
-  "as:3b8cef26-d93f-43aa-82aa-85a8aa67d4da": {
-    "p": 5400,
-    "f": "2026-06-16T20:57:30.933417+00:00",
-    "u": "https://www.autoscout24.at/angebote/mercedes-benz-c-220-c-klasse-t-modell-diesel-t-cdi-dpf-blueefficiency-diesel-schwarz-cat_ma47mo2147-3b8cef26-d93f-43aa-82aa-85a8aa67d4da",
-    "t": "Mercedes-Benz C 220",
-    "ts": "2026-06-16T20:57:30.933417+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "C 220",
-    "y": 2010,
-    "km": 296266
   },
   "__health__": {
     "wh": 0,
