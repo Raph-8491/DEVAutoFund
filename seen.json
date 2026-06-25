@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1506560266": {
+    "p": 9950,
+    "f": "2026-06-25T06:28:26.293069+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-q3-1506560266/",
+    "t": "Audi Q3",
+    "ts": "2026-06-25T06:28:26.293069+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "Q3",
+    "y": 2012,
+    "km": 166000,
+    "b": "SUV / Gel\u00e4ndewagen",
+    "pu": "2026-06-25T06:28:26.293069+00:00"
+  },
+  "wh:1218995916": {
+    "p": 6700,
+    "f": "2026-06-25T06:28:26.293069+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-fabia-1218995916/",
+    "t": "Skoda Fabia",
+    "ts": "2026-06-25T06:28:26.293069+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Fabia",
+    "y": 2016,
+    "km": 100661,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "wh:1524346240": {
     "p": 4800,
     "f": "2026-06-25T06:26:26.947927+00:00",
@@ -145884,30 +145911,6 @@
     "mo": null,
     "y": 2023,
     "km": 172336
-  },
-  "wh:1258187640": {
-    "p": 1700,
-    "f": "2026-06-16T18:29:23.861034+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-trend-1258187640/",
-    "t": "Ford Fiesta Trend",
-    "ts": "2026-06-16T18:29:23.861034+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2010,
-    "km": 127000
-  },
-  "gw:2ce31fe8-dfae-4069-98ac-0721fabace04": {
-    "p": 4990,
-    "f": "2026-06-16T18:27:43.372515+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/opel-corsa-1-2-edition-30-ecoflex-start-stop-system-benzin-cat_ma54mo1918/2ce31fe8-dfae-4069-98ac-0721fabace04",
-    "t": "Opel Corsa",
-    "ts": "2026-06-16T18:27:43.372515+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Corsa",
-    "y": 2012,
-    "km": 41000
   },
   "__health__": {
     "wh": 0,
