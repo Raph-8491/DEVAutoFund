@@ -147,6 +147,33 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1058680915": {
+    "p": 14990,
+    "f": "2026-06-25T05:23:22.678386+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-1-6-cdti-innovation-exclusive-1058680915/",
+    "t": "Opel Insignia 1,6 CDTI Innovation Exclusive",
+    "ts": "2026-06-25T05:23:22.678386+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Insignia",
+    "y": 2019,
+    "km": 91000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1631966587": {
+    "p": 14990,
+    "f": "2026-06-25T05:23:22.678386+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-a-klasse-a200-1631966587/",
+    "t": "Mercedes-Benz A-Klasse A200",
+    "ts": "2026-06-25T05:23:22.678386+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "A-Klasse",
+    "y": 2019,
+    "km": 111000,
+    "b": "Limousine",
+    "pu": "2026-06-25T05:23:22.678386+00:00"
+  },
   "wh:1471955319": {
     "p": 1200,
     "f": "2026-06-25T05:20:43.530027+00:00",
@@ -123556,7 +123583,8 @@
     "ma": "Audi",
     "mo": "A3",
     "y": 2010,
-    "km": 174000
+    "km": 174000,
+    "b": "Limousine"
   },
   "as:13fbf0b7-742c-4bf6-8889-5dd1586c67cd": {
     "p": null,
@@ -145821,30 +145849,6 @@
     "mo": "318",
     "y": 2013,
     "km": 203000
-  },
-  "wh:1382900456": {
-    "p": 4900,
-    "f": "2026-06-16T18:08:31.731806+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mini-cooper-1382900456/",
-    "t": "MINI Cooper",
-    "ts": "2026-06-16T18:12:35.240397+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 210000
-  },
-  "wh:1554062475": {
-    "p": 12000,
-    "f": "2026-06-16T18:08:31.731806+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-5n-1554062475/",
-    "t": "VW Tiguan 5N",
-    "ts": "2026-06-16T18:08:31.731806+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Tiguan",
-    "y": 2012,
-    "km": 105000
   },
   "__health__": {
     "wh": 0,
