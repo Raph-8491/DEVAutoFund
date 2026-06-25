@@ -147,6 +147,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:3b700755-ae9c-446a-b007-4ff9c94b4b8d": {
+    "p": null,
+    "f": "2026-06-25T07:03:26.489417+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1895262691": {
+    "p": 750,
+    "f": "2026-06-25T07:03:25.278516+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-twingo-1895262691/",
+    "t": "Renault Twingo",
+    "ts": "2026-06-25T07:03:25.278516+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 185000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:03a1af0a-461a-4fb2-bf15-7e0155e9a77d": {
     "p": null,
     "f": "2026-06-25T07:01:39.613835+00:00",
@@ -123403,7 +123428,8 @@
     "ma": "VW",
     "mo": "Polo",
     "y": 2020,
-    "km": 71000
+    "km": 71000,
+    "b": "Limousine"
   },
   "wh:1694045799": {
     "p": 8500,
@@ -123415,7 +123441,8 @@
     "ma": "Audi",
     "mo": "A5",
     "y": 2008,
-    "km": 306058
+    "km": 306058,
+    "b": "Sportwagen / Coup\u00e9"
   },
   "as:89094834-8431-4628-91f1-167896c0eb8a": {
     "p": null,
@@ -145934,30 +145961,6 @@
     "mo": "Golf",
     "y": 2010,
     "km": 236820
-  },
-  "as:2e7e2531-611e-4bbf-ab43-40c2c8e203ee": {
-    "p": null,
-    "f": "2026-06-16T18:44:39.571690+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:954212558": {
-    "p": 5500,
-    "f": "2026-06-16T18:44:36.894647+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-plus-comfortline-1-2-tsi-954212558/",
-    "t": "VW Golf Plus Comfortline 1,2 TSI",
-    "ts": "2026-06-16T18:44:36.894647+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2011,
-    "km": 117000
   },
   "__health__": {
     "wh": 0,
