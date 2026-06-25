@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1111820103": {
+    "p": 13900,
+    "f": "2026-06-25T05:17:22.548356+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mini-cooper-automatik-1111820103/",
+    "t": "MINI Cooper Automatik",
+    "ts": "2026-06-25T05:17:22.548356+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2019,
+    "km": 63000,
+    "b": "Sportwagen / Coup\u00e9"
+  },
   "as:078313f7-a761-41d3-96e8-6d1dc0edbd62": {
     "p": 14950,
     "f": "2026-06-25T05:14:31.741952+00:00",
@@ -166,7 +179,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-318-xdrive-touring-1849871146/",
     "t": "BMW 3er-Reihe 318 xDrive Touring",
     "ts": "2026-06-25T05:14:28.943186+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "BMW",
     "mo": "3er-Reihe",
     "y": 2013,
@@ -145828,18 +145841,6 @@
     "mo": null,
     "y": 2015,
     "km": 132000
-  },
-  "wh:1454726897": {
-    "p": 3650,
-    "f": "2026-06-16T18:06:27.631730+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-chili-1454726897/",
-    "t": "Seat Ibiza Chili",
-    "ts": "2026-06-16T18:06:27.631730+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2011,
-    "km": 186881
   },
   "__health__": {
     "wh": 0,
