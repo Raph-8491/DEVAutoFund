@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:a1497e1a-e4d0-4135-b2fb-0211bc54c3de": {
+    "p": null,
+    "f": "2026-06-25T08:06:29.859382+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "wh:1978213263": {
     "p": 3400,
     "f": "2026-06-25T08:05:40.405487+00:00",
@@ -179,7 +191,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-s-line-1926328166/",
     "t": "Audi A3 S line",
     "ts": "2026-06-25T08:03:24.124706+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A3",
     "y": 2019,
@@ -193,7 +205,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-7-1705705513/",
     "t": "VW Golf 7",
     "ts": "2026-06-25T08:03:24.124706+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2017,
@@ -146042,18 +146054,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1220497706": {
-    "p": 11900,
-    "f": "2026-06-16T19:27:32.778953+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-kuga-1-5-ecoboost-trend-start-stop-1220497706/",
-    "t": "Ford Kuga 1,5 EcoBoost Trend Start/Stop",
-    "ts": "2026-06-16T19:27:32.778953+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2018,
-    "km": 117000
   },
   "__health__": {
     "wh": 0,
