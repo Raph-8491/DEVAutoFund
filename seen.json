@@ -147,6 +147,32 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1856664313": {
+    "p": 1300,
+    "f": "2026-06-25T06:11:28.326953+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-punto-1-2-67-young-1856664313/",
+    "t": "Fiat Punto 1,2 67 Young",
+    "ts": "2026-06-25T06:11:28.326953+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2014,
+    "km": 184343,
+    "b": "Limousine"
+  },
+  "wh:1496328560": {
+    "p": 6000,
+    "f": "2026-06-25T06:11:28.326953+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-s-max-1496328560/",
+    "t": "Ford S-MAX",
+    "ts": "2026-06-25T06:11:28.326953+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 198000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "gw:dcc72688-19d5-4476-9400-fba70ba98161": {
     "p": 14990,
     "f": "2026-06-25T06:10:50.067342+00:00",
@@ -145849,30 +145875,6 @@
     "km": 232844
   },
   "as:1552f8ff-59b2-4132-8ccb-db750f2dfc6d": {
-    "p": null,
-    "f": "2026-06-16T18:21:30.943435+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:2f5acfad-acbf-464f-9bbf-14d20bb138fc": {
-    "p": null,
-    "f": "2026-06-16T18:21:30.943435+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:dd0aa8ad-3bb5-40a2-a97d-09c495eea098": {
     "p": null,
     "f": "2026-06-16T18:21:30.943435+00:00",
     "u": null,
