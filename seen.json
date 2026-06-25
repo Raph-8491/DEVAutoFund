@@ -148,6 +148,46 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1071512134": {
+    "p": 2900,
+    "f": "2026-06-25T10:45:37.976338+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-1-6tdi-led-motorschad-1071512134/",
+    "t": "Seat Leon 1.6Tdi LED Motorschad",
+    "ts": "2026-06-25T10:45:37.976338+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2013,
+    "km": 210000,
+    "b": "Limousine"
+  },
+  "wh:1964343141": {
+    "p": 14900,
+    "f": "2026-06-25T10:45:37.976338+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-superb-kombi-2-0-tdi-laurin-klement-dsg-absolute-vollausstattung-top-zustand-1964343141/",
+    "t": "Skoda Superb Kombi 2.0 TDI Laurin & Klement DSG Absolute Vollausstattung & Top-Zustand",
+    "ts": "2026-06-25T10:45:37.976338+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Superb",
+    "y": 2019,
+    "km": 200000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1317033229": {
+    "p": 14000,
+    "f": "2026-06-25T10:45:37.976338+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a3-8v-2-0tdi-s-line-quattro-1317033229/",
+    "t": "Audi A3 8V 2.0TDI S-Line Quattro",
+    "ts": "2026-06-25T10:45:37.976338+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A3",
+    "y": 2013,
+    "km": 186867,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T10:45:37.976338+00:00"
+  },
   "wh:1472862364": {
     "p": 6450,
     "f": "2026-06-25T10:43:24.312632+00:00",
@@ -221,7 +261,7 @@
     "u": "https://www.autoscout24.at/angebote/volkswagen-touran-2-0-tdi-scr-bluemotion-technology-comfortline-diesel-cat_ma74mo18329-b5f6fdba-d650-44d3-be8c-776d43ea5399",
     "t": "Volkswagen Touran 2.0 TDI SCR (BlueMotion Technology) Comfortline",
     "ts": "2026-06-25T10:42:30.758214+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Touran",
     "y": 2016,
@@ -146295,42 +146335,6 @@
     "mo": "Golf",
     "y": 2015,
     "km": 240000
-  },
-  "as:e3c3382f-fde6-4b66-9b38-f101ff60c40c": {
-    "p": null,
-    "f": "2026-06-17T06:21:30.925519+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1609943371": {
-    "p": 4500,
-    "f": "2026-06-17T06:21:26.411258+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-polo-1-2-1609943371/",
-    "t": "VW Polo 1,2",
-    "ts": "2026-06-17T06:21:26.411258+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Polo",
-    "y": 2014,
-    "km": 144300
-  },
-  "wh:1414701425": {
-    "p": 8300,
-    "f": "2026-06-17T06:21:26.411258+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-captur-1414701425/",
-    "t": "Renault Captur",
-    "ts": "2026-06-17T06:21:26.411258+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2013,
-    "km": 49997
   },
   "__health__": {
     "wh": 0,
