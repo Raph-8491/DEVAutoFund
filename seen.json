@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:d6fb563b-fcd8-42f4-9e26-9d5c6da1884e": {
+    "p": null,
+    "f": "2026-06-25T11:17:27.176590+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:fd840684-a340-45ec-837f-b82ea31208af": {
     "p": null,
     "f": "2026-06-25T11:16:26.356632+00:00",
@@ -308,7 +320,7 @@
     "u": "https://www.autoscout24.at/angebote/volkswagen-polo-1-2-tsi-blue-motion-technology-lounge-benzin-cat_ma74mo2090-9ee9e26c-c990-4432-acb0-1ca4efcc00ca",
     "t": "Volkswagen Polo 1.2 TSI Blue Motion Technology Lounge",
     "ts": "2026-06-25T11:14:26.012228+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Polo",
     "y": 2015,
@@ -146376,18 +146388,6 @@
     "y": 2016,
     "km": 205252,
     "b": "Kombi / Family Van"
-  },
-  "gw:f8206b5f-c283-4375-8934-250d03c5b7c4": {
-    "p": 2550,
-    "f": "2026-06-17T07:17:36.991918+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-116-116d-diesel-weiss-cat_ma13mo18480/f8206b5f-c283-4375-8934-250d03c5b7c4",
-    "t": "BMW 116",
-    "ts": "2026-06-17T07:17:36.991918+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "116",
-    "y": 2010,
-    "km": 320000
   },
   "__health__": {
     "wh": 0,
