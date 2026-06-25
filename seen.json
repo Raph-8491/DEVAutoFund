@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:007aec72-d0ee-4c29-b61b-8d923fdf120f": {
+    "p": 2999,
+    "f": "2026-06-25T14:25:41.280388+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-vivaro-2-0-cdti-l2h1-klima-ahk-sthz-diesel-cat_ma54mo16612-007aec72-d0ee-4c29-b61b-8d923fdf120f",
+    "t": "Opel Vivaro 2.0 CDTI L2H1 KLIMA*AHK*StHz",
+    "ts": "2026-06-25T14:25:41.280388+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Vivaro",
+    "y": 2013,
+    "km": 346789,
+    "b": ""
+  },
   "as:617d6c3f-69b1-4763-8911-3b1c6ef224c0": {
     "p": null,
     "f": "2026-06-25T14:24:30.869135+00:00",
@@ -231,7 +244,7 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-golf-variant-comfortline-1-6-tdi-scr-diesel-silber-cat_ma74mo20340/c294b8b7-b1c2-4429-93c9-9ab77c1e2c67",
     "t": "Volkswagen Golf Variant Comfortline 1,6 TDI SCR",
     "ts": "2026-06-25T14:22:46.341757+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf Variant",
     "y": 2020,
@@ -146661,18 +146674,6 @@
     "mo": "3er-Reihe",
     "y": 2008,
     "km": 258000
-  },
-  "wh:899817028": {
-    "p": 6250,
-    "f": "2026-06-17T10:58:25.231219+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-c4-cactus-1-6-e-hdi92-etg-shine-klima-navi-automatik-kamera-tempomat-selbstparken-899817028/",
-    "t": "Citro\u00ebn C4 Cactus 1,6 e-HDI92 ETG Shine,Klima,Navi,Automatik,Kamera,Tempomat,Selbstparken,...",
-    "ts": "2026-06-17T10:58:25.231219+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 161700
   },
   "__health__": {
     "wh": 0,
