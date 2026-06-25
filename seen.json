@@ -148,6 +148,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:3026eb20-081d-408e-a183-f9e955ffab4a": {
+    "p": 11000,
+    "f": "2026-06-25T14:58:38.900711+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/mercedes-benz-sprinter-313-cdi-bluetec-906-135-diesel-cat_ma47mo15943/3026eb20-081d-408e-a183-f9e955ffab4a",
+    "t": "Mercedes-Benz Sprinter 313 CDI (BlueTec) 906.135",
+    "ts": "2026-06-25T14:58:38.900711+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "Sprinter",
+    "y": 2015,
+    "km": 437000,
+    "b": ""
+  },
+  "as:3026eb20-081d-408e-a183-f9e955ffab4a": {
+    "p": 11000,
+    "f": "2026-06-25T14:58:29.020806+00:00",
+    "u": "https://www.autoscout24.at/angebote/mercedes-benz-sprinter-313-cdi-bluetec-906-135-diesel-cat_ma47mo15943-3026eb20-081d-408e-a183-f9e955ffab4a",
+    "t": "Mercedes-Benz Sprinter 313 CDI (BlueTec) 906.135",
+    "ts": "2026-06-25T14:58:29.020806+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "Sprinter",
+    "y": 2015,
+    "km": 437000,
+    "b": ""
+  },
   "gw:d84cebea-f489-49ba-89af-52a532a866be": {
     "p": 4500,
     "f": "2026-06-25T14:57:39.214204+00:00",
@@ -269,7 +295,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-b7-891083155/",
     "t": "Audi A4 B7",
     "ts": "2026-06-25T14:55:36.735392+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A4",
     "y": 2010,
@@ -146704,31 +146730,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:73a0b2c2-2c29-40b7-8c23-5537345aaa11": {
-    "p": 9850,
-    "f": "2026-06-17T11:47:30.133930+00:00",
-    "u": "https://www.autoscout24.at/angebote/ford-focus-turnier-1-5-ecoblue-start-stopp-system-aut-coolconnect-diesel-cat_ma29mo15537-73a0b2c2-2c29-40b7-8c23-5537345aaa11",
-    "t": "Ford Focus",
-    "ts": "2026-06-17T11:47:30.133930+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Focus",
-    "y": 2019,
-    "km": 169185
-  },
-  "wh:1006355386": {
-    "p": 7900,
-    "f": "2026-06-17T11:47:24.749692+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-sportsvan-1006355386/",
-    "t": "VW Golf SPORTSVAN",
-    "ts": "2026-06-17T11:47:24.749692+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2014,
-    "km": 216000,
-    "b": "Limousine"
   },
   "__health__": {
     "wh": 0,
