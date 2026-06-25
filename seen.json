@@ -148,6 +148,32 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:9e388a80-7a7e-4696-9a14-4b8cf154e10a": {
+    "p": 8990,
+    "f": "2026-06-25T10:56:35.315182+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/seat-leon-leon-fr-1-4-tsi-start-stopp-fr-start-stopp-benzin-rot-cat_ma64mo15869/9e388a80-7a7e-4696-9a14-4b8cf154e10a",
+    "t": "SEAT Leon Leon FR 1,4 TSI Start-Stopp FR Start-Stopp",
+    "ts": "2026-06-25T10:56:35.315182+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2013,
+    "km": 161863,
+    "b": ""
+  },
+  "wh:848399722": {
+    "p": 6000,
+    "f": "2026-06-25T10:56:24.994874+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-500-1-4-848399722/",
+    "t": "Fiat 500 1,4",
+    "ts": "2026-06-25T10:56:24.994874+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2009,
+    "km": 138000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "as:4c8801c0-8ef6-4aaa-92af-43d63f97fd9b": {
     "p": null,
     "f": "2026-06-25T10:55:41.025824+00:00",
@@ -146321,30 +146347,6 @@
     "y": 2013,
     "km": 162104,
     "b": "Sportwagen / Coup\u00e9"
-  },
-  "wh:1453380773": {
-    "p": 7000,
-    "f": "2026-06-17T06:40:42.862776+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-eco-flex-1453380773/",
-    "t": "Opel Astra Eco Flex",
-    "ts": "2026-06-17T06:40:42.862776+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Astra",
-    "y": 2017,
-    "km": 14300
-  },
-  "wh:1322830061": {
-    "p": 3800,
-    "f": "2026-06-17T06:40:42.862776+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-1322830061/",
-    "t": "VW Passat",
-    "ts": "2026-06-17T06:40:42.862776+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2011,
-    "km": 270000
   },
   "__health__": {
     "wh": 0,
