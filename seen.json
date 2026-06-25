@@ -148,6 +148,33 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:e0b35349-2c0f-4d0b-b9a0-2a185d4e27d0": {
+    "p": 9300,
+    "f": "2026-06-25T09:50:53.550276+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/bmw-x1-xdrive18d-navi-xenon-leder-diesel-cat_ma13mo19242/e0b35349-2c0f-4d0b-b9a0-2a185d4e27d0",
+    "t": "BMW X1 xDrive18d Navi Xenon Leder",
+    "ts": "2026-06-25T09:50:53.550276+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X1",
+    "y": 2014,
+    "km": 175000,
+    "b": ""
+  },
+  "as:e0b35349-2c0f-4d0b-b9a0-2a185d4e27d0": {
+    "p": 9300,
+    "f": "2026-06-25T09:50:43.694804+00:00",
+    "u": "https://www.autoscout24.at/angebote/bmw-x1-xdrive18d-navi-xenon-leder-diesel-cat_ma13mo19242-e0b35349-2c0f-4d0b-b9a0-2a185d4e27d0",
+    "t": "BMW X1 xDrive18d Navi Xenon Leder",
+    "ts": "2026-06-25T09:50:43.694804+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X1",
+    "y": 2014,
+    "km": 175000,
+    "b": "",
+    "pu": "2026-06-25T09:50:43.694804+00:00"
+  },
   "wh:1846723375": {
     "p": 1460,
     "f": "2026-06-25T09:49:24.564699+00:00",
@@ -146210,30 +146237,6 @@
     "km": null
   },
   "as:b7e25a7b-4f52-4efa-80dd-432e2e774fe3": {
-    "p": null,
-    "f": "2026-06-17T01:01:52.138051+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:c36a898d-52c3-456d-843f-ffeb4d62e5a9": {
-    "p": 11200,
-    "f": "2026-06-17T01:01:52.138051+00:00",
-    "u": "https://www.autoscout24.at/angebote/volkswagen-golf-gti-2-0-dsg-benzin-cat_ma74mo20342-c36a898d-52c3-456d-843f-ffeb4d62e5a9",
-    "t": "Volkswagen Golf GTI",
-    "ts": "2026-06-17T01:01:52.138051+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf GTI",
-    "y": 2011,
-    "km": 170000
-  },
-  "as:0b9db07c-e122-4863-b289-3d11362df5be": {
     "p": null,
     "f": "2026-06-17T01:01:52.138051+00:00",
     "u": null,
