@@ -147,6 +147,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:b3f11276-9de3-44c5-80eb-a4536193c3c6": {
+    "p": null,
+    "f": "2026-06-25T06:44:26.122964+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:8663f587-e1f3-4d4f-8f5d-d1ead19ecfb4": {
     "p": 9300,
     "f": "2026-06-25T06:43:32.861633+00:00",
@@ -145920,18 +145932,6 @@
     "mo": "Fabia",
     "y": 2008,
     "km": 170300
-  },
-  "gw:766f74b2-ab06-42b4-b71d-e9fa7f54298b": {
-    "p": 1500,
-    "f": "2026-06-16T18:34:51.568854+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/seat-ibiza-st-style-1-6-tdi-cr-dpf-diesel-cat_ma64mo2006/766f74b2-ab06-42b4-b71d-e9fa7f54298b",
-    "t": "SEAT Ibiza",
-    "ts": "2026-06-16T18:34:51.568854+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2011,
-    "km": 255000
   },
   "__health__": {
     "wh": 0,
