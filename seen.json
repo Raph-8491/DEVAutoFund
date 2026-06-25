@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:27fed347-e758-4ad6-94d0-1c4bddd4a6dd": {
+    "p": null,
+    "f": "2026-06-25T10:49:24.571122+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:0312239f-9ca4-4e7d-b26c-3c1654bc7945": {
     "p": 5200,
     "f": "2026-06-25T10:47:22.531908+00:00",
@@ -146325,18 +146337,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:2110887570": {
-    "p": 7500,
-    "f": "2026-06-17T06:23:26.923259+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-vii-1-4-tgi-2110887570/",
-    "t": "(reserviert) VW Golf VII 1,4 TGI",
-    "ts": "2026-06-17T06:23:26.923259+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 146000
   },
   "__health__": {
     "wh": 0,
