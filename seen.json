@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1429679327": {
+    "p": 4250,
+    "f": "2026-06-25T05:48:27.743079+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-e-klasse-e300cdi-w212-avantgard-1429679327/",
+    "t": "Mercedes-Benz E-Klasse E300CDI/W212 Avantgard",
+    "ts": "2026-06-25T05:48:27.743079+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "E-Klasse",
+    "y": 2010,
+    "km": 310000,
+    "b": "Limousine"
+  },
   "as:92629a8a-76af-41a3-b031-5933679051ec": {
     "p": null,
     "f": "2026-06-25T05:47:27.706584+00:00",
@@ -145852,18 +145865,6 @@
     "mo": "Corsa",
     "y": 2020,
     "km": 130000
-  },
-  "as:23475a89-7fe3-4a01-b8c0-d0e91b15618a": {
-    "p": null,
-    "f": "2026-06-16T18:12:45.631583+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
