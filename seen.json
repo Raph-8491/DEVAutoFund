@@ -147,6 +147,58 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1974306052": {
+    "p": 2850,
+    "f": "2026-06-25T07:57:25.815637+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-e-klasse-200cdi-1974306052/",
+    "t": "Mercedes-Benz E-Klasse 200CDI",
+    "ts": "2026-06-25T07:57:25.815637+00:00",
+    "ch": null,
+    "ma": "Mercedes-Benz",
+    "mo": "E-Klasse",
+    "y": 2008,
+    "km": 424127,
+    "b": "Limousine"
+  },
+  "wh:1255076123": {
+    "p": 4000,
+    "f": "2026-06-25T07:57:25.815637+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-grand-scenic-energy-dci-110-limited-1255076123/",
+    "t": "Renault Grand Sc\u00e9nic Energy dCi 110 Limited",
+    "ts": "2026-06-25T07:57:25.815637+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2015,
+    "km": 140000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1538372519": {
+    "p": 5000,
+    "f": "2026-06-25T07:57:25.815637+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/suzuki-swift-automati-1538372519/",
+    "t": "Suzuki Swift Automati",
+    "ts": "2026-06-25T07:57:25.815637+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2010,
+    "km": 1900,
+    "b": "Kombi / Family Van"
+  },
+  "wh:907509694": {
+    "p": 3000,
+    "f": "2026-06-25T07:57:25.815637+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-907509694/",
+    "t": "Ford Galaxy",
+    "ts": "2026-06-25T07:57:25.815637+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 418000,
+    "b": "Kombi / Family Van"
+  },
   "wh:1505243851": {
     "p": 12000,
     "f": "2026-06-25T07:55:33.652931+00:00",
@@ -145990,54 +146042,6 @@
     "mo": null,
     "y": 2011,
     "km": 184250
-  },
-  "wh:1618566723": {
-    "p": 11990,
-    "f": "2026-06-16T19:16:31.937478+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/kia-stonic-1618566723/",
-    "t": "KIA Stonic",
-    "ts": "2026-06-16T19:16:31.937478+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2018,
-    "km": 166000
-  },
-  "wh:1658825056": {
-    "p": 4500,
-    "f": "2026-06-16T19:16:31.937478+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-2-tdi-1658825056/",
-    "t": "VW Golf 2 TDI",
-    "ts": "2026-06-16T19:16:31.937478+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2009,
-    "km": 282674
-  },
-  "as:030cdc5f-b992-4388-98b2-a0acdff526db": {
-    "p": null,
-    "f": "2026-06-16T19:15:53.479089+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:e3cbc456-6d9a-4efb-9807-dbc778879e68": {
-    "p": null,
-    "f": "2026-06-16T19:14:38.687517+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
