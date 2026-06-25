@@ -147,6 +147,57 @@
     "y": 2009,
     "km": 235000
   },
+  "as:a5f4ca14-bdf9-40aa-a213-25551f5eff6b": {
+    "p": null,
+    "f": "2026-06-25T07:05:40.744466+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:2d7a8423-3066-4d7b-a014-4074b184c5d2": {
+    "p": 6900,
+    "f": "2026-06-25T07:05:40.744466+00:00",
+    "u": "https://www.autoscout24.at/angebote/fiat-ducato-diesel-weiss-cat_ma28mo14783-2d7a8423-3066-4d7b-a014-4074b184c5d2",
+    "t": "Fiat Ducato",
+    "ts": "2026-06-25T07:05:40.744466+00:00",
+    "ch": null,
+    "ma": "Fiat",
+    "mo": "Ducato",
+    "y": 2026,
+    "km": 187940,
+    "b": ""
+  },
+  "wh:1906877093": {
+    "p": 9500,
+    "f": "2026-06-25T07:05:39.541041+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-megane-intens-tce-115-pf-erstbesitz-1906877093/",
+    "t": "Renault M\u00e9gane Intens TCe 115 PF - Erstbesitz",
+    "ts": "2026-06-25T07:05:39.541041+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2019,
+    "km": 148000,
+    "b": "Limousine"
+  },
+  "wh:1267108797": {
+    "p": 13200,
+    "f": "2026-06-25T07:05:39.541041+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/honda-cr-v-1267108797/",
+    "t": "Honda CR-V",
+    "ts": "2026-06-25T07:05:39.541041+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 111000,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "gw:2d7a8423-3066-4d7b-a014-4074b184c5d2": {
     "p": 6900,
     "f": "2026-06-25T07:04:38.491056+00:00",
@@ -145914,54 +145965,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1127682752": {
-    "p": 4000,
-    "f": "2026-06-16T18:47:26.845785+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-1-6-1127682752/",
-    "t": "Seat Leon 1,6",
-    "ts": "2026-06-16T18:47:26.845785+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Leon",
-    "y": 2013,
-    "km": 227645
-  },
-  "wh:1067288845": {
-    "p": 4999,
-    "f": "2026-06-16T18:47:26.845785+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/renault-megane-1067288845/",
-    "t": "Renault M\u00e9gane",
-    "ts": "2026-06-16T18:47:26.845785+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2012,
-    "km": 103800
-  },
-  "wh:1904710599": {
-    "p": 10000,
-    "f": "2026-06-16T18:47:26.845785+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-5er-reihe-1904710599/",
-    "t": "BMW 5er-Reihe",
-    "ts": "2026-06-16T18:47:26.845785+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "5er-Reihe",
-    "y": 2013,
-    "km": 403000
-  },
-  "gw:98ae84fd-85ac-4dce-8669-3d0bd2dd746b": {
-    "p": 6000,
-    "f": "2026-06-16T18:46:43.283511+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/peugeot-208-active-1-2-e-vti-82-asg-automatik-benzin-weiss-cat_ma55mo20057/98ae84fd-85ac-4dce-8669-3d0bd2dd746b",
-    "t": "Peugeot 208",
-    "ts": "2026-06-16T18:46:43.283511+00:00",
-    "ch": "alive",
-    "ma": "Peugeot",
-    "mo": "208",
-    "y": 2013,
-    "km": 114000
   },
   "__health__": {
     "wh": 0,
