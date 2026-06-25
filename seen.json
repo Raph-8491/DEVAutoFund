@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:aac01b93-9771-4333-9031-2d87b6c7cbd9": {
+    "p": 3800,
+    "f": "2026-06-25T16:19:34.498524+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/seat-alhambra-alhambra-family-1-9-tdi-pd-family-diesel-silber-cat_ma64mo2003/aac01b93-9771-4333-9031-2d87b6c7cbd9",
+    "t": "SEAT Alhambra Alhambra family 1,9 TDI PD family",
+    "ts": "2026-06-25T16:19:34.498524+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Alhambra",
+    "y": 2009,
+    "km": 285000,
+    "b": ""
+  },
   "gw:b1657476-8e49-4964-b37e-e10d7186c5a4": {
     "p": 11200,
     "f": "2026-06-25T16:18:45.677946+00:00",
@@ -146853,18 +146866,6 @@
     "u": "https://www.gebrauchtwagen.at/fahrzeuge/ford-focus-1-0-ecoboost-trend-benzin-cat_ma29mo15537/6fa74967-02bd-4ead-9e86-3b64f20143e9",
     "t": "Ford Focus",
     "ts": "2026-06-17T13:58:51.312973+00:00",
-    "ch": "alive",
-    "ma": "Ford",
-    "mo": "Focus",
-    "y": 2014,
-    "km": 97980
-  },
-  "as:6fa74967-02bd-4ead-9e86-3b64f20143e9": {
-    "p": 7990,
-    "f": "2026-06-17T13:58:40.738684+00:00",
-    "u": "https://www.autoscout24.at/angebote/ford-focus-1-0-ecoboost-trend-benzin-cat_ma29mo15537-6fa74967-02bd-4ead-9e86-3b64f20143e9",
-    "t": "Ford Focus",
-    "ts": "2026-06-17T13:58:40.738684+00:00",
     "ch": "alive",
     "ma": "Ford",
     "mo": "Focus",
