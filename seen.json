@@ -147,6 +147,73 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1114980570": {
+    "p": 14590,
+    "f": "2026-06-25T06:37:21.668927+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/volvo-v60-d4-inscription-geartronic-1114980570/",
+    "t": "Volvo V60 D4 Inscription Geartronic",
+    "ts": "2026-06-25T06:37:21.668927+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2018,
+    "km": 219000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1103052114": {
+    "p": 14600,
+    "f": "2026-06-25T06:37:21.668927+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-x1-sdrive18d-sport-line-1103052114/",
+    "t": "BMW X1 sDrive18d Sport Line",
+    "ts": "2026-06-25T06:37:21.668927+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "X1",
+    "y": 2016,
+    "km": 175500,
+    "b": "SUV / Gel\u00e4ndewagen",
+    "pu": "2026-06-25T06:37:21.668927+00:00"
+  },
+  "wh:2089718013": {
+    "p": 7500,
+    "f": "2026-06-25T06:37:21.668927+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-2089718013/",
+    "t": "Seat Ibiza",
+    "ts": "2026-06-25T06:37:21.668927+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Ibiza",
+    "y": 2018,
+    "km": 147718,
+    "b": "Limousine"
+  },
+  "wh:1294688726": {
+    "p": 2500,
+    "f": "2026-06-25T06:37:21.668927+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-meriva-1-4-1294688726/",
+    "t": "Opel Meriva 1,4",
+    "ts": "2026-06-25T06:37:21.668927+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Meriva",
+    "y": 2014,
+    "km": 72000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1865318763": {
+    "p": 14000,
+    "f": "2026-06-25T06:37:21.668927+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-vw-golf-7-1-6-tdi-dsg-r-line-indium-grey-1865318763/",
+    "t": "VW Golf VW Golf 7 - 1,6 TDI DSG - R-Line - Indium Grey",
+    "ts": "2026-06-25T06:37:21.668927+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2017,
+    "km": 219050,
+    "b": "Limousine",
+    "pu": "2026-06-25T06:37:21.668927+00:00"
+  },
   "wh:2042027315": {
     "p": 6900,
     "f": "2026-06-25T06:35:30.340014+00:00",
@@ -123237,7 +123304,8 @@
     "ma": "VW",
     "mo": "Golf",
     "y": 2015,
-    "km": 141000
+    "km": 141000,
+    "b": "Kombi / Family Van"
   },
   "as:30c197fe-5264-40cd-81a9-a63cd708400a": {
     "p": 1500,
@@ -145857,66 +145925,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:ad2f0eda-6a5c-4d11-aaff-d65a5bde56b6": {
-    "p": null,
-    "f": "2026-06-16T18:31:48.096476+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1528894344": {
-    "p": 5690,
-    "f": "2026-06-16T18:31:43.550337+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-wv-passat-alltrack-130-kw-1528894344/",
-    "t": "VW Passat wv Passat ALLTRACK 130_kw",
-    "ts": "2026-06-16T18:31:43.550337+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2013,
-    "km": 332000
-  },
-  "wh:1366001867": {
-    "p": 9300,
-    "f": "2026-06-16T18:31:43.550337+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-variant-comfortline-2-0-tdi-1366001867/",
-    "t": "VW Passat Variant Comfortline 2,0 TDI",
-    "ts": "2026-06-23T18:32:33.835814+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2015,
-    "km": 238000
-  },
-  "gw:4858850e-ba1a-4151-8556-3060e6d27ecc": {
-    "p": 2500,
-    "f": "2026-06-16T18:29:37.852300+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/audi-a4-avant-2-0-tdi-dpf-diesel-cat_ma9mo1626/4858850e-ba1a-4151-8556-3060e6d27ecc",
-    "t": "Audi A4",
-    "ts": "2026-06-16T18:29:37.852300+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A4",
-    "y": 2009,
-    "km": 267000
-  },
-  "gw:693aaf2c-7521-40e1-92fb-646ab0f23d37": {
-    "p": 10500,
-    "f": "2026-06-16T18:29:37.852300+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/audi-a5-sb-2-0-tdi-quattro-dpf-diesel-cat_ma9mo19047/693aaf2c-7521-40e1-92fb-646ab0f23d37",
-    "t": "Audi A5",
-    "ts": "2026-06-16T18:29:37.852300+00:00",
-    "ch": "dead",
-    "ma": "Audi",
-    "mo": "A5",
-    "y": 2012,
-    "km": 205000
   },
   "__health__": {
     "wh": 0,
