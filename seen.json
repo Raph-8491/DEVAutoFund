@@ -148,6 +148,31 @@
     "y": 2009,
     "km": 235000
   },
+  "as:a4535251-5c16-4cb2-b637-17df39d783c9": {
+    "p": null,
+    "f": "2026-06-25T12:03:29.142272+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:fafde771-1e04-47ac-af73-268f90f53a09": {
+    "p": 5500,
+    "f": "2026-06-25T12:03:29.142272+00:00",
+    "u": "https://www.autoscout24.at/angebote/smart-fortwo-smart-benzin-weiss-cat_ma15525mo18439-fafde771-1e04-47ac-af73-268f90f53a09",
+    "t": "smart forTwo smart",
+    "ts": "2026-06-25T12:03:29.142272+00:00",
+    "ch": null,
+    "ma": "smart",
+    "mo": "forTwo",
+    "y": 2011,
+    "km": 99800,
+    "b": ""
+  },
   "as:e4300f29-9337-4c51-8cfa-8f09b27c812c": {
     "p": null,
     "f": "2026-06-25T12:02:28.559114+00:00",
@@ -146461,30 +146486,6 @@
     "y": 2009,
     "km": 335000,
     "b": "Limousine"
-  },
-  "wh:1681841246": {
-    "p": 3200,
-    "f": "2026-06-17T08:31:42.864484+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/suzuki-sx4-1681841246/",
-    "t": "Suzuki SX4",
-    "ts": "2026-06-17T08:31:42.864484+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2011,
-    "km": 239000
-  },
-  "gw:d5cd600c-6a8c-4ae8-a0b1-1c704aff028d": {
-    "p": 2900,
-    "f": "2026-06-17T08:29:36.574515+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/citroen-c-crosser-2-4-exclusive-cvt-aut-benzin-cat_ma21mo19054/d5cd600c-6a8c-4ae8-a0b1-1c704aff028d",
-    "t": "Citroen C-Crosser",
-    "ts": "2026-06-17T08:29:36.574515+00:00",
-    "ch": "alive",
-    "ma": "Citroen",
-    "mo": "C-Crosser",
-    "y": 2009,
-    "km": 230000
   },
   "__health__": {
     "wh": 0,
