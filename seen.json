@@ -148,6 +148,33 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:a0787499-8410-4cf6-95f1-bf73a0e4c7a8": {
+    "p": 8200,
+    "f": "2026-06-25T11:51:34.833566+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/volkswagen-golf-rabbit-1-6-tdi-diesel-cat_ma74mo2084/a0787499-8410-4cf6-95f1-bf73a0e4c7a8",
+    "t": "Volkswagen Golf Rabbit 1,6 TDI",
+    "ts": "2026-06-25T11:51:34.833566+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2017,
+    "km": 193000,
+    "b": "",
+    "pu": "2026-06-25T11:51:34.833566+00:00"
+  },
+  "wh:957412903": {
+    "p": 4500,
+    "f": "2026-06-25T11:51:23.517810+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-punto-957412903/",
+    "t": "Fiat Punto",
+    "ts": "2026-06-25T11:51:23.517810+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2011,
+    "km": 138000,
+    "b": "Klein-/ Kompaktwagen"
+  },
   "gw:4a6a7dad-db8b-4d43-bfc8-7075f8eca528": {
     "p": 10490,
     "f": "2026-06-25T11:50:55.437504+00:00",
@@ -244,7 +271,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a1-sb-1-2-tfsi-admired-2014-925393848/",
     "t": "Audi A1 SB 1,2 TFSI Admired 2014",
     "ts": "2026-06-25T11:48:38.215836+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A1",
     "y": 2014,
@@ -146421,30 +146448,6 @@
     "mo": null,
     "y": 2011,
     "km": 195000
-  },
-  "wh:1221923425": {
-    "p": 2490,
-    "f": "2026-06-17T08:04:29.983382+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-reference-1-2-1221923425/",
-    "t": "Seat Ibiza Reference 1,2",
-    "ts": "2026-06-17T08:04:29.983382+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2009,
-    "km": 166259
-  },
-  "wh:1127378708": {
-    "p": 1500,
-    "f": "2026-06-17T08:04:29.983382+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-1-9-tdi-1127378708/",
-    "t": "VW Passat 1.9 TDI",
-    "ts": "2026-06-17T08:04:29.983382+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2009,
-    "km": 500000
   },
   "__health__": {
     "wh": 0,
