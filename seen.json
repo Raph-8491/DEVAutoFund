@@ -148,6 +148,19 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1609968933": {
+    "p": 3500,
+    "f": "2026-06-25T13:53:24.738600+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-galaxy-trend-2-0-tdci-dpf-1609968933/",
+    "t": "Ford Galaxy Trend 2,0 TDCi DPF",
+    "ts": "2026-06-25T13:53:24.738600+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2008,
+    "km": 255000,
+    "b": "Kombi / Family Van"
+  },
   "as:c07df624-9d88-4040-9ce3-eb3040d38522": {
     "p": null,
     "f": "2026-06-25T13:52:34.579786+00:00",
@@ -146623,18 +146636,6 @@
     "mo": "Tiguan",
     "y": 2010,
     "km": 165000
-  },
-  "wh:1929677951": {
-    "p": 9500,
-    "f": "2026-06-17T10:22:29.300115+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-e90-316d-frisch-pickerl-zweitbesitz-facelift-1929677951/",
-    "t": "BMW 3er-Reihe E90 316d *Frisch Pickerl* *Zweitbesitz* *Facelift*",
-    "ts": "2026-06-17T10:22:29.300115+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2011,
-    "km": 170000
   },
   "__health__": {
     "wh": 0,
