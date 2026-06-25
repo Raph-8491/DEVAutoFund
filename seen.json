@@ -148,6 +148,47 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1001448589": {
+    "p": 14000,
+    "f": "2026-06-25T09:32:28.571472+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-q3-2-0-tdi-4-quattro-1001448589/",
+    "t": "Audi Q3 2.0 TDI, 4 Quattro",
+    "ts": "2026-06-25T09:32:28.571472+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "Q3",
+    "y": 2012,
+    "km": 131000,
+    "b": "SUV / Gel\u00e4ndewagen",
+    "pu": "2026-06-25T09:32:28.571472+00:00"
+  },
+  "wh:1268777134": {
+    "p": 4390,
+    "f": "2026-06-25T09:32:28.571472+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1268777134/",
+    "t": "VW Golf",
+    "ts": "2026-06-25T09:32:28.571472+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Golf",
+    "y": 2009,
+    "km": 178000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T09:32:28.571472+00:00"
+  },
+  "wh:920974104": {
+    "p": 12700,
+    "f": "2026-06-25T09:32:28.571472+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-920974104/",
+    "t": "Skoda Octavia",
+    "ts": "2026-06-25T09:32:28.571472+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Octavia",
+    "y": 2017,
+    "km": 78000,
+    "b": "Kombi / Family Van"
+  },
   "as:0a994ec7-845a-45c9-8568-e47b817f6283": {
     "p": null,
     "f": "2026-06-25T09:31:25.723559+00:00",
@@ -405,11 +446,11 @@
     "b": "Kombi / Family Van"
   },
   "wh:1772704903": {
-    "p": 9000,
+    "p": 8700,
     "f": "2026-06-25T09:17:24.672547+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/toyota-yaris-1-0-vwt-i-edition-45-1772704903/",
     "t": "Toyota Yaris 1.0 VWT-i Edition 45",
-    "ts": "2026-06-25T09:17:24.672547+00:00",
+    "ts": "2026-06-25T09:32:28.571472+00:00",
     "ch": null,
     "ma": "Toyota",
     "mo": "Yaris",
@@ -124135,16 +124176,18 @@
     "km": 215462
   },
   "wh:1890415807": {
-    "p": 5500,
+    "p": 4850,
     "f": "2026-06-18T09:33:34.687402+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-6-plus-1-4i-neues-zahnriemen-pickerl-bis-02-2027-1890415807/",
     "t": "VW Golf 6 Plus 1.4i Neues Zahnriemen Pickerl bis 02.2027",
-    "ts": "2026-06-18T09:33:34.687402+00:00",
-    "ch": "alive",
+    "ts": "2026-06-25T09:32:28.571472+00:00",
+    "ch": null,
     "ma": "VW",
     "mo": "Golf",
     "y": 2011,
-    "km": 75000
+    "km": 75000,
+    "b": "Klein-/ Kompaktwagen",
+    "pu": "2026-06-25T09:32:28.571472+00:00"
   },
   "wh:1406295974": {
     "p": 3800,
@@ -146166,42 +146209,6 @@
     "mo": "Verso",
     "y": 2015,
     "km": 123300
-  },
-  "wh:1909310346": {
-    "p": 6900,
-    "f": "2026-06-16T21:42:33.565157+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-q5-2-0tdi-quattro-automatik-xenon-navi-1909310346/",
-    "t": "Audi Q5 2.0tdi Quattro *Automatik* Xenon , Navi",
-    "ts": "2026-06-16T21:42:33.565157+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "Q5",
-    "y": 2012,
-    "km": 300000
-  },
-  "wh:1987494604": {
-    "p": 8800,
-    "f": "2026-06-16T21:39:36.584030+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-vito-1987494604/",
-    "t": "Mercedes-Benz Vito",
-    "ts": "2026-06-16T21:39:36.584030+00:00",
-    "ch": "alive",
-    "ma": "Mercedes-Benz",
-    "mo": "Vito",
-    "y": 2012,
-    "km": 287756
-  },
-  "wh:1531435877": {
-    "p": 5500,
-    "f": "2026-06-16T21:39:36.584030+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-sandero-stepway-laureate-1531435877/",
-    "t": "Dacia Sandero || Stepway Laur\u00e9ate",
-    "ts": "2026-06-16T21:39:36.584030+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 32000
   },
   "__health__": {
     "wh": 0,
