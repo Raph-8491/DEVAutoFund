@@ -147,6 +147,30 @@
     "y": 2009,
     "km": 235000
   },
+  "as:32c5e36c-c5a8-41f7-8ced-151788d15b16": {
+    "p": null,
+    "f": "2026-06-25T06:19:30.017883+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "as:d00e5662-66dd-4d47-ada8-7ff1cbb3feaa": {
+    "p": null,
+    "f": "2026-06-25T06:19:30.017883+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:eb457b95-7629-482a-83f5-79dac7f83d23": {
     "p": 6200,
     "f": "2026-06-25T06:18:42.600837+00:00",
@@ -145877,30 +145901,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "as:94106a0d-6224-43ad-a23c-fd2a219cd60e": {
-    "p": 11400,
-    "f": "2026-06-16T18:24:30.553974+00:00",
-    "u": "https://www.autoscout24.at/angebote/opel-corsa-edition-benzin-weiss-cat_ma54mo1918-94106a0d-6224-43ad-a23c-fd2a219cd60e",
-    "t": "Opel Corsa",
-    "ts": "2026-06-16T18:24:30.553974+00:00",
-    "ch": "alive",
-    "ma": "Opel",
-    "mo": "Corsa",
-    "y": 2020,
-    "km": 75235
-  },
-  "as:71ad9a76-2b7e-4aba-b3fe-af9771a987e5": {
-    "p": 12000,
-    "f": "2026-06-16T18:24:30.553974+00:00",
-    "u": "https://www.autoscout24.at/angebote/mini-cooper-sd-countryman-mini-cooper-sd-countryman-all4-park-lane-chili-diesel-rot-cat_ma16338mo20010-71ad9a76-2b7e-4aba-b3fe-af9771a987e5",
-    "t": "MINI Cooper SD Countryman",
-    "ts": "2026-06-16T18:24:30.553974+00:00",
-    "ch": "alive",
-    "ma": "MINI",
-    "mo": "Cooper SD Countryman",
-    "y": 2016,
-    "km": 125000
   },
   "__health__": {
     "wh": 0,
