@@ -147,6 +147,46 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1846578031": {
+    "p": 5990,
+    "f": "2026-06-25T08:33:39.116179+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-touareg-1846578031/",
+    "t": "VW Touareg",
+    "ts": "2026-06-25T08:33:39.116179+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Touareg",
+    "y": 2008,
+    "km": 299700,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
+  "wh:2121728702": {
+    "p": 12200,
+    "f": "2026-06-25T08:33:39.116179+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-astra-sports-tourer-2121728702/",
+    "t": "Opel Astra SPORTS TOURER+",
+    "ts": "2026-06-25T08:33:39.116179+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Astra",
+    "y": 2021,
+    "km": 51300,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1353498810": {
+    "p": 2800,
+    "f": "2026-06-25T08:33:39.116179+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-318d-1353498810/",
+    "t": "BMW 3er-Reihe 318d",
+    "ts": "2026-06-25T08:33:39.116179+00:00",
+    "ch": null,
+    "ma": "BMW",
+    "mo": "3er-Reihe",
+    "y": 2010,
+    "km": 280000,
+    "b": "Limousine",
+    "pu": "2026-06-25T08:33:39.116179+00:00"
+  },
   "as:069a14a5-87b2-4b9c-be94-b80a6709127e": {
     "p": null,
     "f": "2026-06-25T08:31:37.648437+00:00",
@@ -146068,43 +146108,6 @@
     "mo": "Ceed / cee'd",
     "y": 2008,
     "km": 200000
-  },
-  "as:bc5de2d2-bf65-47a0-93a8-d52d6d25719d": {
-    "p": 2000,
-    "f": "2026-06-16T19:53:37.158968+00:00",
-    "u": "https://www.autoscout24.at/angebote/kia-ceed-cee-d-1-4-cvvt-ex-benzin-cat_ma39mo18923-bc5de2d2-bf65-47a0-93a8-d52d6d25719d",
-    "t": "Kia Ceed / cee'd",
-    "ts": "2026-06-16T19:53:37.158968+00:00",
-    "ch": "alive",
-    "ma": "Kia",
-    "mo": "Ceed / cee'd",
-    "y": 2008,
-    "km": 200000
-  },
-  "wh:2069827704": {
-    "p": 4190,
-    "f": "2026-06-16T19:53:33.196954+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-passat-alltrack-2069827704/",
-    "t": "VW Passat Alltrack",
-    "ts": "2026-06-16T19:53:33.196954+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Passat",
-    "y": 2012,
-    "km": 169000
-  },
-  "wh:1469608244": {
-    "p": 11900,
-    "f": "2026-06-16T19:53:33.196954+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-1-6-tdi-dsg-sound-ahk-navi-acc-kurvenlicht-acc-1469608244/",
-    "t": "VW Golf 1,6 TDI DSG Sound AHK*Navi*ACC*Kurvenlicht*ACC",
-    "ts": "2026-06-16T19:53:33.196954+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Golf",
-    "y": 2017,
-    "km": 126950,
-    "b": "Kombi / Family Van"
   },
   "__health__": {
     "wh": 0,
