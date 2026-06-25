@@ -147,6 +147,44 @@
     "y": 2009,
     "km": 235000
   },
+  "as:99636345-9296-4b0c-8223-7f6402c347ed": {
+    "p": null,
+    "f": "2026-06-25T04:47:22.654291+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1822943844": {
+    "p": 5700,
+    "f": "2026-06-25T04:47:21.709789+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-logan-1-5-dci-stepwey-1822943844/",
+    "t": "Dacia Logan 1.5 dci Stepwey",
+    "ts": "2026-06-25T04:47:21.709789+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2019,
+    "km": 213000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:2108993224": {
+    "p": 5000,
+    "f": "2026-06-25T04:47:21.709789+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/citroen-ds3-2108993224/",
+    "t": "Citro\u00ebn DS3",
+    "ts": "2026-06-25T04:47:21.709789+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 165000,
+    "b": "Limousine"
+  },
   "as:3e6bee2f-74f0-4849-9681-7c76178579a5": {
     "p": null,
     "f": "2026-06-25T04:45:39.934805+00:00",
@@ -145776,42 +145814,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:1693714149": {
-    "p": 7500,
-    "f": "2026-06-16T17:51:30.675348+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-ibiza-1-0-reference-1693714149/",
-    "t": "Seat Ibiza 1,0 Reference",
-    "ts": "2026-06-16T17:51:30.675348+00:00",
-    "ch": "alive",
-    "ma": "Seat",
-    "mo": "Ibiza",
-    "y": 2017,
-    "km": 148000
-  },
-  "wh:1000130865": {
-    "p": 8500,
-    "f": "2026-06-16T17:51:30.675348+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/skoda-octavia-2-0-tdi-1000130865/",
-    "t": "Skoda Octavia 2.0 TDI",
-    "ts": "2026-06-16T17:51:30.675348+00:00",
-    "ch": "alive",
-    "ma": "Skoda",
-    "mo": "Octavia",
-    "y": 2013,
-    "km": 231236
-  },
-  "wh:792645020": {
-    "p": 8200,
-    "f": "2026-06-16T17:51:30.675348+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-3er-reihe-792645020/",
-    "t": "BMW 3er-Reihe",
-    "ts": "2026-06-16T17:51:30.675348+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "3er-Reihe",
-    "y": 2012,
-    "km": 236000
   },
   "__health__": {
     "wh": 0,
