@@ -148,6 +148,58 @@
     "y": 2009,
     "km": 235000
   },
+  "as:a99f1a1b-f4aa-4e65-9ab5-20518f48a50c": {
+    "p": 6590,
+    "f": "2026-06-25T14:43:34.179726+00:00",
+    "u": "https://www.autoscout24.at/angebote/opel-astra-astra-1-6-d-cdti-sports-tourer-business-diesel-silber-cat_ma54mo1916-a99f1a1b-f4aa-4e65-9ab5-20518f48a50c",
+    "t": "Opel Astra Astra 1.6 D (CDTI) Sports Tourer Business",
+    "ts": "2026-06-25T14:43:34.179726+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Astra",
+    "y": 2017,
+    "km": 105500,
+    "b": ""
+  },
+  "wh:1727462380": {
+    "p": 13500,
+    "f": "2026-06-25T14:43:32.393174+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/lancia-voyager-2-8-crd-gold-1727462380/",
+    "t": "Lancia Voyager 2,8 CRD Gold",
+    "ts": "2026-06-25T14:43:32.393174+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2013,
+    "km": 134000,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1257800457": {
+    "p": 9999,
+    "f": "2026-06-25T14:43:32.393174+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/seat-leon-st-1257800457/",
+    "t": "Seat Leon ST",
+    "ts": "2026-06-25T14:43:32.393174+00:00",
+    "ch": null,
+    "ma": "Seat",
+    "mo": "Leon",
+    "y": 2016,
+    "km": 140811,
+    "b": "Kombi / Family Van"
+  },
+  "wh:1210641990": {
+    "p": 7999,
+    "f": "2026-06-25T14:43:32.393174+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/opel-insignia-1-6cdti-1210641990/",
+    "t": "Opel Insignia 1,6cdti",
+    "ts": "2026-06-25T14:43:32.393174+00:00",
+    "ch": null,
+    "ma": "Opel",
+    "mo": "Insignia",
+    "y": 2017,
+    "km": 228000,
+    "b": "Kombi / Family Van"
+  },
   "as:d5486683-bcb9-44d5-ac4f-8a7e2d91a9ae": {
     "p": null,
     "f": "2026-06-25T14:42:28.093486+00:00",
@@ -205,7 +257,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-tdi-2-0-r-line-1892811201/",
     "t": "VW Golf Tdi 2.0 R line",
     "ts": "2026-06-25T14:40:46.371717+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2015,
@@ -125805,7 +125857,8 @@
     "ma": "Audi",
     "mo": "A6",
     "y": 2012,
-    "km": 370000
+    "km": 370000,
+    "b": "Kombi / Family Van"
   },
   "wh:1908762618": {
     "p": 10000,
@@ -146649,55 +146702,6 @@
     "mo": "Q3",
     "y": 2013,
     "km": 163000
-  },
-  "as:de360878-1747-4133-9c82-32c3d6dae04b": {
-    "p": null,
-    "f": "2026-06-17T11:16:34.144110+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:b19f7d75-f861-4fcc-9456-c2324dbdf91c": {
-    "p": null,
-    "f": "2026-06-17T11:16:34.144110+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1363787145": {
-    "p": 4450,
-    "f": "2026-06-17T11:16:32.196750+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/mercedes-benz-cls-klasse-350-cgi-1363787145/",
-    "t": "Mercedes-Benz CLS-Klasse 350 cgi",
-    "ts": "2026-06-24T11:12:25.383983+00:00",
-    "ch": null,
-    "ma": "Mercedes-Benz",
-    "mo": "CLS-Klasse",
-    "y": 2008,
-    "km": 257736,
-    "b": "Limousine"
-  },
-  "as:3a7545e2-6964-4996-bde2-11ac256d7ef8": {
-    "p": null,
-    "f": "2026-06-17T11:15:45.821999+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
