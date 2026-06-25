@@ -147,6 +147,47 @@
     "y": 2009,
     "km": 235000
   },
+  "wh:1520044666": {
+    "p": 14100,
+    "f": "2026-06-25T07:34:27.386850+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-avant-40-tdi-s-line-s-tronic-1520044666/",
+    "t": "Audi A4 Avant 40 TDI S-line S-tronic",
+    "ts": "2026-06-25T07:34:27.386850+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2018,
+    "km": 245500,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T07:34:27.386850+00:00"
+  },
+  "wh:1986183015": {
+    "p": 7990,
+    "f": "2026-06-25T07:34:27.386850+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-eos-1-4-l-1986183015/",
+    "t": "VW Eos 1,4 L",
+    "ts": "2026-06-25T07:34:27.386850+00:00",
+    "ch": null,
+    "ma": "VW",
+    "mo": "Eos",
+    "y": 2009,
+    "km": 83000,
+    "b": "Cabrio / Roadster",
+    "pu": "2026-06-25T07:34:27.386850+00:00"
+  },
+  "wh:842309719": {
+    "p": 14990,
+    "f": "2026-06-25T07:34:27.386850+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/hyundai-tucson-1-7crdi-842309719/",
+    "t": "Hyundai Tucson 1,7CRDI",
+    "ts": "2026-06-25T07:34:27.386850+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2017,
+    "km": 73800,
+    "b": "SUV / Gel\u00e4ndewagen"
+  },
   "wh:2128103459": {
     "p": 14000,
     "f": "2026-06-25T07:30:52.418436+00:00",
@@ -105679,16 +105720,17 @@
     "km": 250000
   },
   "wh:1538178948": {
-    "p": 4900,
+    "p": 4300,
     "f": "2026-06-19T09:35:37.740005+00:00",
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-s-max-titanium-2-0-tdci-1538178948/",
     "t": "Ford S-MAX Titanium 2,0 TDCI",
-    "ts": "2026-06-19T09:35:37.740005+00:00",
-    "ch": "alive",
+    "ts": "2026-06-25T07:34:27.386850+00:00",
+    "ch": null,
     "ma": null,
     "mo": null,
     "y": 2010,
-    "km": 282000
+    "km": 282000,
+    "b": "Kombi / Family Van"
   },
   "wh:1331223113": {
     "p": 1800,
@@ -145970,42 +146012,6 @@
     "mo": "Ibiza",
     "y": 2012,
     "km": 181000
-  },
-  "wh:1958741570": {
-    "p": 10000,
-    "f": "2026-06-16T19:02:37.570944+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/fiat-500c-eco-1-2-69-lounge-1958741570/",
-    "t": "Fiat 500C ECO 1,2 69 Lounge",
-    "ts": "2026-06-16T19:02:37.570944+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2016,
-    "km": 83484
-  },
-  "as:b8184708-818a-4083-ae15-426f24425b69": {
-    "p": null,
-    "f": "2026-06-16T19:01:47.412903+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "as:86329943-7eca-4402-88c1-6c3f6627acf2": {
-    "p": null,
-    "f": "2026-06-16T19:01:47.412903+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
