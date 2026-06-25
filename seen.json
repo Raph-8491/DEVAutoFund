@@ -148,6 +148,45 @@
     "y": 2009,
     "km": 235000
   },
+  "as:c4a96870-067b-42c6-a8ed-a5964fae11d6": {
+    "p": null,
+    "f": "2026-06-25T13:42:32.358128+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
+  "wh:1307743456": {
+    "p": 14990,
+    "f": "2026-06-25T13:42:30.505570+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-avant-2-0-tdi-1307743456/",
+    "t": "Audi A4 Avant 2,0 TDI",
+    "ts": "2026-06-25T13:42:30.505570+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2015,
+    "km": 160000,
+    "b": "Kombi / Family Van",
+    "pu": "2026-06-25T13:42:30.505570+00:00"
+  },
+  "wh:1746460886": {
+    "p": 3000,
+    "f": "2026-06-25T13:42:30.505570+00:00",
+    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/dacia-logan-neues-pickerl-bis-2027-1746460886/",
+    "t": "Dacia Logan Neues Pickerl bis 2027",
+    "ts": "2026-06-25T13:42:30.505570+00:00",
+    "ch": null,
+    "ma": null,
+    "mo": null,
+    "y": 2012,
+    "km": 225000,
+    "b": "Kombi / Family Van"
+  },
   "as:8913e3c2-044e-4bd9-9d8b-c3ed1e398978": {
     "p": null,
     "f": "2026-06-25T13:41:33.310720+00:00",
@@ -125820,7 +125859,8 @@
     "ma": null,
     "mo": null,
     "y": 2014,
-    "km": 170000
+    "km": 170000,
+    "b": "Kombi / Family Van"
   },
   "gw:ac440154-84c1-4d7e-b461-2802087dfdb3": {
     "p": 9500,
@@ -146584,42 +146624,6 @@
     "mo": null,
     "y": 2010,
     "km": 199218
-  },
-  "wh:1055887997": {
-    "p": 5000,
-    "f": "2026-06-17T10:14:32.875813+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-tiguan-2-0-tdi-automatik-allrad-4x4-fix-preis-1055887997/",
-    "t": "VW Tiguan 2.0 TDI Automatik Allrad 4x4 FIX PREIS!!!",
-    "ts": "2026-06-17T10:14:32.875813+00:00",
-    "ch": "alive",
-    "ma": "VW",
-    "mo": "Tiguan",
-    "y": 2009,
-    "km": 129000
-  },
-  "as:f21b74c3-9067-4236-965e-35daa3190714": {
-    "p": null,
-    "f": "2026-06-17T10:12:34.930069+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
-  },
-  "wh:1548685299": {
-    "p": 10500,
-    "f": "2026-06-17T10:12:29.733443+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-q3-quattro-2l-diesel-1548685299/",
-    "t": "Audi Q3 Quattro 2l Diesel",
-    "ts": "2026-06-17T10:12:29.733443+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "Q3",
-    "y": 2012,
-    "km": 248923
   },
   "__health__": {
     "wh": 0,
