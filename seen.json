@@ -148,6 +148,18 @@
     "y": 2009,
     "km": 235000
   },
+  "as:06ff187f-c480-4fae-99db-903d3c19053c": {
+    "p": null,
+    "f": "2026-06-25T16:32:30.776653+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "as:b599ead3-5ab7-4d52-b951-fe0baa519163": {
     "p": 10500,
     "f": "2026-06-25T16:30:51.628466+00:00",
@@ -219,7 +231,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/vw-golf-2-0-tdi-1143771712/",
     "t": "VW Golf 2.0 TDI",
     "ts": "2026-06-25T16:29:24.159474+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "VW",
     "mo": "Golf",
     "y": 2015,
@@ -233,7 +245,7 @@
     "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-a4-1-8-tfsi-jubilaeum-wenig-kilometer-1506447610/",
     "t": "Audi A4 1,8 TFSI Jubil\u00e4um. wenig Kilometer",
     "ts": "2026-06-25T16:29:24.159474+00:00",
-    "ch": null,
+    "ch": "alive",
     "ma": "Audi",
     "mo": "A4",
     "y": 2010,
@@ -146885,18 +146897,6 @@
     "mo": null,
     "y": 2009,
     "km": 159000
-  },
-  "as:74b58615-82b2-4196-a412-2df26cf6e782": {
-    "p": null,
-    "f": "2026-06-17T14:14:32.910826+00:00",
-    "u": null,
-    "t": null,
-    "ts": null,
-    "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
   },
   "__health__": {
     "wh": 0,
