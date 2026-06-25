@@ -147,6 +147,19 @@
     "y": 2009,
     "km": 235000
   },
+  "as:780ea5b0-1c61-467b-a189-e4c4fb08581c": {
+    "p": 2000,
+    "f": "2026-06-25T08:55:38.950976+00:00",
+    "u": "https://www.autoscout24.at/angebote/renault-scenic-scenic-tce-130-dynamique-benzin-cat_ma60mo14786-780ea5b0-1c61-467b-a189-e4c4fb08581c",
+    "t": "Renault Scenic Scenic TCe 130 Dynamique",
+    "ts": "2026-06-25T08:55:38.950976+00:00",
+    "ch": null,
+    "ma": "Renault",
+    "mo": "Scenic",
+    "y": 2010,
+    "km": 170000,
+    "b": ""
+  },
   "as:fe449331-0c4b-48bb-8a11-b93995b38cd5": {
     "p": null,
     "f": "2026-06-25T08:54:36.906312+00:00",
@@ -410,10 +423,10 @@
     "t": null,
     "ts": null,
     "ch": "skip",
-    "ma": null,
-    "mo": null,
-    "y": null,
-    "km": null
+    "ma": "Audi",
+    "mo": "A3",
+    "y": 2015,
+    "km": 196000
   },
   "as:87e17ff8-2f1d-4f99-8a91-0d10b3bf9c7f": {
     "p": null,
@@ -146135,18 +146148,6 @@
     "mo": "Arona",
     "y": 2018,
     "km": 95500
-  },
-  "gw:f2ae4aaf-19fb-4de9-bb0a-da0b70977f81": {
-    "p": 9600,
-    "f": "2026-06-16T20:24:52.297999+00:00",
-    "u": "https://www.gebrauchtwagen.at/fahrzeuge/audi-a5-sb-3-0-tdi-dpf-diesel-cat_ma9mo19047/f2ae4aaf-19fb-4de9-bb0a-da0b70977f81",
-    "t": "Audi A5",
-    "ts": "2026-06-16T20:24:52.297999+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "A5",
-    "y": 2013,
-    "km": 331000
   },
   "__health__": {
     "wh": 0,
