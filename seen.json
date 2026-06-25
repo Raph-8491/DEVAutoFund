@@ -148,6 +148,57 @@
     "y": 2009,
     "km": 235000
   },
+  "gw:d53b4168-7812-45a6-baf6-244d13e51a1d": {
+    "p": 4500,
+    "f": "2026-06-25T12:01:11.157630+00:00",
+    "u": "https://www.gebrauchtwagen.at/fahrzeuge/audi-a4-avant-2-0-tdi-dpf-diesel-cat_ma9mo1626/d53b4168-7812-45a6-baf6-244d13e51a1d",
+    "t": "Audi A4 Avant 2,0 TDI DPF",
+    "ts": "2026-06-25T12:01:11.157630+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2008,
+    "km": 320000,
+    "b": ""
+  },
+  "as:d53b4168-7812-45a6-baf6-244d13e51a1d": {
+    "p": 4500,
+    "f": "2026-06-25T12:01:04.783730+00:00",
+    "u": "https://www.autoscout24.at/angebote/audi-a4-avant-2-0-tdi-dpf-diesel-cat_ma9mo1626-d53b4168-7812-45a6-baf6-244d13e51a1d",
+    "t": "Audi A4 Avant 2,0 TDI DPF",
+    "ts": "2026-06-25T12:01:04.783730+00:00",
+    "ch": null,
+    "ma": "Audi",
+    "mo": "A4",
+    "y": 2008,
+    "km": 320000,
+    "b": ""
+  },
+  "as:ee0e8c56-c419-4202-a81b-7d143031a985": {
+    "p": 1499,
+    "f": "2026-06-25T12:01:04.783730+00:00",
+    "u": "https://www.autoscout24.at/angebote/skoda-octavia-combi-2-0-tdi-dpf-scout-4x4-klima-ahk-tuev-neu-diesel-cat_ma65mo15222-ee0e8c56-c419-4202-a81b-7d143031a985",
+    "t": "Skoda Octavia Combi 2.0 TDI DPF Scout 4x4 *KLIMA*AHK*T\u00dcV Neu*",
+    "ts": "2026-06-25T12:01:04.783730+00:00",
+    "ch": null,
+    "ma": "Skoda",
+    "mo": "Octavia",
+    "y": 2010,
+    "km": 565000,
+    "b": ""
+  },
+  "as:d509b492-df1e-4993-b069-cf916dbf4051": {
+    "p": null,
+    "f": "2026-06-25T12:01:04.783730+00:00",
+    "u": null,
+    "t": null,
+    "ts": null,
+    "ch": "skip",
+    "ma": null,
+    "mo": null,
+    "y": null,
+    "km": null
+  },
   "gw:b34bae34-6020-4ab9-8ca4-4025e1268d8e": {
     "p": 1900,
     "f": "2026-06-25T11:59:34.306472+00:00",
@@ -146429,55 +146480,6 @@
     "mo": null,
     "y": null,
     "km": null
-  },
-  "wh:957418276": {
-    "p": 8000,
-    "f": "2026-06-17T08:18:40.207480+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/audi-q5-2-0-tdi-quattro-957418276/",
-    "t": "Audi Q5 2.0 TDI quattro",
-    "ts": "2026-06-17T08:18:40.207480+00:00",
-    "ch": "alive",
-    "ma": "Audi",
-    "mo": "Q5",
-    "y": 2009,
-    "km": 261000
-  },
-  "wh:1511506854": {
-    "p": 6900,
-    "f": "2026-06-17T08:18:40.207480+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/jeep-renegade-1-6-longitude-1511506854/",
-    "t": "Jeep Renegade 1.6 Longitude",
-    "ts": "2026-06-17T08:18:40.207480+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2014,
-    "km": 146100,
-    "b": "SUV / Gel\u00e4ndewagen"
-  },
-  "wh:1001636070": {
-    "p": 2000,
-    "f": "2026-06-17T08:18:40.207480+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/ford-fiesta-titan-1-4-tdci-1001636070/",
-    "t": "Ford Fiesta TITAN 1.4 TDCI",
-    "ts": "2026-06-17T08:24:32.235272+00:00",
-    "ch": "alive",
-    "ma": null,
-    "mo": null,
-    "y": 2009,
-    "km": 246000
-  },
-  "wh:2138817982": {
-    "p": 4500,
-    "f": "2026-06-17T08:17:34.746378+00:00",
-    "u": "https://www.willhaben.at/iad/gebrauchtwagen/d/auto/bmw-1er-reihe-118d-2138817982/",
-    "t": "BMW 1er-Reihe 118d",
-    "ts": "2026-06-17T08:17:34.746378+00:00",
-    "ch": "alive",
-    "ma": "BMW",
-    "mo": "1er-Reihe",
-    "y": 2011,
-    "km": 260000
   },
   "__health__": {
     "wh": 0,
